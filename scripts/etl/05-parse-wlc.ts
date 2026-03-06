@@ -1,7 +1,7 @@
 import path from 'node:path';
 import { readFile } from 'node:fs/promises';
 import { writeJsonFile } from '../lib/io';
-import type { CanonicalVerse } from '../lib/types';
+import type { TokenizedVerse, WordToken } from '../lib/types';
 
 const ROOT = path.resolve(import.meta.dirname, '../..');
 const inputFile = path.join(ROOT, 'scripts/raw/wlc.xml');
@@ -19,7 +19,7 @@ function decodeEntities(text: string): string {
 async function main() {
   const xml = await readFile(inputFile, 'utf8');
   const verseRegex = /<verse\s+osisID="([A-Za-z0-9]+)\.(\d+)\.(\d+)"[^>]*>([\s\S]*?)<\/verse>/g;
-  const out: CanonicalVerse[] = [];
+  const out: TokenizedVerse[] = [];
 
   const osisToBook = new Map<string, number>([
     ['Gen', 1], ['Exod', 2], ['Lev', 3], ['Num', 4], ['Deut', 5], ['Josh', 6], ['Judg', 7], ['Ruth', 8],
@@ -36,12 +36,26 @@ async function main() {
     const bookId = osisToBook.get(osisBook);
     if (!bookId) continue;
 
-    const clean = decodeEntities(body.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim());
+    const tokens: WordToken[] = [];
+    const wordRegex = /<w\b([^>]*)>([\s\S]*?)<\/w>/g;
+    let wordMatch: RegExpExecArray | null;
+
+    while ((wordMatch = wordRegex.exec(body)) !== null) {
+      const attrs = wordMatch[1] ?? '';
+      const rawWord = decodeEntities((wordMatch[2] ?? '').replace(/<[^>]+>/g, '').trim());
+      if (!rawWord) continue;
+
+      const morphMatch = attrs.match(/\bmorph="([^"]+)"/);
+      const token: WordToken = { w: rawWord.replace(/\//g, '') };
+      if (morphMatch?.[1]) token.morph = morphMatch[1];
+      tokens.push(token);
+    }
+
     out.push({
       bookId,
       chapter: Number(chapterRaw),
       verse: Number(verseRaw),
-      text: clean
+      tokens
     });
   }
 

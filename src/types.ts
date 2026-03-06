@@ -14,13 +14,19 @@ export interface BookIndex {
   books: BookMeta[];
 }
 
+export interface WordToken {
+  w: string;
+  morph?: string;
+  gloss?: string;
+}
+
 export interface VerseData {
   v: number;
   zh: string;
   en: string;
   notes?: string[];
-  gr?: string;
-  he?: string;
+  gr?: WordToken[];
+  he?: WordToken[];
 }
 
 export interface ChapterData {

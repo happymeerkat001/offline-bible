@@ -4,3 +4,16 @@ export interface CanonicalVerse {
   verse: number;
   text: string;
 }
+
+export interface WordToken {
+  w: string;
+  morph?: string;
+  gloss?: string;
+}
+
+export interface TokenizedVerse {
+  bookId: number;
+  chapter: number;
+  verse: number;
+  tokens: WordToken[];
+}

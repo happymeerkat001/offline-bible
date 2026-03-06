@@ -17,8 +17,30 @@
           "zh": { "type": "string" },
           "en": { "type": "string" },
           "notes": { "type": "array", "items": { "type": "string" } },
-          "gr": { "type": "string" },
-          "he": { "type": "string" }
+          "gr": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["w"],
+              "properties": {
+                "w": { "type": "string" },
+                "morph": { "type": "string" },
+                "gloss": { "type": "string" }
+              }
+            }
+          },
+          "he": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["w"],
+              "properties": {
+                "w": { "type": "string" },
+                "morph": { "type": "string" },
+                "gloss": { "type": "string" }
+              }
+            }
+          }
         },
         "allOf": [
           {
