@@ -1,6 +1,6 @@
 import type { BookIndex, ChapterData } from '../types';
 
-const DATA_BASE = '/data';
+const DATA_BASE = import.meta.env.BASE_URL + 'data';
 
 export class FetchError extends Error {
   status?: number;
