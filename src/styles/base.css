@@ -1,0 +1,50 @@
+:root {
+  --bg: #f6f5ef;
+  --fg: #181818;
+  --muted: #555;
+  --surface: #fff;
+  --accent: #124f8c;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  background: var(--surface);
+  border-bottom: 1px solid #ddd;
+  padding: 0.75rem 1rem;
+}
+
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+}
+
+.skip-link:focus {
+  left: 1rem;
+  top: 1rem;
+  background: #fff;
+  padding: 0.5rem;
+}
+
+.update-toast {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+}

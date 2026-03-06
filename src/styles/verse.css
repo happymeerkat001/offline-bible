@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Gentium Plus Subset';
+  src: url('/fonts/GentiumPlus-subset.woff2') format('woff2');
+  unicode-range: U+0370-03FF, U+1F00-1FFF;
+  font-display: swap;
+}
+
+.chapter {
+  display: grid;
+  gap: 1rem;
+}
+
+.verse {
+  background: var(--surface);
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 0.75rem;
+}
+
+.verse-num {
+  margin: 0 0 0.25rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.verse-zh,
+.verse-en,
+.verse-gr,
+.verse-he {
+  margin: 0.35rem 0;
+}
+
+.verse-gr {
+  font-family: 'Gentium Plus Subset', serif;
+  line-height: 1.8;
+}

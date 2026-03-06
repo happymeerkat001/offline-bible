@@ -1,0 +1,6 @@
+.verse-he {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Noto Serif Hebrew', 'SBL Hebrew', serif;
+  line-height: 2;
+}

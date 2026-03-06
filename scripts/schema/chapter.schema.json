@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://offline-bible.local/schema/chapter.schema.json",
+  "title": "ChapterData",
+  "type": "object",
+  "required": ["book", "chapter", "verses"],
+  "properties": {
+    "book": { "type": "integer", "minimum": 1, "maximum": 66 },
+    "chapter": { "type": "integer", "minimum": 1 },
+    "verses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["v", "zh", "en"],
+        "properties": {
+          "v": { "type": "integer", "minimum": 1 },
+          "zh": { "type": "string" },
+          "en": { "type": "string" },
+          "notes": { "type": "array", "items": { "type": "string" } },
+          "gr": { "type": "string" },
+          "he": { "type": "string" }
+        },
+        "allOf": [
+          {
+            "if": { "required": ["gr"] },
+            "then": { "not": { "required": ["he"] } }
+          },
+          {
+            "if": { "required": ["he"] },
+            "then": { "not": { "required": ["gr"] } }
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": false
+}

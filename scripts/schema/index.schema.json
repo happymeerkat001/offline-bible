@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://offline-bible.local/schema/index.schema.json",
+  "title": "BookIndex",
+  "type": "object",
+  "required": ["v", "books"],
+  "properties": {
+    "v": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$" },
+    "books": {
+      "type": "array",
+      "minItems": 66,
+      "maxItems": 66,
+      "items": {
+        "type": "object",
+        "required": ["id", "usfm", "name_zh", "name_en", "testament", "chapters"],
+        "properties": {
+          "id": { "type": "integer", "minimum": 1, "maximum": 66 },
+          "usfm": { "type": "string", "minLength": 3, "maxLength": 4 },
+          "name_zh": { "type": "string" },
+          "name_en": { "type": "string" },
+          "testament": { "type": "string", "enum": ["OT", "NT"] },
+          "chapters": { "type": "integer", "minimum": 1 }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

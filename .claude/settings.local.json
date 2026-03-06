@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run typecheck 2>&1)",
+      "Bash(curl -s \"https://api.github.com/repos/eliranwong/OpenGNT/git/trees/master?recursive=1\" 2>&1 | grep -i \"\\\\.tsv\" | grep '\"path\"' | head -20)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/eliranwong/OpenGNT/master/OpenGNT_verseFirstSort.tsv\" 2>&1 | head -5)"
+    ]
+  }
+}
