@@ -1,0 +1,1702 @@
+{
+  "book": 10,
+  "chapter": 1,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "掃 羅 死 後 ， 大 衛 擊 殺 亞 瑪 力 人 回 來 ， 在 洗 革 拉 住 了 兩 天 。",
+      "en": "After the death of Saul, when David had returned from defeating the Amalekites, he stayed at Ziklag for two days.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֗י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אַֽחֲרֵי֙",
+          "morph": "HR"
+        },
+        {
+          "w": "מ֣וֹת",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שָׁא֔וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְדָוִ֣ד",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "שָׁ֔ב",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "מֵהַכּ֖וֹת",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעֲמָלֵ֑ק",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "וַיֵּ֧שֶׁב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "דָּוִ֛ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּצִקְלָ֖ג",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "יָמִ֥ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "שְׁנָֽיִם",
+          "morph": "HAcmda"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "第 三 天 ， 有 一 人 從 掃 羅 的 營 裡 出 來 ， 衣 服 撕 裂 ， 頭 蒙 灰 塵 ， 到 大 衛 面 前 伏 地 叩 拜 。",
+      "en": "On the third day a man arrived from the camp of Saul with his clothes torn and dirt on his head. When he approached David, the man threw himself to the ground.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֣י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בַּיּ֣וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַשְּׁלִישִׁ֗י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "וְהִנֵּה֩",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "אִ֨ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בָּ֤א",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַֽמַּחֲנֶה֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "מֵעִ֣ם",
+          "morph": "HR/R"
+        },
+        {
+          "w": "שָׁא֔וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּבְגָדָ֣יו",
+          "morph": "HC/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "קְרֻעִ֔ים",
+          "morph": "HVqsmpa"
+        },
+        {
+          "w": "וַאֲדָמָ֖ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹאשׁ֑וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וַיְהִי֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בְּבֹא֣וֹ",
+          "morph": "HR/Vqc/Sp3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "דָּוִ֔ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּפֹּ֥ל",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אַ֖רְצָה",
+          "morph": "HNcbsa/Sd"
+        },
+        {
+          "w": "וַיִּשְׁתָּֽחוּ",
+          "morph": "HC/Vtw3ms"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "大 衛 問 他 說 ： 你 從 哪 裡 來 ？ 他 說 ： 我 從 以 色 列 的 營 裡 逃 來 。",
+      "en": "David asked him, “Where are you coming from?” He replied, “I have escaped from the camp of Israel.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לוֹ֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "דָּוִ֔ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֵ֥י",
+          "morph": "HTi"
+        },
+        {
+          "w": "מִזֶּ֖ה",
+          "morph": "HR/Pdxms"
+        },
+        {
+          "w": "תָּב֑וֹא",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלָ֔יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "מִמַּחֲנֵ֥ה",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "נִמְלָֽטְתִּי",
+          "morph": "HVNp1cs"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "大 衛 又 問 他 說 ： 事 情 怎 樣 ？ 請 你 告 訴 我 。 他 回 答 說 ： 百 姓 從 陣 上 逃 跑 ， 也 有 許 多 人 仆 倒 死 亡 ； 掃 羅 和 他 兒 子 約 拿 單 也 死 了 。",
+      "en": "David inquired, “How were things going? Tell me!” He replied, “The people fled from the battle and many of them fell dead. Even Saul and his son Jonathan are dead!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֨אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלָ֥יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "דָּוִ֛ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶה",
+          "morph": "HTi"
+        },
+        {
+          "w": "הָיָ֥ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "הַדָּבָ֖ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַגֶּד",
+          "morph": "HVhv2ms"
+        },
+        {
+          "w": "נָ֣א",
+          "morph": "HTe"
+        },
+        {
+          "w": "לִ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וַ֠יֹּאמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נָ֨ס",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "הָעָ֜ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמִּלְחָמָ֗ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְגַם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "הַרְבֵּ֞ה",
+          "morph": "HVha"
+        },
+        {
+          "w": "נָפַ֤ל",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הָעָם֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַיָּמֻ֔תוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וְגַ֗ם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "שָׁא֛וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וִיהוֹנָתָ֥ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בְּנ֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "מֵֽתוּ",
+          "morph": "HVqp3cp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "大 衛 問 報 信 的 少 年 人 說 ： 你 怎 麼 知 道 掃 羅 和 他 兒 子 約 拿 單 死 了 呢 ？",
+      "en": "David said to the young man who was telling him this, “How do you know that Saul and his son Jonathan are dead?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "דָּוִ֔ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַנַּ֖עַר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַמַּגִּ֣יד",
+          "morph": "HTd/Vhrmsa"
+        },
+        {
+          "w": "ל֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אֵ֣יךְ",
+          "morph": "HTi"
+        },
+        {
+          "w": "יָדַ֔עְתָּ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "מֵ֥ת",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "שָׁא֖וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וִיהֽוֹנָתָ֥ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בְּנֽוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "報 信 的 少 年 人 說 ： 我 偶 然 到 基 利 波 山 ， 看 見 掃 羅 伏 在 自 己 槍 上 ， 有 戰 車 、 馬 兵 緊 緊 地 追 他 。",
+      "en": "The young man said, “I just happened to be on Mount Gilboa and came across Saul leaning on his spear for support. The chariots and leaders of the horsemen were in hot pursuit of him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֜אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הַנַּ֣עַר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַמַּגִּ֣יד",
+          "morph": "HTd/Vhrmsa"
+        },
+        {
+          "w": "ל֗וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "נִקְרֹ֤א",
+          "morph": "HVNa"
+        },
+        {
+          "w": "נִקְרֵ֨יתִי֙",
+          "morph": "HVNp1cs"
+        },
+        {
+          "w": "בְּהַ֣ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַגִּלְבֹּ֔עַ",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "וְהִנֵּ֥ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "שָׁא֖וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "נִשְׁעָ֣ן",
+          "morph": "HVNrmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "חֲנִית֑וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "וְהִנֵּ֥ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "הָרֶ֛כֶב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וּבַעֲלֵ֥י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "הַפָּרָשִׁ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הִדְבִּקֻֽהוּ",
+          "morph": "HVhp3cp/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "他 回 頭 看 見 我 ， 就 呼 叫 我 。 我 說 ： 我 在 這 裡 。",
+      "en": "When he turned around and saw me, he called out to me. I answered, ‘Here I am!’",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּ֥פֶן",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אַחֲרָ֖יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וַיִּרְאֵ֑נִי",
+          "morph": "HC/Vqw3ms/Sp1cs"
+        },
+        {
+          "w": "וַיִּקְרָ֣א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלָ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וָאֹמַ֖ר",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "הִנֵּֽנִי",
+          "morph": "HTm/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "他 問 我 說 ： 你 是 甚 麼 人 ？ 我 說 ： 我 是 亞 瑪 力 人 。",
+      "en": "He asked me, ‘Who are you?’ I told him, ‘I’m an Amalekite.’",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֥אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לִ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "מִי",
+          "morph": "HTi"
+        },
+        {
+          "w": "אָ֑תָּה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "ויאמר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "וָאֹמַ֣ר",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "אֵלָ֔יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "עֲמָלֵקִ֖י",
+          "morph": "HNgmsa"
+        },
+        {
+          "w": "אָנֹֽכִי",
+          "morph": "HPp1cs"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "他 說 ： 請 你 來 ， 將 我 殺 死 ； 因 為 痛 苦 抓 住 我 ， 我 的 生 命 尚 存 。",
+      "en": "He said to me, ‘Stand over me and finish me off! I’m very dizzy, even though I’m still alive.’",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלַ֗י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "עֲמָד",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "נָ֤א",
+          "morph": "HTe"
+        },
+        {
+          "w": "עָלַי֙",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וּמֹ֣תְתֵ֔נִי",
+          "morph": "HC/Vov2ms/Sp1cs"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֲחָזַ֖נִי",
+          "morph": "HVqp3ms/Sp1cs"
+        },
+        {
+          "w": "הַשָּׁבָ֑ץ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "ע֥וֹד",
+          "morph": "HD"
+        },
+        {
+          "w": "נַפְשִׁ֖י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "בִּֽי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "我 準 知 他 仆 倒 必 不 能 活 ， 就 去 將 他 殺 死 ， 把 他 頭 上 的 冠 冕 、 臂 上 的 鐲 子 拿 到 我 主 這 裡 。",
+      "en": "So I stood over him and put him to death, since I knew that he couldn’t live in such a condition. Then I took the crown which was on his head and the bracelet which was on his arm. I have brought them here to my lord.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאֶעֱמֹ֤ד",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "עָלָיו֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וַאֲמֹ֣תְתֵ֔הוּ",
+          "morph": "HC/Vow1cs/Sp3ms"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "יָדַ֔עְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "כִּ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִֽחְיֶ֖ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אַחֲרֵ֣י",
+          "morph": "HR"
+        },
+        {
+          "w": "נִפְל֑וֹ",
+          "morph": "HVqc/Sp3ms"
+        },
+        {
+          "w": "וָאֶקַּ֞ח",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "הַנֵּ֣זֶר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹאשׁ֗וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְאֶצְעָדָה֙",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "זְרֹע֔וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "וָאֲבִיאֵ֥ם",
+          "morph": "HC/Vhw1cs/Sp3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲדֹנִ֖י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "הֵֽנָּה",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "大 衛 就 撕 裂 衣 服 ， 跟 隨 他 的 人 也 是 如 此 ，",
+      "en": "David then grabbed his own clothes and tore them, as did all the men who were with him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּחֲזֵ֥ק",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "דָּוִ֛ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "בבגדו",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "בִּבְגָדָ֖יו",
+          "morph": "HR/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "וַיִּקְרָעֵ֑ם",
+          "morph": "HC/Vqw3ms/Sp3mp"
+        },
+        {
+          "w": "וְגַ֥ם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאֲנָשִׁ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אִתּֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "而 且 悲 哀 哭 號 ， 禁 食 到 晚 上 ， 是 因 掃 羅 和 他 兒 子 約 拿 單 ， 並 耶 和 華 的 民 以 色 列 家 的 人 ， 倒 在 刀 下 。",
+      "en": "They lamented and wept and fasted until evening because Saul, his son Jonathan, the Lord’s army, and the house of Israel had fallen by the sword.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַֽיִּסְפְּדוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וַיִּבְכּ֔וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וַיָּצֻ֖מוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "הָעָ֑רֶב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שָׁא֞וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "יְהוֹנָתָ֣ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּנ֗וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "עַ֤ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "נָפְל֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בֶּחָֽרֶב",
+          "morph": "HRd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "大 衛 問 報 信 的 少 年 人 說 ： 你 是 哪 裡 的 人 ？ 他 說 ： 我 是 亞 瑪 力 客 人 的 兒 子 。",
+      "en": "David said to the young man who told this to him, “Where are you from?” He replied, “I am an Amalekite, the son of a resident foreigner.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "דָּוִ֗ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַנַּ֨עַר֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַמַּגִּ֣יד",
+          "morph": "HTd/Vhrmsa"
+        },
+        {
+          "w": "ל֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אֵ֥י",
+          "morph": "HTi"
+        },
+        {
+          "w": "מִזֶּ֖ה",
+          "morph": "HR/Pdxms"
+        },
+        {
+          "w": "אָ֑תָּה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "וַיֹּ֕אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אִ֛ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "גֵּ֥ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עֲמָלֵקִ֖י",
+          "morph": "HNgmsa"
+        },
+        {
+          "w": "אָנֹֽכִי",
+          "morph": "HPp1cs"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "大 衛 說 ： 你 伸 手 殺 害 耶 和 華 的 受 膏 者 ， 怎 麼 不 畏 懼 呢 ？",
+      "en": "David replied to him, “How is it that you were not afraid to reach out your hand to destroy the Lord’s anointed?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֥אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלָ֖יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "דָּוִ֑ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֵ֚יךְ",
+          "morph": "HTi"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָרֵ֔אתָ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "לִשְׁלֹ֨חַ֙",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "יָֽדְךָ֔",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "לְשַׁחֵ֖ת",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מְשִׁ֥יחַ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "大 衛 叫 了 一 個 少 年 人 來 ， 說 ： 你 去 殺 他 罷 ！",
+      "en": "Then David called one of the soldiers and said, “Come here and strike him down!” So he struck him down, and he died.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקְרָ֣א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "דָוִ֗ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְאַחַד֙",
+          "morph": "HR/Acmsa"
+        },
+        {
+          "w": "מֵֽהַנְּעָרִ֔ים",
+          "morph": "HR/Td/Ncmpa"
+        },
+        {
+          "w": "וַיֹּ֖אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "גַּ֣שׁ",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "פְּגַע",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "בּ֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וַיַּכֵּ֖הוּ",
+          "morph": "HC/Vhw3ms/Sp3ms"
+        },
+        {
+          "w": "וַיָּמֹֽת",
+          "morph": "HC/Vqw3ms"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "大 衛 對 他 說 ： 你 流 人 血 的 罪 歸 到 自 己 的 頭 上 ， 因 為 你 親 口 作 見 證 說 ： 我 殺 了 耶 和 華 的 受 膏 者 。 少 年 人 就 把 他 殺 了 。",
+      "en": "David said to him, “Your blood be on your own head! Your own mouth has testified against you, saying ‘I have put the Lord’s anointed to death.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלָיו֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "דָּוִ֔ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "דמיך",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "דָּמְךָ֖",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹאשֶׁ֑ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "פִ֗יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "עָנָ֤ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בְךָ֙",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אָנֹכִ֥י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מֹתַ֖תִּי",
+          "morph": "HVop1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מְשִׁ֥יחַ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "大 衛 作 哀 歌 ， 弔 掃 羅 和 他 兒 子 約 拿 單 ，",
+      "en": "Then David chanted this lament over Saul and his son Jonathan.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְקֹנֵ֣ן",
+          "morph": "HC/Vow3ms"
+        },
+        {
+          "w": "דָּוִ֔ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַקִּינָ֖ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הַזֹּ֑את",
+          "morph": "HTd/Pdxfs"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שָׁא֖וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "יְהוֹנָתָ֥ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּנֽוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "且 吩 咐 將 這 歌 教 導 猶 大 人 。 這 歌 名 叫 弓 歌 ， 寫 在 雅 煞 珥 書 上 。",
+      "en": "(He gave instructions that the people of Judah should be taught “The Bow.” Indeed, it is written down in the Scroll of the Upright One.)",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֕אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לְלַמֵּ֥ד",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "בְּנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוּדָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "קָ֑שֶׁת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "הִנֵּ֥ה",
+          "morph": "HTm"
+        },
+        {
+          "w": "כְתוּבָ֖ה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "סֵ֥פֶר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַיָּשָֽׁר",
+          "morph": "HTd/Aamsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "歌 中 說 ： 以 色 列 啊 ， 你 尊 榮 者 在 山 上 被 殺 ！ 大 英 雄 何 竟 死 亡 ！",
+      "en": "“The beauty of Israel lies slain on your high places! How the mighty have fallen!",
+      "notes": [],
+      "he": [
+        {
+          "w": "הַצְּבִי֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "בָּמוֹתֶ֖יךָ",
+          "morph": "HNcfpc/Sp2ms"
+        },
+        {
+          "w": "חָלָ֑ל",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "אֵ֖יךְ",
+          "morph": "HTi"
+        },
+        {
+          "w": "נָפְל֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "גִבּוֹרִֽים",
+          "morph": "HAampa"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "不 要 在 迦 特 報 告 ； 不 要 在 亞 實 基 倫 街 上 傳 揚 ； 免 得 非 利 士 的 女 子 歡 樂 ； 免 得 未 受 割 禮 之 人 的 女 子 矜 誇 。",
+      "en": "Don’t report it in Gath, don’t spread the news in the streets of Ashkelon, or the daughters of the Philistines will rejoice, the daughters of the uncircumcised will celebrate!",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַּגִּ֣ידוּ",
+          "morph": "HVhj2mp"
+        },
+        {
+          "w": "בְגַ֔ת",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אַֽל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְּבַשְּׂר֖וּ",
+          "morph": "HVpj2mp"
+        },
+        {
+          "w": "בְּחוּצֹ֣ת",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "אַשְׁקְל֑וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "פֶּן",
+          "morph": "HC"
+        },
+        {
+          "w": "תִּשְׂמַ֨חְנָה֙",
+          "morph": "HVqi3fp"
+        },
+        {
+          "w": "בְּנ֣וֹת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "פְּלִשְׁתִּ֔ים",
+          "morph": "HNgmpa"
+        },
+        {
+          "w": "פֶּֽן",
+          "morph": "HC"
+        },
+        {
+          "w": "תַּעֲלֹ֖זְנָה",
+          "morph": "HVqi3fp"
+        },
+        {
+          "w": "בְּנ֥וֹת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "הָעֲרֵלִֽים",
+          "morph": "HTd/Aampa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "基 利 波 山 哪 ， 願 你 那 裡 沒 有 雨 露 ！ 願 你 田 地 無 土 產 可 作 供 物 ！ 因 為 英 雄 的 盾 牌 在 那 裡 被 污 丟 棄 ； 掃 羅 的 盾 牌 彷 彿 未 曾 抹 油 。",
+      "en": "O mountains of Gilboa, may there be no dew or rain on you, nor fields of grain offerings! For it was there that the shield of warriors was defiled; the shield of Saul lies neglected without oil.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הָרֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בַגִּלְבֹּ֗עַ",
+          "morph": "HRd/Np"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "טַ֧ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאַל",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "מָטָ֛ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עֲלֵיכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וּשְׂדֵ֣י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "תְרוּמֹ֑ת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "שָׁ֤ם",
+          "morph": "HD"
+        },
+        {
+          "w": "נִגְעַל֙",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "מָגֵ֣ן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "גִּבּוֹרִ֔ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "מָגֵ֣ן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "שָׁא֔וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּלִ֖י",
+          "morph": "HTn"
+        },
+        {
+          "w": "מָשִׁ֥יחַ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בַּשָּֽׁמֶן",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "約 拿 單 的 弓 箭 非 流 敵 人 的 血 不 退 縮 ； 掃 羅 的 刀 劍 非 剖 勇 士 的 油 不 收 回 。",
+      "en": "From the blood of the slain, from the fat of warriors, the bow of Jonathan was not turned away. The sword of Saul never returned empty.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִדַּ֣ם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "חֲלָלִ֗ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "מֵחֵ֨לֶב֙",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "גִּבּוֹרִ֔ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "קֶ֚שֶׁת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְה֣וֹנָתָ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "נָשׂ֖וֹג",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "אָח֑וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְחֶ֣רֶב",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "שָׁא֔וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תָשׁ֖וּב",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "רֵיקָֽם",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "掃 羅 和 約 拿 單 ─ 活 時 相 悅 相 愛 ， 死 時 也 不 分 離 ─ 他 們 比 鷹 更 快 ， 比 獅 子 還 強 。",
+      "en": "Saul and Jonathan were greatly loved during their lives, and not even in their deaths were they separated. They were swifter than eagles, stronger than lions.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שָׁא֣וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וִיהוֹנָתָ֗ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הַנֶּאֱהָבִ֤ים",
+          "morph": "HTd/VNrmpa"
+        },
+        {
+          "w": "וְהַנְּעִימִם֙",
+          "morph": "HC/Td/Aampa"
+        },
+        {
+          "w": "בְּחַיֵּיהֶ֔ם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "וּבְמוֹתָ֖ם",
+          "morph": "HC/R/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "נִפְרָ֑דוּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "מִנְּשָׁרִ֣ים",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "קַ֔לּוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מֵאֲרָי֖וֹת",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "גָּבֵֽרוּ",
+          "morph": "HVqp3cp"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "以 色 列 的 女 子 啊 ， 當 為 掃 羅 哭 號 ！ 他 曾 使 你 們 穿 朱 紅 色 的 美 衣 ， 使 你 們 衣 服 有 黃 金 的 妝 飾 。",
+      "en": "O daughters of Israel, weep over Saul, who clothed you in scarlet as well as jewelry, who put gold jewelry on your clothes.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּנוֹת֙",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "שָׁא֖וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּכֶ֑ינָה",
+          "morph": "HVqv2fp"
+        },
+        {
+          "w": "הַמַּלְבִּֽשְׁכֶ֤ם",
+          "morph": "HTd/Vhrmsc/Sp2mp"
+        },
+        {
+          "w": "שָׁנִי֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "עֲדָנִ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "הַֽמַּעֲלֶה֙",
+          "morph": "HTd/Vhrmsa"
+        },
+        {
+          "w": "עֲדִ֣י",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "זָהָ֔ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "לְבוּשְׁכֶֽן",
+          "morph": "HNcmsc/Sp2fp"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "英 雄 何 竟 在 陣 上 仆 倒 ！ 約 拿 單 何 竟 在 山 上 被 殺 ！",
+      "en": "How the warriors have fallen in the midst of battle! Jonathan lies slain on your high places!",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֵ֚יךְ",
+          "morph": "HTi"
+        },
+        {
+          "w": "נָפְל֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "גִבֹּרִ֔ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "בְּת֖וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַמִּלְחָמָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "יְה֣וֹנָתָ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "בָּמוֹתֶ֖יךָ",
+          "morph": "HNcfpc/Sp2ms"
+        },
+        {
+          "w": "חָלָֽל",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "我 兄 約 拿 單 哪 ， 我 為 你 悲 傷 ！ 我 甚 喜 悅 你 ！ 你 向 我 發 的 愛 情 奇 妙 非 常 ， 過 於 婦 女 的 愛 情 。",
+      "en": "I grieve over you, my brother Jonathan. You were very dear to me. Your love was more special to me than the love of women.",
+      "notes": [],
+      "he": [
+        {
+          "w": "צַר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לִ֣י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "עָלֶ֗יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "אָחִי֙",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "יְה֣וֹנָתָ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "נָעַ֥מְתָּ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "לִּ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "מְאֹ֑ד",
+          "morph": "HD"
+        },
+        {
+          "w": "נִפְלְאַ֤תָה",
+          "morph": "HVNp3fs"
+        },
+        {
+          "w": "אַהֲבָֽתְךָ֙",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "לִ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "מֵאַהֲבַ֖ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "נָשִֽׁים",
+          "morph": "HNcfpa"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "英 雄 何 竟 仆 倒 ！ 戰 具 何 竟 滅 沒 ！",
+      "en": "How the warriors have fallen! The weapons of war are destroyed!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֵ֚יךְ",
+          "morph": "HTi"
+        },
+        {
+          "w": "נָפְל֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "גִבּוֹרִ֔ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וַיֹּאבְד֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "כְּלֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מִלְחָמָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    }
+  ]
+}

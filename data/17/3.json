@@ -1,0 +1,1342 @@
+{
+  "book": 17,
+  "chapter": 3,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "這 事 以 後 ， 亞 哈 隨 魯 王 抬 舉 亞 甲 族 哈 米 大 他 的 兒 子 哈 曼 ， 使 他 高 升 ， 叫 他 的 爵 位 超 過 與 他 同 事 的 一 切 臣 宰 。",
+      "en": "Some time later King Ahasuerus promoted Haman the son of Hammedatha, the Agagite, exalting him and setting his position above that of all the officials who were with him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַחַ֣ר",
+          "morph": "HR"
+        },
+        {
+          "w": "הַדְּבָרִ֣ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָאֵ֗לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "גִּדַּל֩",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "הַמֶּ֨לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲחַשְׁוֵר֜וֹשׁ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָמָ֧ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּֽן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמְּדָ֛תָא",
+          "morph": "HNp"
+        },
+        {
+          "w": "הָאֲגָגִ֖י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "וַֽיְנַשְּׂאֵ֑הוּ",
+          "morph": "HC/Vpw3ms/Sp3ms"
+        },
+        {
+          "w": "וַיָּ֨שֶׂם֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כִּסְא֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "מֵעַ֕ל",
+          "morph": "HR/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׂרִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אִתּֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "在 朝 門 的 一 切 臣 僕 都 跪 拜 哈 曼 ， 因 為 王 如 此 吩 咐 ； 惟 獨 末 底 改 不 跪 不 拜 。",
+      "en": "As a result, all the king’s servants who were at the king’s gate were bowing and paying homage to Haman, for the king had so commanded. However, Mordecai did not bow, nor did he pay him homage.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "עַבְדֵ֨י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַמֶּ֜לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בְּשַׁ֣עַר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַמֶּ֗לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "כֹּרְעִ֤ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "וּמִֽשְׁתַּחֲוִים֙",
+          "morph": "HC/Vvrmpa"
+        },
+        {
+          "w": "לְהָמָ֔ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "כֵ֖ן",
+          "morph": "HD"
+        },
+        {
+          "w": "צִוָּה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "ל֣וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "הַמֶּ֑לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וּמָ֨רְדֳּכַ֔י",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִכְרַ֖ע",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִֽשְׁתַּחֲוֶֽה",
+          "morph": "HVvi3ms"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "在 朝 門 的 臣 僕 問 末 底 改 說 ： 「 你 為 何 違 背 王 的 命 令 呢 ？ 」",
+      "en": "Then the servants of the king who were at the king’s gate asked Mordecai, “Why are you violating the king’s commandment?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֨אמְר֜וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "עַבְדֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַמֶּ֛לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בְּשַׁ֥עַר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַמֶּ֖לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְמָרְדֳּכָ֑י",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "מַדּ֨וּעַ֙",
+          "morph": "HTi"
+        },
+        {
+          "w": "אַתָּ֣ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "עוֹבֵ֔ר",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אֵ֖ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִצְוַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַמֶּֽלֶךְ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "他 們 天 天 勸 他 ， 他 還 是 不 聽 ， 他 們 就 告 訴 哈 曼 ， 要 看 末 底 改 的 事 站 得 住 站 不 住 ， 因 他 已 經 告 訴 他 們 自 己 是 猶 大 人 。",
+      "en": "And after they had spoken to him day after day without his paying any attention to them, they informed Haman to see whether this attitude on Mordecai’s part would be permitted. Furthermore, he had disclosed to them that he was a Jew.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֗י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "באמרם",
+          "morph": "HR/Vqc/Sp3mp"
+        },
+        {
+          "w": "כְּאָמְרָ֤ם",
+          "morph": "HR/Vqc/Sp3mp"
+        },
+        {
+          "w": "אֵלָיו֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "י֣וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וָי֔וֹם",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "שָׁמַ֖ע",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֲלֵיהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "וַיַּגִּ֣ידוּ",
+          "morph": "HC/Vhw3mp"
+        },
+        {
+          "w": "לְהָמָ֗ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לִרְאוֹת֙",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הֲיַֽעַמְדוּ֙",
+          "morph": "HTi/Vqi3mp"
+        },
+        {
+          "w": "דִּבְרֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מָרְדֳּכַ֔י",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "הִגִּ֥יד",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "לָהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "ה֥וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "יְהוּדִֽי",
+          "morph": "HNgmsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "哈 曼 見 末 底 改 不 跪 不 拜 ， 他 就 怒 氣 填 胸 。",
+      "en": "When Haman saw that Mordecai was not bowing or paying homage to him, he was filled with rage.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּ֣רְא",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הָמָ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "אֵ֣ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "מָרְדֳּכַ֔י",
+          "morph": "HNp"
+        },
+        {
+          "w": "כֹּרֵ֥עַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "וּמִֽשְׁתַּחֲוֶ֖ה",
+          "morph": "HC/Vvrmsa"
+        },
+        {
+          "w": "ל֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וַיִּמָּלֵ֥א",
+          "morph": "HC/VNw3ms"
+        },
+        {
+          "w": "הָמָ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "חֵמָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "他 們 已 將 末 底 改 的 本 族 告 訴 哈 曼 ； 他 以 為 下 手 害 末 底 改 一 人 是 小 事 ， 就 要 滅 絕 亞 哈 隨 魯 王 通 國 所 有 的 猶 大 人 ， 就 是 末 底 改 的 本 族 。",
+      "en": "But the thought of striking out against Mordecai alone was repugnant to him, for he had been informed of the identity of Mordecai’s people. So Haman sought to destroy all the Jews (that is, the people of Mordecai) who were in all the kingdom of Ahasuerus.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּ֣בֶז",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בְּעֵינָ֗יו",
+          "morph": "HR/Ncbdc/Sp3ms"
+        },
+        {
+          "w": "לִשְׁלֹ֤ח",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "יָד֙",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "בְּמָרְדֳּכַ֣י",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לְבַדּ֔וֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "הִגִּ֥ידוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "ל֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עַ֣ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מָרְדֳּכָ֑י",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיְבַקֵּ֣שׁ",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "הָמָ֗ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְהַשְׁמִ֧יד",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַיְּהוּדִ֛ים",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "אֲשֶׁ֛ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מַלְכ֥וּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אֲחַשְׁוֵר֖וֹשׁ",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַ֥ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מָרְדֳּכָֽי",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "亞 哈 隨 魯 王 十 二 年 正 月 ， 就 是 尼 散 月 ， 人 在 哈 曼 面 前 ， 按 日 日 月 月 掣 普 珥 ， 就 是 掣 籤 ， 要 定 何 月 何 日 為 吉 ， 擇 定 了 十 二 月 ， 就 是 亞 達 月 。",
+      "en": "In the first month (that is, the month of Nisan), in the twelfth year of King Ahasuerus’ reign, pur (that is, the lot) was cast before Haman in order to determine a day and a month. It turned out to be the twelfth month (that is, the month of Adar).",
+      "notes": [],
+      "he": [
+        {
+          "w": "בַּחֹ֤דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הָרִאשׁוֹן֙",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "הוּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "חֹ֣דֶשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נִיסָ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּשְׁנַת֙",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "שְׁתֵּ֣ים",
+          "morph": "HAcfda"
+        },
+        {
+          "w": "עֶשְׂרֵ֔ה",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "לַמֶּ֖לֶךְ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֲחַשְׁוֵר֑וֹשׁ",
+          "morph": "HNp"
+        },
+        {
+          "w": "הִפִּ֣יל",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "פּוּר֩",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "ה֨וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "הַגּוֹרָ֜ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "הָמָ֗ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִיּ֧וֹם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לְי֛וֹם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וּמֵחֹ֛דֶשׁ",
+          "morph": "HC/R/Ncmsa"
+        },
+        {
+          "w": "לְחֹ֥דֶשׁ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "שְׁנֵים",
+          "morph": "HAcmda"
+        },
+        {
+          "w": "עָשָׂ֖ר",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "הוּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "חֹ֥דֶשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲדָֽר",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "哈 曼 對 亞 哈 隨 魯 王 說 ： 有 一 種 民 散 居 在 王 國 各 省 的 民 中 ； 他 們 的 律 例 與 萬 民 的 律 例 不 同 ， 也 不 守 王 的 律 例 ， 所 以 容 留 他 們 與 王 無 益 。",
+      "en": "Then Haman said to King Ahasuerus, “There is a particular people that is dispersed and spread among the inhabitants throughout all the provinces of your kingdom whose laws differ from those of all other peoples. Furthermore, they do not observe the king’s laws. It is not appropriate for the king to provide a haven for them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הָמָן֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לַמֶּ֣לֶךְ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֲחַשְׁוֵר֔וֹשׁ",
+          "morph": "HNp"
+        },
+        {
+          "w": "יֶשְׁנ֣וֹ",
+          "morph": "HTm/Sp3ms"
+        },
+        {
+          "w": "עַם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶחָ֗ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "מְפֻזָּ֤ר",
+          "morph": "HVPsmsa"
+        },
+        {
+          "w": "וּמְפֹרָד֙",
+          "morph": "HC/VPsmsa"
+        },
+        {
+          "w": "בֵּ֣ין",
+          "morph": "HR"
+        },
+        {
+          "w": "הָֽעַמִּ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "בְּכֹ֖ל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מְדִינ֣וֹת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "מַלְכוּתֶ֑ךָ",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "וְדָתֵיהֶ֞ם",
+          "morph": "HC/Ncfpc/Sp3mp"
+        },
+        {
+          "w": "שֹׁנ֣וֹת",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "מִכָּל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עָ֗ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "דָּתֵ֤י",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "הַמֶּ֨לֶךְ֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֵינָ֣ם",
+          "morph": "HTn/Sp3mp"
+        },
+        {
+          "w": "עֹשִׂ֔ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "וְלַמֶּ֥לֶךְ",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "אֵין",
+          "morph": "HTn"
+        },
+        {
+          "w": "שֹׁוֶ֖ה",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לְהַנִּיחָֽם",
+          "morph": "HR/Vhc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "王 若 以 為 美 ， 請 下 旨 意 滅 絕 他 們 ； 我 就 捐 一 萬 他 連 得 銀 子 交 給 掌 管 國 帑 的 人 ， 納 入 王 的 府 庫 。 」",
+      "en": "If the king is so inclined, let an edict be issued to destroy them. I will pay 10,000 talents of silver to be conveyed to the king’s treasuries for the officials who carry out this business.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמֶּ֣לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "ט֔וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יִכָּתֵ֖ב",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "לְאַבְּדָ֑ם",
+          "morph": "HR/Vpc/Sp3mp"
+        },
+        {
+          "w": "וַעֲשֶׂ֨רֶת",
+          "morph": "HC/Acmsc"
+        },
+        {
+          "w": "אֲלָפִ֜ים",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "כִּכַּר",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "כֶּ֗סֶף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶשְׁקוֹל֙",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְדֵי֙",
+          "morph": "HNcbdc"
+        },
+        {
+          "w": "עֹשֵׂ֣י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "הַמְּלָאכָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "לְהָבִ֖יא",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "גִּנְזֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַמֶּֽלֶךְ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "於 是 王 從 自 己 手 上 摘 下 戒 指 給 猶 大 人 的 仇 敵 ─ 亞 甲 族 哈 米 大 他 的 兒 子 哈 曼 。",
+      "en": "So the king removed his signet ring from his hand and gave it to Haman the son of Hammedatha, the Agagite, who was hostile toward the Jews.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֧סַר",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "הַמֶּ֛לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "טַבַּעְתּ֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "מֵעַ֣ל",
+          "morph": "HR/R"
+        },
+        {
+          "w": "יָד֑וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "וַֽיִּתְּנָ֗הּ",
+          "morph": "HC/Vqw3ms/Sp3fs"
+        },
+        {
+          "w": "לְהָמָ֧ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בֶּֽן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמְּדָ֛תָא",
+          "morph": "HNp"
+        },
+        {
+          "w": "הָאֲגָגִ֖י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "צֹרֵ֥ר",
+          "morph": "HVqrmsc"
+        },
+        {
+          "w": "הַיְּהוּדִֽים",
+          "morph": "HTd/Ngmpa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "王 對 哈 曼 說 ： 「 這 銀 子 仍 賜 給 你 ， 這 民 也 交 給 你 ， 你 可 以 隨 意 待 他 們 。 」",
+      "en": "The king replied to Haman, “Keep your money, and do with those people whatever you wish.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הַמֶּ֨לֶךְ֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְהָמָ֔ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הַכֶּ֖סֶף",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "נָת֣וּן",
+          "morph": "HVqsmsa"
+        },
+        {
+          "w": "לָ֑ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "וְהָעָ֕ם",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "לַעֲשׂ֥וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בּ֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "כַּטּ֥וֹב",
+          "morph": "HRd/Aamsa"
+        },
+        {
+          "w": "בְּעֵינֶֽיךָ",
+          "morph": "HR/Ncbdc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "正 月 十 三 日 ， 就 召 了 王 的 書 記 來 ， 照 著 哈 曼 一 切 所 吩 咐 的 ， 用 各 省 的 文 字 、 各 族 的 方 言 ， 奉 亞 哈 隨 魯 王 的 名 寫 旨 意 ， 傳 與 總 督 和 各 省 的 省 長 ， 並 各 族 的 首 領 ； 又 用 王 的 戒 指 蓋 印 ，",
+      "en": "So the royal scribes were summoned in the first month, on the thirteenth day of the month. Everything Haman commanded was written to the king’s satraps and governors who were in every province and to the officials of every people, province by province according to its script and people by people according to their language. In the name of King Ahasuerus it was written and sealed with the king’s signet ring.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקָּרְאוּ֩",
+          "morph": "HC/VNw3mp"
+        },
+        {
+          "w": "סֹפְרֵ֨י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַמֶּ֜לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בַּחֹ֣דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הָרִאשׁ֗וֹן",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "בִּשְׁלוֹשָׁ֨ה",
+          "morph": "HR/Acmsa"
+        },
+        {
+          "w": "עָשָׂ֣ר",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "יוֹם֮",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בּוֹ֒",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וַיִּכָּתֵ֣ב",
+          "morph": "HC/VNw3ms"
+        },
+        {
+          "w": "כְּֽכָל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "צִוָּ֣ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "הָמָ֡ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶ֣ל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲחַשְׁדַּרְפְּנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַ֠מֶּלֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְֽאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַפַּח֞וֹת",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "מְדִינָ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּמְדִינָ֗ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "שָׂ֤רֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עַם֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וָעָ֔ם",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "מְדִינָ֤ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּמְדִינָה֙",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "כִּכְתָבָ֔הּ",
+          "morph": "HR/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "וְעַ֥ם",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וָעָ֖ם",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "כִּלְשׁוֹנ֑וֹ",
+          "morph": "HR/Ncbsc/Sp3ms"
+        },
+        {
+          "w": "בְּשֵׁ֨ם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַמֶּ֤לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲחַשְׁוֵרֹשׁ֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "נִכְתָּ֔ב",
+          "morph": "HVNsmsa"
+        },
+        {
+          "w": "וְנֶחְתָּ֖ם",
+          "morph": "HC/VNsmsa"
+        },
+        {
+          "w": "בְּטַבַּ֥עַת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַמֶּֽלֶךְ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "交 給 驛 卒 傳 到 王 的 各 省 ， 吩 咐 將 猶 大 人 ， 無 論 老 少 婦 女 孩 子 ， 在 一 日 之 間 ， 十 二 月 ， 就 是 亞 達 月 十 三 日 ， 全 然 剪 除 ， 殺 戮 滅 絕 ， 並 奪 他 們 的 財 為 掠 物 。",
+      "en": "Letters were sent by the runners to all the king’s provinces stating that they should destroy, kill, and annihilate all the Jews, from youth to elderly, both women and children, on a particular day, namely the thirteenth day of the twelfth month (that is, the month of Adar), and to loot and plunder their possessions.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנִשְׁל֨וֹחַ",
+          "morph": "HC/VNa"
+        },
+        {
+          "w": "סְפָרִ֜ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בְּיַ֣ד",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "הָרָצִים֮",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְדִינ֣וֹת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "הַמֶּלֶךְ֒",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְהַשְׁמִ֡יד",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "לַהֲרֹ֣ג",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "וּלְאַבֵּ֣ד",
+          "morph": "HC/R/Vpc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַ֠יְּהוּדִים",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "מִנַּ֨עַר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "זָקֵ֜ן",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "טַ֤ף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְנָשִׁים֙",
+          "morph": "HC/Ncfpa"
+        },
+        {
+          "w": "בְּי֣וֹם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֶחָ֔ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "בִּשְׁלוֹשָׁ֥ה",
+          "morph": "HR/Acmsa"
+        },
+        {
+          "w": "עָשָׂ֛ר",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "לְחֹ֥דֶשׁ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "שְׁנֵים",
+          "morph": "HAcmda"
+        },
+        {
+          "w": "עָשָׂ֖ר",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "הוּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "חֹ֣דֶשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲדָ֑ר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּשְׁלָלָ֖ם",
+          "morph": "HC/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "לָבֽוֹז",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "抄 錄 這 旨 意 ， 頒 行 各 省 ， 宣 告 各 族 ， 使 他 們 預 備 等 候 那 日 。",
+      "en": "A copy of this edict was to be presented as law throughout every province; it was to be made known to all the inhabitants, so that they would be prepared for this day.",
+      "notes": [],
+      "he": [
+        {
+          "w": "פַּתְשֶׁ֣גֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַכְּתָ֗ב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְהִנָּ֤תֵֽן",
+          "morph": "HR/VNc"
+        },
+        {
+          "w": "דָּת֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מְדִינָ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּמְדִינָ֔ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "גָּל֖וּי",
+          "morph": "HVqsmsa"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָֽעַמִּ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "לִהְי֥וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "עֲתִדִ֖ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "לַיּ֥וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּֽה",
+          "morph": "HTd/Pdxms"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "驛 卒 奉 王 命 急 忙 起 行 ， 旨 意 也 傳 遍 書 珊 城 。 王 同 哈 曼 坐 下 飲 酒 ， 書 珊 城 的 民 卻 都 慌 亂 。",
+      "en": "The messengers scurried forth with the king’s order. The edict was issued in Susa the citadel. While the king and Haman sat down to drink, the city of Susa was in an uproar.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הָֽרָצִ֞ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "יָצְא֤וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "דְחוּפִים֙",
+          "morph": "HVqsmpa"
+        },
+        {
+          "w": "בִּדְבַ֣ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַמֶּ֔לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהַדָּ֥ת",
+          "morph": "HC/Td/Ncfsa"
+        },
+        {
+          "w": "נִתְּנָ֖ה",
+          "morph": "HVNp3fs"
+        },
+        {
+          "w": "בְּשׁוּשַׁ֣ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הַבִּירָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְהַמֶּ֤לֶךְ",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "וְהָמָן֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "יָשְׁב֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לִשְׁתּ֔וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "וְהָעִ֥יר",
+          "morph": "HC/Td/Ncfsa"
+        },
+        {
+          "w": "שׁוּשָׁ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "נָבֽוֹכָה",
+          "morph": "HVNp3fs"
+        }
+      ]
+    }
+  ]
+}

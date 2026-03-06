@@ -1,0 +1,582 @@
+{
+  "book": 19,
+  "chapter": 19,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "（ 大 衛 的 詩 ， 交 與 伶 長 。 ） 諸 天 述 說 神 的 榮 耀 ； 穹 蒼 傳 揚 他 的 手 段 。",
+      "en": "For the music director, a psalm of David. The heavens declare the glory of God; the sky displays his handiwork.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לַמְנַצֵּ֗חַ",
+          "morph": "HRd/Vprmsa"
+        },
+        {
+          "w": "מִזְמ֥וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְדָוִֽד",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "這 日 到 那 日 發 出 言 語 ； 這 夜 到 那 夜 傳 出 知 識 。",
+      "en": "Day after day it speaks out; night after night it reveals his greatness.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הַשָּׁמַ֗יִם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "מְֽסַפְּרִ֥ים",
+          "morph": "HVprmpa"
+        },
+        {
+          "w": "כְּבֽוֹד",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אֵ֑ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּֽמַעֲשֵׂ֥ה",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "יָ֝דָ֗יו",
+          "morph": "HNcbdc/Sp3ms"
+        },
+        {
+          "w": "מַגִּ֥יד",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "הָרָקִֽיעַ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "無 言 無 語 ， 也 無 聲 音 可 聽 。",
+      "en": "There is no actual speech or word, nor is its voice literally heard.",
+      "notes": [],
+      "he": [
+        {
+          "w": "י֣וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְ֭יוֹם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "יַבִּ֣יעַֽ",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "אֹ֑מֶר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְלַ֥יְלָה",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "לְּ֝לַ֗יְלָה",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "יְחַוֶּה",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "דָּֽעַת",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "他 的 量 帶 通 遍 天 下 ， 他 的 言 語 傳 到 地 極 。 神 在 其 間 為 太 陽 安 設 帳 幕 ；",
+      "en": "Yet its voice echoes throughout the earth; its words carry to the distant horizon. In the sky he has pitched a tent for the sun.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֵֽין",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֹ֭מֶר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאֵ֣ין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "דְּבָרִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בְּ֝לִ֗י",
+          "morph": "HTn"
+        },
+        {
+          "w": "נִשְׁמָ֥ע",
+          "morph": "HVNrmsa"
+        },
+        {
+          "w": "קוֹלָֽם",
+          "morph": "HNcmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "太 陽 如 同 新 郎 出 洞 房 ， 又 如 勇 士 歡 然 奔 路 。",
+      "en": "Like a bridegroom it emerges from its chamber; like a strong man it enjoys running its course.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָאָ֨רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "יָ֘צָ֤א",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "קַוָּ֗ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "וּבִקְצֵ֣ה",
+          "morph": "HC/R/Ncbsc"
+        },
+        {
+          "w": "תֵ֭בֵל",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מִלֵּיהֶ֑ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "לַ֝שֶּׁ֗מֶשׁ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "שָֽׂם",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֹ֥הֶל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בָּהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "他 從 天 這 邊 出 來 ， 繞 到 天 那 邊 ， 沒 有 一 物 被 隱 藏 不 得 他 的 熱 氣 。",
+      "en": "It emerges from the distant horizon, and goes from one end of the sky to the other; nothing can escape its heat.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְה֗וּא",
+          "morph": "HC/Pp3ms"
+        },
+        {
+          "w": "כְּ֭חָתָן",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "יֹצֵ֣א",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "מֵחֻפָּת֑וֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "יָשִׂ֥ישׂ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "כְּ֝גִבּ֗וֹר",
+          "morph": "HR/Aamsa"
+        },
+        {
+          "w": "לָר֥וּץ",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֹֽרַח",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "耶 和 華 的 律 法 全 備 ， 能 甦 醒 人 心 ； 耶 和 華 的 法 度 確 定 ， 能 使 愚 人 有 智 慧 。",
+      "en": "The law of the Lord is perfect and preserves one’s life. The rules set down by the Lord are reliable and impart wisdom to the inexperienced.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִקְצֵ֤ה",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "הַשָּׁמַ֨יִם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "מֽוֹצָא֗וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וּתְקוּפָת֥וֹ",
+          "morph": "HC/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "קְצוֹתָ֑ם",
+          "morph": "HNcbpc/Sp3mp"
+        },
+        {
+          "w": "וְאֵ֥ין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "נִ֝סְתָּ֗ר",
+          "morph": "HVNsmsa"
+        },
+        {
+          "w": "מֵֽחַמָּתוֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "耶 和 華 的 訓 詞 正 直 ， 能 快 活 人 的 心 ； 耶 和 華 的 命 令 清 潔 ， 能 明 亮 人 的 眼 目 。",
+      "en": "The Lord’s precepts are fair and make one joyful. The Lord’s commands are pure and give insight for life.",
+      "notes": [],
+      "he": [
+        {
+          "w": "תּ֘וֹרַ֤ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "תְּ֭מִימָה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "מְשִׁ֣יבַת",
+          "morph": "HVhrfsc"
+        },
+        {
+          "w": "נָ֑פֶשׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "עֵד֥וּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "נֶ֝אֱמָנָ֗ה",
+          "morph": "HVNrfsa"
+        },
+        {
+          "w": "מַחְכִּ֥ימַת",
+          "morph": "HVhrfsc"
+        },
+        {
+          "w": "פֶּֽתִי",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "耶 和 華 的 道 理 潔 淨 ， 存 到 永 遠 ； 耶 和 華 的 典 章 真 實 ， 全 然 公 義 ─",
+      "en": "The commands to fear the Lord are right and endure forever. The judgments given by the Lord are trustworthy and absolutely just.",
+      "notes": [],
+      "he": [
+        {
+          "w": "פִּקּ֘וּדֵ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "יְ֭שָׁרִים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "מְשַׂמְּחֵי",
+          "morph": "HVprmpc"
+        },
+        {
+          "w": "לֵ֑ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִצְוַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בָּ֝רָ֗ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "מְאִירַ֥ת",
+          "morph": "HVhrfsc"
+        },
+        {
+          "w": "עֵינָֽיִם",
+          "morph": "HNcbda"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "都 比 金 子 可 羨 慕 ， 且 比 極 多 的 精 金 可 羨 慕 ； 比 蜜 甘 甜 ， 且 比 蜂 房 下 滴 的 蜜 甘 甜 。",
+      "en": "They are of greater value than gold, than even a great amount of pure gold; they bring greater delight than honey, than even the sweetest honey from a honeycomb.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יִרְאַ֤ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְהוָ֨ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "טְהוֹרָה֮",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "עוֹמֶ֪דֶת",
+          "morph": "HVqrfsa"
+        },
+        {
+          "w": "לָ֫עַ֥ד",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "מִֽשְׁפְּטֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱמֶ֑ת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "צָֽדְק֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "יַחְדָּֽו",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "況 且 你 的 僕 人 因 此 受 警 戒 ， 守 著 這 些 便 有 大 賞 。",
+      "en": "Yes, your servant finds moral guidance there; those who obey them receive a rich reward.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הַֽנֶּחֱמָדִ֗ים",
+          "morph": "HTd/VNrmpa"
+        },
+        {
+          "w": "מִ֭זָּהָב",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וּמִפַּ֣ז",
+          "morph": "HC/R/Ncmsa"
+        },
+        {
+          "w": "רָ֑ב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וּמְתוּקִ֥ים",
+          "morph": "HC/Aampa"
+        },
+        {
+          "w": "מִ֝דְּבַ֗שׁ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וְנֹ֣פֶת",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "צוּפִֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "誰 能 知 道 自 己 的 錯 失 呢 ？ 願 你 赦 免 我 隱 而 未 現 的 過 錯 。",
+      "en": "Who can know all his errors? Please do not punish me for sins I am unaware of.",
+      "notes": [],
+      "he": [
+        {
+          "w": "גַּֽם",
+          "morph": "HTa"
+        },
+        {
+          "w": "עַ֭בְדְּךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "נִזְהָ֣ר",
+          "morph": "HVNrmsa"
+        },
+        {
+          "w": "בָּהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "בְּ֝שָׁמְרָ֗ם",
+          "morph": "HR/Vqc/Sp3mp"
+        },
+        {
+          "w": "עֵ֣קֶב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "רָֽב",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "求 你 攔 阻 僕 人 不 犯 任 意 妄 為 的 罪 ， 不 容 這 罪 轄 制 我 ， 我 便 完 全 ， 免 犯 大 罪 。",
+      "en": "Moreover, keep me from committing flagrant sins; do not allow such sins to control me. Then I will be blameless and innocent of blatant rebellion.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׁגִיא֥וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "מִֽי",
+          "morph": "HTi"
+        },
+        {
+          "w": "יָבִ֑ין",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מִֽנִּסְתָּר֥וֹת",
+          "morph": "HR/VNrfpa"
+        },
+        {
+          "w": "נַקֵּֽנִי",
+          "morph": "HVpv2ms/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "耶 和 華 ─ 我 的 磐 石 ， 我 的 救 贖 主 啊 ， 願 我 口 中 的 言 語 、 心 裡 的 意 念 在 你 面 前 蒙 悅 納 。",
+      "en": "May my words and my thoughts be acceptable in your sight, O Lord, my sheltering rock and my redeemer.",
+      "notes": [],
+      "he": [
+        {
+          "w": "גַּ֤ם",
+          "morph": "HTa"
+        },
+        {
+          "w": "מִזֵּדִ֨ים",
+          "morph": "HR/Aampa"
+        },
+        {
+          "w": "חֲשֹׂ֬ךְ",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "עַבְדֶּ֗ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "אַֽל",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִמְשְׁלוּ",
+          "morph": "HVqj3mp"
+        },
+        {
+          "w": "בִ֣י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "אָ֣ז",
+          "morph": "HD"
+        },
+        {
+          "w": "אֵיתָ֑ם",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "וְ֝נִקֵּ֗יתִי",
+          "morph": "HC/Vpq1cs"
+        },
+        {
+          "w": "מִפֶּ֥שַֽׁע",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "רָֽב",
+          "morph": "HAamsa"
+        }
+      ]
+    }
+  ]
+}

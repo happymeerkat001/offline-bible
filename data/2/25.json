@@ -1,0 +1,2086 @@
+{
+  "book": 2,
+  "chapter": 25,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 曉 諭 摩 西 說 ：",
+      "en": "The Lord spoke to Moses,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 告 訴 以 色 列 人 當 為 我 送 禮 物 來 ； 凡 甘 心 樂 意 的 ， 你 們 就 可 以 收 下 歸 我 。",
+      "en": "“Tell the Israelites to take an offering for me; from every person motivated by a willing heart you are to receive my offering.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דַּבֵּר֙",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְיִקְחוּ",
+          "morph": "HC/Vqj3mp"
+        },
+        {
+          "w": "לִ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "תְּרוּמָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מֵאֵ֤ת",
+          "morph": "HR/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אִישׁ֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִדְּבֶ֣נּוּ",
+          "morph": "HVqi3ms/Sp3ms"
+        },
+        {
+          "w": "לִבּ֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "תִּקְח֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "תְּרוּמָתִֽי",
+          "morph": "HNcfsc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "所 要 收 的 禮 物 ： 就 是 金 、 銀 、 銅 ，",
+      "en": "This is the offering you are to accept from them: gold, silver, bronze,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְזֹאת֙",
+          "morph": "HC/Pdxfs"
+        },
+        {
+          "w": "הַתְּרוּמָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּקְח֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "מֵאִתָּ֑ם",
+          "morph": "HR/R/Sp3mp"
+        },
+        {
+          "w": "זָהָ֥ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וָכֶ֖סֶף",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וּנְחֹֽשֶׁת",
+          "morph": "HC/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "藍 色 、 紫 色 、 朱 紅 色 線 ， 細 麻 ， 山 羊 毛 ，",
+      "en": "blue, purple, scarlet, fine linen, goats’ hair,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּתְכֵ֧לֶת",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "וְאַרְגָּמָ֛ן",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וְתוֹלַ֥עַת",
+          "morph": "HC/Ncbsc"
+        },
+        {
+          "w": "שָׁנִ֖י",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְשֵׁ֥שׁ",
+          "morph": "HC/Acfsa"
+        },
+        {
+          "w": "וְעִזִּֽים",
+          "morph": "HC/Ncfpa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "染 紅 的 公 羊 皮 ， 海 狗 皮 ， 皂 莢 木 ，",
+      "en": "ram skins dyed red, fine leather, acacia wood,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעֹרֹ֨ת",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "אֵילִ֧ם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מְאָדָּמִ֛ים",
+          "morph": "HVPsmpa"
+        },
+        {
+          "w": "וְעֹרֹ֥ת",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "תְּחָשִׁ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וַעֲצֵ֥י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "שִׁטִּֽים",
+          "morph": "HNcfpa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "點 燈 的 油 並 做 膏 油 和 香 的 香 料 ，",
+      "en": "oil for the light, spices for the anointing oil and for fragrant incense,",
+      "notes": [],
+      "he": [
+        {
+          "w": "שֶׁ֖מֶן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַמָּאֹ֑ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בְּשָׂמִים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לְשֶׁ֣מֶן",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַמִּשְׁחָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְלִקְטֹ֖רֶת",
+          "morph": "HC/R/Ncfsc"
+        },
+        {
+          "w": "הַסַּמִּֽים",
+          "morph": "HTd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "紅 瑪 瑙 與 別 樣 的 寶 石 ， 可 以 鑲 嵌 在 以 弗 得 和 胸 牌 上 。",
+      "en": "onyx stones, and other gems to be set in the ephod and in the breastpiece.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַבְנֵי",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "שֹׁ֕הַם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאַבְנֵ֖י",
+          "morph": "HC/Ncfpc"
+        },
+        {
+          "w": "מִלֻּאִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לָאֵפֹ֖ד",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְלַחֹֽשֶׁן",
+          "morph": "HC/Rd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "又 當 為 我 造 聖 所 ， 使 我 可 以 住 在 他 們 中 間 。",
+      "en": "Let them make for me a sanctuary, so that I may live among them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָ֥שׂוּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "לִ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "מִקְדָּ֑שׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְשָׁכַנְתִּ֖י",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "בְּתוֹכָֽם",
+          "morph": "HR/Ncmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "製 造 帳 幕 和 其 中 的 一 切 器 具 都 要 照 我 所 指 示 你 的 樣 式 。",
+      "en": "According to all that I am showing you—the pattern of the tabernacle and the pattern of all its furnishings—you must make it exactly so.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כְּכֹ֗ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֲנִי֙",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מַרְאֶ֣ה",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "אוֹתְךָ֔",
+          "morph": "HTo/Sp2ms"
+        },
+        {
+          "w": "אֵ֚ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "תַּבְנִ֣ית",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַמִּשְׁכָּ֔ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֵ֖ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "תַּבְנִ֣ית",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כֵּלָ֑יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וְכֵ֖ן",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "תַּעֲשֽׂוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "要 用 皂 莢 木 做 一 櫃 ， 長 二 肘 半 ， 寬 一 肘 半 ， 高 一 肘 半 。",
+      "en": "“They are to make an ark of acacia wood—its length is to be 45 inches, its width 27 inches, and its height 27 inches.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָשׂ֥וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "אֲר֖וֹן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "עֲצֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "שִׁטִּ֑ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "אַמָּתַ֨יִם",
+          "morph": "HNcfda"
+        },
+        {
+          "w": "וָחֵ֜צִי",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אָרְכּ֗וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְאַמָּ֤ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "וָחֵ֨צִי֙",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "רָחְבּ֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְאַמָּ֥ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "וָחֵ֖צִי",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "קֹמָתֽוֹ",
+          "morph": "HNcfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "要 裡 外 包 上 精 金 ， 四 圍 鑲 上 金 牙 邊 。",
+      "en": "You are to overlay it with pure gold—both inside and outside you must overlay it, and you are to make a surrounding border of gold over it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְצִפִּיתָ֤",
+          "morph": "HC/Vpq2ms"
+        },
+        {
+          "w": "אֹתוֹ֙",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "זָהָ֣ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "טָה֔וֹר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מִבַּ֥יִת",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וּמִח֖וּץ",
+          "morph": "HC/R/Ncmsa"
+        },
+        {
+          "w": "תְּצַפֶּ֑נּוּ",
+          "morph": "HVpi2ms/Sp3ms"
+        },
+        {
+          "w": "וְעָשִׂ֧יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "עָלָ֛יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "זֵ֥ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "זָהָ֖ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "סָבִֽיב",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "也 要 鑄 四 個 金 環 ， 安 在 櫃 的 四 腳 上 ； 這 邊 兩 環 ， 那 邊 兩 環 。",
+      "en": "You are to cast four gold rings for it and put them on its four feet, with two rings on one side and two rings on the other side.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיָצַ֣קְתָּ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "לּ֗וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אַרְבַּע֙",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "טַבְּעֹ֣ת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "זָהָ֔ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְנָ֣תַתָּ֔ה",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "אַרְבַּ֣ע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "פַּעֲמֹתָ֑יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "וּשְׁתֵּ֣י",
+          "morph": "HC/Acfdc"
+        },
+        {
+          "w": "טַבָּעֹ֗ת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "צַלְעוֹ֙",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "הָֽאֶחָ֔ת",
+          "morph": "HTd/Acfsa"
+        },
+        {
+          "w": "וּשְׁתֵּי֙",
+          "morph": "HC/Acfdc"
+        },
+        {
+          "w": "טַבָּעֹ֔ת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "צַלְע֖וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "הַשֵּׁנִֽית",
+          "morph": "HTd/Aofsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "要 用 皂 莢 木 做 兩 根 杠 ， 用 金 包 裹 。",
+      "en": "You are to make poles of acacia wood, overlay them with gold,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָשִׂ֥יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "בַדֵּ֖י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עֲצֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "שִׁטִּ֑ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "וְצִפִּיתָ֥",
+          "morph": "HC/Vpq2ms"
+        },
+        {
+          "w": "אֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "זָהָֽב",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "要 把 杠 穿 在 櫃 旁 的 環 內 ， 以 便 抬 櫃 。",
+      "en": "and put the poles into the rings at the sides of the ark in order to carry the ark with them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֵֽבֵאתָ֤",
+          "morph": "HC/Vhq2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַבַּדִּים֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "בַּטַּבָּעֹ֔ת",
+          "morph": "HRd/Ncfpa"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "צַלְעֹ֣ת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הָאָרֹ֑ן",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "לָשֵׂ֥את",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָרֹ֖ן",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "בָּהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "這 杠 要 常 在 櫃 的 環 內 ， 不 可 抽 出 來 。",
+      "en": "The poles must remain in the rings of the ark; they must not be removed from it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּטַבְּעֹת֙",
+          "morph": "HR/Ncfpc"
+        },
+        {
+          "w": "הָאָרֹ֔ן",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "יִהְי֖וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "הַבַּדִּ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָסֻ֖רוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "מִמֶּֽנּוּ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "必 將 我 所 要 賜 給 你 的 法 版 放 在 櫃 裡 。",
+      "en": "You are to put into the ark the testimony that I will give to you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנָתַתָּ֖",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָרֹ֑ן",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֵ֚ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעֵדֻ֔ת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֶתֵּ֖ן",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "אֵלֶֽיךָ",
+          "morph": "HR/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "要 用 精 金 做 施 恩 座 （ 施 恩 ： 或 作 蔽 罪 ； 下 同 ） ， 長 二 肘 半 ， 寬 一 肘 半 。",
+      "en": "“You are to make an atonement lid of pure gold; its length is to be 45 inches, and its width is to be 27 inches.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָשִׂ֥יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "כַפֹּ֖רֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "זָהָ֣ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "טָה֑וֹר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "אַמָּתַ֤יִם",
+          "morph": "HNcfda"
+        },
+        {
+          "w": "וָחֵ֨צִי֙",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אָרְכָּ֔הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "וְאַמָּ֥ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "וָחֵ֖צִי",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "רָחְבָּֽהּ",
+          "morph": "HNcmsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "要 用 金 子 錘 出 兩 個 基 路 伯 來 ， 安 在 施 恩 座 的 兩 頭 。",
+      "en": "You are to make two cherubim of gold; you are to make them of hammered metal on the two ends of the atonement lid.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָשִׂ֛יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "שְׁנַ֥יִם",
+          "morph": "HAcmda"
+        },
+        {
+          "w": "כְּרֻבִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "זָהָ֑ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִקְשָׁה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תַּעֲשֶׂ֣ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "אֹתָ֔ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "מִשְּׁנֵ֖י",
+          "morph": "HR/Acmdc"
+        },
+        {
+          "w": "קְצ֥וֹת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הַכַּפֹּֽרֶת",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "這 頭 做 一 個 基 路 伯 ， 那 頭 做 一 個 基 路 伯 ， 二 基 路 伯 要 接 連 一 塊 ， 在 施 恩 座 的 兩 頭 。",
+      "en": "Make one cherub on one end and one cherub on the other end; from the atonement lid you are to make the cherubim on the two ends.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַ֠עֲשֵׂה",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "כְּר֨וּב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶחָ֤ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "מִקָּצָה֙",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "מִזֶּ֔ה",
+          "morph": "HR/Pdxms"
+        },
+        {
+          "w": "וּכְרוּב",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אֶחָ֥ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "מִקָּצָ֖ה",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "מִזֶּ֑ה",
+          "morph": "HR/Pdxms"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכַּפֹּ֛רֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "תַּעֲשׂ֥וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַכְּרֻבִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁנֵ֥י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "קְצוֹתָֽיו",
+          "morph": "HNcbpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "二 基 路 伯 要 高 張 翅 膀 ， 遮 掩 施 恩 座 。 基 路 伯 要 臉 對 臉 ， 朝 著 施 恩 座 。",
+      "en": "The cherubim are to be spreading their wings upward, overshadowing the atonement lid with their wings, and the cherubim are to face each other, looking toward the atonement lid.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָי֣וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "הַכְּרֻבִים֩",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "פֹּרְשֵׂ֨י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "כְנָפַ֜יִם",
+          "morph": "HNcfda"
+        },
+        {
+          "w": "לְמַ֗עְלָה",
+          "morph": "HR/D/Sd"
+        },
+        {
+          "w": "סֹכְכִ֤ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "בְּכַנְפֵיהֶם֙",
+          "morph": "HR/Ncfdc/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכַּפֹּ֔רֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וּפְנֵיהֶ֖ם",
+          "morph": "HC/Ncbpc/Sp3mp"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אָחִ֑יו",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכַּפֹּ֔רֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "יִהְי֖וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "פְּנֵ֥י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הַכְּרֻבִֽים",
+          "morph": "HTd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "要 將 施 恩 座 安 在 櫃 的 上 邊 ， 又 將 我 所 要 賜 給 你 的 法 版 放 在 櫃 裡 。",
+      "en": "You are to put the atonement lid on top of the ark, and in the ark you are to put the testimony I am giving you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנָתַתָּ֧",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַכַּפֹּ֛רֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָרֹ֖ן",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "מִלְמָ֑עְלָה",
+          "morph": "HR/R/D/Sd"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הָ֣אָרֹ֔ן",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "תִּתֵּן֙",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָ֣עֵדֻ֔ת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֶתֵּ֖ן",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "אֵלֶֽיךָ",
+          "morph": "HR/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "我 要 在 那 裡 與 你 相 會 ， 又 要 從 法 櫃 施 恩 座 上 二 基 路 伯 中 間 ， 和 你 說 我 所 要 吩 咐 你 傳 給 以 色 列 人 的 一 切 事 。",
+      "en": "I will meet with you there, and from above the atonement lid, from between the two cherubim that are over the ark of the testimony, I will speak with you about all that I will command you for the Israelites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנוֹעַדְתִּ֣י",
+          "morph": "HC/VNq1cs"
+        },
+        {
+          "w": "לְךָ֮",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "שָׁם֒",
+          "morph": "HD"
+        },
+        {
+          "w": "וְדִבַּרְתִּ֨י",
+          "morph": "HC/Vpq1cs"
+        },
+        {
+          "w": "אִתְּךָ֜",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "מֵעַ֣ל",
+          "morph": "HR/R"
+        },
+        {
+          "w": "הַכַּפֹּ֗רֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "מִבֵּין֙",
+          "morph": "HR/R"
+        },
+        {
+          "w": "שְׁנֵ֣י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "הַכְּרֻבִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֖ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲרֹ֣ן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הָעֵדֻ֑ת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֵ֣ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲשֶׁ֧ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֲצַוֶּ֛ה",
+          "morph": "HVpi1cs"
+        },
+        {
+          "w": "אוֹתְךָ֖",
+          "morph": "HTo/Sp2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "要 用 皂 莢 木 做 一 張 桌 子 ， 長 二 肘 ， 寬 一 肘 ， 高 一 肘 半 。",
+      "en": "“You are to make a table of acacia wood; its length is to be 36 inches, its width 18 inches, and its height 27 inches.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָשִׂ֥יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "שֻׁלְחָ֖ן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עֲצֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "שִׁטִּ֑ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "אַמָּתַ֤יִם",
+          "morph": "HNcfda"
+        },
+        {
+          "w": "אָרְכּוֹ֙",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְאַמָּ֣ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "רָחְבּ֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְאַמָּ֥ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "וָחֵ֖צִי",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "קֹמָתֽוֹ",
+          "morph": "HNcfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "要 包 上 精 金 ， 四 圍 鑲 上 金 牙 邊 。",
+      "en": "You are to overlay it with pure gold, and you are to make a surrounding border of gold for it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְצִפִּיתָ֥",
+          "morph": "HC/Vpq2ms"
+        },
+        {
+          "w": "אֹת֖וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "זָהָ֣ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "טָה֑וֹר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְעָשִׂ֥יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "לּ֛וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "זֵ֥ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "זָהָ֖ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "סָבִֽיב",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "桌 子 的 四 圍 各 做 一 掌 寬 的 橫 梁 ， 橫 梁 上 鑲 著 金 牙 邊 。",
+      "en": "You are to make a surrounding frame for it about three inches broad, and you are to make a surrounding border of gold for its frame.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָשִׂ֨יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "לּ֥וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "מִסְגֶּ֛רֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "טֹ֖פַח",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "סָבִ֑יב",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וְעָשִׂ֧יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "זֵר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "זָהָ֛ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְמִסְגַּרְתּ֖וֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "סָבִֽיב",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "要 做 四 個 金 環 ， 安 在 桌 子 的 四 角 上 ， 就 是 桌 子 四 腳 上 的 四 角 。",
+      "en": "You are to make four rings of gold for it and attach the rings at the four corners where its four legs are.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָשִׂ֣יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "לּ֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אַרְבַּ֖ע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "טַבְּעֹ֣ת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "זָהָ֑ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְנָתַתָּ֙",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַטַּבָּעֹ֔ת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "עַ֚ל",
+          "morph": "HR"
+        },
+        {
+          "w": "אַרְבַּ֣ע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "הַפֵּאֹ֔ת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "אֲשֶׁ֖ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לְאַרְבַּ֥ע",
+          "morph": "HR/Acfsa"
+        },
+        {
+          "w": "רַגְלָֽיו",
+          "morph": "HNcfdc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "安 環 子 的 地 方 要 挨 近 橫 梁 ， 可 以 穿 杠 抬 桌 子 。",
+      "en": "The rings are to be close to the frame to provide places for the poles to carry the table.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְעֻמַּת֙",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַמִּסְגֶּ֔רֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "תִּהְיֶ֖יןָ",
+          "morph": "HVqi3fp"
+        },
+        {
+          "w": "הַטַּבָּעֹ֑ת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "לְבָתִּ֣ים",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "לְבַדִּ֔ים",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "לָשֵׂ֖את",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַשֻּׁלְחָֽן",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "要 用 皂 莢 木 做 兩 根 杠 ， 用 金 包 裹 ， 以 便 抬 桌 子 。",
+      "en": "You are to make the poles of acacia wood and overlay them with gold, so that the table may be carried with them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָשִׂ֤יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַבַּדִּים֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "עֲצֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "שִׁטִּ֔ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "וְצִפִּיתָ֥",
+          "morph": "HC/Vpq2ms"
+        },
+        {
+          "w": "אֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "זָהָ֑ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְנִשָּׂא",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "בָ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַשֻּׁלְחָֽן",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "要 做 桌 子 上 的 盤 子 、 調 羹 ， 並 奠 酒 的 爵 和 瓶 ； 這 都 要 用 精 金 製 作 。",
+      "en": "You are to make its plates, its ladles, its pitchers, and its bowls, to be used in pouring out offerings; you are to make them of pure gold.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָשִׂ֨יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "קְּעָרֹתָ֜יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "וְכַפֹּתָ֗יו",
+          "morph": "HC/Ncfpc/Sp3ms"
+        },
+        {
+          "w": "וּקְשׂוֹתָיו֙",
+          "morph": "HC/Ncfpc/Sp3ms"
+        },
+        {
+          "w": "וּמְנַקִּיֹּתָ֔יו",
+          "morph": "HC/Ncfpc/Sp3ms"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יֻסַּ֖ךְ",
+          "morph": "HVHi3ms"
+        },
+        {
+          "w": "בָּהֵ֑ן",
+          "morph": "HR/Sp3fp"
+        },
+        {
+          "w": "זָהָ֥ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "טָה֖וֹר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "תַּעֲשֶׂ֥ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "אֹתָֽם",
+          "morph": "HTo/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "又 要 在 桌 子 上 ， 在 我 面 前 ， 常 擺 陳 設 餅 。",
+      "en": "You are to set the Bread of the Presence on the table before me continually.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנָתַתָּ֧",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "עַֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשֻּׁלְחָ֛ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לֶ֥חֶם",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "פָּנִ֖ים",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "לְפָנַ֥י",
+          "morph": "HR/Ncbpc/Sp1cs"
+        },
+        {
+          "w": "תָּמִֽיד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "要 用 精 金 做 一 個 燈 臺 。 燈 臺 的 座 和 榦 與 杯 、 球 、 花 ， 都 要 接 連 一 塊 錘 出 來 。",
+      "en": "“You are to make a lampstand of pure gold. The lampstand is to be made of hammered metal; its base and its shaft, its cups, its buds, and its blossoms are to be from the same piece.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָשִׂ֥יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "מְנֹרַ֖ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "זָהָ֣ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "טָה֑וֹר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מִקְשָׁ֞ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תֵּעָשֶׂ֤ה",
+          "morph": "HVNi3fs"
+        },
+        {
+          "w": "הַמְּנוֹרָה֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "יְרֵכָ֣הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "וְקָנָ֔הּ",
+          "morph": "HC/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "גְּבִיעֶ֛יהָ",
+          "morph": "HNcmpc/Sp3fs"
+        },
+        {
+          "w": "כַּפְתֹּרֶ֥יהָ",
+          "morph": "HNcmpc/Sp3fs"
+        },
+        {
+          "w": "וּפְרָחֶ֖יהָ",
+          "morph": "HC/Ncmpc/Sp3fs"
+        },
+        {
+          "w": "מִמֶּ֥נָּה",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "יִהְיֽוּ",
+          "morph": "HVqi3mp"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "燈 臺 兩 旁 要 杈 出 六 個 枝 子 ： 這 旁 三 個 ， 那 旁 三 個 。",
+      "en": "Six branches are to extend from the sides of the lampstand, three branches of the lampstand from one side of it and three branches of the lampstand from the other side of it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשִׁשָּׁ֣ה",
+          "morph": "HC/Acmsa"
+        },
+        {
+          "w": "קָנִ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "יֹצְאִ֖ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "מִצִּדֶּ֑יהָ",
+          "morph": "HR/Ncmpc/Sp3fs"
+        },
+        {
+          "w": "שְׁלֹשָׁ֣ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "קְנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מְנֹרָ֗ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מִצִּדָּהּ֙",
+          "morph": "HR/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "הָאֶחָ֔ד",
+          "morph": "HTd/Acmsa"
+        },
+        {
+          "w": "וּשְׁלֹשָׁה֙",
+          "morph": "HC/Acmsa"
+        },
+        {
+          "w": "קְנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מְנֹרָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מִצִּדָּ֖הּ",
+          "morph": "HR/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "הַשֵּׁנִֽי",
+          "morph": "HTd/Aomsa"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "這 旁 每 枝 上 有 三 個 杯 ， 形 狀 像 杏 花 ， 有 球 ， 有 花 ； 那 旁 每 枝 上 也 有 三 個 杯 ， 形 狀 像 杏 花 ， 有 球 ， 有 花 。 從 燈 臺 杈 出 來 的 六 個 枝 子 都 是 如 此 。",
+      "en": "Three cups shaped like almond flowers with buds and blossoms are to be on one branch, and three cups shaped like almond flowers with buds and blossoms are to be on the next branch, and the same for the six branches extending from the lampstand.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׁלֹשָׁ֣ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "גְ֠בִעִים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מְֽשֻׁקָּדִ֞ים",
+          "morph": "HVPsmpa"
+        },
+        {
+          "w": "בַּקָּנֶ֣ה",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הָאֶחָד֮",
+          "morph": "HTd/Acmsa"
+        },
+        {
+          "w": "כַּפְתֹּ֣ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וָפֶרַח֒",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וּשְׁלֹשָׁ֣ה",
+          "morph": "HC/Acmsa"
+        },
+        {
+          "w": "גְבִעִ֗ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מְשֻׁקָּדִ֛ים",
+          "morph": "HVPsmpa"
+        },
+        {
+          "w": "בַּקָּנֶ֥ה",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הָאֶחָ֖ד",
+          "morph": "HTd/Acmsa"
+        },
+        {
+          "w": "כַּפְתֹּ֣ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וָפָ֑רַח",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "כֵּ֚ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "לְשֵׁ֣שֶׁת",
+          "morph": "HR/Acmsc"
+        },
+        {
+          "w": "הַקָּנִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הַיֹּצְאִ֖ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמְּנֹרָֽה",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "燈 臺 上 有 四 個 杯 ， 形 狀 像 杏 花 ， 有 球 ， 有 花 。",
+      "en": "On the lampstand there are to be four cups shaped like almond flowers with buds and blossoms,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבַמְּנֹרָ֖ה",
+          "morph": "HC/Rd/Ncfsa"
+        },
+        {
+          "w": "אַרְבָּעָ֣ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "גְבִעִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מְשֻׁקָּדִ֔ים",
+          "morph": "HVPsmpa"
+        },
+        {
+          "w": "כַּפְתֹּרֶ֖יהָ",
+          "morph": "HNcmpc/Sp3fs"
+        },
+        {
+          "w": "וּפְרָחֶֽיהָ",
+          "morph": "HC/Ncmpc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "燈 臺 每 兩 個 枝 子 以 下 有 球 與 枝 子 接 連 一 塊 。 燈 臺 出 的 六 個 枝 子 都 是 如 此 。",
+      "en": "with a bud under the first two branches from it, and a bud under the next two branches from it, and a bud under the third two branches from it, according to the six branches that extend from the lampstand.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכַפְתֹּ֡ר",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "תַּחַת֩",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁנֵ֨י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "הַקָּנִ֜ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "מִמֶּ֗נָּה",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "וְכַפְתֹּר֙",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "תַּ֣חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁנֵ֤י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "הַקָּנִים֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "מִמֶּ֔נָּה",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "וְכַפְתֹּ֕ר",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "תַּחַת",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁנֵ֥י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "הַקָּנִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "מִמֶּ֑נָּה",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "לְשֵׁ֨שֶׁת֙",
+          "morph": "HR/Acmsc"
+        },
+        {
+          "w": "הַקָּנִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הַיֹּצְאִ֖ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמְּנֹרָֽה",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "球 和 枝 子 要 接 連 一 塊 ， 都 是 一 塊 精 金 錘 出 來 的 。",
+      "en": "Their buds and their branches will be one piece, all of it one hammered piece of pure gold.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כַּפְתֹּרֵיהֶ֥ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "וּקְנֹתָ֖ם",
+          "morph": "HC/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "מִמֶּ֣נָּה",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "יִהְי֑וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "כֻּלָּ֛הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "מִקְשָׁ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אַחַ֖ת",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "זָהָ֥ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "טָהֽוֹר",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "zh": "要 做 燈 臺 的 七 個 燈 盞 。 祭 司 要 點 這 燈 ， 使 燈 光 對 照 。",
+      "en": "“You are to make its seven lamps and then set its lamps up on it, so that it will give light to the area in front of it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָשִׂ֥יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "נֵרֹתֶ֖יהָ",
+          "morph": "HNcmpc/Sp3fs"
+        },
+        {
+          "w": "שִׁבְעָ֑ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "וְהֶֽעֱלָה֙",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "נֵ֣רֹתֶ֔יהָ",
+          "morph": "HNcmpc/Sp3fs"
+        },
+        {
+          "w": "וְהֵאִ֖יר",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "עֵ֥בֶר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פָּנֶֽיהָ",
+          "morph": "HNcbpc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "zh": "燈 臺 的 蠟 剪 和 蠟 花 盤 也 是 要 精 金 的 。",
+      "en": "Its trimmers and its trays are to be of pure gold.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמַלְקָחֶ֥יהָ",
+          "morph": "HC/Ncmdc/Sp3fs"
+        },
+        {
+          "w": "וּמַחְתֹּתֶ֖יהָ",
+          "morph": "HC/Ncfpc/Sp3fs"
+        },
+        {
+          "w": "זָהָ֥ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "טָהֽוֹר",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "zh": "做 燈 臺 和 這 一 切 的 器 具 要 用 精 金 一 他 連 得 。",
+      "en": "About 75 pounds of pure gold is to be used for it and for all these utensils.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּכָּ֛ר",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "זָהָ֥ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "טָה֖וֹר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יַעֲשֶׂ֣ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֹתָ֑הּ",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "אֵ֥ת",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַכֵּלִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָאֵֽלֶּה",
+          "morph": "HTd/Pdxcp"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "zh": "要 謹 慎 做 這 些 物 件 ， 都 要 照 著 在 山 上 指 示 你 的 樣 式 。",
+      "en": "Now be sure to make them according to the pattern you were shown on the mountain.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּרְאֵ֖ה",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "וַעֲשֵׂ֑ה",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "בְּתַ֨בְנִיתָ֔ם",
+          "morph": "HR/Ncfsc/Sp3mp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אַתָּ֥ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "מָרְאֶ֖ה",
+          "morph": "HVHsmsa"
+        },
+        {
+          "w": "בָּהָֽר",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    }
+  ]
+}

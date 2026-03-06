@@ -1,0 +1,1272 @@
+{
+  "book": 53,
+  "chapter": 1,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "保 羅 、 西 拉 、 提 摩 太 寫 信 給 帖 撒 羅 尼 迦 在 神 我 們 的 父 與 主 耶 穌 基 督 裡 的 教 會 。",
+      "en": "From Paul and Silvanus and Timothy, to the church of the Thessalonians in God our Father and the Lord Jesus Christ.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Παῦλος",
+          "morph": "N-NSM",
+          "gloss": "Paul"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Σιλουανὸς",
+          "morph": "N-NSM",
+          "gloss": "Silvanus"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Τιμόθεος",
+          "morph": "N-NSM",
+          "gloss": "Timothy"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "To the"
+        },
+        {
+          "w": "ἐκκλησίᾳ",
+          "morph": "N-DSF",
+          "gloss": "church"
+        },
+        {
+          "w": "Θεσσαλονικέων",
+          "morph": "N-GPM",
+          "gloss": "of [the] Thessalonians"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "Θεῷ",
+          "morph": "N-DSM",
+          "gloss": "God"
+        },
+        {
+          "w": "Πατρὶ",
+          "morph": "N-DSM",
+          "gloss": "[the] Father"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Κυρίῳ",
+          "morph": "N-DSM",
+          "gloss": "the Lord"
+        },
+        {
+          "w": "Ἰησοῦ",
+          "morph": "N-DSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "Χριστῷ",
+          "morph": "N-DSM",
+          "gloss": "Christ"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "願 恩 惠 、 平 安 從 父 神 和 主 耶 穌 基 督 歸 與 你 們 ！",
+      "en": "Grace and peace to you from God the Father and the Lord Jesus Christ!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "χάρις",
+          "morph": "N-NSF",
+          "gloss": "Grace"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἰρήνη",
+          "morph": "N-NSF",
+          "gloss": "peace"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God"
+        },
+        {
+          "w": "Πατρὸς",
+          "morph": "N-GSM",
+          "gloss": "[the] Father"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "the Lord"
+        },
+        {
+          "w": "Ἰησοῦ",
+          "morph": "N-GSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "Χριστοῦ",
+          "morph": "N-GSM",
+          "gloss": "Christ"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "弟 兄 們 ， 我 們 該 為 你 們 常 常 感 謝 神 ， 這 本 是 合 宜 的 ； 因 你 們 的 信 心 格 外 增 長 ， 並 且 你 們 眾 人 彼 此 相 愛 的 心 也 都 充 足 。",
+      "en": "We ought to thank God always for you, brothers and sisters, and rightly so, because your faith flourishes more and more and the love of each one of you all for one another is ever greater.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Εὐχαριστεῖν",
+          "morph": "V-PAN",
+          "gloss": "To thank"
+        },
+        {
+          "w": "ὀφείλομεν",
+          "morph": "V-PAI-1P",
+          "gloss": "we ought"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεῷ",
+          "morph": "N-DSM",
+          "gloss": "God"
+        },
+        {
+          "w": "πάντοτε",
+          "morph": "ADV",
+          "gloss": "always"
+        },
+        {
+          "w": "περὶ",
+          "morph": "PREP",
+          "gloss": "concerning"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἀδελφοί",
+          "morph": "N-VPM",
+          "gloss": "brothers"
+        },
+        {
+          "w": "καθὼς",
+          "morph": "ADV",
+          "gloss": "just as"
+        },
+        {
+          "w": "ἄξιόν",
+          "morph": "A-NSN",
+          "gloss": "fitting"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "it is"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "because"
+        },
+        {
+          "w": "ὑπεραυξάνει",
+          "morph": "V-PAI-3S",
+          "gloss": "is increasing exceedingly"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "πίστις",
+          "morph": "N-NSF",
+          "gloss": "faith"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πλεονάζει",
+          "morph": "V-PAI-3S",
+          "gloss": "is abounding"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀγάπη",
+          "morph": "N-NSF",
+          "gloss": "love"
+        },
+        {
+          "w": "ἑνὸς",
+          "morph": "A-GSM",
+          "gloss": "of one"
+        },
+        {
+          "w": "ἑκάστου",
+          "morph": "A-GSM",
+          "gloss": "each"
+        },
+        {
+          "w": "πάντων",
+          "morph": "A-GPM",
+          "gloss": "of all"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "you"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "ἀλλήλους",
+          "morph": "C-APM",
+          "gloss": "one another"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "甚 至 我 們 在 神 的 各 教 會 裡 為 你 們 誇 口 ， 都 因 你 們 在 所 受 的 一 切 逼 迫 患 難 中 ， 仍 舊 存 忍 耐 和 信 心 。",
+      "en": "As a result we ourselves boast about you in the churches of God for your perseverance and faith in all the persecutions and afflictions you are enduring.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὥστε",
+          "morph": "CONJ",
+          "gloss": "so as for"
+        },
+        {
+          "w": "αὐτοὺς",
+          "morph": "P-APM",
+          "gloss": "ourselves"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἐνκαυχᾶσθαι",
+          "morph": "V-PNN",
+          "gloss": "to boast"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐκκλησίαις",
+          "morph": "N-DPF",
+          "gloss": "churches"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "ὑπὲρ",
+          "morph": "PREP",
+          "gloss": "about"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ὑπομονῆς",
+          "morph": "N-GSF",
+          "gloss": "perseverance"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πίστεως",
+          "morph": "N-GSF",
+          "gloss": "faith"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "πᾶσιν",
+          "morph": "A-DPM",
+          "gloss": "all"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "the"
+        },
+        {
+          "w": "διωγμοῖς",
+          "morph": "N-DPM",
+          "gloss": "persecutions"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "in the"
+        },
+        {
+          "w": "θλίψεσιν",
+          "morph": "N-DPF",
+          "gloss": "tribulations"
+        },
+        {
+          "w": "αἷς",
+          "morph": "R-DPF",
+          "gloss": "that"
+        },
+        {
+          "w": "ἀνέχεσθε",
+          "morph": "V-PNI-2P",
+          "gloss": "you are bearing"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "這 正 是 神 公 義 判 斷 的 明 證 ， 叫 你 們 可 算 配 得 神 的 國 ； 你 們 就 是 為 這 國 受 苦 。",
+      "en": "This is evidence of God’s righteous judgment, to make you worthy of the kingdom of God, for which in fact you are suffering.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἔνδειγμα",
+          "morph": "N-NSN",
+          "gloss": "[This is] a plain token"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "δικαίας",
+          "morph": "A-GSF",
+          "gloss": "righteous"
+        },
+        {
+          "w": "κρίσεως",
+          "morph": "N-GSF",
+          "gloss": "judgment"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "unto"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "καταξιωθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be accounted worthy"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "βασιλείας",
+          "morph": "N-GSF",
+          "gloss": "kingdom"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "ὑπὲρ",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "ἧς",
+          "morph": "R-GSF",
+          "gloss": "which"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "πάσχετε",
+          "morph": "V-PAI-2P",
+          "gloss": "you suffer"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "神 既 是 公 義 的 ， 就 必 將 患 難 報 應 那 加 患 難 給 你 們 的 人 ；",
+      "en": "For it is right for God to repay with affliction those who afflict you,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἴπερ",
+          "morph": "COND",
+          "gloss": "For indeed"
+        },
+        {
+          "w": "δίκαιον",
+          "morph": "A-NSN",
+          "gloss": "righteous [it is]"
+        },
+        {
+          "w": "παρὰ",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "Θεῷ",
+          "morph": "N-DSM",
+          "gloss": "God"
+        },
+        {
+          "w": "ἀνταποδοῦναι",
+          "morph": "V-2AAN",
+          "gloss": "to repay"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "those"
+        },
+        {
+          "w": "θλίβουσιν",
+          "morph": "V-PAP-DPM",
+          "gloss": "oppressing"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "θλῖψιν",
+          "morph": "N-ASF",
+          "gloss": "with affliction"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "也 必 使 你 們 這 受 患 難 的 人 與 我 們 同 得 平 安 。 那 時 ， 主 耶 穌 同 他 有 能 力 的 天 使 從 天 上 在 火 燄 中 顯 現 ，",
+      "en": "and to you who are being afflicted to give rest together with us when the Lord Jesus is revealed from heaven with his mighty angels.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "-"
+        },
+        {
+          "w": "θλιβομένοις",
+          "morph": "V-PPP-DPM",
+          "gloss": "being oppressed"
+        },
+        {
+          "w": "ἄνεσιν",
+          "morph": "N-ASF",
+          "gloss": "repose"
+        },
+        {
+          "w": "μεθ’",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "us"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "at"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀποκαλύψει",
+          "morph": "N-DSF",
+          "gloss": "revelation"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "Lord"
+        },
+        {
+          "w": "Ἰησοῦ",
+          "morph": "N-GSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "ἀπ’",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "οὐρανοῦ",
+          "morph": "N-GSM",
+          "gloss": "heaven"
+        },
+        {
+          "w": "μετ’",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "ἀγγέλων",
+          "morph": "N-GPM",
+          "gloss": "[the] angels"
+        },
+        {
+          "w": "δυνάμεως",
+          "morph": "N-GSF",
+          "gloss": "mighty"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "要 報 應 那 不 認 識 神 和 那 不 聽 從 我 主 耶 穌 福 音 的 人 。",
+      "en": "With flaming fire he will mete out punishment on those who do not know God and do not obey the gospel of our Lord Jesus.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "πυρὶ",
+          "morph": "N-DSN",
+          "gloss": "a fire"
+        },
+        {
+          "w": "φλογός",
+          "morph": "N-GSF",
+          "gloss": "of flame"
+        },
+        {
+          "w": "διδόντος",
+          "morph": "V-PAP-GSM",
+          "gloss": "inflicting"
+        },
+        {
+          "w": "ἐκδίκησιν",
+          "morph": "N-ASF",
+          "gloss": "vengeance"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "on those"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "εἰδόσιν",
+          "morph": "V-RAP-DPM",
+          "gloss": "knowing"
+        },
+        {
+          "w": "Θεὸν",
+          "morph": "N-ASM",
+          "gloss": "God"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "on those"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ὑπακούουσιν",
+          "morph": "V-PAP-DPM",
+          "gloss": "obeying"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "the"
+        },
+        {
+          "w": "εὐαγγελίῳ",
+          "morph": "N-DSN",
+          "gloss": "gospel"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "Lord"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "Ἰησοῦ",
+          "morph": "N-GSM",
+          "gloss": "Jesus"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "他 們 要 受 刑 罰 ， 就 是 永 遠 沉 淪 ， 離 開 主 的 面 和 他 權 能 的 榮 光 。",
+      "en": "They will undergo the penalty of eternal destruction, away from the presence of the Lord and from the glory of his strength,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οἵτινες",
+          "morph": "R-NPM",
+          "gloss": "who"
+        },
+        {
+          "w": "δίκην",
+          "morph": "N-ASF",
+          "gloss": "[the] penalty"
+        },
+        {
+          "w": "τίσουσιν",
+          "morph": "V-FAI-3P",
+          "gloss": "will suffer"
+        },
+        {
+          "w": "ὄλεθρον",
+          "morph": "N-ASM",
+          "gloss": "of destruction"
+        },
+        {
+          "w": "αἰώνιον",
+          "morph": "A-ASM",
+          "gloss": "eternal"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "away from"
+        },
+        {
+          "w": "προσώπου",
+          "morph": "N-GSN",
+          "gloss": "[the] presence"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "Lord"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "δόξης",
+          "morph": "N-GSF",
+          "gloss": "glory"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "ἰσχύος",
+          "morph": "N-GSF",
+          "gloss": "power"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "這 正 是 主 降 臨 、 要 在 他 聖 徒 的 身 上 得 榮 耀 ， 又 在 一 切 信 的 人 身 上 顯 為 希 奇 的 那 日 子 。 （ 我 們 對 你 們 作 的 見 證 ， 你 們 也 信 了 。 ）",
+      "en": "when he comes to be glorified among his saints and admired on that day among all who have believed—and you did in fact believe our testimony.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅταν",
+          "morph": "CONJ",
+          "gloss": "when"
+        },
+        {
+          "w": "ἔλθῃ",
+          "morph": "V-2AAS-3S",
+          "gloss": "He shall come"
+        },
+        {
+          "w": "ἐνδοξασθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be glorified"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἁγίοις",
+          "morph": "A-DPM",
+          "gloss": "saints"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "θαυμασθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be marveled at"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "among"
+        },
+        {
+          "w": "πᾶσιν",
+          "morph": "A-DPM",
+          "gloss": "all"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "those"
+        },
+        {
+          "w": "πιστεύσασιν",
+          "morph": "V-AAP-DPM",
+          "gloss": "having believed"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "because"
+        },
+        {
+          "w": "ἐπιστεύθη",
+          "morph": "V-API-3S",
+          "gloss": "was believed"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "μαρτύριον",
+          "morph": "N-NSN",
+          "gloss": "testimony"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "ἐφ’",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἡμέρᾳ",
+          "morph": "N-DSF",
+          "gloss": "day"
+        },
+        {
+          "w": "ἐκείνῃ",
+          "morph": "D-DSF",
+          "gloss": "that"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "因 此 ， 我 們 常 為 你 們 禱 告 ， 願 我 們 的 神 看 你 們 配 得 過 所 蒙 的 召 ， 又 用 大 能 成 就 你 們 一 切 所 羨 慕 的 良 善 和 一 切 因 信 心 所 做 的 工 夫 ；",
+      "en": "And in this regard we pray for you always, that our God will make you worthy of his calling and fulfill by his power your every desire for goodness and every work of faith,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Εἰς",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "ὃ",
+          "morph": "R-ASN",
+          "gloss": "which"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "προσευχόμεθα",
+          "morph": "V-PNI-1P",
+          "gloss": "we pray"
+        },
+        {
+          "w": "πάντοτε",
+          "morph": "ADV",
+          "gloss": "always"
+        },
+        {
+          "w": "περὶ",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἀξιώσῃ",
+          "morph": "V-AAS-3S",
+          "gloss": "He may count worthy"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "κλήσεως",
+          "morph": "N-GSF",
+          "gloss": "calling"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πληρώσῃ",
+          "morph": "V-AAS-3S",
+          "gloss": "He may fulfill"
+        },
+        {
+          "w": "πᾶσαν",
+          "morph": "A-ASF",
+          "gloss": "every"
+        },
+        {
+          "w": "εὐδοκίαν",
+          "morph": "N-ASF",
+          "gloss": "good pleasure"
+        },
+        {
+          "w": "ἀγαθωσύνης",
+          "morph": "N-GSF",
+          "gloss": "of goodness"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἔργον",
+          "morph": "N-ASN",
+          "gloss": "work"
+        },
+        {
+          "w": "πίστεως",
+          "morph": "N-GSF",
+          "gloss": "of faith"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "δυνάμει",
+          "morph": "N-DSF",
+          "gloss": "power"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "叫 我 們 主 耶 穌 的 名 在 你 們 身 上 得 榮 耀 ， 你 們 也 在 他 身 上 得 榮 耀 ， 都 照 著 我 們 的 神 並 主 耶 穌 基 督 的 恩 。",
+      "en": "that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅπως",
+          "morph": "ADV",
+          "gloss": "so that"
+        },
+        {
+          "w": "ἐνδοξασθῇ",
+          "morph": "V-APS-3S",
+          "gloss": "may be glorified"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὄνομα",
+          "morph": "N-NSN",
+          "gloss": "name"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "Lord"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "Ἰησοῦ",
+          "morph": "N-GSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὑμεῖς",
+          "morph": "P-2NP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "κατὰ",
+          "morph": "PREP",
+          "gloss": "according to"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "χάριν",
+          "morph": "N-ASF",
+          "gloss": "grace"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "[the] Lord"
+        },
+        {
+          "w": "Ἰησοῦ",
+          "morph": "N-GSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "Χριστοῦ",
+          "morph": "N-GSM",
+          "gloss": "Christ"
+        }
+      ]
+    }
+  ]
+}

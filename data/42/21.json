@@ -1,0 +1,3245 @@
+{
+  "book": 42,
+  "chapter": 21,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 穌 抬 頭 觀 看 ， 見 財 主 把 捐 項 投 在 庫 裡 ，",
+      "en": "Jesus looked up and saw the rich putting their gifts into the offering box.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἀναβλέψας",
+          "morph": "V-AAP-NSM",
+          "gloss": "Having looked up"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "εἶδεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "He saw"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the ones"
+        },
+        {
+          "w": "βάλλοντας",
+          "morph": "V-PAP-APM",
+          "gloss": "casting"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "γαζοφυλάκιον",
+          "morph": "N-ASN",
+          "gloss": "treasury"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "δῶρα",
+          "morph": "N-APN",
+          "gloss": "gifts"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "πλουσίους",
+          "morph": "A-APM",
+          "gloss": "rich"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "又 見 一 個 窮 寡 婦 投 了 兩 個 小 錢 ，",
+      "en": "He also saw a poor widow put in two small copper coins.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἶδεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "He saw"
+        },
+        {
+          "w": "δέ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "τινα",
+          "morph": "X-ASF",
+          "gloss": "a certain"
+        },
+        {
+          "w": "χήραν",
+          "morph": "N-ASF",
+          "gloss": "widow"
+        },
+        {
+          "w": "πενιχρὰν",
+          "morph": "A-ASF",
+          "gloss": "poor"
+        },
+        {
+          "w": "βάλλουσαν",
+          "morph": "V-PAP-ASF",
+          "gloss": "casting"
+        },
+        {
+          "w": "ἐκεῖ",
+          "morph": "ADV",
+          "gloss": "in"
+        },
+        {
+          "w": "λεπτὰ",
+          "morph": "N-APN",
+          "gloss": "lepta"
+        },
+        {
+          "w": "δύο",
+          "morph": "A-NUI",
+          "gloss": "two"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "就 說 ： 我 實 在 告 訴 你 們 ， 這 窮 寡 婦 所 投 的 比 眾 人 還 多 ；",
+      "en": "He said, “I tell you the truth, this poor widow has put in more than all of them.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "He said"
+        },
+        {
+          "w": "Ἀληθῶς",
+          "morph": "ADV",
+          "gloss": "Truly"
+        },
+        {
+          "w": "λέγω",
+          "morph": "V-PAI-1S",
+          "gloss": "I say"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "χήρα",
+          "morph": "N-NSF",
+          "gloss": "widow"
+        },
+        {
+          "w": "αὕτη",
+          "morph": "D-NSF",
+          "gloss": "this"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "πτωχὴ",
+          "morph": "A-NSF",
+          "gloss": "poor"
+        },
+        {
+          "w": "πλεῖον",
+          "morph": "A-ASN-C",
+          "gloss": "more"
+        },
+        {
+          "w": "πάντων",
+          "morph": "A-GPM",
+          "gloss": "than all"
+        },
+        {
+          "w": "ἔβαλεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "has cast in"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "因 為 眾 人 都 是 自 己 有 餘 ， 拿 出 來 投 在 捐 項 裡 ， 但 這 寡 婦 是 自 己 不 足 ， 把 他 一 切 養 生 的 都 投 上 了 。",
+      "en": "For they all offered their gifts out of their wealth. But she, out of her poverty, put in everything she had to live on.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "πάντες",
+          "morph": "A-NPM",
+          "gloss": "all"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "οὗτοι",
+          "morph": "D-NPM",
+          "gloss": "these"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "out of"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "that which"
+        },
+        {
+          "w": "περισσεύοντος",
+          "morph": "V-PAP-GSN",
+          "gloss": "was abounding"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "ἔβαλον",
+          "morph": "V-2AAI-3P",
+          "gloss": "cast"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "δῶρα",
+          "morph": "N-APN",
+          "gloss": "gifts"
+        },
+        {
+          "w": "αὕτη",
+          "morph": "D-NSF",
+          "gloss": "she"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "out of"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὑστερήματος",
+          "morph": "N-GSN",
+          "gloss": "poverty"
+        },
+        {
+          "w": "αὐτῆς",
+          "morph": "P-GSF",
+          "gloss": "of her"
+        },
+        {
+          "w": "πάντα",
+          "morph": "A-ASM",
+          "gloss": "all"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "βίον",
+          "morph": "N-ASM",
+          "gloss": "livelihood"
+        },
+        {
+          "w": "ὃν",
+          "morph": "R-ASM",
+          "gloss": "that"
+        },
+        {
+          "w": "εἶχεν",
+          "morph": "V-IAI-3S",
+          "gloss": "she had"
+        },
+        {
+          "w": "ἔβαλεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "did cast"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "有 人 談 論 聖 殿 是 用 美 石 和 供 物 妝 飾 的 ；",
+      "en": "Now while some were speaking about the temple, how it was adorned with beautiful stones and offerings, Jesus said,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καί",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "τινων",
+          "morph": "X-GPM",
+          "gloss": "as some"
+        },
+        {
+          "w": "λεγόντων",
+          "morph": "V-PAP-GPM",
+          "gloss": "were speaking"
+        },
+        {
+          "w": "περὶ",
+          "morph": "PREP",
+          "gloss": "about"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἱεροῦ",
+          "morph": "N-GSN",
+          "gloss": "temple"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "λίθοις",
+          "morph": "N-DPM",
+          "gloss": "with stones"
+        },
+        {
+          "w": "καλοῖς",
+          "morph": "A-DPM",
+          "gloss": "goodly"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀναθήμασιν",
+          "morph": "N-DPN",
+          "gloss": "consecrated gifts"
+        },
+        {
+          "w": "κεκόσμηται",
+          "morph": "V-RPI-3S",
+          "gloss": "it was adorned"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "He said"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "耶 穌 就 說 ： 論 到 你 們 所 看 見 的 這 一 切 ， 將 來 日 子 到 了 ， 在 這 裡 沒 有 一 塊 石 頭 留 在 石 頭 上 ， 不 被 拆 毀 了 。",
+      "en": "“As for these things that you are gazing at, the days will come when not one stone will be left on another. All will be torn down!”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ταῦτα",
+          "morph": "D-APN",
+          "gloss": "[As to] these things"
+        },
+        {
+          "w": "ἃ",
+          "morph": "R-APN",
+          "gloss": "which"
+        },
+        {
+          "w": "θεωρεῖτε",
+          "morph": "V-PAI-2P",
+          "gloss": "you are beholding"
+        },
+        {
+          "w": "ἐλεύσονται",
+          "morph": "V-FDI-3P",
+          "gloss": "will come"
+        },
+        {
+          "w": "ἡμέραι",
+          "morph": "N-NPF",
+          "gloss": "[the] days"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "αἷς",
+          "morph": "R-DPF",
+          "gloss": "which"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἀφεθήσεται",
+          "morph": "V-FPI-3S",
+          "gloss": "will be left"
+        },
+        {
+          "w": "λίθος",
+          "morph": "N-NSM",
+          "gloss": "stone"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "λίθῳ",
+          "morph": "N-DSM",
+          "gloss": "stone"
+        },
+        {
+          "w": "ὃς",
+          "morph": "R-NSM",
+          "gloss": "which"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "καταλυθήσεται",
+          "morph": "V-FPI-3S",
+          "gloss": "will be thrown down"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "他 們 問 他 說 ： 夫 子 ！ 甚 麼 時 候 有 這 事 呢 ？ 這 事 將 到 的 時 候 有 甚 麼 豫 兆 呢 ？",
+      "en": "So they asked him, “Teacher, when will these things happen? And what will be the sign that these things are about to take place?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐπηρώτησαν",
+          "morph": "V-AAI-3P",
+          "gloss": "They asked"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "λέγοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Διδάσκαλε",
+          "morph": "N-VSM",
+          "gloss": "Teacher"
+        },
+        {
+          "w": "πότε",
+          "morph": "PRT-I",
+          "gloss": "when"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-NPN",
+          "gloss": "these things"
+        },
+        {
+          "w": "ἔσται",
+          "morph": "V-FDI-3S",
+          "gloss": "will be"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τί",
+          "morph": "I-NSN",
+          "gloss": "what [will be]"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "σημεῖον",
+          "morph": "N-NSN",
+          "gloss": "sign"
+        },
+        {
+          "w": "ὅταν",
+          "morph": "CONJ",
+          "gloss": "when"
+        },
+        {
+          "w": "μέλλῃ",
+          "morph": "V-PAS-3S",
+          "gloss": "are about"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-NPN",
+          "gloss": "these things"
+        },
+        {
+          "w": "γίνεσθαι",
+          "morph": "V-PNN",
+          "gloss": "to take place"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "耶 穌 說 ： 你 們 要 謹 慎 ， 不 要 受 迷 惑 ； 因 為 將 來 有 好 些 人 冒 我 的 名 來 ， 說 ： 我 是 基 督 ， 又 說 ： 時 候 近 了 ， 你 們 不 要 跟 從 他 們 ！",
+      "en": "He said, “Watch out that you are not misled. For many will come in my name, saying, ‘I am he,’ and, ‘The time is near.’ Do not follow them!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "He said"
+        },
+        {
+          "w": "Βλέπετε",
+          "morph": "V-PAM-2P",
+          "gloss": "Take heed"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "lest"
+        },
+        {
+          "w": "πλανηθῆτε",
+          "morph": "V-APS-2P",
+          "gloss": "you be led astray"
+        },
+        {
+          "w": "πολλοὶ",
+          "morph": "A-NPM",
+          "gloss": "many"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἐλεύσονται",
+          "morph": "V-FDI-3P",
+          "gloss": "will come"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀνόματί",
+          "morph": "N-DSN",
+          "gloss": "name"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of Me"
+        },
+        {
+          "w": "λέγοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Ἐγώ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "εἰμι",
+          "morph": "V-PAI-1S",
+          "gloss": "am [He]"
+        },
+        {
+          "w": "καί",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Ὁ",
+          "morph": "T-NSM",
+          "gloss": "The"
+        },
+        {
+          "w": "καιρὸς",
+          "morph": "N-NSM",
+          "gloss": "time"
+        },
+        {
+          "w": "ἤγγικεν",
+          "morph": "V-RAI-3S",
+          "gloss": "is drawn near"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "πορευθῆτε",
+          "morph": "V-AOS-2P",
+          "gloss": "go"
+        },
+        {
+          "w": "ὀπίσω",
+          "morph": "ADV",
+          "gloss": "after"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "them"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "你 們 聽 見 打 仗 和 擾 亂 的 事 ， 不 要 驚 惶 ； 因 為 這 些 事 必 須 先 有 ， 只 是 末 期 不 能 立 時 就 到 。",
+      "en": "And when you hear of wars and rebellions, do not be afraid. For these things must happen first, but the end will not come at once.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅταν",
+          "morph": "CONJ",
+          "gloss": "When"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ἀκούσητε",
+          "morph": "V-AAS-2P",
+          "gloss": "you should hear of"
+        },
+        {
+          "w": "πολέμους",
+          "morph": "N-APM",
+          "gloss": "wars"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀκαταστασίας",
+          "morph": "N-APF",
+          "gloss": "commotions"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "πτοηθῆτε",
+          "morph": "V-APS-2P",
+          "gloss": "be terrified"
+        },
+        {
+          "w": "δεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "it behooves"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-APN",
+          "gloss": "these things"
+        },
+        {
+          "w": "γενέσθαι",
+          "morph": "V-2ADN",
+          "gloss": "to take place"
+        },
+        {
+          "w": "πρῶτον",
+          "morph": "ADV-S",
+          "gloss": "first"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "εὐθέως",
+          "morph": "ADV",
+          "gloss": "immediately [is]"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "τέλος",
+          "morph": "N-NSN",
+          "gloss": "end"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "當 時 ， 耶 穌 對 他 們 說 ： 民 要 攻 打 民 ， 國 要 攻 打 國 ；",
+      "en": "Then he said to them, “Nation will rise up in arms against nation, and kingdom against kingdom.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Τότε",
+          "morph": "ADV",
+          "gloss": "Then"
+        },
+        {
+          "w": "ἔλεγεν",
+          "morph": "V-IAI-3S",
+          "gloss": "He was saying"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "Ἐγερθήσεται",
+          "morph": "V-FPI-3S",
+          "gloss": "Will rise up"
+        },
+        {
+          "w": "ἔθνος",
+          "morph": "N-NSN",
+          "gloss": "nation"
+        },
+        {
+          "w": "ἐπ’",
+          "morph": "PREP",
+          "gloss": "against"
+        },
+        {
+          "w": "ἔθνος",
+          "morph": "N-ASN",
+          "gloss": "nation"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "βασιλεία",
+          "morph": "N-NSF",
+          "gloss": "kingdom"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "against"
+        },
+        {
+          "w": "βασιλείαν",
+          "morph": "N-ASF",
+          "gloss": "kingdom"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "地 要 大 大 震 動 ， 多 處 必 有 饑 荒 、 瘟 疫 ， 又 有 可 怕 的 異 象 和 大 神 蹟 從 天 上 顯 現 。",
+      "en": "There will be great earthquakes, and famines and plagues in various places, and there will be terrifying sights and great signs from heaven.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "σεισμοί",
+          "morph": "N-NPM",
+          "gloss": "Earthquakes"
+        },
+        {
+          "w": "τε",
+          "morph": "PRT",
+          "gloss": "both"
+        },
+        {
+          "w": "μεγάλοι",
+          "morph": "A-NPM",
+          "gloss": "great"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "κατὰ",
+          "morph": "PREP",
+          "gloss": "in different"
+        },
+        {
+          "w": "τόπους",
+          "morph": "N-APM",
+          "gloss": "places"
+        },
+        {
+          "w": "λοιμοὶ",
+          "morph": "N-NPM",
+          "gloss": "famines"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "λιμοὶ",
+          "morph": "N-NPM",
+          "gloss": "pestilences"
+        },
+        {
+          "w": "ἔσονται",
+          "morph": "V-FDI-3P",
+          "gloss": "there will be"
+        },
+        {
+          "w": "φόβητρά",
+          "morph": "N-NPN",
+          "gloss": "fearful sights"
+        },
+        {
+          "w": "τε",
+          "morph": "PRT",
+          "gloss": "also"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀπ’",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "οὐρανοῦ",
+          "morph": "N-GSM",
+          "gloss": "heaven"
+        },
+        {
+          "w": "σημεῖα",
+          "morph": "N-NPN",
+          "gloss": "signs"
+        },
+        {
+          "w": "μεγάλα",
+          "morph": "A-NPN",
+          "gloss": "great"
+        },
+        {
+          "w": "ἔσται",
+          "morph": "V-FDI-3S",
+          "gloss": "will there be"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "但 這 一 切 的 事 以 先 ， 人 要 下 手 拿 住 你 們 ， 逼 迫 你 們 ， 把 你 們 交 給 會 堂 ， 並 且 收 在 監 裡 ， 又 為 我 的 名 拉 你 們 到 君 王 諸 侯 面 前 。",
+      "en": "But before all this, they will seize you and persecute you, handing you over to the synagogues and prisons. You will be brought before kings and governors because of my name.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "πρὸ",
+          "morph": "PREP",
+          "gloss": "Before"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "τούτων",
+          "morph": "D-GPN",
+          "gloss": "these things"
+        },
+        {
+          "w": "πάντων",
+          "morph": "A-GPN",
+          "gloss": "all"
+        },
+        {
+          "w": "ἐπιβαλοῦσιν",
+          "morph": "V-FAI-3P",
+          "gloss": "they will lay"
+        },
+        {
+          "w": "ἐφ’",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "τὰς",
+          "morph": "T-APF",
+          "gloss": "the"
+        },
+        {
+          "w": "χεῖρας",
+          "morph": "N-APF",
+          "gloss": "hands"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "διώξουσιν",
+          "morph": "V-FAI-3P",
+          "gloss": "will persecute [you]"
+        },
+        {
+          "w": "παραδιδόντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "delivering [you]"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὰς",
+          "morph": "T-APF",
+          "gloss": "the"
+        },
+        {
+          "w": "συναγωγὰς",
+          "morph": "N-APF",
+          "gloss": "synagogues"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "φυλακάς",
+          "morph": "N-APF",
+          "gloss": "prisons"
+        },
+        {
+          "w": "ἀπαγομένους",
+          "morph": "V-PPP-APM",
+          "gloss": "bringing [you]"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "before"
+        },
+        {
+          "w": "βασιλεῖς",
+          "morph": "N-APM",
+          "gloss": "kings"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἡγεμόνας",
+          "morph": "N-APM",
+          "gloss": "governors"
+        },
+        {
+          "w": "ἕνεκεν",
+          "morph": "PREP",
+          "gloss": "on account of"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀνόματός",
+          "morph": "N-GSN",
+          "gloss": "name"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of Me"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "但 這 些 事 終 必 為 你 們 的 見 證 。",
+      "en": "This will be a time for you to serve as witnesses.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀποβήσεται",
+          "morph": "V-FDI-3S",
+          "gloss": "It will result"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "μαρτύριον",
+          "morph": "N-ASN",
+          "gloss": "a testimony"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "所 以 ， 你 們 當 立 定 心 意 ， 不 要 預 先 思 想 怎 樣 分 訴 ；",
+      "en": "Therefore be resolved not to rehearse ahead of time how to make your defense.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "θέτε",
+          "morph": "V-2AAM-2P",
+          "gloss": "Settle"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "καρδίαις",
+          "morph": "N-DPF",
+          "gloss": "minds"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "προμελετᾶν",
+          "morph": "V-PAN",
+          "gloss": "to premeditate"
+        },
+        {
+          "w": "ἀπολογηθῆναι",
+          "morph": "V-AON",
+          "gloss": "to make a defense"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "因 為 我 必 賜 你 們 口 才 、 智 慧 ， 是 你 們 一 切 敵 人 所 敵 不 住 、 駁 不 倒 的 。",
+      "en": "For I will give you the words along with the wisdom that none of your adversaries will be able to withstand or contradict.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "δώσω",
+          "morph": "V-FAI-1S",
+          "gloss": "will give"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "you"
+        },
+        {
+          "w": "στόμα",
+          "morph": "N-ASN",
+          "gloss": "a mouth"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "σοφίαν",
+          "morph": "N-ASF",
+          "gloss": "wisdom"
+        },
+        {
+          "w": "ᾗ",
+          "morph": "R-DSF",
+          "gloss": "which"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "δυνήσονται",
+          "morph": "V-FDI-3P",
+          "gloss": "will be able"
+        },
+        {
+          "w": "ἀντιστῆναι",
+          "morph": "V-2AAN",
+          "gloss": "to resist"
+        },
+        {
+          "w": "ἢ",
+          "morph": "PRT",
+          "gloss": "nor"
+        },
+        {
+          "w": "ἀντειπεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to reply to"
+        },
+        {
+          "w": "ἅπαντες",
+          "morph": "A-NPM",
+          "gloss": "all"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "those"
+        },
+        {
+          "w": "ἀντικείμενοι",
+          "morph": "V-PNP-NPM",
+          "gloss": "opposing"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "you"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "連 你 們 的 父 母 、 弟 兄 、 親 族 、 朋 友 也 要 把 你 們 交 官 ； 你 們 也 有 被 他 們 害 死 的 。",
+      "en": "You will be betrayed even by parents, brothers, relatives, and friends, and they will have some of you put to death.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "παραδοθήσεσθε",
+          "morph": "V-FPI-2P",
+          "gloss": "You will be betrayed"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "even"
+        },
+        {
+          "w": "ὑπὸ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "γονέων",
+          "morph": "N-GPM",
+          "gloss": "parents"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀδελφῶν",
+          "morph": "N-GPM",
+          "gloss": "brothers"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "συγγενῶν",
+          "morph": "A-GPM",
+          "gloss": "relatives"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "φίλων",
+          "morph": "A-GPM",
+          "gloss": "friends"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "θανατώσουσιν",
+          "morph": "V-FAI-3P",
+          "gloss": "they will put to death"
+        },
+        {
+          "w": "ἐξ",
+          "morph": "PREP",
+          "gloss": "[some] from among"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "you"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "你 們 要 為 我 的 名 被 眾 人 恨 惡 ，",
+      "en": "You will be hated by everyone because of my name.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἔσεσθε",
+          "morph": "V-FDI-2P",
+          "gloss": "you will be"
+        },
+        {
+          "w": "μισούμενοι",
+          "morph": "V-PPP-NPM",
+          "gloss": "hated"
+        },
+        {
+          "w": "ὑπὸ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "πάντων",
+          "morph": "A-GPM",
+          "gloss": "all"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "because of"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὄνομά",
+          "morph": "N-ASN",
+          "gloss": "name"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of Me"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "然 而 ， 你 們 連 一 根 頭 髮 也 必 不 損 壞 。",
+      "en": "Yet not a hair of your head will perish.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "But"
+        },
+        {
+          "w": "θρὶξ",
+          "morph": "N-NSF",
+          "gloss": "a hair"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "κεφαλῆς",
+          "morph": "N-GSF",
+          "gloss": "head"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "no"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἀπόληται",
+          "morph": "V-2AMS-3S",
+          "gloss": "should perish"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "你 們 常 存 忍 耐 ， 就 必 保 全 靈 魂 （ 或 作 ： 必 得 生 命 ） 。",
+      "en": "By your endurance you will gain your lives.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "By"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ὑπομονῇ",
+          "morph": "N-DSF",
+          "gloss": "patient endurance"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "κτήσεσθε",
+          "morph": "V-FDI-2P",
+          "gloss": "you will gain"
+        },
+        {
+          "w": "τὰς",
+          "morph": "T-APF",
+          "gloss": "the"
+        },
+        {
+          "w": "ψυχὰς",
+          "morph": "N-APF",
+          "gloss": "souls"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "你 們 看 見 耶 路 撒 冷 被 兵 圍 困 ， 就 可 知 道 他 成 荒 場 的 日 子 近 了 。",
+      "en": "“But when you see Jerusalem surrounded by armies, then know that its desolation has come near.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ὅταν",
+          "morph": "CONJ",
+          "gloss": "When"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ἴδητε",
+          "morph": "V-2AAS-2P",
+          "gloss": "you see"
+        },
+        {
+          "w": "κυκλουμένην",
+          "morph": "V-PPP-ASF",
+          "gloss": "being encircled"
+        },
+        {
+          "w": "ὑπὸ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "στρατοπέδων",
+          "morph": "N-GPN",
+          "gloss": "encampments"
+        },
+        {
+          "w": "Ἱερουσαλήμ",
+          "morph": "N-PRI",
+          "gloss": "Jerusalem"
+        },
+        {
+          "w": "τότε",
+          "morph": "ADV",
+          "gloss": "then"
+        },
+        {
+          "w": "γνῶτε",
+          "morph": "V-2AAM-2P",
+          "gloss": "know"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἤγγικεν",
+          "morph": "V-RAI-3S",
+          "gloss": "has drawn near"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐρήμωσις",
+          "morph": "N-NSF",
+          "gloss": "desolation"
+        },
+        {
+          "w": "αὐτῆς",
+          "morph": "P-GSF",
+          "gloss": "of her"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "那 時 ， 在 猶 太 的 應 當 逃 到 山 上 ； 在 城 裡 的 應 當 出 來 ； 在 鄉 下 的 不 要 進 城 ；",
+      "en": "Then those who are in Judea must flee to the mountains. Those who are inside the city must depart. Those who are out in the country must not enter it,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τότε",
+          "morph": "ADV",
+          "gloss": "Then"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "those"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰουδαίᾳ",
+          "morph": "N-DSF",
+          "gloss": "Judea"
+        },
+        {
+          "w": "φευγέτωσαν",
+          "morph": "V-PAM-3P",
+          "gloss": "let them flee"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὄρη",
+          "morph": "N-APN",
+          "gloss": "mountains"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "those"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "μέσῳ",
+          "morph": "A-DSN",
+          "gloss": "midst"
+        },
+        {
+          "w": "αὐτῆς",
+          "morph": "P-GSF",
+          "gloss": "of her"
+        },
+        {
+          "w": "ἐκχωρείτωσαν",
+          "morph": "V-PAM-3P",
+          "gloss": "let them depart out"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "those"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "χώραις",
+          "morph": "N-DPF",
+          "gloss": "countries"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "εἰσερχέσθωσαν",
+          "morph": "V-PNM-3P",
+          "gloss": "let them enter"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "αὐτήν",
+          "morph": "P-ASF",
+          "gloss": "her"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "因 為 這 是 報 應 的 日 子 ， 使 經 上 所 寫 的 都 得 應 驗 。",
+      "en": "because these are days of vengeance, to fulfill all that is written.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἡμέραι",
+          "morph": "N-NPF",
+          "gloss": "[the] days"
+        },
+        {
+          "w": "ἐκδικήσεως",
+          "morph": "N-GSF",
+          "gloss": "of avenging"
+        },
+        {
+          "w": "αὗταί",
+          "morph": "D-NPF",
+          "gloss": "these"
+        },
+        {
+          "w": "εἰσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "are"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "-"
+        },
+        {
+          "w": "πλησθῆναι",
+          "morph": "V-APN",
+          "gloss": "to fulfill"
+        },
+        {
+          "w": "πάντα",
+          "morph": "A-APN",
+          "gloss": "all things"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "-"
+        },
+        {
+          "w": "γεγραμμένα",
+          "morph": "V-RPP-APN",
+          "gloss": "having been written"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "當 那 些 日 子 ， 懷 孕 的 和 奶 孩 子 的 有 禍 了 ！ 因 為 將 有 大 災 難 降 在 這 地 方 ， 也 有 震 怒 臨 到 這 百 姓 。",
+      "en": "Woe to those who are pregnant and to those who are nursing their babies in those days! For there will be great distress on the earth and wrath against this people.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὐαὶ",
+          "morph": "INJ",
+          "gloss": "But woe"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "to those"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "γαστρὶ",
+          "morph": "N-DSF",
+          "gloss": "womb"
+        },
+        {
+          "w": "ἐχούσαις",
+          "morph": "V-PAP-DPF",
+          "gloss": "having"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "to the [ones]"
+        },
+        {
+          "w": "θηλαζούσαις",
+          "morph": "V-PAP-DPF",
+          "gloss": "nursing"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἐκείναις",
+          "morph": "D-DPF",
+          "gloss": "those"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἡμέραις",
+          "morph": "N-DPF",
+          "gloss": "days"
+        },
+        {
+          "w": "ἔσται",
+          "morph": "V-FDI-3S",
+          "gloss": "there will be"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἀνάγκη",
+          "morph": "N-NSF",
+          "gloss": "distress"
+        },
+        {
+          "w": "μεγάλη",
+          "morph": "A-NSF",
+          "gloss": "great"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γῆς",
+          "morph": "N-GSF",
+          "gloss": "land"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὀργὴ",
+          "morph": "N-NSF",
+          "gloss": "wrath"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "to the"
+        },
+        {
+          "w": "λαῷ",
+          "morph": "N-DSM",
+          "gloss": "people"
+        },
+        {
+          "w": "τούτῳ",
+          "morph": "D-DSM",
+          "gloss": "this"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "他 們 要 倒 在 刀 下 ， 又 被 擄 到 各 國 去 。 耶 路 撒 冷 要 被 外 邦 人 踐 踏 ， 直 到 外 邦 人 的 日 期 滿 了 。",
+      "en": "They will fall by the edge of the sword and be led away as captives among all nations. Jerusalem will be trampled down by the Gentiles until the times of the Gentiles are fulfilled.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "πεσοῦνται",
+          "morph": "V-FNI-3P",
+          "gloss": "they will fall"
+        },
+        {
+          "w": "στόματι",
+          "morph": "N-DSN",
+          "gloss": "by [the] edge"
+        },
+        {
+          "w": "μαχαίρης",
+          "morph": "N-GSF",
+          "gloss": "of [the] sword"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "αἰχμαλωτισθήσονται",
+          "morph": "V-FPI-3P",
+          "gloss": "will be led captive"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἔθνη",
+          "morph": "N-APN",
+          "gloss": "nations"
+        },
+        {
+          "w": "πάντα",
+          "morph": "A-APN",
+          "gloss": "all"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Ἱερουσαλὴμ",
+          "morph": "N-PRI",
+          "gloss": "Jerusalem"
+        },
+        {
+          "w": "ἔσται",
+          "morph": "V-FDI-3S",
+          "gloss": "will be"
+        },
+        {
+          "w": "πατουμένη",
+          "morph": "V-PPP-NSF",
+          "gloss": "trodden down"
+        },
+        {
+          "w": "ὑπὸ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "ἐθνῶν",
+          "morph": "N-GPN",
+          "gloss": "[the] Gentiles"
+        },
+        {
+          "w": "ἄχρι",
+          "morph": "ADV",
+          "gloss": "until"
+        },
+        {
+          "w": "οὗ",
+          "morph": "R-GSM",
+          "gloss": "that"
+        },
+        {
+          "w": "πληρωθῶσιν",
+          "morph": "V-APS-3P",
+          "gloss": "are fulfilled"
+        },
+        {
+          "w": "καιροὶ",
+          "morph": "N-NPM",
+          "gloss": "[the] times"
+        },
+        {
+          "w": "ἐθνῶν",
+          "morph": "N-GPN",
+          "gloss": "of [the] Gentiles"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "日 、 月 、 星 辰 要 顯 出 異 兆 ， 地 上 的 邦 國 也 有 困 苦 ； 因 海 中 波 浪 的 響 聲 ， 就 慌 慌 不 定 。",
+      "en": "“And there will be signs in the sun and moon and stars, and on the earth nations will be in distress, anxious over the roaring of the sea and the surging waves.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἔσονται",
+          "morph": "V-FDI-3P",
+          "gloss": "there will be"
+        },
+        {
+          "w": "σημεῖα",
+          "morph": "N-NPN",
+          "gloss": "signs"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἡλίῳ",
+          "morph": "N-DSM",
+          "gloss": "sun"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "σελήνῃ",
+          "morph": "N-DSF",
+          "gloss": "moon"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἄστροις",
+          "morph": "N-DPN",
+          "gloss": "stars"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γῆς",
+          "morph": "N-GSF",
+          "gloss": "earth"
+        },
+        {
+          "w": "συνοχὴ",
+          "morph": "N-NSF",
+          "gloss": "distress"
+        },
+        {
+          "w": "ἐθνῶν",
+          "morph": "N-GPN",
+          "gloss": "of nations"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "ἀπορίᾳ",
+          "morph": "N-DSF",
+          "gloss": "perplexity"
+        },
+        {
+          "w": "ἤχους",
+          "morph": "N-GSN",
+          "gloss": "[the] roaring"
+        },
+        {
+          "w": "θαλάσσης",
+          "morph": "N-GSF",
+          "gloss": "of [the] sea"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "σάλου",
+          "morph": "N-GSM",
+          "gloss": "rolling surge"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "天 勢 都 要 震 動 ， 人 想 起 那 將 要 臨 到 世 界 的 事 ， 就 都 嚇 得 魂 不 附 體 。",
+      "en": "People will be fainting from fear and from the expectation of what is coming on the world, for the powers of the heavens will be shaken.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀποψυχόντων",
+          "morph": "V-PAP-GPM",
+          "gloss": "fainting"
+        },
+        {
+          "w": "ἀνθρώπων",
+          "morph": "N-GPM",
+          "gloss": "men"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "φόβου",
+          "morph": "N-GSM",
+          "gloss": "fear"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "προσδοκίας",
+          "morph": "N-GSF",
+          "gloss": "expectation"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of that which"
+        },
+        {
+          "w": "ἐπερχομένων",
+          "morph": "V-PNP-GPM",
+          "gloss": "is coming"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "on the"
+        },
+        {
+          "w": "οἰκουμένῃ",
+          "morph": "N-DSF",
+          "gloss": "earth"
+        },
+        {
+          "w": "αἱ",
+          "morph": "T-NPF",
+          "gloss": "-"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "δυνάμεις",
+          "morph": "N-NPF",
+          "gloss": "the powers"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "οὐρανῶν",
+          "morph": "N-GPM",
+          "gloss": "heavens"
+        },
+        {
+          "w": "σαλευθήσονται",
+          "morph": "V-FPI-3P",
+          "gloss": "will be shaken"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "那 時 ， 他 們 要 看 見 人 子 有 能 力 ， 有 大 榮 耀 駕 雲 降 臨 。",
+      "en": "Then they will see the Son of Man arriving in a cloud with power and great glory.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "τότε",
+          "morph": "ADV",
+          "gloss": "then"
+        },
+        {
+          "w": "ὄψονται",
+          "morph": "V-FDI-3P",
+          "gloss": "will they see"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "Υἱὸν",
+          "morph": "N-ASM",
+          "gloss": "Son"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἀνθρώπου",
+          "morph": "N-GSM",
+          "gloss": "of Man"
+        },
+        {
+          "w": "ἐρχόμενον",
+          "morph": "V-PNP-ASM",
+          "gloss": "coming"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "νεφέλῃ",
+          "morph": "N-DSF",
+          "gloss": "a cloud"
+        },
+        {
+          "w": "μετὰ",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "δυνάμεως",
+          "morph": "N-GSF",
+          "gloss": "power"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "δόξης",
+          "morph": "N-GSF",
+          "gloss": "glory"
+        },
+        {
+          "w": "πολλῆς",
+          "morph": "A-GSF",
+          "gloss": "great"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "一 有 這 些 事 ， 你 們 就 當 挺 身 昂 首 ， 因 為 你 們 得 贖 的 日 子 近 了 。",
+      "en": "But when these things begin to happen, stand up and raise your heads because your redemption is drawing near.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀρχομένων",
+          "morph": "V-PMP-GPM",
+          "gloss": "Beginning"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "τούτων",
+          "morph": "D-GPM",
+          "gloss": "of these things"
+        },
+        {
+          "w": "γίνεσθαι",
+          "morph": "V-PNN",
+          "gloss": "to come to pass"
+        },
+        {
+          "w": "ἀνακύψατε",
+          "morph": "V-AAM-2P",
+          "gloss": "look up"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐπάρατε",
+          "morph": "V-AAM-2P",
+          "gloss": "lift up"
+        },
+        {
+          "w": "τὰς",
+          "morph": "T-APF",
+          "gloss": "the"
+        },
+        {
+          "w": "κεφαλὰς",
+          "morph": "N-APF",
+          "gloss": "heads"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "διότι",
+          "morph": "CONJ",
+          "gloss": "because"
+        },
+        {
+          "w": "ἐγγίζει",
+          "morph": "V-PAI-3S",
+          "gloss": "draws near"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀπολύτρωσις",
+          "morph": "N-NSF",
+          "gloss": "redemption"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "耶 穌 又 設 比 喻 對 他 們 說 ： 你 們 看 無 花 果 樹 和 各 樣 的 樹 ； 他 發 芽 的 時 候 ， 你 們 一 看 見 ， 自 然 曉 得 夏 天 近 了 。",
+      "en": "Then he told them a parable: “Look at the fig tree and all the other trees.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "He spoke"
+        },
+        {
+          "w": "παραβολὴν",
+          "morph": "N-ASF",
+          "gloss": "a parable"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "Ἴδετε",
+          "morph": "V-2AAM-2P",
+          "gloss": "Behold"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "συκῆν",
+          "morph": "N-ASF",
+          "gloss": "fig tree"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πάντα",
+          "morph": "A-APN",
+          "gloss": "all"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "δένδρα",
+          "morph": "N-APN",
+          "gloss": "trees"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "a",
+      "en": "When they sprout leaves, you see for yourselves and know that summer is now near.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅταν",
+          "morph": "CONJ",
+          "gloss": "When"
+        },
+        {
+          "w": "προβάλωσιν",
+          "morph": "V-2AAS-3P",
+          "gloss": "they sprout"
+        },
+        {
+          "w": "ἤδη",
+          "morph": "ADV",
+          "gloss": "already"
+        },
+        {
+          "w": "βλέποντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "looking [on them]"
+        },
+        {
+          "w": "ἀφ’",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "ἑαυτῶν",
+          "morph": "F-2GPM",
+          "gloss": "yourselves"
+        },
+        {
+          "w": "γινώσκετε",
+          "morph": "V-PAI-2P",
+          "gloss": "you know"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἤδη",
+          "morph": "ADV",
+          "gloss": "already"
+        },
+        {
+          "w": "ἐγγὺς",
+          "morph": "ADV",
+          "gloss": "near"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "θέρος",
+          "morph": "N-NSN",
+          "gloss": "summer"
+        },
+        {
+          "w": "ἐστίν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "這 樣 ， 你 們 看 見 這 些 事 漸 漸 的 成 就 ， 也 該 曉 得 神 的 國 近 了 。",
+      "en": "So also you, when you see these things happening, know that the kingdom of God is near.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὕτως",
+          "morph": "ADV",
+          "gloss": "So"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ὑμεῖς",
+          "morph": "P-2NP",
+          "gloss": "you"
+        },
+        {
+          "w": "ὅταν",
+          "morph": "CONJ",
+          "gloss": "when"
+        },
+        {
+          "w": "ἴδητε",
+          "morph": "V-2AAS-2P",
+          "gloss": "you see"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-APN",
+          "gloss": "these things"
+        },
+        {
+          "w": "γινόμενα",
+          "morph": "V-PNP-APN",
+          "gloss": "coming to pass"
+        },
+        {
+          "w": "γινώσκετε",
+          "morph": "V-PAM-2P",
+          "gloss": "know"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἐγγύς",
+          "morph": "ADV",
+          "gloss": "near"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "βασιλεία",
+          "morph": "N-NSF",
+          "gloss": "kingdom"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "我 實 在 告 訴 你 們 ， 這 世 代 還 沒 有 過 去 ， 這 些 事 都 要 成 就 。",
+      "en": "I tell you the truth, this generation will not pass away until all these things take place.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀμὴν",
+          "morph": "HEB",
+          "gloss": "Truly"
+        },
+        {
+          "w": "λέγω",
+          "morph": "V-PAI-1S",
+          "gloss": "I say"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "no"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "παρέλθῃ",
+          "morph": "V-2AAS-3S",
+          "gloss": "will have passed away"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γενεὰ",
+          "morph": "N-NSF",
+          "gloss": "generation"
+        },
+        {
+          "w": "αὕτη",
+          "morph": "D-NSF",
+          "gloss": "this"
+        },
+        {
+          "w": "ἕως",
+          "morph": "ADV",
+          "gloss": "until"
+        },
+        {
+          "w": "ἂν",
+          "morph": "PRT",
+          "gloss": "-"
+        },
+        {
+          "w": "πάντα",
+          "morph": "A-NPN",
+          "gloss": "all [these things]"
+        },
+        {
+          "w": "γένηται",
+          "morph": "V-2ADS-3S",
+          "gloss": "shall have taken place"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "天 地 要 廢 去 ， 我 的 話 卻 不 能 廢 去 。",
+      "en": "Heaven and earth will pass away, but my words will never pass away.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "The"
+        },
+        {
+          "w": "οὐρανὸς",
+          "morph": "N-NSM",
+          "gloss": "heaven"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γῆ",
+          "morph": "N-NSF",
+          "gloss": "earth"
+        },
+        {
+          "w": "παρελεύσονται",
+          "morph": "V-FDI-3P",
+          "gloss": "will pass away"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "λόγοι",
+          "morph": "N-NPM",
+          "gloss": "the words"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of Me"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "no"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "παρελεύσονται",
+          "morph": "V-FDI-3P",
+          "gloss": "will pass away"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "你 們 要 謹 慎 ， 恐 怕 因 貪 食 、 醉 酒 ， 並 今 生 的 思 慮 累 住 你 們 的 心 ， 那 日 子 就 如 同 網 羅 忽 然 臨 到 你 們 ；",
+      "en": "“But be on your guard so that your hearts are not weighed down with dissipation and drunkenness and the worries of this life, and that day close down upon you suddenly like a trap.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Προσέχετε",
+          "morph": "V-PAM-2P",
+          "gloss": "Take heed"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ἑαυτοῖς",
+          "morph": "F-2DPM",
+          "gloss": "to yourselves"
+        },
+        {
+          "w": "μή",
+          "morph": "PRT-N",
+          "gloss": "lest"
+        },
+        {
+          "w": "ποτε",
+          "morph": "ADV",
+          "gloss": "ever"
+        },
+        {
+          "w": "βαρηθῶσιν",
+          "morph": "V-APS-3P",
+          "gloss": "be burdened"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "αἱ",
+          "morph": "T-NPF",
+          "gloss": "the"
+        },
+        {
+          "w": "καρδίαι",
+          "morph": "N-NPF",
+          "gloss": "hearts"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "κραιπάλῃ",
+          "morph": "N-DSF",
+          "gloss": "dissipation"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "μέθῃ",
+          "morph": "N-DSF",
+          "gloss": "drunkenness"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "μερίμναις",
+          "morph": "N-DPF",
+          "gloss": "cares"
+        },
+        {
+          "w": "βιωτικαῖς",
+          "morph": "A-DPF",
+          "gloss": "of life"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐπιστῇ",
+          "morph": "V-2AAS-3S",
+          "gloss": "would come"
+        },
+        {
+          "w": "ἐφ’",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "αἰφνίδιος",
+          "morph": "A-NSM",
+          "gloss": "suddenly"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἡμέρα",
+          "morph": "N-NSF",
+          "gloss": "day"
+        },
+        {
+          "w": "ἐκείνη",
+          "morph": "D-NSF",
+          "gloss": "that"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "因 為 那 日 子 要 這 樣 臨 到 全 地 上 一 切 居 住 的 人 。",
+      "en": "For it will overtake all who live on the face of the whole earth.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὡς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "παγίς",
+          "morph": "N-NSF",
+          "gloss": "a snare"
+        },
+        {
+          "w": "ἐπεισελεύσεται",
+          "morph": "V-FDI-3S",
+          "gloss": "It will come"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "πάντας",
+          "morph": "A-APM",
+          "gloss": "all"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "those"
+        },
+        {
+          "w": "καθημένους",
+          "morph": "V-PNP-APM",
+          "gloss": "sitting"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "πρόσωπον",
+          "morph": "N-ASN",
+          "gloss": "the face"
+        },
+        {
+          "w": "πάσης",
+          "morph": "A-GSF",
+          "gloss": "of all"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γῆς",
+          "morph": "N-GSF",
+          "gloss": "earth"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "你 們 要 時 時 儆 醒 ， 常 常 祈 求 ， 使 你 們 能 逃 避 這 一 切 要 來 的 事 ， 得 以 站 立 在 人 子 面 前 。",
+      "en": "But stay alert at all times, praying that you may have strength to escape all these things that must happen, and to stand before the Son of Man.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀγρυπνεῖτε",
+          "morph": "V-PAM-2P",
+          "gloss": "Watch"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "at"
+        },
+        {
+          "w": "παντὶ",
+          "morph": "A-DSM",
+          "gloss": "every"
+        },
+        {
+          "w": "καιρῷ",
+          "morph": "N-DSM",
+          "gloss": "season"
+        },
+        {
+          "w": "δεόμενοι",
+          "morph": "V-PNP-NPM",
+          "gloss": "praying"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "κατισχύσητε",
+          "morph": "V-PAS-2P",
+          "gloss": "you may have strength"
+        },
+        {
+          "w": "ἐκφυγεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to escape"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-APN",
+          "gloss": "these things"
+        },
+        {
+          "w": "πάντα",
+          "morph": "A-APN",
+          "gloss": "all"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "that"
+        },
+        {
+          "w": "μέλλοντα",
+          "morph": "V-PAP-APN",
+          "gloss": "are about"
+        },
+        {
+          "w": "γίνεσθαι",
+          "morph": "V-PNN",
+          "gloss": "to come to pass"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "σταθῆναι",
+          "morph": "V-APN",
+          "gloss": "to stand"
+        },
+        {
+          "w": "ἔμπροσθεν",
+          "morph": "PREP",
+          "gloss": "before"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Υἱοῦ",
+          "morph": "N-GSM",
+          "gloss": "Son"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἀνθρώπου",
+          "morph": "N-GSM",
+          "gloss": "of Man"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "zh": "耶 穌 每 日 在 殿 裡 教 訓 人 ， 每 夜 出 城 在 一 座 山 ， 名 叫 橄 欖 山 住 宿 。",
+      "en": "So every day Jesus was teaching in the temple courts, but at night he went and stayed on the Mount of Olives.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "He was"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "τὰς",
+          "morph": "T-APF",
+          "gloss": "during the"
+        },
+        {
+          "w": "ἡμέρας",
+          "morph": "N-APF",
+          "gloss": "day"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἱερῷ",
+          "morph": "N-DSN",
+          "gloss": "temple"
+        },
+        {
+          "w": "διδάσκων",
+          "morph": "V-PAP-NSM",
+          "gloss": "teaching"
+        },
+        {
+          "w": "τὰς",
+          "morph": "T-APF",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "νύκτας",
+          "morph": "N-APF",
+          "gloss": "the evening"
+        },
+        {
+          "w": "ἐξερχόμενος",
+          "morph": "V-PNP-NSM",
+          "gloss": "going out"
+        },
+        {
+          "w": "ηὐλίζετο",
+          "morph": "V-INI-3S",
+          "gloss": "He was lodging"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "on"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὄρος",
+          "morph": "N-ASN",
+          "gloss": "mount"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "καλούμενον",
+          "morph": "V-PPP-ASN",
+          "gloss": "called"
+        },
+        {
+          "w": "Ἐλαιῶν",
+          "morph": "N-GPF",
+          "gloss": "Olivet"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "zh": "眾 百 姓 清 早 上 聖 殿 ， 到 耶 穌 那 裡 ， 要 聽 他 講 道 。",
+      "en": "And all the people came to him early in the morning to listen to him in the temple courts.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "πᾶς",
+          "morph": "A-NSM",
+          "gloss": "all"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "λαὸς",
+          "morph": "N-NSM",
+          "gloss": "people"
+        },
+        {
+          "w": "ὤρθριζεν",
+          "morph": "V-IAI-3S",
+          "gloss": "would come early in the morning"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἱερῷ",
+          "morph": "N-DSN",
+          "gloss": "temple"
+        },
+        {
+          "w": "ἀκούειν",
+          "morph": "V-PAN",
+          "gloss": "to hear"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "Him"
+        }
+      ]
+    }
+  ]
+}

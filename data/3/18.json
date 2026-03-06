@@ -1,0 +1,1622 @@
+{
+  "book": 3,
+  "chapter": 18,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 對 摩 西 說 ：",
+      "en": "The Lord spoke to Moses:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 曉 諭 以 色 列 人 說 ： 我 是 耶 和 華 ─ 你 們 的 神 。",
+      "en": "“Speak to the Israelites and tell them, ‘I am the Lord your God!",
+      "notes": [],
+      "he": [
+        {
+          "w": "דַּבֵּר֙",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָמַרְתָּ֖",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֲלֵהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אֲנִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶֽם",
+          "morph": "HNcmpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "你 們 從 前 住 的 埃 及 地 ， 那 裡 人 的 行 為 ， 你 們 不 可 效 法 ， 我 要 領 你 們 到 的 迦 南 地 ， 那 裡 人 的 行 為 也 不 可 效 法 ， 也 不 可 照 他 們 的 惡 俗 行 。",
+      "en": "You must not do as they do in the land of Egypt where you have been living, and you must not do as they do in the land of Canaan into which I am about to bring you; you must not walk in their statutes.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כְּמַעֲשֵׂ֧ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֶֽרֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרַ֛יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יְשַׁבְתֶּם",
+          "morph": "HVqp2mp"
+        },
+        {
+          "w": "בָּ֖הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשׂ֑וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "וּכְמַעֲשֵׂ֣ה",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "אֶֽרֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "כְּנַ֡עַן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֲנִי֩",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מֵבִ֨יא",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "אֶתְכֶ֥ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "שָׁ֨מָּה֙",
+          "morph": "HD/Sd"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשׂ֔וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "וּבְחֻקֹּתֵיהֶ֖ם",
+          "morph": "HC/R/Ncbpc/Sp3mp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֵלֵֽכוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "你 們 要 遵 我 的 典 章 ， 守 我 的 律 例 ， 按 此 而 行 。 我 是 耶 和 華 ─ 你 們 的 神 。",
+      "en": "You must observe my regulations, and you must be sure to walk in my statutes. I am the Lord your God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִשְׁפָּטַ֧י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "תַּעֲשׂ֛וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "חֻקֹּתַ֥י",
+          "morph": "HNcbpc/Sp1cs"
+        },
+        {
+          "w": "תִּשְׁמְר֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "לָלֶ֣כֶת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בָּהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אֲנִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶֽם",
+          "morph": "HNcmpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "所 以 ， 你 們 要 守 我 的 律 例 典 章 ； 人 若 遵 行 ， 就 必 因 此 活 著 。 我 是 耶 和 華 。",
+      "en": "So you must keep my statutes and my regulations; anyone who does so will live by keeping them. I am the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּשְׁמַרְתֶּ֤ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "חֻקֹּתַי֙",
+          "morph": "HNcbpc/Sp1cs"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "מִשְׁפָּטַ֔י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יַעֲשֶׂ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֹתָ֛ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "הָאָדָ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וָחַ֣י",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "בָּהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אֲנִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "你 們 都 不 可 露 骨 肉 之 親 的 下 體 ， 親 近 他 們 。 我 是 耶 和 華 。",
+      "en": "“‘No man is to approach any close relative to have sexual relations with her. I am the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִ֥ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אִישׁ֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שְׁאֵ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּשָׂר֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִקְרְב֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "לְגַלּ֣וֹת",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "עֶרְוָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אֲנִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "不 可 露 你 母 親 的 下 體 ， 羞 辱 了 你 父 親 。 他 是 你 的 母 親 ， 不 可 露 他 的 下 體 。",
+      "en": "You must not expose your father’s nakedness by having sexual relations with your mother. She is your mother; you must not have sexual relations with her.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֶרְוַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אָבִ֛יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וְעֶרְוַ֥ת",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "אִמְּךָ֖",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְגַלֵּ֑ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "אִמְּךָ֣",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "הִ֔וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְגַלֶּ֖ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "עֶרְוָתָֽהּ",
+          "morph": "HNcfsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "不 可 露 你 繼 母 的 下 體 ； 這 本 是 你 父 親 的 下 體 。",
+      "en": "You must not have sexual relations with your father’s wife; she is your father’s nakedness.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֶרְוַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אֵֽשֶׁת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אָבִ֖יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְגַלֵּ֑ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "עֶרְוַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אָבִ֖יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "הִֽוא",
+          "morph": "HPp3fs"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "你 的 姊 妹 ， 不 拘 是 異 母 同 父 的 ， 是 異 父 同 母 的 ， 無 論 是 生 在 家 生 在 外 的 ， 都 不 可 露 他 們 的 下 體 。",
+      "en": "You must not have sexual relations with your sister, whether she is your father’s daughter or your mother’s daughter, whether she is born in the same household or born outside it; you must not have sexual relations with either of them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֶרְוַ֨ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אֲחֽוֹתְךָ֤",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "בַת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אָבִ֨יךָ֙",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "א֣וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "בַת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אִמֶּ֔ךָ",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "מוֹלֶ֣דֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בַּ֔יִת",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "א֖וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "מוֹלֶ֣דֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "ח֑וּץ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְגַלֶּ֖ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "עֶרְוָתָֽן",
+          "morph": "HNcfsc/Sp3fp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "不 可 露 你 孫 女 或 是 外 孫 女 的 下 體 ， 露 了 他 們 的 下 體 就 是 露 了 自 己 的 下 體 。",
+      "en": "You must not expose the nakedness of your son’s daughter or your daughter’s daughter by having sexual relations with them, because they are your own nakedness.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֶרְוַ֤ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בַּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בִּנְךָ֙",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "א֣וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "בַֽת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בִּתְּךָ֔",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְגַלֶּ֖ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "עֶרְוָתָ֑ן",
+          "morph": "HNcfsc/Sp3fp"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "עֶרְוָתְךָ֖",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "הֵֽנָּה",
+          "morph": "HPp3fp"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "你 繼 母 從 你 父 親 生 的 女 兒 本 是 你 的 妹 妹 ， 不 可 露 他 的 下 體 。",
+      "en": "You must not have sexual relations with the daughter of your father’s wife born of your father; she is your sister. You must not have sexual relations with her.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֶרְוַ֨ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בַּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אֵ֤שֶׁת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אָבִ֨יךָ֙",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "מוֹלֶ֣דֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אָבִ֔יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "אֲחוֹתְךָ֖",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "הִ֑וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְגַלֶּ֖ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "עֶרְוָתָֽהּ",
+          "morph": "HNcfsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "不 可 露 你 姑 母 的 下 體 ； 他 是 你 父 親 的 骨 肉 之 親 。",
+      "en": "You must not have sexual relations with your father’s sister; she is your father’s flesh.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֶרְוַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אֲחוֹת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אָבִ֖יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְגַלֵּ֑ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "שְׁאֵ֥ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָבִ֖יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "הִֽוא",
+          "morph": "HPp3fs"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "不 可 露 你 姨 母 的 下 體 ； 他 是 你 母 親 的 骨 肉 之 親 。",
+      "en": "You must not have sexual relations with your mother’s sister, because she is your mother’s flesh.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֶרְוַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אֲחֽוֹת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אִמְּךָ֖",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְגַלֵּ֑ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "שְׁאֵ֥ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אִמְּךָ֖",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "הִֽוא",
+          "morph": "HPp3fs"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "不 可 親 近 你 伯 叔 之 妻 ， 羞 辱 了 你 伯 叔 ； 他 是 你 的 伯 叔 母 。",
+      "en": "You must not expose the nakedness of your father’s brother; you must not approach his wife to have marital relations with her. She is your aunt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֶרְוַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אֲחִֽי",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָבִ֖יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְגַלֵּ֑ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אִשְׁתּוֹ֙",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִקְרָ֔ב",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "דֹּדָֽתְךָ֖",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "הִֽוא",
+          "morph": "HPp3fs"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "不 可 露 你 兒 婦 的 下 體 ； 他 是 你 兒 子 的 妻 ， 不 可 露 他 的 下 體 。",
+      "en": "You must not have sexual relations with your daughter-in-law; she is your son’s wife. You must not have sexual relations with her.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֶרְוַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "כַּלָּֽתְךָ֖",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְגַלֵּ֑ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "אֵ֤שֶׁת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בִּנְךָ֙",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "הִ֔וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְגַלֶּ֖ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "עֶרְוָתָֽהּ",
+          "morph": "HNcfsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "不 可 露 你 弟 兄 妻 子 的 下 體 ； 這 本 是 你 弟 兄 的 下 體 。",
+      "en": "You must not have sexual relations with your brother’s wife; she is your brother’s nakedness.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֶרְוַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אֵֽשֶׁת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אָחִ֖יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְגַלֵּ֑ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "עֶרְוַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אָחִ֖יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "הִֽוא",
+          "morph": "HPp3fs"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "不 可 露 了 婦 人 的 下 體 ， 又 露 他 女 兒 的 下 體 ， 也 不 可 娶 他 孫 女 或 是 外 孫 女 ， 露 他 們 的 下 體 ； 他 們 是 骨 肉 之 親 ， 這 本 是 大 惡 。",
+      "en": "You must not have sexual relations with both a woman and her daughter; you must not take as wife either her son’s daughter or her daughter’s daughter to have sexual relations with them. They are closely related to her—it is lewdness.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֶרְוַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אִשָּׁ֛ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּבִתָּ֖הּ",
+          "morph": "HC/Ncfsc/Sp3fs"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְגַלֵּ֑ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "אֶֽת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בַּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בְּנָ֞הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "בַּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בִּתָּ֗הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "לֹ֤א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִקַּח֙",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "לְגַלּ֣וֹת",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "עֶרְוָתָ֔הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "שַׁאֲרָ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "הֵ֖נָּה",
+          "morph": "HPp3fp"
+        },
+        {
+          "w": "זִמָּ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "הִֽוא",
+          "morph": "HPp3fs"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "你 妻 還 在 的 時 候 ， 不 可 另 娶 他 的 姊 妹 作 對 頭 ， 露 他 的 下 體 。",
+      "en": "You must not take a woman in marriage and then marry her sister as a rival wife while she is still alive, to have sexual relations with her.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִשָּׁ֥ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲחֹתָ֖הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִקָּ֑ח",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "לִצְרֹ֗ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לְגַלּ֧וֹת",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "עֶרְוָתָ֛הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "עָלֶ֖יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "בְּחַיֶּֽיהָ",
+          "morph": "HR/Ncmpc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "女 人 行 經 不 潔 淨 的 時 候 ， 不 可 露 他 的 下 體 ， 與 他 親 近 。",
+      "en": "“‘You must not approach a woman in her menstrual impurity to have sexual relations with her.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אִשָּׁ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּנִדַּ֣ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "טֻמְאָתָ֑הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִקְרַ֔ב",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "לְגַלּ֖וֹת",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "עֶרְוָתָֽהּ",
+          "morph": "HNcfsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "不 可 與 鄰 舍 的 妻 行 淫 ， 玷 污 自 己 。",
+      "en": "You must not have sexual relations with the wife of your fellow citizen to become unclean with her.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אֵ֨שֶׁת֙",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "עֲמִֽיתְךָ֔",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִתֵּ֥ן",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "שְׁכָבְתְּךָ֖",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "לְזָ֑רַע",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לְטָמְאָה",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בָֽהּ",
+          "morph": "HR/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "不 可 使 你 的 兒 女 經 火 歸 與 摩 洛 ， 也 不 可 褻 瀆 你 神 的 名 。 我 是 耶 和 華 。",
+      "en": "You must not give any of your children as an offering to Molech, so that you do not profane the name of your God. I am the Lord!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִֽזַּרְעֲךָ֥",
+          "morph": "HC/R/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִתֵּ֖ן",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "לְהַעֲבִ֣יר",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "לַמֹּ֑לֶךְ",
+          "morph": "HRd/Np"
+        },
+        {
+          "w": "וְלֹ֧א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תְחַלֵּ֛ל",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שֵׁ֥ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֱלֹהֶ֖יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "אֲנִ֥י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "不 可 與 男 人 苟 合 ， 像 與 女 人 一 樣 ； 這 本 是 可 憎 惡 的 。",
+      "en": "You must not have sexual relations with a male as one has sexual relations with a woman; it is a detestable act.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶ֨ת",
+          "morph": "HC/R"
+        },
+        {
+          "w": "זָכָ֔ר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִשְׁכַּ֖ב",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "מִשְׁכְּבֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אִשָּׁ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תּוֹעֵבָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "הִֽוא",
+          "morph": "HPp3fs"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "不 可 與 獸 淫 合 ， 玷 污 自 己 。 女 人 也 不 可 站 在 獸 前 ， 與 他 淫 合 ； 這 本 是 逆 性 的 事 。",
+      "en": "You must not have sexual relations with any animal to become defiled with it, and a woman must not stand before an animal to have sexual relations with it; it is a perversion.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבְכָל",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "בְּהֵמָ֛ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִתֵּ֥ן",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "שְׁכָבְתְּךָ֖",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "לְטָמְאָה",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בָ֑הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "וְאִשָּׁ֗ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲמֹ֞ד",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "לִפְנֵ֧י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "בְהֵמָ֛ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לְרִבְעָ֖הּ",
+          "morph": "HR/Vqc/Sp3fs"
+        },
+        {
+          "w": "תֶּ֥בֶל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הֽוּא",
+          "morph": "HPp3ms"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "在 這 一 切 的 事 上 ， 你 們 都 不 可 玷 污 自 己 ； 因 為 我 在 你 們 面 前 所 逐 出 的 列 邦 ， 在 這 一 切 的 事 上 玷 污 了 自 己 ；",
+      "en": "“‘Do not defile yourselves with any of these things, for the nations that I am about to drive out before you have been defiled with all these things.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּֽטַּמְּא֖וּ",
+          "morph": "HVtj2mp"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֵ֑לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "בְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֵ֨לֶּה֙",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "נִטְמְא֣וּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "הַגּוֹיִ֔ם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֲנִ֥י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מְשַׁלֵּ֖חַ",
+          "morph": "HVprmsa"
+        },
+        {
+          "w": "מִפְּנֵיכֶֽם",
+          "morph": "HR/Ncbpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "連 地 也 玷 污 了 ， 所 以 我 追 討 那 地 的 罪 孽 ， 那 地 也 吐 出 他 的 居 民 。",
+      "en": "Therefore the land has become unclean, and I have brought the punishment for its iniquity upon it, so that the land has vomited out its inhabitants.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתִּטְמָ֣א",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "הָאָ֔רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וָאֶפְקֹ֥ד",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "עֲוֺנָ֖הּ",
+          "morph": "HNcbsc/Sp3fs"
+        },
+        {
+          "w": "עָלֶ֑יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "וַתָּקִ֥א",
+          "morph": "HC/Vhw3fs"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יֹשְׁבֶֽיהָ",
+          "morph": "HVqrmpc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "故 此 ， 你 們 要 守 我 的 律 例 典 章 。 這 一 切 可 憎 惡 的 事 ， 無 論 是 本 地 人 ， 是 寄 居 在 你 們 中 間 的 外 人 ， 都 不 可 行 ，",
+      "en": "You yourselves must obey my statutes and my regulations and must not do any of these abominations, both the native citizen and the resident foreigner in your midst,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּשְׁמַרְתֶּ֣ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אַתֶּ֗ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "חֻקֹּתַי֙",
+          "morph": "HNcbpc/Sp1cs"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "מִשְׁפָּטַ֔י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תַעֲשׂ֔וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "מִכֹּ֥ל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַתּוֹעֵבֹ֖ת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָאֵ֑לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "הָֽאֶזְרָ֔ח",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהַגֵּ֖ר",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "הַגָּ֥ר",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "בְּתוֹכְכֶֽם",
+          "morph": "HR/Ncmsc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "在 你 們 以 先 居 住 那 地 的 人 行 了 這 一 切 可 憎 惡 的 事 ， 地 就 玷 污 了 ，",
+      "en": "for the people who were in the land before you have done all these abominations, and the land has become unclean.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֚י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַתּוֹעֵבֹ֣ת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָאֵ֔ל",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "עָשׂ֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אַנְשֵֽׁי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לִפְנֵיכֶ֑ם",
+          "morph": "HR/Ncbpc/Sp2mp"
+        },
+        {
+          "w": "וַתִּטְמָ֖א",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "免 得 你 們 玷 污 那 地 的 時 候 ， 地 就 把 你 們 吐 出 ， 像 吐 出 在 你 們 以 先 的 國 民 一 樣 。",
+      "en": "So do not make the land vomit you out because you defile it just as it has vomited out the nations that were before you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלֹֽא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תָקִ֤יא",
+          "morph": "HVhi3fs"
+        },
+        {
+          "w": "הָאָ֨רֶץ֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֶתְכֶ֔ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "בְּטַֽמַּאֲכֶ֖ם",
+          "morph": "HR/Vpc/Sp2mp"
+        },
+        {
+          "w": "אֹתָ֑הּ",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "כַּאֲשֶׁ֥ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "קָאָ֛ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַגּ֖וֹי",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לִפְנֵיכֶֽם",
+          "morph": "HR/Ncbpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "無 論 甚 麼 人 ， 行 了 其 中 可 憎 的 一 件 事 ， 必 從 民 中 剪 除 。",
+      "en": "For if anyone does any of these abominations, that person who does them will be cut off from the midst of the people.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֚י",
+          "morph": "HC"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יַעֲשֶׂ֔ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מִכֹּ֥ל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַתּוֹעֵב֖וֹת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָאֵ֑לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "וְנִכְרְת֛וּ",
+          "morph": "HC/VNq3cp"
+        },
+        {
+          "w": "הַנְּפָשׁ֥וֹת",
+          "morph": "HTd/Ncbpa"
+        },
+        {
+          "w": "הָעֹשֹׂ֖ת",
+          "morph": "HTd/Vqrfpa"
+        },
+        {
+          "w": "מִקֶּ֥רֶב",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עַמָּֽם",
+          "morph": "HNcmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "所 以 ， 你 們 要 守 我 所 吩 咐 的 ， 免 得 你 們 隨 從 那 些 可 憎 的 惡 俗 ， 就 是 在 你 們 以 先 的 人 所 常 行 的 ， 以 致 玷 污 了 自 己 。 我 是 耶 和 華 ─ 你 們 的 神 。",
+      "en": "You must obey my charge not to practice any of the abominable statutes that have been done before you, so that you do not defile yourselves by them. I am the Lord your God.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּשְׁמַרְתֶּ֣ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִשְׁמַרְתִּ֗י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "לְבִלְתִּ֨י",
+          "morph": "HR/C"
+        },
+        {
+          "w": "עֲשׂ֜וֹת",
+          "morph": "HVqc"
+        },
+        {
+          "w": "מֵחֻקּ֤וֹת",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "הַתּֽוֹעֵבֹת֙",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נַעֲשׂ֣וּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "לִפְנֵיכֶ֔ם",
+          "morph": "HR/Ncbpc/Sp2mp"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תִֽטַּמְּא֖וּ",
+          "morph": "HVti2mp"
+        },
+        {
+          "w": "בָּהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אֲנִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶֽם",
+          "morph": "HNcmpc/Sp2mp"
+        }
+      ]
+    }
+  ]
+}

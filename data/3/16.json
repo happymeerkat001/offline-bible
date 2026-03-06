@@ -1,0 +1,2490 @@
+{
+  "book": 3,
+  "chapter": 16,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "亞 倫 的 兩 個 兒 子 近 到 耶 和 華 面 前 死 了 。 死 了 之 後 ， 耶 和 華 曉 諭 摩 西 說 ：",
+      "en": "The Lord spoke to Moses after the death of Aaron’s two sons when they approached the presence of the Lord and died,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֤ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַחֲרֵ֣י",
+          "morph": "HR"
+        },
+        {
+          "w": "מ֔וֹת",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שְׁנֵ֖י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אַהֲרֹ֑ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּקָרְבָתָ֥ם",
+          "morph": "HR/Vqc/Sp3mp"
+        },
+        {
+          "w": "לִפְנֵי",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיָּמֻֽתוּ",
+          "morph": "HC/Vqw3mp"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "要 告 訴 你 哥 哥 亞 倫 ， 不 可 隨 時 進 聖 所 的 幔 子 內 、 到 櫃 上 的 施 恩 座 前 ， 免 得 他 死 亡 ， 因 為 我 要 從 雲 中 顯 現 在 施 恩 座 上 。",
+      "en": "and the Lord said to Moses: “Tell Aaron your brother that he must not enter at any time into the Holy Place inside the special curtain in front of the atonement lid that is on the ark so that he may not die, for I will appear in the cloud over the atonement lid.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֨אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "דַּבֵּר֮",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אַהֲרֹ֣ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אָחִיךָ֒",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וְאַל",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יָבֹ֤א",
+          "morph": "HVqj3ms"
+        },
+        {
+          "w": "בְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עֵת֙",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַקֹּ֔דֶשׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִבֵּ֖ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "לַפָּרֹ֑כֶת",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פְּנֵ֨י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הַכַּפֹּ֜רֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָרֹן֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יָמ֔וּת",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "כִּ֚י",
+          "morph": "HC"
+        },
+        {
+          "w": "בֶּֽעָנָ֔ן",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֵרָאֶ֖ה",
+          "morph": "HVNi1cs"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכַּפֹּֽרֶת",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "亞 倫 進 聖 所 ， 要 帶 一 隻 公 牛 犢 為 贖 罪 祭 ， 一 隻 公 綿 羊 為 燔 祭 。",
+      "en": "“In this way Aaron is to enter into the sanctuary—with a young bull for a sin offering and a ram for a burnt offering.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּזֹ֛את",
+          "morph": "HR/Pdxfs"
+        },
+        {
+          "w": "יָבֹ֥א",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אַהֲרֹ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַקֹּ֑דֶשׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּפַ֧ר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּקָ֛ר",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "לְחַטָּ֖את",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וְאַ֥יִל",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "לְעֹלָֽה",
+          "morph": "HR/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "要 穿 上 細 麻 布 聖 內 袍 ， 把 細 麻 布 褲 子 穿 在 身 上 ， 腰 束 細 麻 布 帶 子 ， 頭 戴 細 麻 布 冠 冕 ； 這 都 是 聖 服 。 他 要 用 水 洗 身 ， 然 後 穿 戴 。",
+      "en": "He must put on a holy linen tunic, linen leggings are to cover his body, and he is to wrap himself with a linen sash and wrap his head with a linen turban. They are holy garments, so he must bathe his body in water and put them on.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כְּתֹֽנֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בַּ֨ד",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קֹ֜דֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִלְבָּ֗שׁ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וּמִֽכְנְסֵי",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "בַד֮",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִהְי֣וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּשָׂרוֹ֒",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וּבְאַבְנֵ֥ט",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "בַּד֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יַחְגֹּ֔ר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וּבְמִצְנֶ֥פֶת",
+          "morph": "HC/R/Ncfsc"
+        },
+        {
+          "w": "בַּ֖ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִצְנֹ֑ף",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בִּגְדֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "קֹ֣דֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הֵ֔ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "וְרָחַ֥ץ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "בַּמַּ֛יִם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּשָׂר֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וּלְבֵשָֽׁם",
+          "morph": "HC/Vqq3ms/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "要 從 以 色 列 會 眾 取 兩 隻 公 山 羊 為 贖 罪 祭 ， 一 隻 公 綿 羊 為 燔 祭 。",
+      "en": "He must also take two male goats from the congregation of the Israelites for a sin offering and one ram for a burnt offering.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמֵאֵ֗ת",
+          "morph": "HC/R/To"
+        },
+        {
+          "w": "עֲדַת֙",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "יִקַּ֛ח",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "שְׁנֵֽי",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "שְׂעִירֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עִזִּ֖ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "לְחַטָּ֑את",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וְאַ֥יִל",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אֶחָ֖ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "לְעֹלָֽה",
+          "morph": "HR/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "亞 倫 要 把 贖 罪 祭 的 公 牛 奉 上 ， 為 自 己 和 本 家 贖 罪 ；",
+      "en": "Then Aaron is to present the sin-offering bull which is for himself and is to make atonement on behalf of himself and his household.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִקְרִ֧יב",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אַהֲרֹ֛ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "פַּ֥ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַחַטָּ֖את",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "ל֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְכִפֶּ֥ר",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "בַּעֲד֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וּבְעַ֥ד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בֵּיתֽוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "也 要 把 兩 隻 公 山 羊 安 置 在 會 幕 門 口 、 耶 和 華 面 前 ，",
+      "en": "Next he must take the two goats and stand them before the Lord at the entrance of the Meeting Tent,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלָקַ֖ח",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שְׁנֵ֣י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "הַשְּׂעִירִ֑ם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְהֶעֱמִ֤יד",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אֹתָם֙",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "פֶּ֖תַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹ֥הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵֽד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "為 那 兩 隻 羊 拈 鬮 ， 一 鬮 歸 與 耶 和 華 ， 一 鬮 歸 與 阿 撒 瀉 勒 。",
+      "en": "and Aaron is to cast lots over the two goats, one lot for the Lord and one lot for Azazel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנָתַ֧ן",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אַהֲרֹ֛ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁנֵ֥י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "הַשְּׂעִירִ֖ם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "גּוֹרָל֑וֹת",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "גּוֹרָ֤ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶחָד֙",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "לַיהוָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְגוֹרָ֥ל",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אֶחָ֖ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "לַעֲזָאזֵֽל",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "亞 倫 要 把 那 拈 鬮 歸 與 耶 和 華 的 羊 獻 為 贖 罪 祭 ，",
+      "en": "Aaron must then present the goat which has been designated by lot for the Lord, and he is to make it a sin offering,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִקְרִ֤יב",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אַהֲרֹן֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַשָּׂעִ֔יר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עָלָ֥ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "עָלָ֛יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "הַגּוֹרָ֖ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לַיהוָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְעָשָׂ֖הוּ",
+          "morph": "HC/Vqq3ms/Sp3ms"
+        },
+        {
+          "w": "חַטָּֽאת",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "但 那 拈 鬮 歸 與 阿 撒 瀉 勒 的 羊 要 活 著 安 置 在 耶 和 華 面 前 ， 用 以 贖 罪 ， 打 發 人 送 到 曠 野 去 ， 歸 與 阿 撒 瀉 勒 。",
+      "en": "but the goat which has been designated by lot for Azazel is to be stood alive before the Lord to make atonement on it by sending it away into the desert to Azazel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַשָּׂעִ֗יר",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר֩",
+          "morph": "HTr"
+        },
+        {
+          "w": "עָלָ֨ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "עָלָ֤יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "הַגּוֹרָל֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לַעֲזָאזֵ֔ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "יָֽעֳמַד",
+          "morph": "HVHi3ms"
+        },
+        {
+          "w": "חַ֛י",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְכַפֵּ֣ר",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "עָלָ֑יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "לְשַׁלַּ֥ח",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "אֹת֛וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "לַעֲזָאזֵ֖ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הַמִּדְבָּֽרָה",
+          "morph": "HTd/Ncmsa/Sd"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "亞 倫 要 把 贖 罪 祭 的 公 牛 帶 來 宰 了 ， 為 自 己 和 本 家 贖 罪 ；",
+      "en": "“Aaron is to present the sin-offering bull which is for himself, and he is to make atonement on behalf of himself and his household. He is to slaughter the sin-offering bull which is for himself,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִקְרִ֨יב",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אַהֲרֹ֜ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "פַּ֤ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַֽחַטָּאת֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "ל֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְכִפֶּ֥ר",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "בַּֽעֲד֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וּבְעַ֣ד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בֵּית֑וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְשָׁחַ֛ט",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "פַּ֥ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַֽחַטָּ֖את",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "拿 香 爐 ， 從 耶 和 華 面 前 的 壇 上 盛 滿 火 炭 ， 又 拿 一 捧 搗 細 的 香 料 ， 都 帶 入 幔 子 內 ，",
+      "en": "and take a censer full of coals of fire from the altar before the Lord and a full double handful of finely ground fragrant incense, and bring them inside the curtain.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלָקַ֣ח",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "מְלֹֽא",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַ֠מַּחְתָּה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "גַּֽחֲלֵי",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "אֵ֞שׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "מֵעַ֤ל",
+          "morph": "HR/R"
+        },
+        {
+          "w": "הַמִּזְבֵּ֨חַ֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִלִּפְנֵ֣י",
+          "morph": "HR/R/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמְלֹ֣א",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "חָפְנָ֔יו",
+          "morph": "HNcmdc/Sp3ms"
+        },
+        {
+          "w": "קְטֹ֥רֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "סַמִּ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "דַּקָּ֑ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "וְהֵבִ֖יא",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "מִבֵּ֥ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "לַפָּרֹֽכֶת",
+          "morph": "HRd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "在 耶 和 華 面 前 ， 把 香 放 在 火 上 ， 使 香 的 煙 雲 遮 掩 法 櫃 上 的 施 恩 座 ， 免 得 他 死 亡 ；",
+      "en": "He must then put the incense on the fire before the Lord, and the cloud of incense will cover the atonement lid which is above the ark of the testimony, so that he will not die.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנָתַ֧ן",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶֽת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַקְּטֹ֛רֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאֵ֖שׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְכִסָּ֣ה",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "עֲנַ֣ן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַקְּטֹ֗רֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַכַּפֹּ֛רֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָעֵד֖וּת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יָמֽוּת",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "也 要 取 些 公 牛 的 血 ， 用 指 頭 彈 在 施 恩 座 的 東 面 ， 又 在 施 恩 座 的 前 面 彈 血 七 次 。",
+      "en": "Then he is to take some of the blood of the bull and sprinkle it with his finger on the eastern face of the atonement lid, and in front of the atonement lid he is to sprinkle some of the blood seven times with his finger.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלָקַח֙",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "מִדַּ֣ם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַפָּ֔ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהִזָּ֧ה",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "בְאֶצְבָּע֛וֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "פְּנֵ֥י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הַכַּפֹּ֖רֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "קֵ֑דְמָה",
+          "morph": "HNcmsa/Sd"
+        },
+        {
+          "w": "וְלִפְנֵ֣י",
+          "morph": "HC/R/Ncbpc"
+        },
+        {
+          "w": "הַכַּפֹּ֗רֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "יַזֶּ֧ה",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "שֶֽׁבַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "פְּעָמִ֛ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַדָּ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּאֶצְבָּעֽוֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "隨 後 他 要 宰 那 為 百 姓 作 贖 罪 祭 的 公 山 羊 ， 把 羊 的 血 帶 入 幔 子 內 ， 彈 在 施 恩 座 的 上 面 和 前 面 ， 好 像 彈 公 牛 的 血 一 樣 。",
+      "en": "“Aaron must then slaughter the sin-offering goat which is for the people. He is to bring its blood inside the curtain, and he is to do with its blood just as he did to the blood of the bull: He is to sprinkle it on the atonement lid and in front of the atonement lid.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשָׁחַ֞ט",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שְׂעִ֤יר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַֽחַטָּאת֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לָעָ֔ם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְהֵבִיא֙",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דָּמ֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מִבֵּ֖ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "לַפָּרֹ֑כֶת",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "וְעָשָׂ֣ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דָּמ֗וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "כַּאֲשֶׁ֤ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "עָשָׂה֙",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לְדַ֣ם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַפָּ֔ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהִזָּ֥ה",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אֹת֛וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכַּפֹּ֖רֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְלִפְנֵ֥י",
+          "morph": "HC/R/Ncbpc"
+        },
+        {
+          "w": "הַכַּפֹּֽרֶת",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "他 因 以 色 列 人 諸 般 的 污 穢 、 過 犯 ， 就 是 他 們 一 切 的 罪 愆 ， 當 這 樣 在 聖 所 行 贖 罪 之 禮 ， 並 因 會 幕 在 他 們 污 穢 之 中 ， 也 要 照 樣 而 行 。",
+      "en": "So he is to make atonement for the Holy Place from the impurities of the Israelites and from their transgressions with regard to all their sins, and thus he is to do for the Meeting Tent which resides with them in the midst of their impurities.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכִפֶּ֣ר",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַקֹּ֗דֶשׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִטֻּמְאֹת֙",
+          "morph": "HR/Ncfpc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִפִּשְׁעֵיהֶ֖ם",
+          "morph": "HC/R/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "חַטֹּאתָ֑ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "וְכֵ֤ן",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "יַעֲשֶׂה֙",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לְאֹ֣הֶל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מוֹעֵ֔ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הַשֹּׁכֵ֣ן",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "אִתָּ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "בְּת֖וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "טֻמְאֹתָֽם",
+          "morph": "HNcfpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "他 進 聖 所 贖 罪 的 時 候 ， 會 幕 裡 不 可 有 人 ， 直 等 到 他 為 自 己 和 本 家 並 以 色 列 全 會 眾 贖 了 罪 出 來 。",
+      "en": "Nobody is to be in the Meeting Tent when he enters to make atonement in the Holy Place until he goes out, and he has made atonement on his behalf, on behalf of his household, and on behalf of the whole assembly of Israel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "אָדָ֞ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִהְיֶ֣ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בְּאֹ֣הֶל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מוֹעֵ֗ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּבֹא֛וֹ",
+          "morph": "HR/Vqc/Sp3ms"
+        },
+        {
+          "w": "לְכַפֵּ֥ר",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "בַּקֹּ֖דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "צֵאת֑וֹ",
+          "morph": "HVqc/Sp3ms"
+        },
+        {
+          "w": "וְכִפֶּ֤ר",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "בַּעֲדוֹ֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וּבְעַ֣ד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בֵּית֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וּבְעַ֖ד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קְהַ֥ל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "他 出 來 ， 要 到 耶 和 華 面 前 的 壇 那 裡 ， 在 壇 上 行 贖 罪 之 禮 ， 又 要 取 些 公 牛 的 血 和 公 山 羊 的 血 ， 抹 在 壇 上 四 角 的 周 圍 ；",
+      "en": "“Then Aaron is to go out to the altar which is before the Lord and make atonement for it. He is to take some of the blood of the bull and some of the blood of the goat, and put it all around on the horns of the altar.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיָצָ֗א",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמִּזְבֵּ֛חַ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לִפְנֵֽי",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְכִפֶּ֣ר",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "עָלָ֑יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְלָקַ֞ח",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "מִדַּ֤ם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַפָּר֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וּמִדַּ֣ם",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "הַשָּׂעִ֔יר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְנָתַ֛ן",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "קַרְנ֥וֹת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הַמִּזְבֵּ֖חַ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "סָבִֽיב",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "也 要 用 指 頭 把 血 彈 在 壇 上 七 次 ， 潔 淨 了 壇 ， 從 壇 上 除 掉 以 色 列 人 諸 般 的 污 穢 ， 使 壇 成 聖 。",
+      "en": "Then he is to sprinkle on it some of the blood with his finger seven times, and cleanse and consecrate it from the impurities of the Israelites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִזָּ֨ה",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "עָלָ֧יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַדָּ֛ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּאֶצְבָּע֖וֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "שֶׁ֣בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "פְּעָמִ֑ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "וְטִהֲר֣וֹ",
+          "morph": "HC/Vpq3ms/Sp3ms"
+        },
+        {
+          "w": "וְקִדְּשׁ֔וֹ",
+          "morph": "HC/Vpq3ms/Sp3ms"
+        },
+        {
+          "w": "מִטֻּמְאֹ֖ת",
+          "morph": "HR/Ncfpc"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "亞 倫 為 聖 所 和 會 幕 並 壇 獻 完 了 贖 罪 祭 ， 就 要 把 那 隻 活 著 的 公 山 羊 奉 上 。",
+      "en": "“When Aaron has finished purifying the Holy Place, the Meeting Tent, and the altar, he is to present the live goat.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכִלָּה֙",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "מִכַּפֵּ֣ר",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַקֹּ֔דֶשׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אֹ֥הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵ֖ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַמִּזְבֵּ֑חַ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהִקְרִ֖יב",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַשָּׂעִ֥יר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הֶחָֽי",
+          "morph": "HTd/Aamsa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "兩 手 按 在 羊 頭 上 ， 承 認 以 色 列 人 諸 般 的 罪 孽 過 犯 ， 就 是 他 們 一 切 的 罪 愆 ， 把 這 罪 都 歸 在 羊 的 頭 上 ， 藉 著 所 派 之 人 的 手 ， 送 到 曠 野 去 。",
+      "en": "Aaron is to lay his two hands on the head of the live goat and confess over it all the iniquities of the Israelites and all their transgressions in regard to all their sins, and thus he is to put them on the head of the goat and send it away into the desert by the hand of a man standing ready.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְסָמַ֨ךְ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אַהֲרֹ֜ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שְׁתֵּ֣י",
+          "morph": "HAcfdc"
+        },
+        {
+          "w": "ידו",
+          "morph": "HNcbdc/Sp3ms"
+        },
+        {
+          "w": "יָדָ֗יו",
+          "morph": "HNcbdc/Sp3ms"
+        },
+        {
+          "w": "עַ֨ל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹ֣אשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׂעִיר֮",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַחַי֒",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "וְהִתְוַדָּ֣ה",
+          "morph": "HC/Vtp3ms"
+        },
+        {
+          "w": "עָלָ֗יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲוֺנֹת֙",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פִּשְׁעֵיהֶ֖ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "חַטֹּאתָ֑ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "וְנָתַ֤ן",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֹתָם֙",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹ֣אשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׂעִ֔יר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְשִׁלַּ֛ח",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "בְּיַד",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "אִ֥ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עִתִּ֖י",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "הַמִּדְבָּֽרָה",
+          "morph": "HTd/Ncmsa/Sd"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "要 把 這 羊 放 在 曠 野 ， 這 羊 要 擔 當 他 們 一 切 的 罪 孽 ， 帶 到 無 人 之 地 。",
+      "en": "The goat is to bear on itself all their iniquities into an inaccessible land, so he is to send the goat away into the desert.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנָשָׂ֨א",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַשָּׂעִ֥יר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עָלָ֛יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲוֺנֹתָ֖ם",
+          "morph": "HNcbpc/Sp3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "גְּזֵרָ֑ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "וְשִׁלַּ֥ח",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַשָּׂעִ֖יר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בַּמִּדְבָּֽר",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "亞 倫 要 進 會 幕 ， 把 他 進 聖 所 時 所 穿 的 細 麻 布 衣 服 脫 下 ， 放 在 那 裡 ，",
+      "en": "“Aaron must then enter the Meeting Tent and take off the linen garments which he had put on when he entered the sanctuary, and leave them there.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבָ֤א",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אַהֲרֹן֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֹ֣הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵ֔ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּפָשַׁט֙",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בִּגְדֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַבָּ֔ד",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לָבַ֖שׁ",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בְּבֹא֣וֹ",
+          "morph": "HR/Vqc/Sp3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַקֹּ֑דֶשׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהִנִּיחָ֖ם",
+          "morph": "HC/Vhq3ms/Sp3mp"
+        },
+        {
+          "w": "שָֽׁם",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "又 要 在 聖 處 用 水 洗 身 ， 穿 上 衣 服 ， 出 來 ， 把 自 己 的 燔 祭 和 百 姓 的 燔 祭 獻 上 ， 為 自 己 和 百 姓 贖 罪 。",
+      "en": "Then he must bathe his body in water in the Holy Place, put on his clothes, and go out and make his burnt offering and the people’s burnt offering. So he is to make atonement on behalf of himself and the people.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְרָחַ֨ץ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּשָׂר֤וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "בַמַּ֨יִם֙",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "בְּמָק֣וֹם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "קָד֔וֹשׁ",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְלָבַ֖שׁ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּגָדָ֑יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וְיָצָ֗א",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "וְעָשָׂ֤ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֹֽלָתוֹ֙",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "עֹלַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הָעָ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְכִפֶּ֥ר",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "בַּעֲד֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וּבְעַ֥ד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הָעָֽם",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "贖 罪 祭 牲 的 脂 油 要 在 壇 上 焚 燒 。",
+      "en": "“Then he is to offer up the fat of the sin offering in smoke on the altar,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֵ֛ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "חֵ֥לֶב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַֽחַטָּ֖את",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "יַקְטִ֥יר",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "הַמִּזְבֵּֽחָה",
+          "morph": "HTd/Ncmsa/Sd"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "那 放 羊 歸 與 阿 撒 瀉 勒 的 人 要 洗 衣 服 ， 用 水 洗 身 ， 然 後 進 營 。",
+      "en": "and the one who sent the goat away to Azazel must wash his clothes, bathe his body in water, and afterward he may reenter the camp.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַֽמְשַׁלֵּ֤חַ",
+          "morph": "HC/Td/Vprmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַשָּׂעִיר֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לַֽעֲזָאזֵ֔ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "יְכַבֵּ֣ס",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "בְּגָדָ֔יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וְרָחַ֥ץ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּשָׂר֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "בַּמָּ֑יִם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "וְאַחֲרֵי",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כֵ֖ן",
+          "morph": "HD"
+        },
+        {
+          "w": "יָב֥וֹא",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַֽמַּחֲנֶֽה",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "作 贖 罪 祭 的 公 牛 和 公 山 羊 的 血 既 帶 入 聖 所 贖 罪 ， 這 牛 羊 就 要 搬 到 營 外 ， 將 皮 、 肉 、 糞 用 火 焚 燒 。",
+      "en": "The bull of the sin offering and the goat of the sin offering, whose blood was brought to make atonement in the Holy Place, must be brought outside the camp and their hide, their flesh, and their dung must be burned up,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֵת֩",
+          "morph": "HC/To"
+        },
+        {
+          "w": "פַּ֨ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַֽחַטָּ֜את",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְאֵ֣ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "שְׂעִ֣יר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַֽחַטָּ֗את",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הוּבָ֤א",
+          "morph": "HVHp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דָּמָם֙",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "לְכַפֵּ֣ר",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "בַּקֹּ֔דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "יוֹצִ֖יא",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מִח֣וּץ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לַֽמַּחֲנֶ֑ה",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "וְשָׂרְפ֣וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "בָאֵ֔שׁ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֹרֹתָ֥ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "בְּשָׂרָ֖ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "פִּרְשָֽׁם",
+          "morph": "HNcmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "焚 燒 的 人 要 洗 衣 服 ， 用 水 洗 身 ， 然 後 進 營 。",
+      "en": "and the one who burns them must wash his clothes and bathe his body in water, and afterward he may reenter the camp.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַשֹּׂרֵ֣ף",
+          "morph": "HC/Td/Vqrmsa"
+        },
+        {
+          "w": "אֹתָ֔ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "יְכַבֵּ֣ס",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "בְּגָדָ֔יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וְרָחַ֥ץ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּשָׂר֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "בַּמָּ֑יִם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "וְאַחֲרֵי",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כֵ֖ן",
+          "morph": "HD"
+        },
+        {
+          "w": "יָב֥וֹא",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַֽמַּחֲנֶֽה",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "每 逢 七 月 初 十 日 ， 你 們 要 刻 苦 己 心 ， 無 論 是 本 地 人 ， 是 寄 居 在 你 們 中 間 的 外 人 ， 甚 麼 工 都 不 可 做 ； 這 要 作 你 們 永 遠 的 定 例 。",
+      "en": "“This is to be a perpetual statute for you. In the seventh month, on the tenth day of the month, you must humble yourselves and do no work of any kind, both the native citizen and the resident foreigner who lives in your midst,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיְתָ֥ה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לְחֻקַּ֣ת",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "עוֹלָ֑ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בַּחֹ֣דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַ֠שְּׁבִיעִי",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "בֶּֽעָשׂ֨וֹר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "לַחֹ֜דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "תְּעַנּ֣וּ",
+          "morph": "HVpi2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "נַפְשֹֽׁתֵיכֶ֗ם",
+          "morph": "HNcbpc/Sp2mp"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "מְלָאכָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשׂ֔וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "הָֽאֶזְרָ֔ח",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהַגֵּ֖ר",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "הַגָּ֥ר",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "בְּתוֹכְכֶֽם",
+          "morph": "HR/Ncmsc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "因 在 這 日 要 為 你 們 贖 罪 ， 使 你 們 潔 淨 。 你 們 要 在 耶 和 華 面 前 得 以 潔 淨 ， 脫 盡 一 切 的 罪 愆 。",
+      "en": "for on this day atonement is to be made for you to cleanse you from all your sins; you must be clean before the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "בַיּ֥וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֛ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "יְכַפֵּ֥ר",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "עֲלֵיכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לְטַהֵ֣ר",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "אֶתְכֶ֑ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "מִכֹּל֙",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "חַטֹּ֣אתֵיכֶ֔ם",
+          "morph": "HNcfpc/Sp2mp"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "תִּטְהָֽרוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "這 日 你 們 要 守 為 聖 安 息 日 ， 要 刻 苦 己 心 ； 這 為 永 遠 的 定 例 。",
+      "en": "It is to be a Sabbath of complete rest for you, and you must humble yourselves. It is a perpetual statute.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שַׁבַּ֨ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "שַׁבָּת֥וֹן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הִיא֙",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "לָכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וְעִנִּיתֶ֖ם",
+          "morph": "HC/Vpq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "נַפְשֹׁתֵיכֶ֑ם",
+          "morph": "HNcbpc/Sp2mp"
+        },
+        {
+          "w": "חֻקַּ֖ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "עוֹלָֽם",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "那 受 膏 、 接 續 他 父 親 承 接 聖 職 的 祭 司 要 穿 上 細 麻 布 的 聖 衣 ， 行 贖 罪 之 禮 。",
+      "en": "“The priest who is anointed and ordained to act as high priest in place of his father is to make atonement. He is to put on the linen garments, the holy garments,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכִפֶּ֨ר",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֜ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִמְשַׁ֣ח",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֹת֗וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "וַאֲשֶׁ֤ר",
+          "morph": "HC/Tr"
+        },
+        {
+          "w": "יְמַלֵּא֙",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יָד֔וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "לְכַהֵ֖ן",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "תַּ֣חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "אָבִ֑יו",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְלָבַ֛שׁ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בִּגְדֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַבָּ֖ד",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בִּגְדֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַקֹּֽדֶשׁ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "他 要 在 至 聖 所 和 會 幕 與 壇 行 贖 罪 之 禮 ， 並 要 為 眾 祭 司 和 會 眾 的 百 姓 贖 罪 。",
+      "en": "and he is to purify the Most Holy Place, he is to purify the Meeting Tent and the altar, and he is to make atonement for the priests and for all the people of the assembly.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכִפֶּר֙",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִקְדַּ֣שׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַקֹּ֔דֶשׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אֹ֧הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵ֛ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַמִּזְבֵּ֖חַ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יְכַפֵּ֑ר",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "וְעַ֧ל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַכֹּהֲנִ֛ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַ֥ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַקָּהָ֖ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יְכַפֵּֽר",
+          "morph": "HVpi3ms"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "這 要 作 你 們 永 遠 的 定 例 ─ 就 是 因 以 色 列 人 一 切 的 罪 ， 要 一 年 一 次 為 他 們 贖 罪 。 於 是 ， 亞 倫 照 耶 和 華 所 吩 咐 摩 西 的 行 了 。",
+      "en": "This is to be a perpetual statute for you to make atonement for the Israelites for all their sins once a year.” So he did just as the Lord had commanded Moses.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָֽיְתָה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "זֹּ֨את",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "לָכֶ֜ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לְחֻקַּ֣ת",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "עוֹלָ֗ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְכַפֵּ֞ר",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִכָּל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "חַטֹּאתָ֔ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "אַחַ֖ת",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "בַּשָּׁנָ֑ה",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "וַיַּ֕עַשׂ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כַּאֲשֶׁ֛ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "צִוָּ֥ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֹשֶֽׁה",
+          "morph": "HNp"
+        }
+      ]
+    }
+  ]
+}

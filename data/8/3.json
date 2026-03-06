@@ -1,0 +1,1202 @@
+{
+  "book": 8,
+  "chapter": 3,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "路 得 的 婆 婆 拿 俄 米 對 他 說 ： 女 兒 啊 ， 我 不 當 為 你 找 個 安 身 之 處 ， 使 你 享 福 麼 ？",
+      "en": "At that time, Naomi, her mother-in-law, said to her, “My daughter, I must find a home for you so you will be secure.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּ֥אמֶר",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "לָ֖הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "נָעֳמִ֣י",
+          "morph": "HNp"
+        },
+        {
+          "w": "חֲמוֹתָ֑הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "בִּתִּ֞י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "הֲלֹ֧א",
+          "morph": "HTi/Tn"
+        },
+        {
+          "w": "אֲבַקֶּשׁ",
+          "morph": "HVpi1cs"
+        },
+        {
+          "w": "לָ֛ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "מָנ֖וֹחַ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִֽיטַב",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָֽךְ",
+          "morph": "HR/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 與 波 阿 斯 的 使 女 常 在 一 處 ， 波 阿 斯 不 是 我 們 的 親 族 麼 ？ 他 今 夜 在 場 上 簸 大 麥 ；",
+      "en": "Now Boaz, with whose female servants you worked, is our close relative. Look, tonight he is winnowing barley at the threshing floor.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַתָּ֗ה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "הֲלֹ֥א",
+          "morph": "HTi/Tn"
+        },
+        {
+          "w": "בֹ֨עַז֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֹֽדַעְתָּ֔נוּ",
+          "morph": "HNcfsc/Sp1cp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הָיִ֖ית",
+          "morph": "HVqp2fs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HR"
+        },
+        {
+          "w": "נַעֲרוֹתָ֑יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "הִנֵּה",
+          "morph": "HTm"
+        },
+        {
+          "w": "ה֗וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "זֹרֶ֛ה",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "גֹּ֥רֶן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הַשְּׂעֹרִ֖ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הַלָּֽיְלָה",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "你 要 沐 浴 抹 膏 ， 換 上 衣 服 ， 下 到 場 上 ， 卻 不 要 使 那 人 認 出 你 來 。 你 等 他 吃 喝 完 了 ，",
+      "en": "So bathe yourself, rub on some perfumed oil, and get dressed up. Then go down to the threshing floor. But don’t let the man know you’re there until he finishes his meal.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְרָחַ֣צְתְּ",
+          "morph": "HC/Vqq2fs"
+        },
+        {
+          "w": "וָסַ֗כְתְּ",
+          "morph": "HC/Vqq2fs"
+        },
+        {
+          "w": "וְשַׂ֧מְתְּ",
+          "morph": "HC/Vqq2fs"
+        },
+        {
+          "w": "שמלתך",
+          "morph": "HNcfsc/Sp2fs"
+        },
+        {
+          "w": "שִׂמְלֹתַ֛יִךְ",
+          "morph": "HNcfpc/Sp2fs"
+        },
+        {
+          "w": "עָלַ֖יִךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "וירדתי",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "וְיָרַ֣דְתְּ",
+          "morph": "HC/Vqq2fs"
+        },
+        {
+          "w": "הַגֹּ֑רֶן",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּוָּדְעִ֣י",
+          "morph": "HVNj2fs"
+        },
+        {
+          "w": "לָאִ֔ישׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "עַ֥ד",
+          "morph": "HR"
+        },
+        {
+          "w": "כַּלֹּת֖וֹ",
+          "morph": "HVpc/Sp3ms"
+        },
+        {
+          "w": "לֶאֱכֹ֥ל",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "וְלִשְׁתּֽוֹת",
+          "morph": "HC/R/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "到 他 睡 的 時 候 ， 你 看 準 他 睡 的 地 方 ， 就 進 去 掀 開 他 腳 上 的 被 ， 躺 臥 在 那 裡 ， 他 必 告 訴 你 所 當 做 的 事 。",
+      "en": "When he gets ready to go to sleep, take careful notice of the place where he lies down. Then go, uncover his legs, and lie down beside him. He will tell you what you should do.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וִיהִ֣י",
+          "morph": "HC/Vqj3ms"
+        },
+        {
+          "w": "בְשָׁכְב֗וֹ",
+          "morph": "HR/Vqc/Sp3ms"
+        },
+        {
+          "w": "וְיָדַ֨עַתְּ֙",
+          "morph": "HC/Vqq2fs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַמָּקוֹם֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִשְׁכַּב",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "שָׁ֔ם",
+          "morph": "HD"
+        },
+        {
+          "w": "וּבָ֛את",
+          "morph": "HC/Vqq2fs"
+        },
+        {
+          "w": "וְגִלִּ֥ית",
+          "morph": "HC/Vpq2fs"
+        },
+        {
+          "w": "מַרְגְּלֹתָ֖יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "ושכבתי",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "וְשָׁכָ֑בְתְּ",
+          "morph": "HC/Vqq2fs"
+        },
+        {
+          "w": "וְהוּא֙",
+          "morph": "HC/Pp3ms"
+        },
+        {
+          "w": "יַגִּ֣יד",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "לָ֔ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "אֵ֖ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תַּעַשִֽׂין",
+          "morph": "HVqi2fs/Sn"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "路 得 說 ： 凡 你 所 吩 咐 的 ， 我 必 遵 行 。",
+      "en": "Ruth replied to Naomi, “I will do everything you have told me to do.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּ֖אמֶר",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "אֵלֶ֑יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "כֹּ֛ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תֹּאמְרִ֥י",
+          "morph": "HVqi2fs"
+        },
+        {
+          "w": "אֵלַ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "אֶֽעֱשֶֽׂה",
+          "morph": "HVqi1cs"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "路 得 就 下 到 場 上 ， 照 他 婆 婆 所 吩 咐 他 的 而 行 。",
+      "en": "So she went down to the threshing floor and did everything her mother-in-law had instructed her to do.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֵּ֖רֶד",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "הַגֹּ֑רֶן",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וַתַּ֕עַשׂ",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "כְּכֹ֥ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "צִוַּ֖תָּה",
+          "morph": "HVpp3fs/Sp3fs"
+        },
+        {
+          "w": "חֲמוֹתָֽהּ",
+          "morph": "HNcfsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "波 阿 斯 吃 喝 完 了 ， 心 裡 歡 暢 ， 就 去 睡 在 麥 堆 旁 邊 。 路 得 便 悄 悄 地 來 掀 開 他 腳 上 的 被 ， 躺 臥 在 那 裡 。",
+      "en": "When Boaz had finished his meal and was feeling satisfied, he lay down to sleep at the far end of the grain heap. Then Ruth crept up quietly, uncovered his legs, and lay down beside him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֨אכַל",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בֹּ֤עַז",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיֵּשְׁתְּ֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "וַיִּיטַ֣ב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לִבּ֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וַיָּבֹ֕א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לִשְׁכַּ֖ב",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בִּקְצֵ֣ה",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "הָעֲרֵמָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וַתָּבֹ֣א",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "בַלָּ֔ט",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וַתְּגַ֥ל",
+          "morph": "HC/Vpw3fs"
+        },
+        {
+          "w": "מַרְגְּלֹתָ֖יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "וַתִּשְׁכָּֽב",
+          "morph": "HC/Vqw3fs"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "到 了 夜 半 ， 那 人 忽 然 驚 醒 ， 翻 過 身 來 ， 不 料 有 女 子 躺 在 他 的 腳 下 。",
+      "en": "In the middle of the night he was startled and turned over. Now he saw a woman lying beside him!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִי֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בַּחֲצִ֣י",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַלַּ֔יְלָה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַיֶּחֱרַ֥ד",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הָאִ֖ישׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַיִּלָּפֵ֑ת",
+          "morph": "HC/VNw3ms"
+        },
+        {
+          "w": "וְהִנֵּ֣ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "אִשָּׁ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "שֹׁכֶ֖בֶת",
+          "morph": "HVqrfsa"
+        },
+        {
+          "w": "מַרְגְּלֹתָֽיו",
+          "morph": "HNcfpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "他 就 說 ： 你 是 誰 ？ 回 答 說 ： 我 是 你 的 婢 女 路 得 。 求 你 用 你 的 衣 襟 遮 蓋 我 ， 因 為 你 是 我 一 個 至 近 的 親 屬 。",
+      "en": "He said, “Who are you?” She replied, “I am Ruth, your servant. Marry your servant, for you are a guardian of the family interests.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֖אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מִי",
+          "morph": "HTi"
+        },
+        {
+          "w": "אָ֑תּ",
+          "morph": "HPp2fs"
+        },
+        {
+          "w": "וַתֹּ֗אמֶר",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "אָנֹכִי֙",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "ר֣וּת",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲמָתֶ֔ךָ",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "וּפָרַשְׂתָּ֤",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "כְנָפֶ֨ךָ֙",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲמָ֣תְךָ֔",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "גֹאֵ֖ל",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אָֽתָּה",
+          "morph": "HPp2ms"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "波 阿 斯 說 ： 女 兒 啊 ， 願 你 蒙 耶 和 華 賜 福 。 你 末 後 的 恩 比 先 前 更 大 ； 因 為 少 年 人 無 論 貧 富 ， 你 都 沒 有 跟 從 。",
+      "en": "He said, “May you be rewarded by the Lord, my dear! This act of devotion is greater than what you did before. For you have not sought to marry one of the young men, whether rich or poor.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֗אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בְּרוּכָ֨ה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "אַ֤תְּ",
+          "morph": "HPp2fs"
+        },
+        {
+          "w": "לַֽיהוָה֙",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בִּתִּ֔י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "הֵיטַ֛בְתְּ",
+          "morph": "HVhp2fs"
+        },
+        {
+          "w": "חַסְדֵּ֥ךְ",
+          "morph": "HNcmsc/Sp2fs"
+        },
+        {
+          "w": "הָאַחֲר֖וֹן",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הָרִאשׁ֑וֹן",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "לְבִלְתִּי",
+          "morph": "HR/C"
+        },
+        {
+          "w": "לֶ֗כֶת",
+          "morph": "HVqc"
+        },
+        {
+          "w": "אַחֲרֵי֙",
+          "morph": "HR"
+        },
+        {
+          "w": "הַבַּ֣חוּרִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "דַּ֖ל",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "עָשִֽׁיר",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "女 兒 啊 ， 現 在 不 要 懼 怕 ， 凡 你 所 說 的 ， 我 必 照 著 行 ； 我 本 城 的 人 都 知 道 你 是 個 賢 德 的 女 子 。",
+      "en": "Now, my dear, don’t worry! I intend to do for you everything you propose, for everyone in the village knows that you are a worthy woman.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַתָּ֗ה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "בִּתִּי֙",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּ֣ירְאִ֔י",
+          "morph": "HVqj2fs"
+        },
+        {
+          "w": "כֹּ֥ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תֹּאמְרִ֖י",
+          "morph": "HVqi2fs"
+        },
+        {
+          "w": "אֶֽעֱשֶׂה",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "לָּ֑ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "יוֹדֵ֨עַ֙",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שַׁ֣עַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַמִּ֔י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "כִּ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֵ֥שֶׁת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "חַ֖יִל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אָֽתְּ",
+          "morph": "HPp2fs"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "我 實 在 是 你 一 個 至 近 的 親 屬 ， 只 是 還 有 一 個 人 比 我 更 近 。",
+      "en": "Now yes, it is true that I am a guardian, but there is another guardian who is a closer relative than I am.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַתָּה֙",
+          "morph": "HC/D"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "אָמְנָ֔ם",
+          "morph": "HD"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "אם",
+          "morph": "HC"
+        },
+        {
+          "w": "גֹאֵ֖ל",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אָנֹ֑כִי",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "וְגַ֛ם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "יֵ֥שׁ",
+          "morph": "HTm"
+        },
+        {
+          "w": "גֹּאֵ֖ל",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "קָר֥וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מִמֶּֽנִּי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "你 今 夜 在 這 裡 住 宿 ， 明 早 他 若 肯 為 你 盡 親 屬 的 本 分 ， 就 由 他 罷 ！ 倘 若 不 肯 ， 我 指 著 永 生 的 耶 和 華 起 誓 ， 我 必 為 你 盡 了 本 分 ， 你 只 管 躺 到 天 亮 。",
+      "en": "Remain here tonight. Then in the morning, if he agrees to marry you, fine, let him do so. But if he does not want to do so, I promise, as surely as the Lord lives, to marry you. Sleep here until morning.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "לִ֣ינִי",
+          "morph": "HVqv2fs"
+        },
+        {
+          "w": "הַלַּ֗יְלָה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהָיָ֤ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "בַבֹּ֨קֶר֙",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "יִגְאָלֵ֥ךְ",
+          "morph": "HVqi3ms/Sp2fs"
+        },
+        {
+          "w": "טוֹב֙",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יִגְאָ֔ל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "לֹ֨א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יַחְפֹּ֧ץ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לְגָֽאֳלֵ֛ךְ",
+          "morph": "HR/Vqc/Sp2fs"
+        },
+        {
+          "w": "וּגְאַלְתִּ֥יךְ",
+          "morph": "HC/Vqq1cs/Sp2fs"
+        },
+        {
+          "w": "אָנֹ֖כִי",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "חַי",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "שִׁכְבִ֖י",
+          "morph": "HVqv2fs"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "הַבֹּֽקֶר",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "路 得 便 在 他 腳 下 躺 到 天 快 亮 ， 人 彼 此 不 能 辨 認 的 時 候 就 起 來 了 。 波 阿 斯 說 ： 不 可 使 人 知 道 有 女 子 到 場 上 來 ；",
+      "en": "So she slept beside him until morning. She woke up while it was still dark. Boaz thought, “No one must know that a woman visited the threshing floor.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתִּשְׁכַּ֤ב",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "מרגלתו",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "מַרְגְּלוֹתָיוֹ֙",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "הַבֹּ֔קֶר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַתָּ֕קָם",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "בטרום",
+          "morph": "HR/D"
+        },
+        {
+          "w": "בְּטֶ֛רֶם",
+          "morph": "HR/D"
+        },
+        {
+          "w": "יַכִּ֥יר",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "אִ֖ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "רֵעֵ֑הוּ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וַיֹּ֨אמֶר֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִוָּדַ֔ע",
+          "morph": "HVNj3ms"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "בָ֥אָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "הָאִשָּׁ֖ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הַגֹּֽרֶן",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "又 對 路 得 說 ： 打 開 你 所 披 的 外 衣 。 他 打 開 了 ， 波 阿 斯 就 撮 了 六 簸 箕 大 麥 ， 幫 他 扛 在 肩 上 ， 他 便 進 城 去 了 。",
+      "en": "Then he said, “Hold out the shawl you are wearing and grip it tightly.” As she held it tightly, he measured out about 60 pounds of barley into the shawl and put it on her shoulders. Then he went into town,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֗אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הָ֠בִי",
+          "morph": "HVqv2fs"
+        },
+        {
+          "w": "הַמִּטְפַּ֧חַת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עָלַ֛יִךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "וְאֶֽחֳזִי",
+          "morph": "HC/Vqv2fs"
+        },
+        {
+          "w": "בָ֖הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "וַתֹּ֣אחֶז",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "בָּ֑הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "וַיָּ֤מָד",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שֵׁשׁ",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שְׂעֹרִים֙",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "וַיָּ֣שֶׁת",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "עָלֶ֔יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "וַיָּבֹ֖א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הָעִֽיר",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "路 得 回 到 婆 婆 那 裡 ， 婆 婆 說 ： 女 兒 啊 ， 怎 麼 樣 了 ？ 路 得 就 將 那 人 向 他 所 行 的 述 說 了 一 遍 ，",
+      "en": "and she returned to her mother-in-law. When Ruth returned to her mother-in-law, Naomi asked, “How did things turn out for you, my daughter?” Ruth told her about all the man had done for her.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתָּבוֹא֙",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "חֲמוֹתָ֔הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "וַתֹּ֖אמֶר",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "מִי",
+          "morph": "HTi"
+        },
+        {
+          "w": "אַ֣תְּ",
+          "morph": "HPp2fs"
+        },
+        {
+          "w": "בִּתִּ֑י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "וַתַּ֨גֶּד",
+          "morph": "HC/Vhw3fs"
+        },
+        {
+          "w": "לָ֔הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "אֵ֛ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עָֽשָׂה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לָ֖הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "הָאִֽישׁ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "又 說 ： 那 人 給 了 我 六 簸 箕 大 麥 ， 對 我 說 ： 你 不 可 空 手 回 去 見 你 的 婆 婆 。",
+      "en": "She said, “He gave me these 60 pounds of barley, for he said to me, ‘Do not go to your mother-in-law empty-handed.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּ֕אמֶר",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "שֵׁשׁ",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "הַשְּׂעֹרִ֥ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָאֵ֖לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "נָ֣תַן",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לִ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "כִּ֚י",
+          "morph": "HC"
+        },
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֵלַ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תָּב֥וֹאִי",
+          "morph": "HVqj2fs"
+        },
+        {
+          "w": "רֵיקָ֖ם",
+          "morph": "HD"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "חֲמוֹתֵֽךְ",
+          "morph": "HNcfsc/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "婆 婆 說 ： 女 兒 啊 ， 你 只 管 安 坐 等 候 ， 看 這 事 怎 樣 成 就 ， 因 為 那 人 今 日 不 辦 成 這 事 必 不 休 息 。",
+      "en": "Then Naomi said, “Stay put, my daughter, until you know how the matter turns out. For the man will not rest until he has taken care of the matter today.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּ֨אמֶר֙",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "שְׁבִ֣י",
+          "morph": "HVqv2fs"
+        },
+        {
+          "w": "בִתִּ֔י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "עַ֚ד",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תֵּֽדְעִ֔ין",
+          "morph": "HVqi2fs/Sn"
+        },
+        {
+          "w": "אֵ֖יךְ",
+          "morph": "HTi"
+        },
+        {
+          "w": "יִפֹּ֣ל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "דָּבָ֑ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֤א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִשְׁקֹט֙",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "הָאִ֔ישׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "כִּלָּ֥ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "הַדָּבָ֖ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַיּֽוֹם",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    }
+  ]
+}

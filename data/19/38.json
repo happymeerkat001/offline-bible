@@ -1,0 +1,842 @@
+{
+  "book": 19,
+  "chapter": 38,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "（ 大 衛 的 記 念 詩 。 ） 耶 和 華 啊 ， 求 你 不 要 在 怒 中 責 備 我 ， 不 要 在 烈 怒 中 懲 罰 我 ！",
+      "en": "A psalm of David, written to get God’s attention. O Lord, do not continue to rebuke me in your anger. Do not continue to punish me in your raging fury.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִזְמ֖וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְדָוִ֣ד",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לְהַזְכִּֽיר",
+          "morph": "HR/Vhc"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "因 為 ， 你 的 箭 射 入 我 身 ； 你 的 手 壓 住 我 。",
+      "en": "For your arrows pierce me, and your hand presses me down.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יְֽהוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "בְּקֶצְפְּךָ֥",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "תוֹכִיחֵ֑נִי",
+          "morph": "HVhi2ms/Sp1cs"
+        },
+        {
+          "w": "וּֽבַחֲמָתְךָ֥",
+          "morph": "HC/R/Ncfsc/Sp2ms"
+        },
+        {
+          "w": "תְיַסְּרֵֽנִי",
+          "morph": "HVpi2ms/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "因 你 的 惱 怒 ， 我 的 肉 無 一 完 全 ； 因 我 的 罪 過 ， 我 的 骨 頭 也 不 安 寧 。",
+      "en": "My whole body is sick because of your judgment; I am deprived of health because of my sin.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "חִ֭צֶּיךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "נִ֣חֲתוּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "בִ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וַתִּנְחַ֖ת",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "עָלַ֣י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "יָדֶֽךָ",
+          "morph": "HNcbsc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "我 的 罪 孽 高 過 我 的 頭 ， 如 同 重 擔 叫 我 擔 當 不 起 。",
+      "en": "For my sins overwhelm me; like a heavy load, they are too much for me to bear.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֵין",
+          "morph": "HTn"
+        },
+        {
+          "w": "מְתֹ֣ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בִּ֭בְשָׂרִי",
+          "morph": "HR/Ncmsc/Sp1cs"
+        },
+        {
+          "w": "מִפְּנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "זַעְמֶ֑ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "אֵין",
+          "morph": "HTn"
+        },
+        {
+          "w": "שָׁל֥וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בַּ֝עֲצָמַ֗י",
+          "morph": "HR/Ncfpc/Sp1cs"
+        },
+        {
+          "w": "מִפְּנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "חַטָּאתִֽי",
+          "morph": "HNcfsc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "因 我 的 愚 昧 ， 我 的 傷 發 臭 流 膿 。",
+      "en": "My wounds are infected and starting to smell, because of my foolish sins.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "עֲ֭וֺנֹתַי",
+          "morph": "HNcbpc/Sp1cs"
+        },
+        {
+          "w": "עָבְר֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "רֹאשִׁ֑י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "כְּמַשָּׂ֥א",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "כָ֝בֵ֗ד",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יִכְבְּד֥וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "מִמֶּֽנִּי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "我 疼 痛 ， 大 大 拳 曲 ， 終 日 哀 痛 。",
+      "en": "I am dazed and completely humiliated; all day long I walk around mourning.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הִבְאִ֣ישׁוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "נָ֭מַקּוּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "חַבּוּרֹתָ֑י",
+          "morph": "HNcfpc/Sp1cs"
+        },
+        {
+          "w": "מִ֝פְּנֵ֗י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "אִוַּלְתִּֽי",
+          "morph": "HNcfsc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "我 滿 腰 是 火 ； 我 的 肉 無 一 完 全 。",
+      "en": "For I am overcome with shame, and my whole body is sick.",
+      "notes": [],
+      "he": [
+        {
+          "w": "נַעֲוֵ֣יתִי",
+          "morph": "HVNp1cs"
+        },
+        {
+          "w": "שַׁחֹ֣תִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "מְאֹ֑ד",
+          "morph": "HD"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַ֝יּ֗וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "קֹדֵ֥ר",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "הִלָּֽכְתִּי",
+          "morph": "HVpp1cs"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "我 被 壓 傷 ， 身 體 疲 倦 ； 因 心 裡 不 安 ， 我 就 唉 哼 。",
+      "en": "I am numb with pain and severely battered; I groan loudly because of the anxiety I feel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "כְ֭סָלַי",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "מָלְא֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "נִקְלֶ֑ה",
+          "morph": "HVNrmsa"
+        },
+        {
+          "w": "וְאֵ֥ין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "מְ֝תֹ֗ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בִּבְשָׂרִֽי",
+          "morph": "HR/Ncmsc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "主 啊 ， 我 的 心 願 都 在 你 面 前 ； 我 的 歎 息 不 向 你 隱 瞞 。",
+      "en": "O Lord, you understand my heart’s desire; my groaning is not hidden from you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "נְפוּג֣וֹתִי",
+          "morph": "HVNp1cs"
+        },
+        {
+          "w": "וְנִדְכֵּ֣יתִי",
+          "morph": "HC/VNp1cs"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "מְאֹ֑ד",
+          "morph": "HD"
+        },
+        {
+          "w": "שָׁ֝אַ֗גְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "מִֽנַּהֲמַ֥ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "לִבִּֽי",
+          "morph": "HNcmsc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "我 心 跳 動 ， 我 力 衰 微 ， 連 我 眼 中 的 光 也 沒 有 了 。",
+      "en": "My heart beats quickly; my strength leaves me. I can hardly see.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֲֽדֹנָי",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "נֶגְדְּךָ֥",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "תַּאֲוָתִ֑י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "וְ֝אַנְחָתִ֗י",
+          "morph": "HC/Ncfsc/Sp1cs"
+        },
+        {
+          "w": "מִמְּךָ֥",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "נִסְתָּֽרָה",
+          "morph": "HVNp3fs"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "我 的 良 朋 密 友 因 我 的 災 病 都 躲 在 旁 邊 站 著 ； 我 的 親 戚 本 家 也 遠 遠 地 站 立 。",
+      "en": "Because of my condition, even my friends and acquaintances keep their distance; my neighbors stand far away.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לִבִּ֣י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "סְ֭חַרְחַר",
+          "morph": "HVjp3ms"
+        },
+        {
+          "w": "עֲזָבַ֣נִי",
+          "morph": "HVqp3ms/Sp1cs"
+        },
+        {
+          "w": "כֹחִ֑י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וְֽאוֹר",
+          "morph": "HC/Ncbsc"
+        },
+        {
+          "w": "עֵינַ֥י",
+          "morph": "HNcbdc/Sp1cs"
+        },
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "הֵ֝֗ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "אֵ֣ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "אִתִּֽי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "那 尋 索 我 命 的 設 下 網 羅 ； 那 想 要 害 我 的 口 出 惡 言 ， 終 日 思 想 詭 計 。",
+      "en": "Those who seek my life try to entrap me; those who want to harm me speak destructive words. All day long they say deceitful things.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֹֽהֲבַ֨י",
+          "morph": "HVqrmpc/Sp1cs"
+        },
+        {
+          "w": "וְרֵעַ֗י",
+          "morph": "HC/Ncmpc/Sp1cs"
+        },
+        {
+          "w": "מִנֶּ֣גֶד",
+          "morph": "HR/R"
+        },
+        {
+          "w": "נִגְעִ֣י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "יַעֲמֹ֑דוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "וּ֝קְרוֹבַ֗י",
+          "morph": "HC/Aampc/Sp1cs"
+        },
+        {
+          "w": "מֵרָחֹ֥ק",
+          "morph": "HR/Aamsa"
+        },
+        {
+          "w": "עָמָֽדוּ",
+          "morph": "HVqp3cp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "但 我 如 聾 子 不 聽 ， 像 啞 巴 不 開 口 。",
+      "en": "But I am like a deaf man—I hear nothing; I am like a mute who cannot speak.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְנַקְשׁ֤וּ",
+          "morph": "HC/Vpw3mp"
+        },
+        {
+          "w": "מְבַקְשֵׁ֬י",
+          "morph": "HVprmpc"
+        },
+        {
+          "w": "נַפְשִׁ֗י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "וְדֹרְשֵׁ֣י",
+          "morph": "HC/Vqrmpc"
+        },
+        {
+          "w": "רָ֭עָתִי",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "דִּבְּר֣וּ",
+          "morph": "HVpp3cp"
+        },
+        {
+          "w": "הַוּ֑וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "וּ֝מִרְמ֗וֹת",
+          "morph": "HC/Ncfpa"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַיּ֥וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יֶהְגּֽוּ",
+          "morph": "HVqi3mp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "我 如 不 聽 見 的 人 ， 口 中 沒 有 回 話 。",
+      "en": "I am like a man who cannot hear and is incapable of arguing his defense.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַאֲנִ֣י",
+          "morph": "HC/Pp1cs"
+        },
+        {
+          "w": "כְ֭חֵרֵשׁ",
+          "morph": "HR/Aamsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֶשְׁמָ֑ע",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "וּ֝כְאִלֵּ֗ם",
+          "morph": "HC/R/Aamsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִפְתַּח",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "פִּֽיו",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "耶 和 華 啊 ， 我 仰 望 你 ！ 主 ─ 我 的 神 啊 ， 你 必 應 允 我 ！",
+      "en": "Yet I wait for you, O Lord! You will respond, O Lord, my God!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאֱהִ֗י",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "כְּ֭אִישׁ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "שֹׁמֵ֑עַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "וְאֵ֥ין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "בְּ֝פִ֗יו",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "תּוֹכָחֽוֹת",
+          "morph": "HNcfpa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "我 曾 說 ： 恐 怕 他 們 向 我 誇 耀 ； 我 失 腳 的 時 候 ， 他 們 向 我 誇 大 。",
+      "en": "I have prayed for deliverance, because otherwise they will gloat over me; when my foot slips they will arrogantly taunt me.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "לְךָ֣",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הוֹחָ֑לְתִּי",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "אַתָּ֥ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "תַ֝עֲנֶ֗ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "אֲדֹנָ֥י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "אֱלֹהָֽי",
+          "morph": "HNcmpc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "我 幾 乎 跌 倒 ； 我 的 痛 苦 常 在 我 面 前 。",
+      "en": "For I am about to stumble, and I am in constant pain.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "אָ֭מַרְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "פֶּן",
+          "morph": "HC"
+        },
+        {
+          "w": "יִשְׂמְחוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "לִ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "בְּמ֥וֹט",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "רַ֝גְלִ֗י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "עָלַ֥י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "הִגְדִּֽילוּ",
+          "morph": "HVhp3cp"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "我 要 承 認 我 的 罪 孽 ； 我 要 因 我 的 罪 憂 愁 。",
+      "en": "Yes, I confess my wrongdoing, and I am concerned about my sins.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "אֲ֭נִי",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "לְצֶ֣לַע",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "נָכ֑וֹן",
+          "morph": "HVNrmsa"
+        },
+        {
+          "w": "וּמַכְאוֹבִ֖י",
+          "morph": "HC/Ncmsc/Sp1cs"
+        },
+        {
+          "w": "נֶגְדִּ֣י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "תָמִֽיד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "但 我 的 仇 敵 又 活 潑 又 強 壯 ， 無 理 恨 我 的 增 多 了 。",
+      "en": "But those who are my enemies for no reason are numerous; those who hate me without cause outnumber me.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "עֲוֺנִ֥י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "אַגִּ֑יד",
+          "morph": "HVhi1cs"
+        },
+        {
+          "w": "אֶ֝דְאַ֗ג",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "מֵֽחַטָּאתִֽי",
+          "morph": "HR/Ncfsc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "以 惡 報 善 的 與 我 作 對 ， 因 我 是 追 求 良 善 。",
+      "en": "They repay me evil for the good I have done; though I have tried to do good to them, they hurl accusations at me.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְֽ֭אֹיְבַי",
+          "morph": "HC/Vqrmpc/Sp1cs"
+        },
+        {
+          "w": "חַיִּ֣ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "עָצֵ֑מוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "וְרַבּ֖וּ",
+          "morph": "HC/Vqp3cp"
+        },
+        {
+          "w": "שֹׂנְאַ֣י",
+          "morph": "HVqrmpc/Sp1cs"
+        },
+        {
+          "w": "שָֽׁקֶר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "耶 和 華 啊 ， 求 你 不 要 撇 棄 我 ！ 我 的 神 啊 ， 求 你 不 要 遠 離 我 ！",
+      "en": "Do not abandon me, O Lord. My God, do not remain far away from me.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמְשַׁלְּמֵ֣י",
+          "morph": "HC/Vprmpc"
+        },
+        {
+          "w": "רָ֭עָה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תַּ֣חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "טוֹבָ֑ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "יִ֝שְׂטְנ֗וּנִי",
+          "morph": "HVqi3mp/Sp1cs"
+        },
+        {
+          "w": "תַּ֣חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "רדופי",
+          "morph": "HVqc/Sp1cs"
+        },
+        {
+          "w": "רָֽדְפִי",
+          "morph": "HVqc/Sp1cs"
+        },
+        {
+          "w": "טֽוֹב",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "拯 救 我 的 主 啊 ， 求 你 快 快 幫 助 我 ！",
+      "en": "Hurry and help me, O Lord, my deliverer.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַּֽעַזְבֵ֥נִי",
+          "morph": "HVqj2ms/Sp1cs"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱ֝לֹהַ֗י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּרְחַ֥ק",
+          "morph": "HVqj2ms"
+        },
+        {
+          "w": "מִמֶּֽנִּי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    }
+  ]
+}

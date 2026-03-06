@@ -1,0 +1,1430 @@
+{
+  "book": 6,
+  "chapter": 1,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 的 僕 人 摩 西 死 了 以 後 ， 耶 和 華 曉 諭 摩 西 的 幫 手 ， 嫩 的 兒 子 約 書 亞 ， 說 ：",
+      "en": "After Moses the Lord’s servant died, the Lord said to Joshua son of Nun, Moses’ assistant:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֗י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אַחֲרֵ֛י",
+          "morph": "HR"
+        },
+        {
+          "w": "מ֥וֹת",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מֹשֶׁ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֶ֣בֶד",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוֹשֻׁ֣עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נ֔וּן",
+          "morph": "HNp"
+        },
+        {
+          "w": "מְשָׁרֵ֥ת",
+          "morph": "HVprmsc"
+        },
+        {
+          "w": "מֹשֶׁ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "我 的 僕 人 摩 西 死 了 。 現 在 你 要 起 來 ， 和 眾 百 姓 過 這 約 但 河 ， 往 我 所 要 賜 給 以 色 列 人 的 地 去 。",
+      "en": "“Moses my servant is dead. Get ready! Cross the Jordan River. Lead these people into the land that I am ready to hand over to them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַבְדִּ֖י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "מֵ֑ת",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "וְעַתָּה֩",
+          "morph": "HC/D"
+        },
+        {
+          "w": "ק֨וּם",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "עֲבֹ֜ר",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַיַּרְדֵּ֣ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "הַזֶּ֗ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "אַתָּה֙",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הָעָ֣ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֔ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֕רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֧ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אָנֹכִ֛י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "נֹתֵ֥ן",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לָהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "לִבְנֵ֥י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "凡 你 們 腳 掌 所 踏 之 地 ， 我 都 照 著 我 所 應 許 摩 西 的 話 賜 給 你 們 了 。",
+      "en": "I am handing over to you every place you set foot, as I promised Moses.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מָק֗וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּדְרֹ֧ךְ",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "כַּֽף",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "רַגְלְכֶ֛ם",
+          "morph": "HNcfsc/Sp2mp"
+        },
+        {
+          "w": "בּ֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "לָכֶ֣ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "נְתַתִּ֑יו",
+          "morph": "HVqp1cs/Sp3ms"
+        },
+        {
+          "w": "כַּאֲשֶׁ֥ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "דִּבַּ֖רְתִּי",
+          "morph": "HVpp1cs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶֽׁה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "從 曠 野 和 這 利 巴 嫩 ， 直 到 伯 拉 大 河 ， 赫 人 的 全 地 ， 又 到 大 海 日 落 之 處 ， 都 要 作 你 們 的 境 界 。",
+      "en": "Your territory will extend from the desert in the south to Lebanon in the north. It will extend all the way to the great River Euphrates in the east (including all Syria) and all the way to the Mediterranean Sea in the west.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מֵהַמִּדְבָּר֩",
+          "morph": "HR/Td/Ncmsa"
+        },
+        {
+          "w": "וְהַלְּבָנ֨וֹן",
+          "morph": "HC/Td/Np"
+        },
+        {
+          "w": "הַזֶּ֜ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "וְֽעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַנָּהָ֧ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַגָּד֣וֹל",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "נְהַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פְּרָ֗ת",
+          "morph": "HNp"
+        },
+        {
+          "w": "כֹּ֚ל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הַֽחִתִּ֔ים",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַיָּ֥ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַגָּד֖וֹל",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "מְב֣וֹא",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׁ֑מֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "יִֽהְיֶ֖ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "גְּבוּלְכֶֽם",
+          "morph": "HNcmsc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "你 平 生 的 日 子 ， 必 無 一 人 能 在 你 面 前 站 立 得 住 。 我 怎 樣 與 摩 西 同 在 ， 也 必 照 樣 與 你 同 在 ； 我 必 不 撇 下 你 ， 也 不 丟 棄 你 。",
+      "en": "No one will be able to resist you all the days of your life. As I was with Moses, so I will be with you. I will not abandon you or leave you alone.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִתְיַצֵּ֥ב",
+          "morph": "HVti3ms"
+        },
+        {
+          "w": "אִישׁ֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְפָנֶ֔יךָ",
+          "morph": "HR/Ncbpc/Sp2ms"
+        },
+        {
+          "w": "כֹּ֖ל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְמֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "חַיֶּ֑יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "כַּֽאֲשֶׁ֨ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "הָיִ֤יתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶהְיֶ֣ה",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "עִמָּ֔ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אַרְפְּךָ֖",
+          "morph": "HVhi1cs/Sp2ms"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "אֶעֶזְבֶֽךָּ",
+          "morph": "HVqi1cs/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "你 當 剛 強 壯 膽 ！ 因 為 你 必 使 這 百 姓 承 受 那 地 為 業 ， 就 是 我 向 他 們 列 祖 起 誓 應 許 賜 給 他 們 的 地 。",
+      "en": "Be strong and brave! You must lead these people in the conquest of this land that I solemnly promised their ancestors I would hand over to them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "חֲזַ֖ק",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "וֶאֱמָ֑ץ",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "אַתָּ֗ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "תַּנְחִיל֙",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעָ֣ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֔ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֕רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נִשְׁבַּ֥עְתִּי",
+          "morph": "HVNp1cs"
+        },
+        {
+          "w": "לַאֲבוֹתָ֖ם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "לָתֵ֥ת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לָהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "只 要 剛 強 ， 大 大 壯 膽 ， 謹 守 遵 行 我 僕 人 摩 西 所 吩 咐 你 的 一 切 律 法 ， 不 可 偏 離 左 右 ， 使 你 無 論 往 那 裡 去 ， 都 可 以 順 利 。",
+      "en": "Make sure you are very strong and brave! Carefully obey all the law my servant Moses charged you to keep. Do not swerve from it to the right or to the left, so that you may be successful in all you do.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רַק֩",
+          "morph": "HTa"
+        },
+        {
+          "w": "חֲזַ֨ק",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "וֶֽאֱמַ֜ץ",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "מְאֹ֗ד",
+          "morph": "HD"
+        },
+        {
+          "w": "לִשְׁמֹ֤ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לַעֲשׂוֹת֙",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "כְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַתּוֹרָ֗ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "צִוְּךָ֙",
+          "morph": "HVpp3ms/Sp2ms"
+        },
+        {
+          "w": "מֹשֶׁ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַבְדִּ֔י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תָּס֥וּר",
+          "morph": "HVqj2ms"
+        },
+        {
+          "w": "מִמֶּ֖נּוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "יָמִ֣ין",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּשְׂמֹ֑אול",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "לְמַ֣עַן",
+          "morph": "HR"
+        },
+        {
+          "w": "תַּשְׂכִּ֔יל",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "בְּכֹ֖ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תֵּלֵֽךְ",
+          "morph": "HVqi2ms"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "這 律 法 書 不 可 離 開 你 的 口 ， 總 要 晝 夜 思 想 ， 好 使 你 謹 守 遵 行 這 書 上 所 寫 的 一 切 話 。 如 此 ， 你 的 道 路 就 可 以 亨 通 ， 凡 事 順 利 。",
+      "en": "This law scroll must not leave your lips. You must memorize it day and night so you can carefully obey all that is written in it. Then you will prosper and be successful.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָמ֡וּשׁ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "סֵפֶר֩",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַתּוֹרָ֨ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הַזֶּ֜ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "מִפִּ֗יךָ",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "וְהָגִ֤יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "בּוֹ֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "יוֹמָ֣ם",
+          "morph": "HD"
+        },
+        {
+          "w": "וָלַ֔יְלָה",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "לְמַ֨עַן֙",
+          "morph": "HR"
+        },
+        {
+          "w": "תִּשְׁמֹ֣ר",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "לַעֲשׂ֔וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "כְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַכָּת֖וּב",
+          "morph": "HTd/Vqsmsa"
+        },
+        {
+          "w": "בּ֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "אָ֛ז",
+          "morph": "HD"
+        },
+        {
+          "w": "תַּצְלִ֥יחַ",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דְּרָכֶ֖ךָ",
+          "morph": "HNcbpc/Sp2ms"
+        },
+        {
+          "w": "וְאָ֥ז",
+          "morph": "HC/D"
+        },
+        {
+          "w": "תַּשְׂכִּֽיל",
+          "morph": "HVhi2ms"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "我 豈 沒 有 吩 咐 你 麼 ？ 你 當 剛 強 壯 膽 ！ 不 要 懼 怕 ， 也 不 要 驚 惶 ； 因 為 你 無 論 往 那 裡 去 ， 耶 和 華 ─ 你 的 神 必 與 你 同 在 。",
+      "en": "I repeat, be strong and brave! Don’t be afraid and don’t panic, for I, the Lord your God, am with you in all you do.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "הֲל֤וֹא",
+          "morph": "HTi/Tn"
+        },
+        {
+          "w": "צִוִּיתִ֨יךָ֙",
+          "morph": "HVpp1cs/Sp2ms"
+        },
+        {
+          "w": "חֲזַ֣ק",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "וֶאֱמָ֔ץ",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "אַֽל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַּעֲרֹ֖ץ",
+          "morph": "HVqj2ms"
+        },
+        {
+          "w": "וְאַל",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תֵּחָ֑ת",
+          "morph": "HVNj2ms"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "עִמְּךָ֙",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶ֔יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "בְּכֹ֖ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תֵּלֵֽךְ",
+          "morph": "HVqi2ms"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "於 是 ， 約 書 亞 吩 咐 百 姓 的 官 長 說 ：",
+      "en": "Joshua instructed the leaders of the people:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְצַ֣ו",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁ֔עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שֹׁטְרֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָעָ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לֵאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "你 們 要 走 遍 營 中 ， 吩 咐 百 姓 說 ： 當 預 備 食 物 ； 因 為 三 日 之 內 你 們 要 過 這 約 但 河 ， 進 去 得 耶 和 華 ─ 你 們 神 賜 你 們 為 業 之 地 。",
+      "en": "“Go through the camp and command the people, ‘Prepare your supplies, for within three days you will cross the Jordan River and begin the conquest of the land the Lord your God is ready to hand over to you.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "עִבְר֣וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "בְּקֶ֣רֶב",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַֽמַּחֲנֶ֗ה",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְצַוּ֤וּ",
+          "morph": "HC/Vpv2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעָם֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הָכִ֥ינוּ",
+          "morph": "HVhv2mp"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "צֵידָ֑ה",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "כִּ֞י",
+          "morph": "HC"
+        },
+        {
+          "w": "בְּע֣וֹד",
+          "morph": "HR/D"
+        },
+        {
+          "w": "שְׁלֹ֣שֶׁת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִ֗ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "אַתֶּם֙",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "עֹֽבְרִים֙",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַיַּרְדֵּ֣ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "הַזֶּ֔ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "לָבוֹא֙",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לָרֶ֣שֶׁת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֔רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁר֙",
+          "morph": "HTr"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹֽהֵיכֶ֔ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "נֹתֵ֥ן",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לְרִשְׁתָּֽהּ",
+          "morph": "HR/Vqc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "約 書 亞 對 流 便 人 、 迦 得 人 ， 和 瑪 拿 西 半 支 派 的 人 說 ：",
+      "en": "Joshua told the Reubenites, the Gadites, and the half-tribe of Manasseh:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלָרֽאוּבֵנִי֙",
+          "morph": "HC/Rd/Ngmsa"
+        },
+        {
+          "w": "וְלַגָּדִ֔י",
+          "morph": "HC/Rd/Ngmsa"
+        },
+        {
+          "w": "וְלַחֲצִ֖י",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "שֵׁ֣בֶט",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַֽמְנַשֶּׁ֑ה",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "אָמַ֥ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁ֖עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "你 們 要 追 念 耶 和 華 的 僕 人 摩 西 所 吩 咐 你 們 的 話 說 ： 耶 和 華 ─ 你 們 的 神 使 你 們 得 享 平 安 ， 也 必 將 這 地 賜 給 你 們 。",
+      "en": "“Remember what Moses the Lord’s servant commanded you. The Lord your God is giving you a place to settle and is handing this land over to you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "זָכוֹר֙",
+          "morph": "HVqa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַדָּבָ֔ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "צִוָּ֥ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "אֶתְכֶ֛ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֶֽבֶד",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "יְהוָ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶם֙",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "מֵנִ֣יחַ",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "לָכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וְנָתַ֥ן",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֥רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "הַזֹּֽאת",
+          "morph": "HTd/Pdxfs"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "你 們 的 妻 子 、 孩 子 ， 和 牲 畜 都 可 以 留 在 約 但 河 東 、 摩 西 所 給 你 們 的 地 ； 但 你 們 中 間 一 切 大 能 的 勇 士 都 要 帶 著 兵 器 在 你 們 的 弟 兄 前 面 過 去 ， 幫 助 他 們 ，",
+      "en": "Your wives, children, and cattle may stay in the land that Moses assigned to you east of the Jordan River. But all of you warriors must cross over armed for battle ahead of your brothers. You must help them",
+      "notes": [],
+      "he": [
+        {
+          "w": "נְשֵׁיכֶ֣ם",
+          "morph": "HNcfpc/Sp2mp"
+        },
+        {
+          "w": "טַפְּכֶם֮",
+          "morph": "HNcmsc/Sp2mp"
+        },
+        {
+          "w": "וּמִקְנֵיכֶם֒",
+          "morph": "HC/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "יֵשְׁב֕וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "בָּאָ֕רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נָתַ֥ן",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לָכֶ֛ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מֹשֶׁ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּעֵ֣בֶר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַיַּרְדֵּ֑ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "וְאַתֶּם֩",
+          "morph": "HC/Pp2mp"
+        },
+        {
+          "w": "תַּעַבְר֨וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "חֲמֻשִׁ֜ים",
+          "morph": "HVqsmpa"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "אֲחֵיכֶ֗ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "כֹּ֚ל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "גִּבּוֹרֵ֣י",
+          "morph": "HAampc"
+        },
+        {
+          "w": "הַחַ֔יִל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַעֲזַרְתֶּ֖ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אוֹתָֽם",
+          "morph": "HTo/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "等 到 耶 和 華 使 你 們 的 弟 兄 像 你 們 一 樣 得 享 平 安 ， 並 且 得 著 耶 和 華 ─ 你 們 神 所 賜 他 們 為 業 之 地 ， 那 時 才 可 以 回 你 們 所 得 之 地 ， 承 受 為 業 ， 就 是 耶 和 華 的 僕 人 摩 西 在 約 但 河 東 、 向 日 出 之 地 所 給 你 們 的 。",
+      "en": "until the Lord gives your brothers a place like yours to settle and they conquer the land the Lord your God is ready to hand over to them. Then you may go back to your allotted land and occupy the land Moses the Lord’s servant assigned you east of the Jordan.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "עַ֠ד",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יָנִ֨יחַ",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לַֽאֲחֵיכֶם֮",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "כָּכֶם֒",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וְיָרְשׁ֣וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "גַם",
+          "morph": "HD"
+        },
+        {
+          "w": "הֵ֔מָּה",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֕רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹֽהֵיכֶ֖ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "נֹתֵ֣ן",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לָהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "וְשַׁבְתֶּ֞ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "לְאֶ֤רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "יְרֻשַּׁתְכֶם֙",
+          "morph": "HNcfsc/Sp2mp"
+        },
+        {
+          "w": "וִֽירִשְׁתֶּ֣ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אוֹתָ֔הּ",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נָתַ֣ן",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לָכֶ֗ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מֹשֶׁה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֶ֣בֶד",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּעֵ֥בֶר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַיַּרְדֵּ֖ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "מִזְרַ֥ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּֽׁמֶשׁ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "他 們 回 答 約 書 亞 說 ： 你 所 吩 咐 我 們 行 的 ， 我 們 都 必 行 ； 你 所 差 遣 我 們 去 的 ， 我 們 都 必 去 。",
+      "en": "They told Joshua, “We will do everything you say. We will go wherever you send us.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַֽיַּעֲנ֔וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוֹשֻׁ֖עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "כֹּ֤ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "צִוִּיתָ֨נוּ֙",
+          "morph": "HVpp2ms/Sp1cp"
+        },
+        {
+          "w": "נַֽעֲשֶׂ֔ה",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "וְאֶֽל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּשְׁלָחֵ֖נוּ",
+          "morph": "HVqi2ms/Sp1cp"
+        },
+        {
+          "w": "נֵלֵֽךְ",
+          "morph": "HVqi1cp"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "我 們 從 前 在 一 切 事 上 怎 樣 聽 從 摩 西 ， 現 在 也 必 照 樣 聽 從 你 ； 惟 願 耶 和 華 ─ 你 的 神 與 你 同 在 ， 像 與 摩 西 同 在 一 樣 。",
+      "en": "Just as we obeyed Moses, so we will obey you. But may the Lord your God be with you as he was with Moses.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כְּכֹ֤ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שָׁמַ֨עְנוּ֙",
+          "morph": "HVqp1cp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כֵּ֖ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "נִשְׁמַ֣ע",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "אֵלֶ֑יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "רַ֠ק",
+          "morph": "HTa"
+        },
+        {
+          "w": "יִֽהְיֶ֞ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יְהוָ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶ֨יךָ֙",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "עִמָּ֔ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "כַּאֲשֶׁ֥ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "הָיָ֖ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶֽׁה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "無 論 甚 麼 人 違 背 你 的 命 令 ， 不 聽 從 你 所 吩 咐 他 的 一 切 話 ， 就 必 治 死 他 。 你 只 要 剛 強 壯 膽 ！",
+      "en": "Any man who rebels against what you say and does not obey all your commands will be executed. But be strong and brave!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אִ֞ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יַמְרֶ֣ה",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "פִּ֗יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וְלֹֽא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִשְׁמַ֧ע",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דְּבָרֶ֛יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "לְכֹ֥ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תְּצַוֶּ֖נּוּ",
+          "morph": "HVpi2ms/Sp3ms"
+        },
+        {
+          "w": "יוּמָ֑ת",
+          "morph": "HVHi3ms"
+        },
+        {
+          "w": "רַ֖ק",
+          "morph": "HTa"
+        },
+        {
+          "w": "חֲזַ֥ק",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "וֶאֱמָֽץ",
+          "morph": "HC/Vqv2ms"
+        }
+      ]
+    }
+  ]
+}

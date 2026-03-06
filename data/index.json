@@ -1,0 +1,533 @@
+{
+  "v": "1.0.0",
+  "books": [
+    {
+      "id": 1,
+      "usfm": "GEN",
+      "name_zh": "创世记",
+      "name_en": "Genesis",
+      "testament": "OT",
+      "chapters": 50
+    },
+    {
+      "id": 2,
+      "usfm": "EXO",
+      "name_zh": "出埃及记",
+      "name_en": "Exodus",
+      "testament": "OT",
+      "chapters": 40
+    },
+    {
+      "id": 3,
+      "usfm": "LEV",
+      "name_zh": "利未记",
+      "name_en": "Leviticus",
+      "testament": "OT",
+      "chapters": 27
+    },
+    {
+      "id": 4,
+      "usfm": "NUM",
+      "name_zh": "民数记",
+      "name_en": "Numbers",
+      "testament": "OT",
+      "chapters": 36
+    },
+    {
+      "id": 5,
+      "usfm": "DEU",
+      "name_zh": "申命记",
+      "name_en": "Deuteronomy",
+      "testament": "OT",
+      "chapters": 34
+    },
+    {
+      "id": 6,
+      "usfm": "JOS",
+      "name_zh": "约书亚记",
+      "name_en": "Joshua",
+      "testament": "OT",
+      "chapters": 24
+    },
+    {
+      "id": 7,
+      "usfm": "JDG",
+      "name_zh": "士师记",
+      "name_en": "Judges",
+      "testament": "OT",
+      "chapters": 21
+    },
+    {
+      "id": 8,
+      "usfm": "RUT",
+      "name_zh": "路得记",
+      "name_en": "Ruth",
+      "testament": "OT",
+      "chapters": 4
+    },
+    {
+      "id": 9,
+      "usfm": "1SA",
+      "name_zh": "撒母耳记上",
+      "name_en": "1 Samuel",
+      "testament": "OT",
+      "chapters": 31
+    },
+    {
+      "id": 10,
+      "usfm": "2SA",
+      "name_zh": "撒母耳记下",
+      "name_en": "2 Samuel",
+      "testament": "OT",
+      "chapters": 24
+    },
+    {
+      "id": 11,
+      "usfm": "1KI",
+      "name_zh": "列王纪上",
+      "name_en": "1 Kings",
+      "testament": "OT",
+      "chapters": 22
+    },
+    {
+      "id": 12,
+      "usfm": "2KI",
+      "name_zh": "列王纪下",
+      "name_en": "2 Kings",
+      "testament": "OT",
+      "chapters": 25
+    },
+    {
+      "id": 13,
+      "usfm": "1CH",
+      "name_zh": "历代志上",
+      "name_en": "1 Chronicles",
+      "testament": "OT",
+      "chapters": 29
+    },
+    {
+      "id": 14,
+      "usfm": "2CH",
+      "name_zh": "历代志下",
+      "name_en": "2 Chronicles",
+      "testament": "OT",
+      "chapters": 36
+    },
+    {
+      "id": 15,
+      "usfm": "EZR",
+      "name_zh": "以斯拉记",
+      "name_en": "Ezra",
+      "testament": "OT",
+      "chapters": 10
+    },
+    {
+      "id": 16,
+      "usfm": "NEH",
+      "name_zh": "尼希米记",
+      "name_en": "Nehemiah",
+      "testament": "OT",
+      "chapters": 13
+    },
+    {
+      "id": 17,
+      "usfm": "EST",
+      "name_zh": "以斯帖记",
+      "name_en": "Esther",
+      "testament": "OT",
+      "chapters": 10
+    },
+    {
+      "id": 18,
+      "usfm": "JOB",
+      "name_zh": "约伯记",
+      "name_en": "Job",
+      "testament": "OT",
+      "chapters": 42
+    },
+    {
+      "id": 19,
+      "usfm": "PSA",
+      "name_zh": "诗篇",
+      "name_en": "Psalms",
+      "testament": "OT",
+      "chapters": 150
+    },
+    {
+      "id": 20,
+      "usfm": "PRO",
+      "name_zh": "箴言",
+      "name_en": "Proverbs",
+      "testament": "OT",
+      "chapters": 31
+    },
+    {
+      "id": 21,
+      "usfm": "ECC",
+      "name_zh": "传道书",
+      "name_en": "Ecclesiastes",
+      "testament": "OT",
+      "chapters": 12
+    },
+    {
+      "id": 22,
+      "usfm": "SNG",
+      "name_zh": "雅歌",
+      "name_en": "Song of Songs",
+      "testament": "OT",
+      "chapters": 8
+    },
+    {
+      "id": 23,
+      "usfm": "ISA",
+      "name_zh": "以赛亚书",
+      "name_en": "Isaiah",
+      "testament": "OT",
+      "chapters": 66
+    },
+    {
+      "id": 24,
+      "usfm": "JER",
+      "name_zh": "耶利米书",
+      "name_en": "Jeremiah",
+      "testament": "OT",
+      "chapters": 52
+    },
+    {
+      "id": 25,
+      "usfm": "LAM",
+      "name_zh": "耶利米哀歌",
+      "name_en": "Lamentations",
+      "testament": "OT",
+      "chapters": 5
+    },
+    {
+      "id": 26,
+      "usfm": "EZK",
+      "name_zh": "以西结书",
+      "name_en": "Ezekiel",
+      "testament": "OT",
+      "chapters": 48
+    },
+    {
+      "id": 27,
+      "usfm": "DAN",
+      "name_zh": "但以理书",
+      "name_en": "Daniel",
+      "testament": "OT",
+      "chapters": 12
+    },
+    {
+      "id": 28,
+      "usfm": "HOS",
+      "name_zh": "何西阿书",
+      "name_en": "Hosea",
+      "testament": "OT",
+      "chapters": 14
+    },
+    {
+      "id": 29,
+      "usfm": "JOL",
+      "name_zh": "约珥书",
+      "name_en": "Joel",
+      "testament": "OT",
+      "chapters": 3
+    },
+    {
+      "id": 30,
+      "usfm": "AMO",
+      "name_zh": "阿摩司书",
+      "name_en": "Amos",
+      "testament": "OT",
+      "chapters": 9
+    },
+    {
+      "id": 31,
+      "usfm": "OBA",
+      "name_zh": "俄巴底亚书",
+      "name_en": "Obadiah",
+      "testament": "OT",
+      "chapters": 1
+    },
+    {
+      "id": 32,
+      "usfm": "JON",
+      "name_zh": "约拿书",
+      "name_en": "Jonah",
+      "testament": "OT",
+      "chapters": 4
+    },
+    {
+      "id": 33,
+      "usfm": "MIC",
+      "name_zh": "弥迦书",
+      "name_en": "Micah",
+      "testament": "OT",
+      "chapters": 7
+    },
+    {
+      "id": 34,
+      "usfm": "NAM",
+      "name_zh": "那鸿书",
+      "name_en": "Nahum",
+      "testament": "OT",
+      "chapters": 3
+    },
+    {
+      "id": 35,
+      "usfm": "HAB",
+      "name_zh": "哈巴谷书",
+      "name_en": "Habakkuk",
+      "testament": "OT",
+      "chapters": 3
+    },
+    {
+      "id": 36,
+      "usfm": "ZEP",
+      "name_zh": "西番雅书",
+      "name_en": "Zephaniah",
+      "testament": "OT",
+      "chapters": 3
+    },
+    {
+      "id": 37,
+      "usfm": "HAG",
+      "name_zh": "哈该书",
+      "name_en": "Haggai",
+      "testament": "OT",
+      "chapters": 2
+    },
+    {
+      "id": 38,
+      "usfm": "ZEC",
+      "name_zh": "撒迦利亚书",
+      "name_en": "Zechariah",
+      "testament": "OT",
+      "chapters": 14
+    },
+    {
+      "id": 39,
+      "usfm": "MAL",
+      "name_zh": "玛拉基书",
+      "name_en": "Malachi",
+      "testament": "OT",
+      "chapters": 4
+    },
+    {
+      "id": 40,
+      "usfm": "MAT",
+      "name_zh": "马太福音",
+      "name_en": "Matthew",
+      "testament": "NT",
+      "chapters": 28
+    },
+    {
+      "id": 41,
+      "usfm": "MRK",
+      "name_zh": "马可福音",
+      "name_en": "Mark",
+      "testament": "NT",
+      "chapters": 16
+    },
+    {
+      "id": 42,
+      "usfm": "LUK",
+      "name_zh": "路加福音",
+      "name_en": "Luke",
+      "testament": "NT",
+      "chapters": 24
+    },
+    {
+      "id": 43,
+      "usfm": "JHN",
+      "name_zh": "约翰福音",
+      "name_en": "John",
+      "testament": "NT",
+      "chapters": 21
+    },
+    {
+      "id": 44,
+      "usfm": "ACT",
+      "name_zh": "使徒行传",
+      "name_en": "Acts",
+      "testament": "NT",
+      "chapters": 28
+    },
+    {
+      "id": 45,
+      "usfm": "ROM",
+      "name_zh": "罗马书",
+      "name_en": "Romans",
+      "testament": "NT",
+      "chapters": 16
+    },
+    {
+      "id": 46,
+      "usfm": "1CO",
+      "name_zh": "哥林多前书",
+      "name_en": "1 Corinthians",
+      "testament": "NT",
+      "chapters": 16
+    },
+    {
+      "id": 47,
+      "usfm": "2CO",
+      "name_zh": "哥林多后书",
+      "name_en": "2 Corinthians",
+      "testament": "NT",
+      "chapters": 13
+    },
+    {
+      "id": 48,
+      "usfm": "GAL",
+      "name_zh": "加拉太书",
+      "name_en": "Galatians",
+      "testament": "NT",
+      "chapters": 6
+    },
+    {
+      "id": 49,
+      "usfm": "EPH",
+      "name_zh": "以弗所书",
+      "name_en": "Ephesians",
+      "testament": "NT",
+      "chapters": 6
+    },
+    {
+      "id": 50,
+      "usfm": "PHP",
+      "name_zh": "腓立比书",
+      "name_en": "Philippians",
+      "testament": "NT",
+      "chapters": 4
+    },
+    {
+      "id": 51,
+      "usfm": "COL",
+      "name_zh": "歌罗西书",
+      "name_en": "Colossians",
+      "testament": "NT",
+      "chapters": 4
+    },
+    {
+      "id": 52,
+      "usfm": "1TH",
+      "name_zh": "帖撒罗尼迦前书",
+      "name_en": "1 Thessalonians",
+      "testament": "NT",
+      "chapters": 5
+    },
+    {
+      "id": 53,
+      "usfm": "2TH",
+      "name_zh": "帖撒罗尼迦后书",
+      "name_en": "2 Thessalonians",
+      "testament": "NT",
+      "chapters": 3
+    },
+    {
+      "id": 54,
+      "usfm": "1TI",
+      "name_zh": "提摩太前书",
+      "name_en": "1 Timothy",
+      "testament": "NT",
+      "chapters": 6
+    },
+    {
+      "id": 55,
+      "usfm": "2TI",
+      "name_zh": "提摩太后书",
+      "name_en": "2 Timothy",
+      "testament": "NT",
+      "chapters": 4
+    },
+    {
+      "id": 56,
+      "usfm": "TIT",
+      "name_zh": "提多书",
+      "name_en": "Titus",
+      "testament": "NT",
+      "chapters": 3
+    },
+    {
+      "id": 57,
+      "usfm": "PHM",
+      "name_zh": "腓利门书",
+      "name_en": "Philemon",
+      "testament": "NT",
+      "chapters": 1
+    },
+    {
+      "id": 58,
+      "usfm": "HEB",
+      "name_zh": "希伯来书",
+      "name_en": "Hebrews",
+      "testament": "NT",
+      "chapters": 13
+    },
+    {
+      "id": 59,
+      "usfm": "JAS",
+      "name_zh": "雅各书",
+      "name_en": "James",
+      "testament": "NT",
+      "chapters": 5
+    },
+    {
+      "id": 60,
+      "usfm": "1PE",
+      "name_zh": "彼得前书",
+      "name_en": "1 Peter",
+      "testament": "NT",
+      "chapters": 5
+    },
+    {
+      "id": 61,
+      "usfm": "2PE",
+      "name_zh": "彼得后书",
+      "name_en": "2 Peter",
+      "testament": "NT",
+      "chapters": 3
+    },
+    {
+      "id": 62,
+      "usfm": "1JN",
+      "name_zh": "约翰一书",
+      "name_en": "1 John",
+      "testament": "NT",
+      "chapters": 5
+    },
+    {
+      "id": 63,
+      "usfm": "2JN",
+      "name_zh": "约翰二书",
+      "name_en": "2 John",
+      "testament": "NT",
+      "chapters": 1
+    },
+    {
+      "id": 64,
+      "usfm": "3JN",
+      "name_zh": "约翰三书",
+      "name_en": "3 John",
+      "testament": "NT",
+      "chapters": 1
+    },
+    {
+      "id": 65,
+      "usfm": "JUD",
+      "name_zh": "犹大书",
+      "name_en": "Jude",
+      "testament": "NT",
+      "chapters": 1
+    },
+    {
+      "id": 66,
+      "usfm": "REV",
+      "name_zh": "启示录",
+      "name_en": "Revelation",
+      "testament": "NT",
+      "chapters": 22
+    }
+  ]
+}

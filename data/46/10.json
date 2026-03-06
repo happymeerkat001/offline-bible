@@ -1,0 +1,2585 @@
+{
+  "book": 46,
+  "chapter": 10,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "弟 兄 們 ， 我 不 願 意 你 們 不 曉 得 ， 我 們 的 祖 宗 從 前 都 在 雲 下 ， 都 從 海 中 經 過 ，",
+      "en": "For I do not want you to be unaware, brothers and sisters, that our fathers were all under the cloud and all passed through the sea,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Οὐ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "θέλω",
+          "morph": "V-PAI-1S",
+          "gloss": "I want"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἀγνοεῖν",
+          "morph": "V-PAN",
+          "gloss": "to be ignorant"
+        },
+        {
+          "w": "ἀδελφοί",
+          "morph": "N-VPM",
+          "gloss": "brothers"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "πατέρες",
+          "morph": "N-NPM",
+          "gloss": "fathers"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "πάντες",
+          "morph": "A-NPM",
+          "gloss": "all"
+        },
+        {
+          "w": "ὑπὸ",
+          "morph": "PREP",
+          "gloss": "under"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "νεφέλην",
+          "morph": "N-ASF",
+          "gloss": "cloud"
+        },
+        {
+          "w": "ἦσαν",
+          "morph": "V-IAI-3P",
+          "gloss": "were"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πάντες",
+          "morph": "A-NPM",
+          "gloss": "all"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "θαλάσσης",
+          "morph": "N-GSF",
+          "gloss": "sea"
+        },
+        {
+          "w": "διῆλθον",
+          "morph": "V-2AAI-3P",
+          "gloss": "passed"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "都 在 雲 裡 、 海 裡 受 洗 歸 了 摩 西 ；",
+      "en": "and all were baptized into Moses in the cloud and in the sea,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πάντες",
+          "morph": "A-NPM",
+          "gloss": "all"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Μωϋσῆν",
+          "morph": "N-ASM",
+          "gloss": "Moses"
+        },
+        {
+          "w": "ἐβαπτίσαντο",
+          "morph": "V-AMI-3P",
+          "gloss": "were baptized"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "νεφέλῃ",
+          "morph": "N-DSF",
+          "gloss": "cloud"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "θαλάσσῃ",
+          "morph": "N-DSF",
+          "gloss": "sea"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "並 且 都 吃 了 一 樣 的 靈 食 ，",
+      "en": "and all ate the same spiritual food,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πάντες",
+          "morph": "A-NPM",
+          "gloss": "all"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "αὐτὸ",
+          "morph": "P-ASN",
+          "gloss": "same"
+        },
+        {
+          "w": "πνευματικὸν",
+          "morph": "A-ASN",
+          "gloss": "spiritual"
+        },
+        {
+          "w": "βρῶμα",
+          "morph": "N-ASN",
+          "gloss": "food"
+        },
+        {
+          "w": "ἔφαγον",
+          "morph": "V-2AAI-3P",
+          "gloss": "ate"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "也 都 喝 了 一 樣 的 靈 水 。 所 喝 的 ， 是 出 於 隨 著 他 們 的 靈 磐 石 ； 那 磐 石 就 是 基 督 。",
+      "en": "and all drank the same spiritual drink. For they were all drinking from the spiritual rock that followed them, and the rock was Christ.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πάντες",
+          "morph": "A-NPM",
+          "gloss": "all"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "αὐτὸ",
+          "morph": "P-ASN",
+          "gloss": "same"
+        },
+        {
+          "w": "πνευματικὸν",
+          "morph": "A-ASN",
+          "gloss": "spiritual"
+        },
+        {
+          "w": "ἔπιον",
+          "morph": "V-2AAI-3P",
+          "gloss": "drank"
+        },
+        {
+          "w": "πόμα",
+          "morph": "N-ASN",
+          "gloss": "drink"
+        },
+        {
+          "w": "ἔπινον",
+          "morph": "V-IAI-3P",
+          "gloss": "they were drinking"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "πνευματικῆς",
+          "morph": "A-GSF",
+          "gloss": "[the] spiritual"
+        },
+        {
+          "w": "ἀκολουθούσης",
+          "morph": "V-PAP-GSF",
+          "gloss": "accompanying [them]"
+        },
+        {
+          "w": "πέτρας",
+          "morph": "N-GSF",
+          "gloss": "rock"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "πέτρα",
+          "morph": "N-NSF",
+          "gloss": "rock"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "was"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Χριστός",
+          "morph": "N-NSM",
+          "gloss": "Christ"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "但 他 們 中 間 多 半 是 神 不 喜 歡 的 人 ， 所 以 在 曠 野 倒 斃 。",
+      "en": "But God was not pleased with most of them, for they were cut down in the wilderness.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "Nevertheless"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "-"
+        },
+        {
+          "w": "πλείοσιν",
+          "morph": "A-DPM-C",
+          "gloss": "most"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "εὐδόκησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "was well pleased"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεός",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "κατεστρώθησαν",
+          "morph": "V-API-3P",
+          "gloss": "they were strewn"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐρήμῳ",
+          "morph": "A-DSF",
+          "gloss": "wilderness"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "這 些 事 都 是 我 們 的 鑑 戒 ， 叫 我 們 不 要 貪 戀 惡 事 ， 像 他 們 那 樣 貪 戀 的 ；",
+      "en": "These things happened as examples for us, so that we will not crave evil things as they did.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ταῦτα",
+          "morph": "D-NPN",
+          "gloss": "These things"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "τύποι",
+          "morph": "N-NPM",
+          "gloss": "types"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "to us"
+        },
+        {
+          "w": "ἐγενήθησαν",
+          "morph": "V-AOI-3P",
+          "gloss": "have become"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "εἶναι",
+          "morph": "V-PAN",
+          "gloss": "to be"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "ἐπιθυμητὰς",
+          "morph": "N-APM",
+          "gloss": "desirers"
+        },
+        {
+          "w": "κακῶν",
+          "morph": "A-GPN",
+          "gloss": "of evil things"
+        },
+        {
+          "w": "καθὼς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "κἀκεῖνοι",
+          "morph": "D-NPM-K",
+          "gloss": "they also"
+        },
+        {
+          "w": "ἐπεθύμησαν",
+          "morph": "V-AAI-3P",
+          "gloss": "desired"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "也 不 要 拜 偶 像 ， 像 他 們 有 人 拜 的 。 如 經 上 所 記 ： 百 姓 坐 下 吃 喝 ， 起 來 玩 耍 。",
+      "en": "So do not be idolaters, as some of them were. As it is written, “The people sat down to eat and drink and rose up to play.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "μηδὲ",
+          "morph": "CONJ-N",
+          "gloss": "Neither"
+        },
+        {
+          "w": "εἰδωλολάτραι",
+          "morph": "N-NPM",
+          "gloss": "idolaters"
+        },
+        {
+          "w": "γίνεσθε",
+          "morph": "V-PNM-2P",
+          "gloss": "are you to be"
+        },
+        {
+          "w": "καθώς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "τινες",
+          "morph": "X-NPM",
+          "gloss": "some"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "ὥσπερ",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "γέγραπται",
+          "morph": "V-RPI-3S",
+          "gloss": "it has been written"
+        },
+        {
+          "w": "Ἐκάθισεν",
+          "morph": "V-AAI-3S",
+          "gloss": "Sat down"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "λαὸς",
+          "morph": "N-NSM",
+          "gloss": "people"
+        },
+        {
+          "w": "φαγεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to eat"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to drink"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀνέστησαν",
+          "morph": "V-AAI-3P",
+          "gloss": "rose up"
+        },
+        {
+          "w": "παίζειν",
+          "morph": "V-PAN",
+          "gloss": "to play"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "我 們 也 不 要 行 姦 淫 ， 像 他 們 有 人 行 的 ， 一 天 就 倒 斃 了 二 萬 三 千 人 ；",
+      "en": "And let us not be immoral, as some of them were, and 23,000 died in a single day.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "μηδὲ",
+          "morph": "CONJ-N",
+          "gloss": "Neither"
+        },
+        {
+          "w": "πορνεύωμεν",
+          "morph": "V-PAS-1P",
+          "gloss": "should we commit sexual immorality"
+        },
+        {
+          "w": "καθώς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "τινες",
+          "morph": "X-NPM",
+          "gloss": "some"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "ἐπόρνευσαν",
+          "morph": "V-AAI-3P",
+          "gloss": "committed sexual immorality"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἔπεσαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "fell"
+        },
+        {
+          "w": "μιᾷ",
+          "morph": "A-DSF",
+          "gloss": "in one"
+        },
+        {
+          "w": "ἡμέρᾳ",
+          "morph": "N-DSF",
+          "gloss": "day"
+        },
+        {
+          "w": "εἰκοσιτρεῖς",
+          "morph": "A-NPF",
+          "gloss": "twenty"
+        },
+        {
+          "w": "χιλιάδες",
+          "morph": "N-NPF",
+          "gloss": "thousand"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "也 不 要 試 探 主 （ 有 古 卷 ： 基 督 ） ， 像 他 們 有 人 試 探 的 ， 就 被 蛇 所 滅 。",
+      "en": "And let us not put Christ to the test, as some of them did, and were destroyed by snakes.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "μηδὲ",
+          "morph": "CONJ-N",
+          "gloss": "Neither"
+        },
+        {
+          "w": "ἐκπειράζωμεν",
+          "morph": "V-PAS-1P",
+          "gloss": "should we test"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "Κύριον",
+          "morph": "N-ASM",
+          "gloss": "Christ"
+        },
+        {
+          "w": "καθώς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "τινες",
+          "morph": "X-NPM",
+          "gloss": "some"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "ἐπείρασαν",
+          "morph": "V-AAI-3P",
+          "gloss": "tested"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὑπὸ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "-"
+        },
+        {
+          "w": "ὄφεων",
+          "morph": "N-GPM",
+          "gloss": "serpents"
+        },
+        {
+          "w": "ἀπώλλυντο",
+          "morph": "V-IMI-3P",
+          "gloss": "were destroyed"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "你 們 也 不 要 發 怨 言 ， 像 他 們 有 發 怨 言 的 ， 就 被 滅 命 的 所 滅 。",
+      "en": "And do not complain, as some of them did, and were killed by the destroying angel.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "μηδὲ",
+          "morph": "CONJ-N",
+          "gloss": "Neither"
+        },
+        {
+          "w": "γογγύζετε",
+          "morph": "V-PAM-2P",
+          "gloss": "are you to grumble"
+        },
+        {
+          "w": "καθάπερ",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "τινὲς",
+          "morph": "X-NPM",
+          "gloss": "some"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "ἐγόγγυσαν",
+          "morph": "V-AAI-3P",
+          "gloss": "grumbled"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀπώλοντο",
+          "morph": "V-2AMI-3P",
+          "gloss": "perished"
+        },
+        {
+          "w": "ὑπὸ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀλοθρευτοῦ",
+          "morph": "N-GSM",
+          "gloss": "Destroyer"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "他 們 遭 遇 這 些 事 ， 都 要 作 為 鑑 戒 ； 並 且 寫 在 經 上 ， 正 是 警 戒 我 們 這 末 世 的 人 。",
+      "en": "These things happened to them as examples and were written for our instruction, on whom the ends of the ages have come.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ταῦτα",
+          "morph": "D-NPN",
+          "gloss": "These things"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "τυπικῶς",
+          "morph": "ADV",
+          "gloss": "[as] types"
+        },
+        {
+          "w": "συνέβαινεν",
+          "morph": "V-IAI-3S",
+          "gloss": "happened"
+        },
+        {
+          "w": "ἐκείνοις",
+          "morph": "D-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "ἐγράφη",
+          "morph": "V-2API-3S",
+          "gloss": "were written"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "νουθεσίαν",
+          "morph": "N-ASF",
+          "gloss": "admonition"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "οὓς",
+          "morph": "R-APM",
+          "gloss": "whom"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-NPN",
+          "gloss": "the"
+        },
+        {
+          "w": "τέλη",
+          "morph": "N-NPN",
+          "gloss": "ends"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "αἰώνων",
+          "morph": "N-GPM",
+          "gloss": "ages"
+        },
+        {
+          "w": "κατήντηκεν",
+          "morph": "V-RAI-3S",
+          "gloss": "are arrived"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "所 以 ， 自 己 以 為 站 得 穩 的 ， 須 要 謹 慎 ， 免 得 跌 倒 。",
+      "en": "So let the one who thinks he is standing be careful that he does not fall.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ὥστε",
+          "morph": "CONJ",
+          "gloss": "Therefore"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [one]"
+        },
+        {
+          "w": "δοκῶν",
+          "morph": "V-PAP-NSM",
+          "gloss": "thinking"
+        },
+        {
+          "w": "ἑστάναι",
+          "morph": "V-RAN",
+          "gloss": "to stand"
+        },
+        {
+          "w": "βλεπέτω",
+          "morph": "V-PAM-3S",
+          "gloss": "let him take heed"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "lest"
+        },
+        {
+          "w": "πέσῃ",
+          "morph": "V-2AAS-3S",
+          "gloss": "he fall"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "你 們 所 遇 見 的 試 探 ， 無 非 是 人 所 能 受 的 。 神 是 信 實 的 ， 必 不 叫 你 們 受 試 探 過 於 所 能 受 的 ； 在 受 試 探 的 時 候 ， 總 要 給 你 們 開 一 條 出 路 ， 叫 你 們 能 忍 受 得 住 。",
+      "en": "No trial has overtaken you that is not faced by others. And God is faithful: He will not let you be tried beyond what you are able to bear, but with the trial will also provide a way out so that you may be able to endure it.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "πειρασμὸς",
+          "morph": "N-NSM",
+          "gloss": "Temptation"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "εἴληφεν",
+          "morph": "V-2RAI-3S",
+          "gloss": "has seized"
+        },
+        {
+          "w": "εἰ",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἀνθρώπινος",
+          "morph": "A-NSM",
+          "gloss": "what is common to man"
+        },
+        {
+          "w": "πιστὸς",
+          "morph": "A-NSM",
+          "gloss": "faithful"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεός",
+          "morph": "N-NSM",
+          "gloss": "[is] God"
+        },
+        {
+          "w": "ὃς",
+          "morph": "R-NSM",
+          "gloss": "who"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἐάσει",
+          "morph": "V-FAI-3S",
+          "gloss": "will allow"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "πειρασθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be tempted"
+        },
+        {
+          "w": "ὑπὲρ",
+          "morph": "PREP",
+          "gloss": "beyond"
+        },
+        {
+          "w": "ὃ",
+          "morph": "R-ASN",
+          "gloss": "what"
+        },
+        {
+          "w": "δύνασθε",
+          "morph": "V-PNI-2P",
+          "gloss": "you are able"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ποιήσει",
+          "morph": "V-FAI-3S",
+          "gloss": "will provide"
+        },
+        {
+          "w": "σὺν",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "πειρασμῷ",
+          "morph": "N-DSM",
+          "gloss": "temptation"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἔκβασιν",
+          "morph": "N-ASF",
+          "gloss": "escape"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "-"
+        },
+        {
+          "w": "δύνασθαι",
+          "morph": "V-PNN",
+          "gloss": "to be able"
+        },
+        {
+          "w": "ὑπενεγκεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to endure [it]"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "我 所 親 愛 的 弟 兄 阿 ， 你 們 要 逃 避 拜 偶 像 的 事 。",
+      "en": "So then, my dear friends, flee from idolatry.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Διόπερ",
+          "morph": "CONJ",
+          "gloss": "Therefore"
+        },
+        {
+          "w": "ἀγαπητοί",
+          "morph": "A-VPM",
+          "gloss": "beloved"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "φεύγετε",
+          "morph": "V-PAM-2P",
+          "gloss": "flee"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "εἰδωλολατρείας",
+          "morph": "N-GSF",
+          "gloss": "idolatry"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "我 好 像 對 明 白 人 說 的 ， 你 們 要 審 察 我 的 話 。",
+      "en": "I am speaking to thoughtful people. Consider what I say.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὡς",
+          "morph": "ADV",
+          "gloss": "As"
+        },
+        {
+          "w": "φρονίμοις",
+          "morph": "A-DPM",
+          "gloss": "to sensible [ones]"
+        },
+        {
+          "w": "λέγω",
+          "morph": "V-PAI-1S",
+          "gloss": "I speak"
+        },
+        {
+          "w": "κρίνατε",
+          "morph": "V-AAM-2P",
+          "gloss": "judge"
+        },
+        {
+          "w": "ὑμεῖς",
+          "morph": "P-2NP",
+          "gloss": "for yourselves"
+        },
+        {
+          "w": "ὅ",
+          "morph": "R-ASN",
+          "gloss": "what"
+        },
+        {
+          "w": "φημι",
+          "morph": "V-PAI-1S",
+          "gloss": "I say"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "我 們 所 祝 福 的 杯 ， 豈 不 是 同 領 基 督 的 血 麼 ？ 我 們 所 擘 開 的 餅 ， 豈 不 是 同 領 基 督 的 身 體 麼 ？",
+      "en": "Is not the cup of blessing that we bless a sharing in the blood of Christ? Is not the bread that we break a sharing in the body of Christ?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Τὸ",
+          "morph": "T-NSN",
+          "gloss": "The"
+        },
+        {
+          "w": "ποτήριον",
+          "morph": "N-NSN",
+          "gloss": "cup"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "εὐλογίας",
+          "morph": "N-GSF",
+          "gloss": "of blessing"
+        },
+        {
+          "w": "ὃ",
+          "morph": "R-ASN",
+          "gloss": "that"
+        },
+        {
+          "w": "εὐλογοῦμεν",
+          "morph": "V-PAI-1P",
+          "gloss": "we bless"
+        },
+        {
+          "w": "οὐχὶ",
+          "morph": "PRT-I",
+          "gloss": "not"
+        },
+        {
+          "w": "κοινωνία",
+          "morph": "N-NSF",
+          "gloss": "a participation"
+        },
+        {
+          "w": "ἐστὶν",
+          "morph": "V-PAI-3S",
+          "gloss": "is it"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "in the"
+        },
+        {
+          "w": "αἵματος",
+          "morph": "N-GSN",
+          "gloss": "blood"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Χριστοῦ",
+          "morph": "N-GSM",
+          "gloss": "of Christ"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "The"
+        },
+        {
+          "w": "ἄρτον",
+          "morph": "N-ASM",
+          "gloss": "bread"
+        },
+        {
+          "w": "ὃν",
+          "morph": "R-ASM",
+          "gloss": "that"
+        },
+        {
+          "w": "κλῶμεν",
+          "morph": "V-PAI-1P",
+          "gloss": "we break"
+        },
+        {
+          "w": "οὐχὶ",
+          "morph": "PRT-I",
+          "gloss": "not"
+        },
+        {
+          "w": "κοινωνία",
+          "morph": "N-NSF",
+          "gloss": "a participation"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "in the"
+        },
+        {
+          "w": "σώματος",
+          "morph": "N-GSN",
+          "gloss": "body"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Χριστοῦ",
+          "morph": "N-GSM",
+          "gloss": "of Christ"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is it"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "我 們 雖 多 ， 仍 是 一 個 餅 ， 一 個 身 體 ， 因 為 我 們 都 是 分 受 這 一 個 餅 。",
+      "en": "Because there is one bread, we who are many are one body, for we all share the one bread.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "Because [there is]"
+        },
+        {
+          "w": "εἷς",
+          "morph": "A-NSM",
+          "gloss": "one"
+        },
+        {
+          "w": "ἄρτος",
+          "morph": "N-NSM",
+          "gloss": "loaf"
+        },
+        {
+          "w": "ἓν",
+          "morph": "A-NSN",
+          "gloss": "one"
+        },
+        {
+          "w": "σῶμα",
+          "morph": "N-NSN",
+          "gloss": "body"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "πολλοί",
+          "morph": "A-NPM",
+          "gloss": "many"
+        },
+        {
+          "w": "ἐσμεν",
+          "morph": "V-PAI-1P",
+          "gloss": "we are"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "-"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "πάντες",
+          "morph": "A-NPM",
+          "gloss": "all"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἑνὸς",
+          "morph": "A-GSM",
+          "gloss": "one"
+        },
+        {
+          "w": "ἄρτου",
+          "morph": "N-GSM",
+          "gloss": "loaf"
+        },
+        {
+          "w": "μετέχομεν",
+          "morph": "V-PAI-1P",
+          "gloss": "we partake"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "你 們 看 屬 肉 體 的 以 色 列 人 ， 那 吃 祭 物 的 豈 不 是 在 祭 壇 上 有 分 麼 ？",
+      "en": "Look at the people of Israel. Are not those who eat the sacrifices partners in the altar?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "βλέπετε",
+          "morph": "V-PAM-2P",
+          "gloss": "Consider"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰσραὴλ",
+          "morph": "N-PRI",
+          "gloss": "Israel"
+        },
+        {
+          "w": "κατὰ",
+          "morph": "PREP",
+          "gloss": "according to"
+        },
+        {
+          "w": "σάρκα",
+          "morph": "N-ASF",
+          "gloss": "flesh"
+        },
+        {
+          "w": "οὐχ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "those"
+        },
+        {
+          "w": "ἐσθίοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "eating"
+        },
+        {
+          "w": "τὰς",
+          "morph": "T-APF",
+          "gloss": "the"
+        },
+        {
+          "w": "θυσίας",
+          "morph": "N-APF",
+          "gloss": "sacrifices"
+        },
+        {
+          "w": "κοινωνοὶ",
+          "morph": "N-NPM",
+          "gloss": "fellow partakers"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "in the"
+        },
+        {
+          "w": "θυσιαστηρίου",
+          "morph": "N-GSN",
+          "gloss": "altar"
+        },
+        {
+          "w": "εἰσίν",
+          "morph": "V-PAI-3P",
+          "gloss": "are"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "我 是 怎 麼 說 呢 ？ 豈 是 說 祭 偶 像 之 物 算 得 甚 麼 呢 ？ 或 說 偶 像 算 得 甚 麼 呢 ？",
+      "en": "Am I saying that idols or food sacrificed to them amount to anything?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τί",
+          "morph": "I-ASN",
+          "gloss": "What"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "φημι",
+          "morph": "V-PAI-1S",
+          "gloss": "do I mean"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "That"
+        },
+        {
+          "w": "εἰδωλόθυτόν",
+          "morph": "A-NSN",
+          "gloss": "what is sacrificed to an idol"
+        },
+        {
+          "w": "τί",
+          "morph": "X-NSN",
+          "gloss": "anything"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ἢ",
+          "morph": "PRT",
+          "gloss": "or"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "εἴδωλόν",
+          "morph": "N-NSN",
+          "gloss": "an idol"
+        },
+        {
+          "w": "τί",
+          "morph": "X-NSN",
+          "gloss": "anything"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "我 乃 是 說 ， 外 邦 人 所 獻 的 祭 是 祭 鬼 ， 不 是 祭 神 。 我 不 願 意 你 們 與 鬼 相 交 。",
+      "en": "No, I mean that what the pagans sacrifice is to demons and not to God. I do not want you to be partners with demons.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "Rather"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἃ",
+          "morph": "R-APN",
+          "gloss": "what"
+        },
+        {
+          "w": "θύουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "sacrifice"
+        },
+        {
+          "w": "δαιμονίοις",
+          "morph": "N-DPN",
+          "gloss": "to demons"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "Θεῷ",
+          "morph": "N-DSM",
+          "gloss": "to God"
+        },
+        {
+          "w": "θύουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "they sacrifice"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "θέλω",
+          "morph": "V-PAI-1S",
+          "gloss": "I do wish"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "κοινωνοὺς",
+          "morph": "N-APM",
+          "gloss": "fellow partakers"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPN",
+          "gloss": "-"
+        },
+        {
+          "w": "δαιμονίων",
+          "morph": "N-GPN",
+          "gloss": "with demons"
+        },
+        {
+          "w": "γίνεσθαι",
+          "morph": "V-PNN",
+          "gloss": "to be"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "你 們 不 能 喝 主 的 杯 又 喝 鬼 的 杯 ， 不 能 吃 主 的 筵 席 又 吃 鬼 的 筵 席 。",
+      "en": "You cannot drink the cup of the Lord and the cup of demons. You cannot take part in the table of the Lord and the table of demons.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "δύνασθε",
+          "morph": "V-PNI-2P",
+          "gloss": "you are able"
+        },
+        {
+          "w": "ποτήριον",
+          "morph": "N-ASN",
+          "gloss": "[the] cup"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "of [the] Lord"
+        },
+        {
+          "w": "πίνειν",
+          "morph": "V-PAN",
+          "gloss": "to drink"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ποτήριον",
+          "morph": "N-ASN",
+          "gloss": "[the] cup"
+        },
+        {
+          "w": "δαιμονίων",
+          "morph": "N-GPN",
+          "gloss": "of demons"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "δύνασθε",
+          "morph": "V-PNI-2P",
+          "gloss": "you are able"
+        },
+        {
+          "w": "τραπέζης",
+          "morph": "N-GSF",
+          "gloss": "of [the] table"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "of [the] Lord"
+        },
+        {
+          "w": "μετέχειν",
+          "morph": "V-PAN",
+          "gloss": "to partake"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τραπέζης",
+          "morph": "N-GSF",
+          "gloss": "of [the] table"
+        },
+        {
+          "w": "δαιμονίων",
+          "morph": "N-GPN",
+          "gloss": "of demons"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "我 們 可 惹 主 的 憤 恨 麼 ？ 我 們 比 他 還 有 能 力 麼 ？",
+      "en": "Or are we trying to provoke the Lord to jealousy? Are we really stronger than he is?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἢ",
+          "morph": "PRT",
+          "gloss": "Or"
+        },
+        {
+          "w": "παραζηλοῦμεν",
+          "morph": "V-PAI-1P",
+          "gloss": "do we provoke to jealousy"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "Κύριον",
+          "morph": "N-ASM",
+          "gloss": "Lord"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "ἰσχυρότεροι",
+          "morph": "A-NPM-C",
+          "gloss": "stronger"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "than He"
+        },
+        {
+          "w": "ἐσμεν",
+          "morph": "V-PAI-1P",
+          "gloss": "are we"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "凡 事 都 可 行 ， 但 不 都 有 益 處 。 凡 事 都 可 行 ， 但 不 都 造 就 人 。",
+      "en": "“Everything is lawful,” but not everything is beneficial. “Everything is lawful,” but not everything builds others up.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Πάντα",
+          "morph": "A-NPN",
+          "gloss": "All things"
+        },
+        {
+          "w": "ἔξεστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "are lawful"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "πάντα",
+          "morph": "A-NPN",
+          "gloss": "all things"
+        },
+        {
+          "w": "συμφέρει",
+          "morph": "V-PAI-3S",
+          "gloss": "are profitable"
+        },
+        {
+          "w": "πάντα",
+          "morph": "A-NPN",
+          "gloss": "All things"
+        },
+        {
+          "w": "ἔξεστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "are lawful"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "πάντα",
+          "morph": "A-NPN",
+          "gloss": "all"
+        },
+        {
+          "w": "οἰκοδομεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "edify"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "無 論 何 人 ， 不 要 求 自 己 的 益 處 ， 乃 要 求 別 人 的 益 處 。",
+      "en": "Do not seek your own good, but the good of the other person.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "μηδεὶς",
+          "morph": "A-NSM-N",
+          "gloss": "No one"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the [good]"
+        },
+        {
+          "w": "ἑαυτοῦ",
+          "morph": "F-3GSM",
+          "gloss": "of himself"
+        },
+        {
+          "w": "ζητείτω",
+          "morph": "V-PAM-3S",
+          "gloss": "let seek"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "that"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "ἑτέρου",
+          "morph": "A-GSM",
+          "gloss": "other"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "凡 市 上 所 賣 的 ， 你 們 只 管 吃 ， 不 要 為 良 心 的 緣 故 問 甚 麼 話 ，",
+      "en": "Eat anything that is sold in the marketplace without questions of conscience,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Πᾶν",
+          "morph": "A-ASN",
+          "gloss": "Everything"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "μακέλλῳ",
+          "morph": "N-DSN",
+          "gloss": "the meat market"
+        },
+        {
+          "w": "πωλούμενον",
+          "morph": "V-PPP-ASN",
+          "gloss": "being sold"
+        },
+        {
+          "w": "ἐσθίετε",
+          "morph": "V-PAM-2P",
+          "gloss": "eat"
+        },
+        {
+          "w": "μηδὲν",
+          "morph": "A-ASN-N",
+          "gloss": "nothing"
+        },
+        {
+          "w": "ἀνακρίνοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "inquiring"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "on account of"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "-"
+        },
+        {
+          "w": "συνείδησιν",
+          "morph": "N-ASF",
+          "gloss": "conscience"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "因 為 地 和 其 中 所 充 滿 的 都 屬 乎 主 。",
+      "en": "for the earth and its abundance are the Lord’s.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "The"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "Lord’s"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "[is] the"
+        },
+        {
+          "w": "γῆ",
+          "morph": "N-NSF",
+          "gloss": "earth"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "πλήρωμα",
+          "morph": "N-NSN",
+          "gloss": "fullness"
+        },
+        {
+          "w": "αὐτῆς",
+          "morph": "P-GSF",
+          "gloss": "of it"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "倘 有 一 個 不 信 的 人 請 你 們 赴 席 ， 你 們 若 願 意 去 ， 凡 擺 在 你 們 面 前 的 ， 只 管 吃 ， 不 要 為 良 心 的 緣 故 問 甚 麼 話 。",
+      "en": "If an unbeliever invites you to dinner and you want to go, eat whatever is served without asking questions of conscience.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἴ",
+          "morph": "COND",
+          "gloss": "If"
+        },
+        {
+          "w": "τις",
+          "morph": "X-NSM",
+          "gloss": "anyone"
+        },
+        {
+          "w": "καλεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "invites"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "ἀπίστων",
+          "morph": "A-GPM",
+          "gloss": "unbelieving"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "θέλετε",
+          "morph": "V-PAI-2P",
+          "gloss": "you wish"
+        },
+        {
+          "w": "πορεύεσθαι",
+          "morph": "V-PNN",
+          "gloss": "to go"
+        },
+        {
+          "w": "πᾶν",
+          "morph": "A-ASN",
+          "gloss": "everything"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "παρατιθέμενον",
+          "morph": "V-PPP-ASN",
+          "gloss": "being set before"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἐσθίετε",
+          "morph": "V-PAM-2P",
+          "gloss": "eat"
+        },
+        {
+          "w": "μηδὲν",
+          "morph": "A-ASN-N",
+          "gloss": "nothing"
+        },
+        {
+          "w": "ἀνακρίνοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "inquiring"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "on account of"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "-"
+        },
+        {
+          "w": "συνείδησιν",
+          "morph": "N-ASF",
+          "gloss": "conscience"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "若 有 人 對 你 們 說 ： 這 是 獻 過 祭 的 物 ， 就 要 為 那 告 訴 你 們 的 人 ， 並 為 良 心 的 緣 故 不 吃 。",
+      "en": "But if someone says to you, “This is from a sacrifice,” do not eat, because of the one who told you and because of conscience—",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐὰν",
+          "morph": "COND",
+          "gloss": "If"
+        },
+        {
+          "w": "δέ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "τις",
+          "morph": "X-NSM",
+          "gloss": "anyone"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "εἴπῃ",
+          "morph": "V-2AAS-3S",
+          "gloss": "should say"
+        },
+        {
+          "w": "Τοῦτο",
+          "morph": "D-NSN",
+          "gloss": "This"
+        },
+        {
+          "w": "ἱερόθυτόν",
+          "morph": "A-NSN",
+          "gloss": "offered to an idol"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἐσθίετε",
+          "morph": "V-PAM-2P",
+          "gloss": "do eat"
+        },
+        {
+          "w": "δι’",
+          "morph": "PREP",
+          "gloss": "on account of"
+        },
+        {
+          "w": "ἐκεῖνον",
+          "morph": "D-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "μηνύσαντα",
+          "morph": "V-AAP-ASM",
+          "gloss": "having shown [it]"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "-"
+        },
+        {
+          "w": "συνείδησιν",
+          "morph": "N-ASF",
+          "gloss": "conscience"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "我 說 的 良 心 不 是 你 的 ， 乃 是 他 的 。 我 這 自 由 為 甚 麼 被 別 人 的 良 心 論 斷 呢 ？",
+      "en": "I do not mean yours but the other person’s. For why is my freedom being judged by another’s conscience?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "συνείδησιν",
+          "morph": "N-ASF",
+          "gloss": "[the] conscience"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "λέγω",
+          "morph": "V-PAI-1S",
+          "gloss": "I am saying"
+        },
+        {
+          "w": "οὐχὶ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἑαυτοῦ",
+          "morph": "F-2GSM",
+          "gloss": "your own"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "that"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "ἑτέρου",
+          "morph": "A-GSM",
+          "gloss": "other"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "τί",
+          "morph": "I-NSN",
+          "gloss": "what"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐλευθερία",
+          "morph": "N-NSF",
+          "gloss": "freedom"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "κρίνεται",
+          "morph": "V-PPI-3S",
+          "gloss": "is judged"
+        },
+        {
+          "w": "ὑπὸ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "ἄλλης",
+          "morph": "A-GSF",
+          "gloss": "another’s"
+        },
+        {
+          "w": "συνειδήσεως",
+          "morph": "N-GSF",
+          "gloss": "conscience"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "我 若 謝 恩 而 吃 ， 為 甚 麼 因 我 謝 恩 的 物 被 人 毀 謗 呢 ？",
+      "en": "If I partake with thankfulness, why am I blamed for the food that I give thanks for?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἰ",
+          "morph": "COND",
+          "gloss": "If"
+        },
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "χάριτι",
+          "morph": "N-DSF",
+          "gloss": "with thankfulness"
+        },
+        {
+          "w": "μετέχω",
+          "morph": "V-PAI-1S",
+          "gloss": "partake"
+        },
+        {
+          "w": "τί",
+          "morph": "I-ASN",
+          "gloss": "why"
+        },
+        {
+          "w": "βλασφημοῦμαι",
+          "morph": "V-PPI-1S",
+          "gloss": "am I denounced"
+        },
+        {
+          "w": "ὑπὲρ",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "οὗ",
+          "morph": "R-GSN",
+          "gloss": "that which"
+        },
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "εὐχαριστῶ",
+          "morph": "V-PAI-1S",
+          "gloss": "give thanks"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "所 以 ， 你 們 或 吃 或 喝 ， 無 論 做 甚 麼 ， 都 要 為 榮 耀 神 而 行 。",
+      "en": "So whether you eat or drink, or whatever you do, do everything for the glory of God.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Εἴτε",
+          "morph": "CONJ",
+          "gloss": "Whether"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "ἐσθίετε",
+          "morph": "V-PAI-2P",
+          "gloss": "you eat"
+        },
+        {
+          "w": "εἴτε",
+          "morph": "CONJ",
+          "gloss": "or"
+        },
+        {
+          "w": "πίνετε",
+          "morph": "V-PAI-2P",
+          "gloss": "drink"
+        },
+        {
+          "w": "εἴτε",
+          "morph": "CONJ",
+          "gloss": "or"
+        },
+        {
+          "w": "τι",
+          "morph": "X-ASN",
+          "gloss": "whatever"
+        },
+        {
+          "w": "ποιεῖτε",
+          "morph": "V-PAI-2P",
+          "gloss": "you do"
+        },
+        {
+          "w": "πάντα",
+          "morph": "A-APN",
+          "gloss": "all things"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to the"
+        },
+        {
+          "w": "δόξαν",
+          "morph": "N-ASF",
+          "gloss": "glory"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "ποιεῖτε",
+          "morph": "V-PAM-2P",
+          "gloss": "do"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "不 拘 是 猶 太 人 ， 是 希 利 尼 人 ， 是 神 的 教 會 ， 你 們 都 不 要 使 他 跌 倒 ；",
+      "en": "Do not give offense to Jews or Greeks or to the church of God,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπρόσκοποι",
+          "morph": "A-NPM",
+          "gloss": "Without offense"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "both"
+        },
+        {
+          "w": "Ἰουδαίοις",
+          "morph": "A-DPM",
+          "gloss": "to Jews"
+        },
+        {
+          "w": "γίνεσθε",
+          "morph": "V-PNM-2P",
+          "gloss": "be you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Ἕλλησιν",
+          "morph": "N-DPM",
+          "gloss": "Greeks"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "to the"
+        },
+        {
+          "w": "ἐκκλησίᾳ",
+          "morph": "N-DSF",
+          "gloss": "church"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "就 好 像 我 凡 事 都 叫 眾 人 喜 歡 ， 不 求 自 己 的 益 處 ， 只 求 眾 人 的 益 處 ， 叫 他 們 得 救 。",
+      "en": "just as I also try to please everyone in all things. I do not seek my own benefit, but the benefit of many, so that they may be saved.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καθὼς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "κἀγὼ",
+          "morph": "P-1NS-K",
+          "gloss": "I also"
+        },
+        {
+          "w": "πάντα",
+          "morph": "A-APN",
+          "gloss": "all"
+        },
+        {
+          "w": "πᾶσιν",
+          "morph": "A-DPN",
+          "gloss": "in all things"
+        },
+        {
+          "w": "ἀρέσκω",
+          "morph": "V-PAI-1S",
+          "gloss": "please"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ζητῶν",
+          "morph": "V-PAP-NSM",
+          "gloss": "seeking"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐμαυτοῦ",
+          "morph": "F-1GSM",
+          "gloss": "of myself"
+        },
+        {
+          "w": "σύμφορον",
+          "morph": "A-ASN",
+          "gloss": "profit"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "that"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "πολλῶν",
+          "morph": "A-GPM",
+          "gloss": "many"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "σωθῶσιν",
+          "morph": "V-APS-3P",
+          "gloss": "they may be saved"
+        }
+      ]
+    }
+  ]
+}

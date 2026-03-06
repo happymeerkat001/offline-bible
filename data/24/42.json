@@ -1,0 +1,1822 @@
+{
+  "book": 24,
+  "chapter": 42,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "眾 軍 長 和 加 利 亞 的 兒 子 約 哈 難 ， 並 何 沙 雅 的 兒 子 耶 撒 尼 亞 （ 又 名 亞 撒 利 雅 ， 見 四 十 三 章 二 節 ） 以 及 眾 百 姓 ， 從 最 小 的 到 至 大 的 都 進 前 來 ，",
+      "en": "Then all the army officers, including Johanan son of Kareah and Jezaniah son of Hoshaiah and all the people of every class, went to the prophet Jeremiah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַֽיִּגְּשׁוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שָׂרֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַחֲיָלִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְיֽוֹחָנָן֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קָרֵ֔חַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וִֽיזַנְיָ֖ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הוֹשַֽׁעְיָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הָעָ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִקָּטֹ֥ן",
+          "morph": "HR/Aamsa"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "גָּדֽוֹל",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "對 先 知 耶 利 米 說 ： 求 你 准 我 們 在 你 面 前 祈 求 ， 為 我 們 這 剩 下 的 人 禱 告 耶 和 華 ─ 你 的 神 。 我 們 本 來 眾 多 ， 現 在 剩 下 的 極 少 ， 這 是 你 親 眼 所 見 的 。",
+      "en": "They said to him, “Please grant our request and pray to the Lord your God for all those of us who are still left alive here. For, as you yourself can see, there are only a few of us left out of the many there were before.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּאמְר֞וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "יִרְמְיָ֣הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַנָּבִ֗יא",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "תִּפָּל",
+          "morph": "HVqj3fs"
+        },
+        {
+          "w": "נָ֤א",
+          "morph": "HTe"
+        },
+        {
+          "w": "תְחִנָּתֵ֨נוּ֙",
+          "morph": "HNcfsc/Sp1cp"
+        },
+        {
+          "w": "לְפָנֶ֔יךָ",
+          "morph": "HR/Ncbpc/Sp2ms"
+        },
+        {
+          "w": "וְהִתְפַּלֵּ֤ל",
+          "morph": "HC/Vtv2ms"
+        },
+        {
+          "w": "בַּעֲדֵ֨נוּ֙",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶ֔יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "בְּעַ֖ד",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשְּׁאֵרִ֣ית",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הַזֹּ֑את",
+          "morph": "HTd/Pdxfs"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "נִשְׁאַ֤רְנוּ",
+          "morph": "HVNp1cp"
+        },
+        {
+          "w": "מְעַט֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מֵֽהַרְבֵּ֔ה",
+          "morph": "HR/Vha"
+        },
+        {
+          "w": "כַּאֲשֶׁ֥ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "עֵינֶ֖יךָ",
+          "morph": "HNcbdc/Sp2ms"
+        },
+        {
+          "w": "רֹא֥וֹת",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "אֹתָֽנוּ",
+          "morph": "HTo/Sp1cp"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "願 耶 和 華 ─ 你 的 神 指 示 我 們 所 當 走 的 路 ， 所 當 做 的 事 。",
+      "en": "Pray that the Lord your God will tell us where we should go and what we should do.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיַגֶּד",
+          "morph": "HC/Vhj3ms"
+        },
+        {
+          "w": "לָ֨נוּ֙",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶ֔יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַדֶּ֖רֶךְ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נֵֽלֶךְ",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "בָּ֑הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַדָּבָ֖ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נַעֲשֶֽׂה",
+          "morph": "HVqi1cp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "先 知 耶 利 米 對 他 們 說 ： 我 已 經 聽 見 你 們 了 ， 我 必 照 著 你 們 的 話 禱 告 耶 和 華 ─ 你 們 的 神 。 耶 和 華 無 論 回 答 甚 麼 ， 我 必 都 告 訴 你 們 ， 毫 不 隱 瞞 。",
+      "en": "The prophet Jeremiah answered them, “Agreed! I will indeed pray to the Lord your God as you have asked. I will tell you everything the Lord replies in response to you. I will not keep anything back from you.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֨אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֲלֵיהֶ֜ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "יִרְמְיָ֤הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַנָּבִיא֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "שָׁמַ֔עְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "הִנְנִ֧י",
+          "morph": "HTm/Sp1cs"
+        },
+        {
+          "w": "מִתְפַּלֵּ֛ל",
+          "morph": "HVtrmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶ֖ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "כְּדִבְרֵיכֶ֑ם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "וְֽהָיָ֡ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "כָּֽל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדָּבָר֩",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יַעֲנֶ֨ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יְהוָ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶתְכֶם֙",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "אַגִּ֣יד",
+          "morph": "HVhi1cs"
+        },
+        {
+          "w": "לָכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֶמְנַ֥ע",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "מִכֶּ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "דָּבָֽר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "於 是 他 們 對 耶 利 米 說 ： 我 們 若 不 照 耶 和 華 ─ 你 的 神 差 遣 你 來 說 的 一 切 話 行 ， 願 耶 和 華 在 我 們 中 間 作 真 實 誠 信 的 見 證 。",
+      "en": "They answered Jeremiah, “May the Lord be a true and faithful witness against us if we do not do just as the Lord your God sends you to tell us to do.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֵ֨מָּה֙",
+          "morph": "HC/Pp3mp"
+        },
+        {
+          "w": "אָמְר֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "יִרְמְיָ֔הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "יְהִ֤י",
+          "morph": "HVqj3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בָּ֔נוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "לְעֵ֖ד",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֱמֶ֣ת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְנֶאֱמָ֑ן",
+          "morph": "HC/VNsmsa"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֡א",
+          "morph": "HTn"
+        },
+        {
+          "w": "כְּֽכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַ֠דָּבָר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִֽשְׁלָחֲךָ֜",
+          "morph": "HVqi3ms/Sp2ms"
+        },
+        {
+          "w": "יְהוָ֧ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶ֛יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "אֵלֵ֖ינוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "כֵּ֥ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "נַעֲשֶֽׂה",
+          "morph": "HVqi1cp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "我 們 現 在 請 你 到 耶 和 華 ─ 我 們 的 神 面 前 ， 他 說 的 無 論 是 好 是 歹 ， 我 們 都 必 聽 從 ； 我 們 聽 從 耶 和 華 ─ 我 們 　 神 的 話 ， 就 可 以 得 福 。",
+      "en": "We will obey what the Lord our God to whom we are sending you tells us to do. It does not matter whether we like what he tells us or not. We will obey what he tells us to do so that things will go well for us.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "ט֣וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "רָ֔ע",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "בְּק֣וֹל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֗ינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אנו",
+          "morph": "HPp1cp"
+        },
+        {
+          "w": "אֲנַ֜חְנוּ",
+          "morph": "HPp1cp"
+        },
+        {
+          "w": "שֹׁלְחִ֥ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "אֹתְךָ֛",
+          "morph": "HTo/Sp2ms"
+        },
+        {
+          "w": "אֵלָ֖יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "נִשְׁמָ֑ע",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "לְמַ֨עַן֙",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִֽיטַב",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָ֔נוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "נִשְׁמַ֔ע",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "בְּק֖וֹל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵֽינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "過 了 十 天 ， 耶 和 華 的 話 臨 到 耶 利 米 。",
+      "en": "Ten days later the Lord’s message came to Jeremiah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֕י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מִקֵּ֖ץ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עֲשֶׂ֣רֶת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וַיְהִ֥י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "דְבַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "יִרְמְיָֽהוּ",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "他 就 將 加 利 亞 的 兒 子 約 哈 難 和 同 著 他 的 眾 軍 長 ， 並 眾 百 姓 ， 從 最 小 的 到 至 大 的 都 叫 了 來 ，",
+      "en": "So Jeremiah summoned Johanan son of Kareah and all the army officers who were with him and all the people of every class.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקְרָ֗א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יֽוֹחָנָן֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קָרֵ֔חַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶ֛ל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שָׂרֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַחֲיָלִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אִתּ֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וּלְכָ֨ל",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "הָעָ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְמִקָּטֹ֥ן",
+          "morph": "HR/R/Aamsa"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "גָּדֽוֹל",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "對 他 們 說 ： 耶 和 華 ─ 以 色 列 的 神 ， 就 是 你 們 請 我 在 他 面 前 為 你 們 祈 求 的 主 ， 如 此 說 ：",
+      "en": "Then Jeremiah said to them, “You sent me to the Lord God of Israel to make your request known to him. Here is what he says to you:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֲלֵיהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כֹּֽה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֥ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שְׁלַחְתֶּ֤ם",
+          "morph": "HVqp2mp"
+        },
+        {
+          "w": "אֹתִי֙",
+          "morph": "HTo/Sp1cs"
+        },
+        {
+          "w": "אֵלָ֔יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "לְהַפִּ֥יל",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "תְּחִנַּתְכֶ֖ם",
+          "morph": "HNcfsc/Sp2mp"
+        },
+        {
+          "w": "לְפָנָֽיו",
+          "morph": "HR/Ncbpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "你 們 若 仍 住 在 這 地 ， 我 就 建 立 你 們 ， 必 不 拆 毀 ， 栽 植 你 們 ， 並 不 拔 出 ， 因 我 為 降 與 你 們 的 災 禍 後 悔 了 。",
+      "en": "‘If you will only stay in this land, I will build you up. I will not tear you down. I will firmly plant you. I will not uproot you. For I am filled with sorrow because of the disaster that I have brought on you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "שׁ֤וֹב",
+          "morph": "HVqa"
+        },
+        {
+          "w": "תֵּֽשְׁבוּ֙",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "בָּאָ֣רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "הַזֹּ֔את",
+          "morph": "HTd/Pdxfs"
+        },
+        {
+          "w": "וּבָנִ֤יתִי",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "אֶתְכֶם֙",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "אֶהֱרֹ֔ס",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "וְנָטַעְתִּ֥י",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "אֶתְכֶ֖ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "אֶתּ֑וֹשׁ",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "נִחַ֨מְתִּי֙",
+          "morph": "HVNp1cs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָ֣רָעָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עָשִׂ֖יתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "לָכֶֽם",
+          "morph": "HR/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "不 要 怕 你 們 所 怕 的 巴 比 倫 王 。 耶 和 華 說 ： 不 要 怕 他 ！ 因 為 我 與 你 們 同 在 ， 要 拯 救 你 們 脫 離 他 的 手 。",
+      "en": "Do not be afraid of the king of Babylon whom you now fear. Do not be afraid of him because I will be with you to save you and to rescue you from his power. I, the Lord, affirm it!",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּֽירְא֗וּ",
+          "morph": "HVqj2mp"
+        },
+        {
+          "w": "מִפְּנֵי֙",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "מֶ֣לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּבֶ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אַתֶּ֥ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "יְרֵאִ֖ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "מִפָּנָ֑יו",
+          "morph": "HR/Ncbpc/Sp3ms"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּֽירְא֤וּ",
+          "morph": "HVqj2mp"
+        },
+        {
+          "w": "מִמֶּ֨נּוּ֙",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "נְאֻם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "אִתְּכֶ֣ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "אָ֔נִי",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "לְהוֹשִׁ֧יעַ",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "אֶתְכֶ֛ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "וּלְהַצִּ֥יל",
+          "morph": "HC/R/Vhc"
+        },
+        {
+          "w": "אֶתְכֶ֖ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "מִיָּדֽוֹ",
+          "morph": "HR/Ncbsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "我 也 要 使 他 發 憐 憫 ， 好 憐 憫 你 們 ， 叫 你 們 歸 回 本 地 。",
+      "en": "I will have compassion on you so that he in turn will have mercy on you and allow you to return to your land.’",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶתֵּ֥ן",
+          "morph": "HC/Vqi1cs"
+        },
+        {
+          "w": "לָכֶ֛ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "רַחֲמִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וְרִחַ֣ם",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "אֶתְכֶ֑ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "וְהֵשִׁ֥יב",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אֶתְכֶ֖ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אַדְמַתְכֶֽם",
+          "morph": "HNcfsc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "倘 若 你 們 說 ： 我 們 不 住 在 這 地 ， 以 致 不 聽 從 耶 和 華 ─ 你 們 神 的 話 ，",
+      "en": "“You must not disobey the Lord your God by saying, ‘We will not stay in this land.’",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "אֹמְרִ֣ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "אַתֶּ֔ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "נֵשֵׁ֖ב",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "בָּאָ֣רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "הַזֹּ֑את",
+          "morph": "HTd/Pdxfs"
+        },
+        {
+          "w": "לְבִלְתִּ֣י",
+          "morph": "HR/C"
+        },
+        {
+          "w": "שְׁמֹ֔עַ",
+          "morph": "HVqc"
+        },
+        {
+          "w": "בְּק֖וֹל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶֽם",
+          "morph": "HNcmpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "說 ： 我 們 不 住 這 地 ， 卻 要 進 入 埃 及 地 ， 在 那 裡 看 不 見 爭 戰 ， 聽 不 見 角 聲 ， 也 不 致 無 食 飢 餓 。 我 們 必 住 在 那 裡 。",
+      "en": "You must not say, ‘No, we will not stay. Instead we will go and live in the land of Egypt where we will not face war, or hear the enemy’s trumpet calls, or starve for lack of food.’",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֵאמֹ֗ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לֹ֚א",
+          "morph": "HTn"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֶ֤רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרַ֨יִם֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "נָב֔וֹא",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "נִרְאֶה֙",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "מִלְחָמָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְק֥וֹל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "שׁוֹפָ֖ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "נִשְׁמָ֑ע",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "וְלַלֶּ֥חֶם",
+          "morph": "HC/Rd/Ncbsa"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "נִרְעָ֖ב",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "וְשָׁ֥ם",
+          "morph": "HC/D"
+        },
+        {
+          "w": "נֵשֵֽׁב",
+          "morph": "HVqi1cp"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "你 們 所 剩 下 的 猶 大 人 哪 ， 現 在 要 聽 耶 和 華 的 話 。 萬 軍 之 耶 和 華 ─ 以 色 列 的 神 如 此 說 ： 你 們 若 定 意 要 進 入 埃 及 ， 在 那 裡 寄 居 ，",
+      "en": "If you people who remain in Judah do that, then listen to the Lord’s message. This is what the Lord of Heaven’s Armies, the God of Israel, has said, ‘If you are so determined to go to Egypt that you go and settle there,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַתָּ֕ה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "לָכֵ֛ן",
+          "morph": "HR/D"
+        },
+        {
+          "w": "שִׁמְע֥וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "דְבַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "שְׁאֵרִ֣ית",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְהוּדָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כֹּֽה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַר֩",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֨ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "צְבָא֜וֹת",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "אֱלֹהֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֗ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "אַ֠תֶּם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "שׂ֣וֹם",
+          "morph": "HVqa"
+        },
+        {
+          "w": "תְּשִׂמ֤וּן",
+          "morph": "HVqi2mp/Sn"
+        },
+        {
+          "w": "פְּנֵיכֶם֙",
+          "morph": "HNcbpc/Sp2mp"
+        },
+        {
+          "w": "לָבֹ֣א",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּבָאתֶ֖ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "לָג֥וּר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "שָֽׁם",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "你 們 所 懼 怕 的 刀 劍 在 埃 及 地 必 追 上 你 們 ！ 你 們 所 懼 怕 的 饑 荒 在 埃 及 要 緊 緊 地 跟 隨 你 們 ！ 你 們 必 死 在 那 裡 ！",
+      "en": "the wars you fear will catch up with you there in the land of Egypt. The starvation you are worried about will follow you there to Egypt. You will die there.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיְתָ֣ה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "הַחֶ֗רֶב",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אַתֶּם֙",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "יְרֵאִ֣ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "מִמֶּ֔נָּה",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "שָׁ֛ם",
+          "morph": "HD"
+        },
+        {
+          "w": "תַּשִּׂ֥יג",
+          "morph": "HVhi3fs"
+        },
+        {
+          "w": "אֶתְכֶ֖ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "בְּאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהָרָעָ֞ב",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אַתֶּ֣ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "דֹּאֲגִ֣ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "מִמֶּ֗נּוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "שָׁ֣ם",
+          "morph": "HD"
+        },
+        {
+          "w": "יִדְבַּ֧ק",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אַחֲרֵיכֶ֛ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מִצְרַ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשָׁ֥ם",
+          "morph": "HC/D"
+        },
+        {
+          "w": "תָּמֻֽתוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "凡 定 意 要 進 入 埃 及 在 那 裡 寄 居 的 必 遭 刀 劍 、 饑 荒 、 瘟 疫 而 死 ， 無 一 人 存 留 ， 逃 脫 我 所 降 與 他 們 的 災 禍 。",
+      "en": "All the people who are determined to go and settle in Egypt will die from war, starvation, or disease. No one will survive or escape the disaster I will bring on them.’",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיִֽהְי֣וּ",
+          "morph": "HC/Vqi3mp"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאֲנָשִׁ֗ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שָׂ֨מוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "פְּנֵיהֶ֜ם",
+          "morph": "HNcbpc/Sp3mp"
+        },
+        {
+          "w": "לָב֤וֹא",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מִצְרַ֨יִם֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָג֣וּר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "שָׁ֔ם",
+          "morph": "HD"
+        },
+        {
+          "w": "יָמ֕וּתוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "בַּחֶ֖רֶב",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "בָּרָעָ֣ב",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וּבַדָּ֑בֶר",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "וְלֹֽא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִהְיֶ֤ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "שָׂרִ֣יד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּפָלִ֔יט",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "מִפְּנֵי֙",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "הָֽרָעָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֲנִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מֵבִ֥יא",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "עֲלֵיהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "萬 軍 之 耶 和 華 ─ 以 色 列 的 神 如 此 說 ： 我 怎 樣 將 我 的 怒 氣 和 忿 怒 傾 在 耶 路 撒 冷 的 居 民 身 上 ， 你 們 進 入 埃 及 的 時 候 ， 我 也 必 照 樣 將 我 的 忿 怒 傾 在 你 們 身 上 ， 以 致 你 們 令 人 辱 罵 、 驚 駭 、 咒 詛 、 羞 辱 ， 你 們 不 得 再 見 這 地 方 。",
+      "en": "For the Lord of Heaven’s Armies, the God of Israel, says, ‘If you go to Egypt, I will pour out my wrath on you just as I poured out my anger and wrath on the citizens of Jerusalem. You will become an object of horror and ridicule, an example of those who have been cursed and that people use in pronouncing a curse. You will never see this place again.’",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּי֩",
+          "morph": "HC"
+        },
+        {
+          "w": "כֹ֨ה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֜ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "צְבָאוֹת֮",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "אֱלֹהֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֒",
+          "morph": "HNp"
+        },
+        {
+          "w": "כַּאֲשֶׁר֩",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "נִתַּ֨ךְ",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "אַפִּ֜י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וַחֲמָתִ֗י",
+          "morph": "HC/Ncfsc/Sp1cs"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יֹֽשְׁבֵי֙",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "יְר֣וּשָׁלִַ֔ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "כֵּ֣ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "תִּתַּ֤ךְ",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "חֲמָתִי֙",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "עֲלֵיכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "בְּבֹאֲכֶ֖ם",
+          "morph": "HR/Vqc/Sp2mp"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וִהְיִיתֶ֞ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "לְאָלָ֤ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וּלְשַׁמָּה֙",
+          "morph": "HC/R/Ncfsa"
+        },
+        {
+          "w": "וְלִקְלָלָ֣ה",
+          "morph": "HC/R/Ncfsa"
+        },
+        {
+          "w": "וּלְחֶרְפָּ֔ה",
+          "morph": "HC/R/Ncfsa"
+        },
+        {
+          "w": "וְלֹֽא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תִרְא֣וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "ע֔וֹד",
+          "morph": "HD"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַמָּק֖וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּֽה",
+          "morph": "HTd/Pdxms"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "所 剩 下 的 猶 大 人 哪 ， 耶 和 華 論 到 你 們 說 ： 不 要 進 入 埃 及 去 。 你 們 要 確 實 地 知 道 我 今 日 警 教 你 們 了 。",
+      "en": "“The Lord has told you people who remain in Judah, ‘Do not go to Egypt.’ Be very sure of this: I warn you here and now.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דִּבֶּ֨ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֲלֵיכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "שְׁאֵרִ֣ית",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְהוּדָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תָּבֹ֖אוּ",
+          "morph": "HVqj2mp"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "יָדֹ֨עַ֙",
+          "morph": "HVqa"
+        },
+        {
+          "w": "תֵּֽדְע֔וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "הַעִידֹ֥תִי",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "בָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "הַיּֽוֹם",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "你 們 行 詭 詐 自 害 ； 因 為 你 們 請 我 到 耶 和 華 ─ 你 們 的 神 那 裡 ， 說 ： 求 你 為 我 們 禱 告 耶 和 華 ─ 我 們 　 神 ， 照 耶 和 華 ─ 我 們 的 　 神 一 切 所 說 的 告 訴 我 們 ， 我 們 就 必 遵 行 。",
+      "en": "You are making a fatal mistake. For you sent me to the Lord your God and asked me, ‘Pray to the Lord our God for us. Tell us what the Lord our God says, and we will do it.’",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "התעתים",
+          "morph": "HVhp1cs/Sp3mp"
+        },
+        {
+          "w": "הִתְעֵיתֶם֮",
+          "morph": "HVhp2mp"
+        },
+        {
+          "w": "בְּנַפְשֽׁוֹתֵיכֶם֒",
+          "morph": "HR/Ncbpc/Sp2mp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "אַתֶּ֞ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "שְׁלַחְתֶּ֣ם",
+          "morph": "HVqp2mp"
+        },
+        {
+          "w": "אֹתִ֗י",
+          "morph": "HTo/Sp1cs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוָ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹֽהֵיכֶם֙",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הִתְפַּלֵּ֣ל",
+          "morph": "HVtv2ms"
+        },
+        {
+          "w": "בַּעֲדֵ֔נוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֑ינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        },
+        {
+          "w": "וּכְכֹל֩",
+          "morph": "HC/R/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יֹאמַ֜ר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יְהוָ֧ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֛ינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        },
+        {
+          "w": "כֵּ֥ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "הַגֶּד",
+          "morph": "HVhv2ms"
+        },
+        {
+          "w": "לָ֖נוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "וְעָשִֽׂינוּ",
+          "morph": "HC/Vqq1cp"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "我 今 日 將 這 話 告 訴 你 們 ， 耶 和 華 ─ 你 們 的 神 為 你 們 的 事 差 遣 我 到 你 們 那 裡 說 的 ， 你 們 卻 一 樣 沒 有 聽 從 。",
+      "en": "This day I have told you what he said. But you do not want to obey the Lord your God by doing what he sent me to tell you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאַגִּ֥ד",
+          "morph": "HC/Vhw1cs"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "הַיּ֑וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "שְׁמַעְתֶּ֗ם",
+          "morph": "HVqp2mp"
+        },
+        {
+          "w": "בְּקוֹל֙",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹֽהֵיכֶ֔ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "וּלְכֹ֖ל",
+          "morph": "HC/R/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שְׁלָחַ֥נִי",
+          "morph": "HVqp3ms/Sp1cs"
+        },
+        {
+          "w": "אֲלֵיכֶֽם",
+          "morph": "HR/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "現 在 你 們 要 確 實 地 知 道 ， 你 們 在 所 要 去 寄 居 之 地 必 遭 刀 劍 、 饑 荒 、 瘟 疫 而 死 。",
+      "en": "So now be very sure of this: You will die from war, starvation, or disease in the place where you want to go and live.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַתָּה֙",
+          "morph": "HC/D"
+        },
+        {
+          "w": "יָדֹ֣עַ",
+          "morph": "HVqa"
+        },
+        {
+          "w": "תֵּֽדְע֔וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "כִּ֗י",
+          "morph": "HC"
+        },
+        {
+          "w": "בַּחֶ֛רֶב",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "בָּרָעָ֥ב",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וּבַדֶּ֖בֶר",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "תָּמ֑וּתוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "בַּמָּקוֹם֙",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "חֲפַצְתֶּ֔ם",
+          "morph": "HVqp2mp"
+        },
+        {
+          "w": "לָב֖וֹא",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לָג֥וּר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "שָֽׁם",
+          "morph": "HD"
+        }
+      ]
+    }
+  ]
+}

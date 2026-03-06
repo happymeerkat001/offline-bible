@@ -1,0 +1,714 @@
+{
+  "book": 38,
+  "chapter": 5,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "我 又 舉 目 觀 看 ， 見 有 一 飛 行 書 卷 。",
+      "en": "Then I turned to look, and there was a flying scroll!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאָשׁ֕וּב",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "וָאֶשָּׂ֥א",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "עֵינַ֖י",
+          "morph": "HNcbdc/Sp1cs"
+        },
+        {
+          "w": "וָֽאֶרְאֶ֑ה",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "וְהִנֵּ֖ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "מְגִלָּ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "עָפָֽה",
+          "morph": "HVqrfsa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "他 問 我 說 ： 你 看 見 甚 麼 ？ 我 回 答 說 ： 我 看 見 一 飛 行 的 書 卷 ， 長 二 十 肘 ， 寬 十 肘 。",
+      "en": "Someone asked me, “What do you see?” I replied, “I see a flying scroll 30 feet long and 15 feet wide.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלַ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "מָ֥ה",
+          "morph": "HTi"
+        },
+        {
+          "w": "אַתָּ֖ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "רֹאֶ֑ה",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "וָאֹמַ֗ר",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "אֲנִ֤י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "רֹאֶה֙",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "מְגִלָּ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "עָפָ֔ה",
+          "morph": "HVqrfsa"
+        },
+        {
+          "w": "אָרְכָּהּ֙",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "עֶשְׂרִ֣ים",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "בָּֽאַמָּ֔ה",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "וְרָחְבָּ֖הּ",
+          "morph": "HC/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "עֶ֥שֶׂר",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "בָּאַמָּֽה",
+          "morph": "HRd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "他 對 我 說 ： 這 是 發 出 行 在 遍 地 上 的 咒 詛 。 凡 偷 竊 的 必 按 卷 上 這 面 的 話 除 滅 ； 凡 起 假 誓 的 必 按 卷 上 那 面 的 話 除 滅 。",
+      "en": "The speaker went on to say, “This is a curse traveling across the whole earth. For example, according to the curse whoever steals will be removed from the community; or on the other hand (according to the curse) whoever swears falsely will suffer the same fate.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלַ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "זֹ֚את",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "הָֽאָלָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הַיּוֹצֵ֖את",
+          "morph": "HTd/Vqrfsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "פְּנֵ֣י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַגֹּנֵ֗ב",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "מִזֶּה֙",
+          "morph": "HR/Pdxms"
+        },
+        {
+          "w": "כָּמ֣וֹהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "נִקָּ֔ה",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הַנִּ֨שְׁבָּ֔ע",
+          "morph": "HTd/VNrmsa"
+        },
+        {
+          "w": "מִזֶּ֖ה",
+          "morph": "HR/Pdxms"
+        },
+        {
+          "w": "כָּמ֥וֹהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "נִקָּֽה",
+          "morph": "HVNp3ms"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "萬 軍 之 耶 和 華 說 ： 我 必 使 這 書 卷 出 去 ， 進 入 偷 竊 人 的 家 和 指 我 名 起 假 誓 人 的 家 ， 必 常 在 他 家 裡 ， 連 房 屋 帶 木 石 都 毀 滅 了 。",
+      "en": "“I will send it out,” says the Lord of Heaven’s Armies, “and it will enter the house of the thief and of the person who swears falsely in my name. It will land in the middle of his house and destroy both timber and stones.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "הוֹצֵאתִ֗יהָ",
+          "morph": "HVhp1cs/Sp3fs"
+        },
+        {
+          "w": "נְאֻם֙",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "צְבָא֔וֹת",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "וּבָ֨אָה֙",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַגַּנָּ֔ב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בֵּ֛ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַנִּשְׁבָּ֥ע",
+          "morph": "HTd/VNrmsa"
+        },
+        {
+          "w": "בִּשְׁמִ֖י",
+          "morph": "HR/Ncmsc/Sp1cs"
+        },
+        {
+          "w": "לַשָּׁ֑קֶר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְלָ֨נֶה֙",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "בְּת֣וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "בֵּית֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְכִלַּ֖תּוּ",
+          "morph": "HC/Vpq3fs/Sp3ms"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "עֵצָ֥יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אֲבָנָֽיו",
+          "morph": "HNcfpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "與 我 說 話 的 天 使 出 來 ， 對 我 說 ： 你 要 舉 目 觀 看 ， 見 所 出 來 的 是 甚 麼 ？",
+      "en": "After this the angelic messenger who had been speaking to me went out and said, “Look, see what is leaving.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּצֵ֕א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הַמַּלְאָ֖ךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַדֹּבֵ֣ר",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "בִּ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלַ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "שָׂ֣א",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "נָ֤א",
+          "morph": "HTe"
+        },
+        {
+          "w": "עֵינֶ֨יךָ֙",
+          "morph": "HNcbdc/Sp2ms"
+        },
+        {
+          "w": "וּרְאֵ֔ה",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "מָ֖ה",
+          "morph": "HTi"
+        },
+        {
+          "w": "הַיּוֹצֵ֥את",
+          "morph": "HTd/Vqrfsa"
+        },
+        {
+          "w": "הַזֹּֽאת",
+          "morph": "HTd/Pdxfs"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "我 說 ： 這 是 甚 麼 呢 ？ 他 說 ： 這 出 來 的 是 量 器 。 他 又 說 ： 這 是 惡 人 在 遍 地 的 形 狀 。",
+      "en": "I asked, “What is it?” And he replied, “It is a basket for measuring grain that is moving away from here.” Moreover, he said, “This is their ‘eye’ throughout all the earth.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאֹמַ֖ר",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "מַה",
+          "morph": "HTi"
+        },
+        {
+          "w": "הִ֑יא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "וַיֹּ֗אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "זֹ֤את",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "הָֽאֵיפָה֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הַיּוֹצֵ֔את",
+          "morph": "HTd/Vqrfsa"
+        },
+        {
+          "w": "וַיֹּ֕אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "זֹ֥את",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "עֵינָ֖ם",
+          "morph": "HNcbsc/Sp3mp"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "（ 我 見 有 一 片 圓 鉛 被 舉 起 來 。 ） 這 坐 在 量 器 中 的 是 個 婦 人 。",
+      "en": "Then a round lead cover was raised up, revealing a woman sitting inside the basket.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִנֵּ֛ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "כִּכַּ֥ר",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "עֹפֶ֖רֶת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "נִשֵּׂ֑את",
+          "morph": "HVNsfsa"
+        },
+        {
+          "w": "וְזֹאת֙",
+          "morph": "HC/Pdxfs"
+        },
+        {
+          "w": "אִשָּׁ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אַחַ֔ת",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "יוֹשֶׁ֖בֶת",
+          "morph": "HVqrfsa"
+        },
+        {
+          "w": "בְּת֥וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָאֵיפָֽה",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "天 使 說 ： 這 是 罪 惡 。 他 就 把 婦 人 扔 在 量 器 中 ， 將 那 片 圓 鉛 扔 在 量 器 的 口 上 。",
+      "en": "He then said, “This woman represents wickedness,” and he pushed her down into the basket and placed the lead cover on top.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֨אמֶר֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "זֹ֣את",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "הָרִשְׁעָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וַיַּשְׁלֵ֥ךְ",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "אֹתָ֖הּ",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "תּ֣וֹךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָֽאֵיפָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וַיַּשְׁלֵ֛ךְ",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֶ֥בֶן",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הָעֹפֶ֖רֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פִּֽיהָ",
+          "morph": "HNcmsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "我 又 舉 目 觀 看 ， 見 有 兩 個 婦 人 出 來 ， 在 他 們 翅 膀 中 有 風 ， 飛 得 甚 快 ， 翅 膀 如 同 鸛 鳥 的 翅 膀 。 他 們 將 量 器 抬 起 來 ， 懸 在 天 地 中 間 。",
+      "en": "Then I looked again and saw two women going forth with the wind in their wings (they had wings like those of a stork), and they lifted up the basket between the earth and the sky.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאֶשָּׂ֨א",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "עֵינַ֜י",
+          "morph": "HNcbdc/Sp1cs"
+        },
+        {
+          "w": "וָאֵ֗רֶא",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "וְהִנֵּה֩",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "שְׁתַּ֨יִם",
+          "morph": "HAcfda"
+        },
+        {
+          "w": "נָשִׁ֤ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "יֽוֹצְאוֹת֙",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "וְר֣וּחַ",
+          "morph": "HC/Ncbsa"
+        },
+        {
+          "w": "בְּכַנְפֵיהֶ֔ם",
+          "morph": "HR/Ncfdc/Sp3mp"
+        },
+        {
+          "w": "וְלָהֵ֥נָּה",
+          "morph": "HC/R/Sp3fp"
+        },
+        {
+          "w": "כְנָפַ֖יִם",
+          "morph": "HNcfda"
+        },
+        {
+          "w": "כְּכַנְפֵ֣י",
+          "morph": "HR/Ncfdc"
+        },
+        {
+          "w": "הַחֲסִידָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וַתִּשֶּׂ֨אנָה֙",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָ֣אֵיפָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "בֵּ֥ין",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וּבֵ֥ין",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַשָּׁמָֽיִם",
+          "morph": "HTd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "我 問 與 我 說 話 的 天 使 說 ： 他 們 要 將 量 器 抬 到 哪 裡 去 呢 ？",
+      "en": "I asked the messenger who was speaking to me, “Where are they taking the basket?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאֹמַ֕ר",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמַּלְאָ֖ךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַדֹּבֵ֣ר",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "בִּ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "אָ֛נָה",
+          "morph": "HD"
+        },
+        {
+          "w": "הֵ֥מָּה",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "מֽוֹלִכ֖וֹת",
+          "morph": "HVhrfpa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאֵיפָֽה",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "他 對 我 說 ： 要 往 示 拿 地 去 ， 為 他 蓋 造 房 屋 ； 等 房 屋 齊 備 ， 就 把 他 安 置 在 自 己 的 地 方 。",
+      "en": "He replied, “To build a temple for her in the land of Babylonia. When it is finished, she will be placed there in her own residence.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלַ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "לִבְנֽוֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לָ֥הֿ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "בַ֖יִת",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "שִׁנְעָ֑ר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהוּכַ֛ן",
+          "morph": "HC/VHq3ms"
+        },
+        {
+          "w": "וְהֻנִּ֥יחָה",
+          "morph": "HC/VHq3fs"
+        },
+        {
+          "w": "שָּׁ֖ם",
+          "morph": "HD"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "מְכֻנָתָֽהּ",
+          "morph": "HNcfsc/Sp3fs"
+        }
+      ]
+    }
+  ]
+}

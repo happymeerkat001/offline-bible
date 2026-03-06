@@ -1,0 +1,1846 @@
+{
+  "book": 4,
+  "chapter": 13,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 曉 諭 摩 西 說 ：",
+      "en": "The Lord spoke to Moses:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 打 發 人 去 窺 探 我 所 賜 給 以 色 列 人 的 迦 南 地 ， 他 們 每 支 派 中 要 打 發 一 個 人 ， 都 要 作 首 領 的 。",
+      "en": "“Send out men to investigate the land of Canaan, which I am giving to the Israelites. You are to send one man from each ancestral tribe, each one a leader among them.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׁלַח",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "לְךָ֣",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "אֲנָשִׁ֗ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וְיָתֻ֨רוּ֙",
+          "morph": "HC/Vqi3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "כְּנַ֔עַן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֲנִ֥י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "נֹתֵ֖ן",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לִבְנֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶחָד֩",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "אִ֨ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶחָ֜ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "לְמַטֵּ֤ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֲבֹתָיו֙",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "תִּשְׁלָ֔חוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "כֹּ֖ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "נָשִׂ֥יא",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בָהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "摩 西 就 照 耶 和 華 的 吩 咐 ， 從 巴 蘭 的 曠 野 打 發 他 們 去 ； 他 們 都 是 以 色 列 人 的 族 長 。",
+      "en": "So Moses sent them from the wilderness of Paran at the command of the Lord. All of them were leaders of the Israelites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁלַ֨ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֹתָ֥ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "מֹשֶׁ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִמִּדְבַּ֥ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "פָּארָ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "פִּ֣י",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כֻּלָּ֣ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "אֲנָשִׁ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רָאשֵׁ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "הֵֽמָּה",
+          "morph": "HPp3mp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "他 們 的 名 字 ： 屬 流 便 支 派 的 有 撒 刻 的 兒 子 沙 母 亞 。",
+      "en": "Now these were their names: from the tribe of Reuben, Shammua son of Zaccur;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֵ֖לֶּה",
+          "morph": "HC/Pdxcp"
+        },
+        {
+          "w": "שְׁמוֹתָ֑ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "לְמַטֵּ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "רְאוּבֵ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "שַׁמּ֖וּעַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "זַכּֽוּר",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "屬 西 緬 支 派 的 有 何 利 的 兒 子 的 沙 法 。",
+      "en": "from the tribe of Simeon, Shaphat son of Hori;",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַטֵּ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שִׁמְע֔וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "שָׁפָ֖ט",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חוֹרִֽי",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "屬 猶 大 支 派 的 有 耶 孚 尼 的 兒 子 迦 勒 。",
+      "en": "from the tribe of Judah, Caleb son of Jephunneh;",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַטֵּ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְהוּדָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כָּלֵ֖ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְפֻנֶּֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "屬 以 薩 迦 支 派 的 有 約 色 的 兒 子 以 迦 。",
+      "en": "from the tribe of Issachar, Igal son of Joseph;",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַטֵּ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יִשָּׂשכָ֔ר",
+          "morph": "HNp"
+        },
+        {
+          "w": "יִגְאָ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יוֹסֵֽף",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "屬 以 法 蓮 支 派 的 有 嫩 的 兒 子 何 西 阿 。",
+      "en": "from the tribe of Ephraim, Hoshea son of Nun;",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַטֵּ֥ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֶפְרָ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "הוֹשֵׁ֥עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נֽוּן",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "屬 便 雅 憫 支 派 的 有 拉 孚 的 兒 子 帕 提 。",
+      "en": "from the tribe of Benjamin, Palti son of Raphu;",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַטֵּ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "בִנְיָמִ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "פַּלְטִ֖י",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רָפֽוּא",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "屬 西 布 倫 支 派 的 有 梭 底 的 兒 子 迦 疊 。",
+      "en": "from the tribe of Zebulun, Gaddiel son of Sodi;",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַטֵּ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "זְבוּלֻ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "גַּדִּיאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "סוֹדִֽי",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "約 瑟 的 子 孫 屬 瑪 拿 西 支 派 的 有 穌 西 的 兒 子 迦 底 。",
+      "en": "from the tribe of Joseph, namely, the tribe of Manasseh, Gaddi son of Susi;",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַטֵּ֥ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יוֹסֵ֖ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְמַטֵּ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מְנַשֶּׁ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "גַּדִּ֖י",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "סוּסִֽי",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "屬 但 支 派 的 有 基 瑪 利 的 兒 子 亞 米 利 。",
+      "en": "from the tribe of Dan, Ammiel son of Gemalli;",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַטֵּ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "דָ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַמִּיאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "גְּמַלִּֽי",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "屬 亞 設 支 派 的 有 米 迦 勒 的 兒 子 西 帖 。",
+      "en": "from the tribe of Asher, Sethur son of Michael;",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַטֵּ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אָשֵׁ֔ר",
+          "morph": "HNp"
+        },
+        {
+          "w": "סְת֖וּר",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִיכָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "屬 拿 弗 他 利 支 派 的 有 縛 西 的 兒 子 拿 比 。",
+      "en": "from the tribe of Naphtali, Nahbi son of Vopshi;",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַטֵּ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "נַפְתָּלִ֔י",
+          "morph": "HNp"
+        },
+        {
+          "w": "נַחְבִּ֖י",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "וָפְסִֽי",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "屬 迦 得 支 派 的 有 瑪 基 的 兒 子 臼 利 。",
+      "en": "from the tribe of Gad, Geuel son of Maki.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַטֵּ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "גָ֔ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "גְּאוּאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מָכִֽי",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "這 就 是 摩 西 所 打 發 窺 探 那 地 之 人 的 名 字 。 摩 西 就 稱 嫩 的 兒 子 何 西 阿 為 約 書 亞 。",
+      "en": "These are the names of the men whom Moses sent to investigate the land. And Moses gave Hoshea son of Nun the name Joshua.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֵ֚לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "שְׁמ֣וֹת",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָֽאֲנָשִׁ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שָׁלַ֥ח",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "מֹשֶׁ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָת֣וּר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וַיִּקְרָ֥א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מֹשֶׁ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְהוֹשֵׁ֥עַ",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בִּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נ֖וּן",
+          "morph": "HNp"
+        },
+        {
+          "w": "יְהוֹשֻֽׁעַ",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "摩 西 打 發 他 們 去 窺 探 迦 南 地 ， 說 ： 你 們 從 南 地 上 山 地 去 ，",
+      "en": "When Moses sent them to investigate the land of Canaan, he told them, “Go up through the Negev, and then go up into the hill country",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁלַ֤ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֹתָם֙",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "מֹשֶׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָת֖וּר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "כְּנָ֑עַן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֲלֵהֶ֗ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "עֲל֥וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "זֶה֙",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "בַּנֶּ֔גֶב",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וַעֲלִיתֶ֖ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָהָֽר",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "看 那 地 如 何 ， 其 中 所 住 的 民 是 強 是 弱 ， 是 多 是 少 ，",
+      "en": "and see what the land is like, and whether the people who live in it are strong or weak, few or many,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּרְאִיתֶ֥ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "מַה",
+          "morph": "HTi"
+        },
+        {
+          "w": "הִ֑וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הָעָם֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַיֹּשֵׁ֣ב",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "עָלֶ֔יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "הֶחָזָ֥ק",
+          "morph": "HTi/Aamsa"
+        },
+        {
+          "w": "הוּא֙",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "הֲרָפֶ֔ה",
+          "morph": "HTi/Aamsa"
+        },
+        {
+          "w": "הַמְעַ֥ט",
+          "morph": "HTi/Aamsa"
+        },
+        {
+          "w": "ה֖וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "רָֽב",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "所 住 之 地 是 好 是 歹 ， 所 住 之 處 是 營 盤 是 堅 城 。",
+      "en": "and whether the land they live in is good or bad, and whether the cities they inhabit are like camps or fortified cities,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמָ֣ה",
+          "morph": "HC/Ti"
+        },
+        {
+          "w": "הָאָ֗רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הוּא֙",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "יֹשֵׁ֣ב",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בָּ֔הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "הֲטוֹבָ֥ה",
+          "morph": "HTi/Aafsa"
+        },
+        {
+          "w": "הִ֖וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "רָעָ֑ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "וּמָ֣ה",
+          "morph": "HC/Ti"
+        },
+        {
+          "w": "הֶֽעָרִ֗ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הוּא֙",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "יוֹשֵׁ֣ב",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בָּהֵ֔נָּה",
+          "morph": "HR/Pp3fp"
+        },
+        {
+          "w": "הַבְּמַֽחֲנִ֖ים",
+          "morph": "HTi/R/Ncbpa"
+        },
+        {
+          "w": "אִ֥ם",
+          "morph": "HC"
+        },
+        {
+          "w": "בְּמִבְצָרִֽים",
+          "morph": "HR/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "又 看 那 地 土 是 肥 美 是 瘠 薄 ， 其 中 有 樹 木 沒 有 。 你 們 要 放 開 膽 量 ， 把 那 地 的 果 子 帶 些 來 。 那 時 正 是 葡 萄 初 熟 的 時 候 。",
+      "en": "and whether the land is rich or poor, and whether or not there are forests in it. And be brave, and bring back some of the fruit of the land.” Now it was the time of year for the first ripe grapes.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמָ֣ה",
+          "morph": "HC/Ti"
+        },
+        {
+          "w": "הָ֠אָרֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "הַשְּׁמֵנָ֨ה",
+          "morph": "HTi/Aafsa"
+        },
+        {
+          "w": "הִ֜וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "רָזָ֗ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "הֲיֵֽשׁ",
+          "morph": "HTi/Tm"
+        },
+        {
+          "w": "בָּ֥הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "עֵץ֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "אַ֔יִן",
+          "morph": "HTn"
+        },
+        {
+          "w": "וְהִ֨תְחַזַּקְתֶּ֔ם",
+          "morph": "HC/Vtq2mp"
+        },
+        {
+          "w": "וּלְקַחְתֶּ֖ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "מִפְּרִ֣י",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְהַ֨יָּמִ֔ים",
+          "morph": "HC/Td/Ncmpa"
+        },
+        {
+          "w": "יְמֵ֖י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בִּכּוּרֵ֥י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "עֲנָבִֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "他 們 上 去 窺 探 那 地 ， 從 尋 的 曠 野 到 利 合 ， 直 到 哈 馬 口 。",
+      "en": "So they went up and investigated the land from the wilderness of Zin to Rehob, at Lebo Hamath.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַֽיַּעֲל֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וַיָּתֻ֣רוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "מִמִּדְבַּר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "צִ֥ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "רְחֹ֖ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְבֹ֥א",
+          "morph": "HNp"
+        },
+        {
+          "w": "חֲמָֽת",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "他 們 從 南 地 上 去 ， 到 了 希 伯 崙 ； 在 那 裡 有 亞 衲 族 人 亞 希 幔 、 示 篩 、 撻 買 。 原 來 希 伯 崙 城 被 建 造 比 埃 及 的 鎖 安 城 早 七 年 。",
+      "en": "When they went up through the Negev, they came to Hebron where Ahiman, Sheshai, and Talmai, descendants of Anak, were living. (Now Hebron had been built seven years before Zoan in Egypt.)",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּעֲל֣וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בַנֶּגֶב֮",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וַיָּבֹ֣א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "חֶבְרוֹן֒",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשָׁ֤ם",
+          "morph": "HC/D"
+        },
+        {
+          "w": "אֲחִימַן֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "שֵׁשַׁ֣י",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְתַלְמַ֔י",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "יְלִידֵ֖י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָעֲנָ֑ק",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "וְחֶבְר֗וֹן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "שֶׁ֤בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שָׁנִים֙",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "נִבְנְתָ֔ה",
+          "morph": "HVNp3fs"
+        },
+        {
+          "w": "לִפְנֵ֖י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "צֹ֥עַן",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "他 們 到 了 以 實 各 谷 ， 從 那 裡 砍 了 葡 萄 樹 的 一 枝 ， 上 頭 有 一 掛 葡 萄 ， 兩 個 人 用 杠 抬 著 ， 又 帶 了 些 石 榴 和 無 花 果 來 。",
+      "en": "When they came to the valley of Eshcol, they cut down from there a branch with one cluster of grapes, and they carried it on a staff between two men, as well as some of the pomegranates and the figs.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּבֹ֜אוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "נַ֣חַל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֶשְׁכֹּ֗ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּכְרְת֨וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִשָּׁ֤ם",
+          "morph": "HR/D"
+        },
+        {
+          "w": "זְמוֹרָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְאֶשְׁכּ֤וֹל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "עֲנָבִים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "אֶחָ֔ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "וַיִּשָּׂאֻ֥הוּ",
+          "morph": "HC/Vqw3mp/Sp3ms"
+        },
+        {
+          "w": "בַמּ֖וֹט",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בִּשְׁנָ֑יִם",
+          "morph": "HR/Acmda"
+        },
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הָרִמֹּנִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַתְּאֵנִֽים",
+          "morph": "HTd/Ncfpa"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "因 為 以 色 列 人 從 那 裡 砍 來 的 那 掛 葡 萄 ， 所 以 那 地 方 叫 做 以 實 各 谷 。",
+      "en": "That place was called the Eshcol Valley, because of the cluster of grapes that the Israelites cut from there.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לַמָּק֣וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַה֔וּא",
+          "morph": "HTd/Pp3ms"
+        },
+        {
+          "w": "קָרָ֖א",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "נַ֣חַל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֶשְׁכּ֑וֹל",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַ֚ל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֹד֣וֹת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "הָֽאֶשְׁכּ֔וֹל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "כָּרְת֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מִשָּׁ֖ם",
+          "morph": "HR/D"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "過 了 四 十 天 ， 他 們 窺 探 那 地 才 回 來 ，",
+      "en": "They returned from investigating the land after 40 days.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּשֻׁ֖בוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִתּ֣וּר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "מִקֵּ֖ץ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אַרְבָּעִ֥ים",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "יֽוֹם",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "到 了 巴 蘭 曠 野 的 加 低 斯 ， 見 摩 西 、 亞 倫 ， 並 以 色 列 的 全 會 眾 ， 回 報 摩 西 、 亞 倫 ， 並 全 會 眾 ， 又 把 那 地 的 果 子 給 他 們 看 ；",
+      "en": "They came back to Moses and Aaron and to the whole community of the Israelites in the wilderness of Paran at Kadesh. They reported to the whole community and showed the fruit of the land.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּלְכ֡וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וַיָּבֹאוּ֩",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֨ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶֽל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אַהֲרֹ֜ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲדַ֧ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בְּנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֛ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מִדְבַּ֥ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פָּארָ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "קָדֵ֑שָׁה",
+          "morph": "HNp/Sd"
+        },
+        {
+          "w": "וַיָּשִׁ֨יבוּ",
+          "morph": "HC/Vhw3mp"
+        },
+        {
+          "w": "אוֹתָ֤ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "דָּבָר֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָ֣עֵדָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וַיַּרְא֖וּם",
+          "morph": "HC/Vhw3mp/Sp3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "פְּרִ֥י",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "又 告 訴 摩 西 說 ： 我 們 到 了 你 所 打 發 我 們 去 的 那 地 ， 果 然 是 流 奶 與 蜜 之 地 ； 這 就 是 那 地 的 果 子 。",
+      "en": "They told Moses, “We went to the land where you sent us. It is indeed flowing with milk and honey, and this is its fruit.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְסַפְּרוּ",
+          "morph": "HC/Vpw3mp"
+        },
+        {
+          "w": "לוֹ֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וַיֹּ֣אמְר֔וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בָּ֕אנוּ",
+          "morph": "HVqp1cp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שְׁלַחְתָּ֑נוּ",
+          "morph": "HVqp2ms/Sp1cp"
+        },
+        {
+          "w": "וְ֠גַם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "זָבַ֨ת",
+          "morph": "HVqrfsc"
+        },
+        {
+          "w": "חָלָ֥ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּדְבַ֛שׁ",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "הִ֖וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "וְזֶה",
+          "morph": "HC/Pdxms"
+        },
+        {
+          "w": "פִּרְיָֽהּ",
+          "morph": "HNcmsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "然 而 住 那 地 的 民 強 壯 ， 城 邑 也 堅 固 寬 大 ， 並 且 我 們 在 那 裡 看 見 了 亞 衲 族 的 人 。",
+      "en": "But the inhabitants are strong, and the cities are fortified and very large. Moreover we saw the descendants of Anak there.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֶ֚פֶס",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "עַ֣ז",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "הָעָ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַיֹּשֵׁ֖ב",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "בָּאָ֑רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "וְהֶֽעָרִ֗ים",
+          "morph": "HC/Td/Ncfpa"
+        },
+        {
+          "w": "בְּצֻר֤וֹת",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "גְּדֹלֹת֙",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "מְאֹ֔ד",
+          "morph": "HD"
+        },
+        {
+          "w": "וְגַם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "יְלִדֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָֽעֲנָ֖ק",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "רָאִ֥ינוּ",
+          "morph": "HVqp1cp"
+        },
+        {
+          "w": "שָֽׁם",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "亞 瑪 力 人 住 在 南 地 ； 赫 人 、 耶 布 斯 人 、 亞 摩 利 人 、 住 在 山 地 ； 迦 南 人 住 在 海 邊 並 約 但 河 旁 。",
+      "en": "The Amalekites live in the land of the Negev; the Hittites, Jebusites, and Amorites live in the hill country; and the Canaanites live by the sea and along the banks of the Jordan.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֲמָלֵ֥ק",
+          "morph": "HNp"
+        },
+        {
+          "w": "יוֹשֵׁ֖ב",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בְּאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "הַנֶּ֑גֶב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְ֠הַֽחִתִּי",
+          "morph": "HC/Td/Ngmsa"
+        },
+        {
+          "w": "וְהַיְבוּסִ֤י",
+          "morph": "HC/Td/Ngmsa"
+        },
+        {
+          "w": "וְהָֽאֱמֹרִי֙",
+          "morph": "HC/Td/Ngmsa"
+        },
+        {
+          "w": "יוֹשֵׁ֣ב",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בָּהָ֔ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְהַֽכְּנַעֲנִי֙",
+          "morph": "HC/Td/Ngmsa"
+        },
+        {
+          "w": "יֹשֵׁ֣ב",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיָּ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְעַ֖ל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "יַ֥ד",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הַיַּרְדֵּֽן",
+          "morph": "HTd/Np"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "迦 勒 在 摩 西 面 前 安 撫 百 姓 ， 說 ： 我 們 立 刻 上 去 得 那 地 罷 ！ 我 們 足 能 得 勝 。",
+      "en": "Then Caleb silenced the people before Moses, saying, “Let us go up and occupy it, for we are well able to conquer it.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּ֧הַס",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "כָּלֵ֛ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעָ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיֹּ֗אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "עָלֹ֤ה",
+          "morph": "HVqa"
+        },
+        {
+          "w": "נַעֲלֶה֙",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "וְיָרַ֣שְׁנוּ",
+          "morph": "HC/Vqq1cp"
+        },
+        {
+          "w": "אֹתָ֔הּ",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יָכ֥וֹל",
+          "morph": "HVqa"
+        },
+        {
+          "w": "נוּכַ֖ל",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "לָֽהּ",
+          "morph": "HR/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "但 那 些 和 他 同 去 的 人 說 ： 我 們 不 能 上 去 攻 擊 那 民 ， 因 為 他 們 比 我 們 強 壯 。",
+      "en": "But the men who had gone up with him said, “We are not able to go up against these people, because they are stronger than we are!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָ֨אֲנָשִׁ֜ים",
+          "morph": "HC/Td/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עָל֤וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "עִמּוֹ֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אָֽמְר֔וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "נוּכַ֖ל",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "לַעֲל֣וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָעָ֑ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "חָזָ֥ק",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "ה֖וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "מִמֶּֽנּוּ",
+          "morph": "HR/Sp1cp"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "探 子 中 有 人 論 到 所 窺 探 之 地 ， 向 以 色 列 人 報 惡 信 ， 說 ： 我 們 所 窺 探 、 經 過 之 地 是 吞 吃 居 民 之 地 ， 我 們 在 那 裡 所 看 見 的 人 民 都 身 量 高 大 。",
+      "en": "Then they presented the Israelites with a discouraging report of the land they had investigated, saying, “The land that we passed through to investigate is a land that devours its inhabitants. All the people we saw there are of great stature.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיּוֹצִ֜יאוּ",
+          "morph": "HC/Vhw3mp"
+        },
+        {
+          "w": "דִּבַּ֤ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הָאָ֨רֶץ֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תָּר֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אֹתָ֔הּ",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הָאָ֡רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁר֩",
+          "morph": "HTr"
+        },
+        {
+          "w": "עָבַ֨רְנוּ",
+          "morph": "HVqp1cp"
+        },
+        {
+          "w": "בָ֜הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "לָת֣וּר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֹתָ֗הּ",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "אֹכֶ֤לֶת",
+          "morph": "HVqrfsa"
+        },
+        {
+          "w": "יוֹשְׁבֶ֨יהָ֙",
+          "morph": "HVqrmpc/Sp3fs"
+        },
+        {
+          "w": "הִ֔וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הָעָ֛ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "רָאִ֥ינוּ",
+          "morph": "HVqp1cp"
+        },
+        {
+          "w": "בְתוֹכָ֖הּ",
+          "morph": "HR/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "אַנְשֵׁ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מִדּֽוֹת",
+          "morph": "HNcfpa"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "我 們 在 那 裡 看 見 亞 衲 族 人 ， 就 是 偉 人 ； 他 們 是 偉 人 的 後 裔 。 據 我 們 看 ， 自 己 就 如 蚱 蜢 一 樣 ； 據 他 們 看 ， 我 們 也 是 如 此 。",
+      "en": "We even saw the Nephilim there (the descendants of Anak came from the Nephilim), and we seemed like grasshoppers both to ourselves and to them.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשָׁ֣ם",
+          "morph": "HC/D"
+        },
+        {
+          "w": "רָאִ֗ינוּ",
+          "morph": "HVqp1cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַנְּפִילִ֛ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עֲנָ֖ק",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַנְּפִלִ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וַנְּהִ֤י",
+          "morph": "HC/Vqw1cp"
+        },
+        {
+          "w": "בְעֵינֵ֨ינוּ֙",
+          "morph": "HR/Ncbdc/Sp1cp"
+        },
+        {
+          "w": "כַּֽחֲגָבִ֔ים",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "וְכֵ֥ן",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "הָיִ֖ינוּ",
+          "morph": "HVqp1cp"
+        },
+        {
+          "w": "בְּעֵינֵיהֶֽם",
+          "morph": "HR/Ncbdc/Sp3mp"
+        }
+      ]
+    }
+  ]
+}

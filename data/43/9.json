@@ -1,0 +1,3789 @@
+{
+  "book": 43,
+  "chapter": 9,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 穌 過 去 的 時 候 ， 看 見 一 個 人 生 來 是 瞎 眼 的 。",
+      "en": "Now as Jesus was passing by, he saw a man who had been blind from birth.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "παράγων",
+          "morph": "V-PAP-NSM",
+          "gloss": "passing by"
+        },
+        {
+          "w": "εἶδεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "He saw"
+        },
+        {
+          "w": "ἄνθρωπον",
+          "morph": "N-ASM",
+          "gloss": "a man"
+        },
+        {
+          "w": "τυφλὸν",
+          "morph": "A-ASM",
+          "gloss": "blind"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "γενετῆς",
+          "morph": "N-GSF",
+          "gloss": "birth"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "門 徒 問 耶 穌 說 ： 拉 比 ， 這 人 生 來 是 瞎 眼 的 ， 是 誰 犯 了 罪 ？ 是 這 人 呢 ？ 是 他 父 母 呢 ？",
+      "en": "His disciples asked him, “Rabbi, who committed the sin that caused him to be born blind, this man or his parents?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἠρώτησαν",
+          "morph": "V-AAI-3P",
+          "gloss": "asked"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "μαθηταὶ",
+          "morph": "N-NPM",
+          "gloss": "disciples"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "λέγοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Ῥαββεί",
+          "morph": "HEB",
+          "gloss": "Rabbi"
+        },
+        {
+          "w": "τίς",
+          "morph": "I-NSM",
+          "gloss": "who"
+        },
+        {
+          "w": "ἥμαρτεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "sinned"
+        },
+        {
+          "w": "οὗτος",
+          "morph": "D-NSM",
+          "gloss": "this [man]"
+        },
+        {
+          "w": "ἢ",
+          "morph": "PRT",
+          "gloss": "or"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "γονεῖς",
+          "morph": "N-NPM",
+          "gloss": "parents"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "τυφλὸς",
+          "morph": "A-NSM",
+          "gloss": "blind"
+        },
+        {
+          "w": "γεννηθῇ",
+          "morph": "V-APS-3S",
+          "gloss": "he should be born"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "耶 穌 回 答 說 ： 也 不 是 這 人 犯 了 罪 ， 也 不 是 他 父 母 犯 了 罪 ， 是 要 在 他 身 上 顯 出 神 的 作 為 來 。",
+      "en": "Jesus answered, “Neither this man nor his parents sinned, but he was born blind so that the acts of God may be revealed through what happens to him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπεκρίθη",
+          "morph": "V-ADI-3S",
+          "gloss": "Answered"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "Οὔτε",
+          "morph": "CONJ-N",
+          "gloss": "Neither"
+        },
+        {
+          "w": "οὗτος",
+          "morph": "D-NSM",
+          "gloss": "this [man]"
+        },
+        {
+          "w": "ἥμαρτεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "sinned"
+        },
+        {
+          "w": "οὔτε",
+          "morph": "CONJ-N",
+          "gloss": "nor"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "γονεῖς",
+          "morph": "N-NPM",
+          "gloss": "parents"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "[it was] that"
+        },
+        {
+          "w": "φανερωθῇ",
+          "morph": "V-APS-3S",
+          "gloss": "should be displayed"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-NPN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἔργα",
+          "morph": "N-NPN",
+          "gloss": "works"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "him"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "趁 著 白 日 ， 我 們 必 須 做 那 差 我 來 者 的 工 ； 黑 夜 將 到 ， 就 沒 有 人 能 做 工 了 。",
+      "en": "We must perform the deeds of the one who sent me as long as it is daytime. Night is coming when no one can work.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "Us"
+        },
+        {
+          "w": "δεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "it behooves"
+        },
+        {
+          "w": "ἐργάζεσθαι",
+          "morph": "V-PNN",
+          "gloss": "to work"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἔργα",
+          "morph": "N-APN",
+          "gloss": "works"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the [One]"
+        },
+        {
+          "w": "πέμψαντός",
+          "morph": "V-AAP-GSM",
+          "gloss": "having sent"
+        },
+        {
+          "w": "με",
+          "morph": "P-1AS",
+          "gloss": "Me"
+        },
+        {
+          "w": "ἕως",
+          "morph": "ADV",
+          "gloss": "while"
+        },
+        {
+          "w": "ἡμέρα",
+          "morph": "N-NSF",
+          "gloss": "day"
+        },
+        {
+          "w": "ἐστίν",
+          "morph": "V-PAI-3S",
+          "gloss": "it is"
+        },
+        {
+          "w": "ἔρχεται",
+          "morph": "V-PNI-3S",
+          "gloss": "is coming"
+        },
+        {
+          "w": "νὺξ",
+          "morph": "N-NSF",
+          "gloss": "night"
+        },
+        {
+          "w": "ὅτε",
+          "morph": "ADV",
+          "gloss": "when"
+        },
+        {
+          "w": "οὐδεὶς",
+          "morph": "A-NSM-N",
+          "gloss": "no one"
+        },
+        {
+          "w": "δύναται",
+          "morph": "V-PNI-3S",
+          "gloss": "is able"
+        },
+        {
+          "w": "ἐργάζεσθαι",
+          "morph": "V-PNN",
+          "gloss": "to work"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "我 在 世 上 的 時 候 ， 是 世 上 的 光 。",
+      "en": "As long as I am in the world, I am the light of the world.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅταν",
+          "morph": "CONJ",
+          "gloss": "While"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "κόσμῳ",
+          "morph": "N-DSM",
+          "gloss": "world"
+        },
+        {
+          "w": "ὦ",
+          "morph": "V-PAS-1S",
+          "gloss": "I shall be"
+        },
+        {
+          "w": "φῶς",
+          "morph": "N-NSN",
+          "gloss": "[the] light"
+        },
+        {
+          "w": "εἰμι",
+          "morph": "V-PAI-1S",
+          "gloss": "I am"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "κόσμου",
+          "morph": "N-GSM",
+          "gloss": "world"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "耶 穌 說 了 這 話 ， 就 吐 唾 沫 在 地 上 ， 用 唾 沫 和 泥 抹 在 瞎 子 的 眼 睛 上 ，",
+      "en": "Having said this, he spat on the ground and made some mud with the saliva. He smeared the mud on the blind man’s eyes",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ταῦτα",
+          "morph": "D-APN",
+          "gloss": "These things"
+        },
+        {
+          "w": "εἰπὼν",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having said"
+        },
+        {
+          "w": "ἔπτυσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "He spat"
+        },
+        {
+          "w": "χαμαὶ",
+          "morph": "ADV",
+          "gloss": "on [the] ground"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐποίησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "made"
+        },
+        {
+          "w": "πηλὸν",
+          "morph": "N-ASM",
+          "gloss": "clay"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "the"
+        },
+        {
+          "w": "πτύσματος",
+          "morph": "N-GSN",
+          "gloss": "spittle"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐπέθηκεν",
+          "morph": "V-AAI-3S",
+          "gloss": "applied"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "πηλὸν",
+          "morph": "N-ASM",
+          "gloss": "clay"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀφθαλμούς",
+          "morph": "N-APM",
+          "gloss": "eyes"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "對 他 說 ： 你 往 西 羅 亞 池 子 裡 去 洗 （ 西 羅 亞 繙 出 來 就 是 奉 差 遣 ） 。 他 去 一 洗 ， 回 頭 就 看 見 了 。",
+      "en": "and said to him, “Go wash in the pool of Siloam” (which is translated “sent”). So the blind man went away and washed, and came back seeing.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "He said"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "Ὕπαγε",
+          "morph": "V-PAM-2S",
+          "gloss": "Go"
+        },
+        {
+          "w": "νίψαι",
+          "morph": "V-AMM-2S",
+          "gloss": "wash"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "κολυμβήθραν",
+          "morph": "N-ASF",
+          "gloss": "pool"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Σιλωάμ",
+          "morph": "N-PRI",
+          "gloss": "of Siloam"
+        },
+        {
+          "w": "ὃ",
+          "morph": "R-NSN",
+          "gloss": "which"
+        },
+        {
+          "w": "ἑρμηνεύεται",
+          "morph": "V-PPI-3S",
+          "gloss": "means"
+        },
+        {
+          "w": "Ἀπεσταλμένος",
+          "morph": "V-RPP-NSM",
+          "gloss": "Sent"
+        },
+        {
+          "w": "ἀπῆλθεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "He went"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐνίψατο",
+          "morph": "V-AMI-3S",
+          "gloss": "washed"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἦλθεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "came [back]"
+        },
+        {
+          "w": "βλέπων",
+          "morph": "V-PAP-NSM",
+          "gloss": "seeing"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "他 的 鄰 舍 和 那 素 常 見 他 是 討 飯 的 ， 就 說 ： 這 不 是 那 從 前 坐 著 討 飯 的 人 麼 ？",
+      "en": "Then the neighbors and the people who had seen him previously as a beggar began saying, “Is this not the man who used to sit and beg?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Οἱ",
+          "morph": "T-NPM",
+          "gloss": "The"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "γείτονες",
+          "morph": "N-NPM",
+          "gloss": "neighbors"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "those"
+        },
+        {
+          "w": "θεωροῦντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "having seen"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "πρότερον",
+          "morph": "A-ASN-C",
+          "gloss": "before"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "προσαίτης",
+          "morph": "N-NSM",
+          "gloss": "a beggar"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "he was"
+        },
+        {
+          "w": "ἔλεγον",
+          "morph": "V-IAI-3P",
+          "gloss": "were saying"
+        },
+        {
+          "w": "Οὐχ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "οὗτός",
+          "morph": "D-NSM",
+          "gloss": "this"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "he who"
+        },
+        {
+          "w": "καθήμενος",
+          "morph": "V-PNP-NSM",
+          "gloss": "was sitting"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "προσαιτῶν",
+          "morph": "V-PAP-NSM",
+          "gloss": "begging"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "有 人 說 ： 是 他 ； 又 有 人 說 ； 不 是 ， 卻 是 像 他 。 他 自 己 說 ： 是 我 。",
+      "en": "Some people said, “This is the man!” while others said, “No, but he looks like him.” The man himself kept insisting, “I am the one!”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἄλλοι",
+          "morph": "A-NPM",
+          "gloss": "Some"
+        },
+        {
+          "w": "ἔλεγον",
+          "morph": "V-IAI-3P",
+          "gloss": "were saying"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "-"
+        },
+        {
+          "w": "Οὗτός",
+          "morph": "D-NSM",
+          "gloss": "He"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "it is"
+        },
+        {
+          "w": "ἄλλοι",
+          "morph": "A-NPM",
+          "gloss": "but others"
+        },
+        {
+          "w": "ἔλεγον",
+          "morph": "V-IAI-3P",
+          "gloss": "were saying"
+        },
+        {
+          "w": "Οὐχί",
+          "morph": "PRT-N",
+          "gloss": "No"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ὅμοιος",
+          "morph": "A-NSM",
+          "gloss": "like"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "him"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "he is"
+        },
+        {
+          "w": "ἐκεῖνος",
+          "morph": "D-NSM",
+          "gloss": "He"
+        },
+        {
+          "w": "ἔλεγεν",
+          "morph": "V-IAI-3S",
+          "gloss": "kept saying"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἐγώ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "εἰμι",
+          "morph": "V-PAI-1S",
+          "gloss": "am [he]"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "他 們 對 他 說 ： 你 的 眼 睛 是 怎 麼 開 的 呢 ？",
+      "en": "So they asked him, “How then were you made to see?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἔλεγον",
+          "morph": "V-IAI-3P",
+          "gloss": "They were saying"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "Πῶς",
+          "morph": "ADV-I",
+          "gloss": "How"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ἠνεῴχθησάν",
+          "morph": "V-API-3P",
+          "gloss": "were opened"
+        },
+        {
+          "w": "σου",
+          "morph": "P-2GS",
+          "gloss": "of you"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀφθαλμοί",
+          "morph": "N-NPM",
+          "gloss": "eyes"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "他 回 答 說 ： 有 一 個 人 ， 名 叫 耶 穌 ， 他 和 泥 抹 我 的 眼 睛 ， 對 我 說 ： 你 往 西 羅 亞 池 子 去 洗 。 我 去 一 洗 ， 就 看 見 了 。",
+      "en": "He replied, “The man called Jesus made mud, smeared it on my eyes and told me, ‘Go to Siloam and wash.’ So I went and washed, and was able to see.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπεκρίθη",
+          "morph": "V-ADI-3S",
+          "gloss": "Answered"
+        },
+        {
+          "w": "ἐκεῖνος",
+          "morph": "D-NSM",
+          "gloss": "He"
+        },
+        {
+          "w": "Ὁ",
+          "morph": "T-NSM",
+          "gloss": "The"
+        },
+        {
+          "w": "ἄνθρωπος",
+          "morph": "N-NSM",
+          "gloss": "man"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "λεγόμενος",
+          "morph": "V-PPP-NSM",
+          "gloss": "called"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "πηλὸν",
+          "morph": "N-ASM",
+          "gloss": "clay"
+        },
+        {
+          "w": "ἐποίησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "made"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐπέχρισέν",
+          "morph": "V-AAI-3S",
+          "gloss": "anointed"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀφθαλμοὺς",
+          "morph": "N-APM",
+          "gloss": "eyes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπέν",
+          "morph": "V-2AAI-3S",
+          "gloss": "He said"
+        },
+        {
+          "w": "μοι",
+          "morph": "P-1DS",
+          "gloss": "to me"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "-"
+        },
+        {
+          "w": "Ὕπαγε",
+          "morph": "V-PAM-2S",
+          "gloss": "Go"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Σιλωὰμ",
+          "morph": "N-PRI",
+          "gloss": "Siloam"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "νίψαι",
+          "morph": "V-AMM-2S",
+          "gloss": "wash"
+        },
+        {
+          "w": "ἀπελθὼν",
+          "morph": "V-2AAP-NSM",
+          "gloss": "Having gone"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "νιψάμενος",
+          "morph": "V-AMP-NSM",
+          "gloss": "having washed"
+        },
+        {
+          "w": "ἀνέβλεψα",
+          "morph": "V-AAI-1S",
+          "gloss": "I received sight"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "他 們 說 ： 那 個 人 在 那 裡 ？ 他 說 ： 我 不 知 道 。",
+      "en": "They said to him, “Where is that man?” He replied, “I don’t know.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἶπαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "they said"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "Ποῦ",
+          "morph": "ADV-I",
+          "gloss": "Where"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ἐκεῖνος",
+          "morph": "D-NSM",
+          "gloss": "He"
+        },
+        {
+          "w": "λέγει",
+          "morph": "V-PAI-3S",
+          "gloss": "He says"
+        },
+        {
+          "w": "Οὐκ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "οἶδα",
+          "morph": "V-RAI-1S",
+          "gloss": "I know"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "他 們 把 從 前 瞎 眼 的 人 帶 到 法 利 賽 人 那 裡 。",
+      "en": "They brought the man who used to be blind to the Pharisees.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἄγουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "They bring"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "Φαρισαίους",
+          "morph": "N-APM",
+          "gloss": "Pharisees"
+        },
+        {
+          "w": "τόν",
+          "morph": "T-ASM",
+          "gloss": "who"
+        },
+        {
+          "w": "ποτε",
+          "morph": "PRT",
+          "gloss": "once [was]"
+        },
+        {
+          "w": "τυφλόν",
+          "morph": "A-ASM",
+          "gloss": "blind"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "耶 穌 和 泥 開 他 眼 睛 的 日 子 是 安 息 日 。",
+      "en": "(Now the day on which Jesus made the mud and caused him to see was a Sabbath.)",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "Was"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "σάββατον",
+          "morph": "N-NSN",
+          "gloss": "Sabbath"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ᾗ",
+          "morph": "R-DSF",
+          "gloss": "which"
+        },
+        {
+          "w": "ἡμέρᾳ",
+          "morph": "N-DSF",
+          "gloss": "day"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "πηλὸν",
+          "morph": "N-ASM",
+          "gloss": "clay"
+        },
+        {
+          "w": "ἐποίησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "had made"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀνέῳξεν",
+          "morph": "V-AAI-3S",
+          "gloss": "opened"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀφθαλμούς",
+          "morph": "N-APM",
+          "gloss": "eyes"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "法 利 賽 人 也 問 他 是 怎 麼 得 看 見 的 。 瞎 子 對 他 們 說 ： 他 把 泥 抹 在 我 的 眼 睛 上 ， 我 去 一 洗 ， 就 看 見 了 。",
+      "en": "So the Pharisees asked him again how he had gained his sight. He replied, “He put mud on my eyes and I washed, and now I am able to see.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "πάλιν",
+          "morph": "ADV",
+          "gloss": "Again"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "ἠρώτων",
+          "morph": "V-IAI-3P",
+          "gloss": "were asking"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "Φαρισαῖοι",
+          "morph": "N-NPM",
+          "gloss": "Pharisees"
+        },
+        {
+          "w": "πῶς",
+          "morph": "ADV-I",
+          "gloss": "how"
+        },
+        {
+          "w": "ἀνέβλεψεν",
+          "morph": "V-AAI-3S",
+          "gloss": "he had received sight"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "he said"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "Πηλὸν",
+          "morph": "N-ASM",
+          "gloss": "Clay"
+        },
+        {
+          "w": "ἐπέθηκέν",
+          "morph": "V-AAI-3S",
+          "gloss": "He put"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "on"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀφθαλμούς",
+          "morph": "N-APM",
+          "gloss": "eyes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐνιψάμην",
+          "morph": "V-AMI-1S",
+          "gloss": "I washed"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "βλέπω",
+          "morph": "V-PAI-1S",
+          "gloss": "I see"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "法 利 賽 人 中 有 的 說 ： 這 個 人 不 是 從 神 來 的 ， 因 為 他 不 守 安 息 日 。 又 有 人 說 ： 一 個 罪 人 怎 能 行 這 樣 的 神 蹟 呢 ？ 他 們 就 起 了 分 爭 。",
+      "en": "Then some of the Pharisees began to say, “This man is not from God because he does not observe the Sabbath.” But others said, “How can a man who is a sinner perform such miraculous signs?” Thus there was a division among them.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἔλεγον",
+          "morph": "V-IAI-3P",
+          "gloss": "Were saying"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "the"
+        },
+        {
+          "w": "Φαρισαίων",
+          "morph": "N-GPM",
+          "gloss": "Pharisees"
+        },
+        {
+          "w": "τινές",
+          "morph": "X-NPM",
+          "gloss": "some"
+        },
+        {
+          "w": "Οὐκ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "ἔστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "οὗτος",
+          "morph": "D-NSM",
+          "gloss": "this"
+        },
+        {
+          "w": "παρὰ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἄνθρωπος",
+          "morph": "N-NSM",
+          "gloss": "man"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "σάββατον",
+          "morph": "N-ASN",
+          "gloss": "Sabbath"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "τηρεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "He does keep"
+        },
+        {
+          "w": "ἄλλοι",
+          "morph": "A-NPM",
+          "gloss": "Others"
+        },
+        {
+          "w": "ἔλεγον",
+          "morph": "V-IAI-3P",
+          "gloss": "were saying"
+        },
+        {
+          "w": "Πῶς",
+          "morph": "ADV-I",
+          "gloss": "How"
+        },
+        {
+          "w": "δύναται",
+          "morph": "V-PNI-3S",
+          "gloss": "is able"
+        },
+        {
+          "w": "ἄνθρωπος",
+          "morph": "N-NSM",
+          "gloss": "a man"
+        },
+        {
+          "w": "ἁμαρτωλὸς",
+          "morph": "A-NSM",
+          "gloss": "sinful"
+        },
+        {
+          "w": "τοιαῦτα",
+          "morph": "D-APN",
+          "gloss": "such"
+        },
+        {
+          "w": "σημεῖα",
+          "morph": "N-APN",
+          "gloss": "signs"
+        },
+        {
+          "w": "ποιεῖν",
+          "morph": "V-PAN",
+          "gloss": "to do"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "σχίσμα",
+          "morph": "N-NSN",
+          "gloss": "division"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "there was"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "among"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "them"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "他 們 又 對 瞎 子 說 ： 他 既 然 開 了 你 的 眼 睛 ， 你 說 他 是 怎 樣 的 人 呢 ？ 他 說 ： 是 個 先 知 。",
+      "en": "So again they asked the man who used to be blind, “What do you say about him, since he caused you to see?” “He is a prophet,” the man replied.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "λέγουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "They say"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "to the"
+        },
+        {
+          "w": "τυφλῷ",
+          "morph": "A-DSM",
+          "gloss": "blind [man]"
+        },
+        {
+          "w": "πάλιν",
+          "morph": "ADV",
+          "gloss": "again"
+        },
+        {
+          "w": "Τί",
+          "morph": "I-ASN",
+          "gloss": "What"
+        },
+        {
+          "w": "σὺ",
+          "morph": "P-2NS",
+          "gloss": "you"
+        },
+        {
+          "w": "λέγεις",
+          "morph": "V-PAI-2S",
+          "gloss": "say"
+        },
+        {
+          "w": "περὶ",
+          "morph": "PREP",
+          "gloss": "concerning"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἠνέῳξέν",
+          "morph": "V-AAI-3S",
+          "gloss": "He opened"
+        },
+        {
+          "w": "σου",
+          "morph": "P-2GS",
+          "gloss": "of you"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀφθαλμούς",
+          "morph": "N-APM",
+          "gloss": "eyes"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "he said"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "-"
+        },
+        {
+          "w": "Προφήτης",
+          "morph": "N-NSM",
+          "gloss": "A prophet"
+        },
+        {
+          "w": "ἐστίν",
+          "morph": "V-PAI-3S",
+          "gloss": "He is"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "猶 太 人 不 信 他 從 前 是 瞎 眼 ， 後 來 能 看 見 的 ， 等 到 叫 了 他 的 父 母 來 ，",
+      "en": "Now the Jewish religious leaders refused to believe that he had really been blind and had gained his sight until at last they summoned the parents of the man who had become able to see.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "ἐπίστευσαν",
+          "morph": "V-AAI-3P",
+          "gloss": "did believe"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "Ἰουδαῖοι",
+          "morph": "A-NPM",
+          "gloss": "Jews"
+        },
+        {
+          "w": "περὶ",
+          "morph": "PREP",
+          "gloss": "concerning"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "him"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "he had been"
+        },
+        {
+          "w": "τυφλὸς",
+          "morph": "A-NSM",
+          "gloss": "blind"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀνέβλεψεν",
+          "morph": "V-AAI-3S",
+          "gloss": "had received sight"
+        },
+        {
+          "w": "ἕως",
+          "morph": "ADV",
+          "gloss": "until"
+        },
+        {
+          "w": "ὅτου",
+          "morph": "R-GSN-ATT",
+          "gloss": "when"
+        },
+        {
+          "w": "ἐφώνησαν",
+          "morph": "V-AAI-3P",
+          "gloss": "they called"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "γονεῖς",
+          "morph": "N-APM",
+          "gloss": "parents"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἀναβλέψαντος",
+          "morph": "V-AAP-GSM",
+          "gloss": "having received sight"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "問 他 們 說 ： 這 是 你 們 的 兒 子 麼 ？ 你 們 說 他 生 來 是 瞎 眼 的 ， 如 今 怎 麼 能 看 見 了 呢 ？",
+      "en": "They asked the parents, “Is this your son, whom you say was born blind? Then how does he now see?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἠρώτησαν",
+          "morph": "V-AAI-3P",
+          "gloss": "they asked"
+        },
+        {
+          "w": "αὐτοὺς",
+          "morph": "P-APM",
+          "gloss": "them"
+        },
+        {
+          "w": "λέγοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Οὗτός",
+          "morph": "D-NSM",
+          "gloss": "This"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "υἱὸς",
+          "morph": "N-NSM",
+          "gloss": "son"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "ὃν",
+          "morph": "R-ASM",
+          "gloss": "of whom"
+        },
+        {
+          "w": "ὑμεῖς",
+          "morph": "P-2NP",
+          "gloss": "you"
+        },
+        {
+          "w": "λέγετε",
+          "morph": "V-PAI-2P",
+          "gloss": "say"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "τυφλὸς",
+          "morph": "A-NSM",
+          "gloss": "blind"
+        },
+        {
+          "w": "ἐγεννήθη",
+          "morph": "V-API-3S",
+          "gloss": "he was born"
+        },
+        {
+          "w": "πῶς",
+          "morph": "ADV-I",
+          "gloss": "How"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "βλέπει",
+          "morph": "V-PAI-3S",
+          "gloss": "does he see"
+        },
+        {
+          "w": "ἄρτι",
+          "morph": "ADV",
+          "gloss": "presently"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "他 父 母 回 答 說 ： 他 是 我 們 的 兒 子 ， 生 來 就 瞎 眼 ， 這 是 我 們 知 道 的 。",
+      "en": "So his parents replied, “We know that this is our son and that he was born blind.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπεκρίθησαν",
+          "morph": "V-ADI-3P",
+          "gloss": "Answered"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "γονεῖς",
+          "morph": "N-NPM",
+          "gloss": "parents"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "said"
+        },
+        {
+          "w": "Οἴδαμεν",
+          "morph": "V-RAI-1P",
+          "gloss": "We know"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "οὗτός",
+          "morph": "D-NSM",
+          "gloss": "this"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "υἱὸς",
+          "morph": "N-NSM",
+          "gloss": "son"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "τυφλὸς",
+          "morph": "A-NSM",
+          "gloss": "blind"
+        },
+        {
+          "w": "ἐγεννήθη",
+          "morph": "V-API-3S",
+          "gloss": "he was born"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "至 於 他 如 今 怎 麼 能 看 見 ， 我 們 卻 不 知 道 ； 是 誰 開 了 他 的 眼 睛 ， 我 們 也 不 知 道 。 他 已 經 成 了 人 ， 你 們 問 他 罷 ， 他 自 己 必 能 說 。",
+      "en": "But we do not know how he is now able to see, nor do we know who caused him to see. Ask him, he is a mature adult. He will speak for himself.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "πῶς",
+          "morph": "ADV-I",
+          "gloss": "How"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "νῦν",
+          "morph": "ADV",
+          "gloss": "presently"
+        },
+        {
+          "w": "βλέπει",
+          "morph": "V-PAI-3S",
+          "gloss": "he sees"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "οἴδαμεν",
+          "morph": "V-RAI-1P",
+          "gloss": "we know"
+        },
+        {
+          "w": "ἢ",
+          "morph": "PRT",
+          "gloss": "or"
+        },
+        {
+          "w": "τίς",
+          "morph": "I-NSM",
+          "gloss": "who"
+        },
+        {
+          "w": "ἤνοιξεν",
+          "morph": "V-AAI-3S",
+          "gloss": "opened"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀφθαλμοὺς",
+          "morph": "N-APM",
+          "gloss": "eyes"
+        },
+        {
+          "w": "ἡμεῖς",
+          "morph": "P-1NP",
+          "gloss": "we"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "οἴδαμεν",
+          "morph": "V-RAI-1P",
+          "gloss": "know"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "ἐρωτήσατε",
+          "morph": "V-AAM-2P",
+          "gloss": "ask"
+        },
+        {
+          "w": "ἡλικίαν",
+          "morph": "N-ASF",
+          "gloss": "age"
+        },
+        {
+          "w": "ἔχει",
+          "morph": "V-PAI-3S",
+          "gloss": "has"
+        },
+        {
+          "w": "αὐτὸς",
+          "morph": "P-NSM",
+          "gloss": "He"
+        },
+        {
+          "w": "περὶ",
+          "morph": "PREP",
+          "gloss": "Concerning"
+        },
+        {
+          "w": "ἑαυτοῦ",
+          "morph": "F-3GSM",
+          "gloss": "himself"
+        },
+        {
+          "w": "λαλήσει",
+          "morph": "V-FAI-3S",
+          "gloss": "he will speak"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "他 父 母 說 這 話 ， 是 怕 猶 太 人 ； 因 為 猶 太 人 已 經 商 議 定 了 ， 若 有 認 耶 穌 是 基 督 的 ， 要 把 他 趕 出 會 堂 。",
+      "en": "(His parents said these things because they were afraid of the Jewish religious leaders. For the Jewish leaders had already agreed that anyone who confessed Jesus to be the Christ would be put out of the synagogue.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ταῦτα",
+          "morph": "D-APN",
+          "gloss": "These things"
+        },
+        {
+          "w": "εἶπαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "said"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "γονεῖς",
+          "morph": "N-NPM",
+          "gloss": "parents"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "because"
+        },
+        {
+          "w": "ἐφοβοῦντο",
+          "morph": "V-INI-3P",
+          "gloss": "they were afraid"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Ἰουδαίους",
+          "morph": "A-APM",
+          "gloss": "Jews"
+        },
+        {
+          "w": "ἤδη",
+          "morph": "ADV",
+          "gloss": "already"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "συνετέθειντο",
+          "morph": "V-LMI-3P",
+          "gloss": "had agreed together"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "Ἰουδαῖοι",
+          "morph": "A-NPM",
+          "gloss": "Jews"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἐάν",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "τις",
+          "morph": "X-NSM",
+          "gloss": "anyone"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "ὁμολογήσῃ",
+          "morph": "V-AAS-3S",
+          "gloss": "should confess"
+        },
+        {
+          "w": "Χριστόν",
+          "morph": "N-ASM",
+          "gloss": "Christ"
+        },
+        {
+          "w": "ἀποσυνάγωγος",
+          "morph": "A-NSM",
+          "gloss": "expelled from the synagogue"
+        },
+        {
+          "w": "γένηται",
+          "morph": "V-2ADS-3S",
+          "gloss": "he would be"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "因 此 他 父 母 說 ： 他 已 經 成 了 人 ， 你 們 問 他 罷 。",
+      "en": "For this reason his parents said, “He is a mature adult, ask him.”)",
+      "notes": [],
+      "gr": [
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "Because of"
+        },
+        {
+          "w": "τοῦτο",
+          "morph": "D-ASN",
+          "gloss": "this"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "γονεῖς",
+          "morph": "N-NPM",
+          "gloss": "parents"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "εἶπαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "said"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἠλικίαν",
+          "morph": "N-ASF",
+          "gloss": "Age"
+        },
+        {
+          "w": "ἔχει",
+          "morph": "V-PAI-3S",
+          "gloss": "he has"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "ἐπερωτήσατε",
+          "morph": "V-AAM-2P",
+          "gloss": "ask"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "所 以 法 利 賽 人 第 二 次 叫 了 那 從 前 瞎 眼 的 人 來 ， 對 他 說 ： 你 該 將 榮 耀 歸 給 神 ， 我 們 知 道 這 人 是 個 罪 人 。",
+      "en": "Then they summoned the man who used to be blind a second time and said to him, “Promise before God to tell the truth. We know that this man is a sinner.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἐφώνησαν",
+          "morph": "V-AAI-3P",
+          "gloss": "They called"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἄνθρωπον",
+          "morph": "N-ASM",
+          "gloss": "man"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "out"
+        },
+        {
+          "w": "δευτέρου",
+          "morph": "A-GSN",
+          "gloss": "a second time"
+        },
+        {
+          "w": "ὃς",
+          "morph": "R-NSM",
+          "gloss": "who"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "had been"
+        },
+        {
+          "w": "τυφλὸς",
+          "morph": "A-NSM",
+          "gloss": "blind"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "said"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "Δὸς",
+          "morph": "V-2AAM-2S",
+          "gloss": "Give"
+        },
+        {
+          "w": "δόξαν",
+          "morph": "N-ASF",
+          "gloss": "glory"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεῷ",
+          "morph": "N-DSM",
+          "gloss": "to God"
+        },
+        {
+          "w": "ἡμεῖς",
+          "morph": "P-1NP",
+          "gloss": "We"
+        },
+        {
+          "w": "οἴδαμεν",
+          "morph": "V-RAI-1P",
+          "gloss": "know"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "οὗτος",
+          "morph": "D-NSM",
+          "gloss": "this"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἄνθρωπος",
+          "morph": "N-NSM",
+          "gloss": "man"
+        },
+        {
+          "w": "ἁμαρτωλός",
+          "morph": "A-NSM",
+          "gloss": "a sinner"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "他 說 ： 他 是 個 罪 人 不 是 ， 我 不 知 道 ； 有 一 件 事 我 知 道 ， 從 前 我 是 眼 瞎 的 ， 如 今 能 看 見 了 。",
+      "en": "He replied, “I do not know whether he is a sinner. I do know one thing—that although I was blind, now I can see.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπεκρίθη",
+          "morph": "V-ADI-3S",
+          "gloss": "Answered"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ἐκεῖνος",
+          "morph": "D-NSM",
+          "gloss": "he"
+        },
+        {
+          "w": "Εἰ",
+          "morph": "COND",
+          "gloss": "Whether"
+        },
+        {
+          "w": "ἁμαρτωλός",
+          "morph": "A-NSM",
+          "gloss": "a sinner"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "He is"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "οἶδα",
+          "morph": "V-RAI-1S",
+          "gloss": "I know"
+        },
+        {
+          "w": "ἓν",
+          "morph": "A-ASN",
+          "gloss": "One [thing]"
+        },
+        {
+          "w": "οἶδα",
+          "morph": "V-RAI-1S",
+          "gloss": "I do know"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "τυφλὸς",
+          "morph": "A-NSM",
+          "gloss": "blind"
+        },
+        {
+          "w": "ὢν",
+          "morph": "V-PAP-NSM",
+          "gloss": "being"
+        },
+        {
+          "w": "ἄρτι",
+          "morph": "ADV",
+          "gloss": "now"
+        },
+        {
+          "w": "βλέπω",
+          "morph": "V-PAI-1S",
+          "gloss": "I see"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "他 們 就 問 他 說 ： 他 向 你 做 甚 麼 ？ 是 怎 麼 開 了 你 的 眼 睛 呢 ？",
+      "en": "Then they said to him, “What did he do to you? How did he cause you to see?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἶπαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "They said"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "Τί",
+          "morph": "I-ASN",
+          "gloss": "What"
+        },
+        {
+          "w": "ἐποίησέν",
+          "morph": "V-AAI-3S",
+          "gloss": "did He"
+        },
+        {
+          "w": "σοι",
+          "morph": "P-2DS",
+          "gloss": "to you"
+        },
+        {
+          "w": "πῶς",
+          "morph": "ADV-I",
+          "gloss": "How"
+        },
+        {
+          "w": "ἤνοιξέν",
+          "morph": "V-AAI-3S",
+          "gloss": "opened He"
+        },
+        {
+          "w": "σου",
+          "morph": "P-2GS",
+          "gloss": "of you"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀφθαλμούς",
+          "morph": "N-APM",
+          "gloss": "eyes"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "他 回 答 說 ： 我 方 才 告 訴 你 們 ， 你 們 不 聽 ， 為 甚 麼 又 要 聽 呢 ？ 莫 非 你 們 也 要 作 他 的 門 徒 麼 ？",
+      "en": "He answered, “I told you already and you didn’t listen. Why do you want to hear it again? You people don’t want to become his disciples too, do you?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπεκρίθη",
+          "morph": "V-ADI-3S",
+          "gloss": "He answered"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "them"
+        },
+        {
+          "w": "Εἶπον",
+          "morph": "V-2AAI-1S",
+          "gloss": "I told"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἤδη",
+          "morph": "ADV",
+          "gloss": "already"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἠκούσατε",
+          "morph": "V-AAI-2P",
+          "gloss": "you did listen"
+        },
+        {
+          "w": "τί",
+          "morph": "I-ASN",
+          "gloss": "Why"
+        },
+        {
+          "w": "πάλιν",
+          "morph": "ADV",
+          "gloss": "again"
+        },
+        {
+          "w": "θέλετε",
+          "morph": "V-PAI-2P",
+          "gloss": "do you wish"
+        },
+        {
+          "w": "ἀκούειν",
+          "morph": "V-PAN",
+          "gloss": "to hear"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ὑμεῖς",
+          "morph": "P-2NP",
+          "gloss": "you"
+        },
+        {
+          "w": "θέλετε",
+          "morph": "V-PAI-2P",
+          "gloss": "do wish"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "His"
+        },
+        {
+          "w": "μαθηταὶ",
+          "morph": "N-NPM",
+          "gloss": "disciples"
+        },
+        {
+          "w": "γενέσθαι",
+          "morph": "V-2ADN",
+          "gloss": "to become"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "他 們 就 罵 他 說 ： 你 是 他 的 門 徒 ； 我 們 是 摩 西 的 門 徒 。",
+      "en": "They heaped insults on him, saying, “You are his disciple! We are disciples of Moses!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἐλοιδόρησαν",
+          "morph": "V-AAI-3P",
+          "gloss": "they railed at"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "said"
+        },
+        {
+          "w": "Σὺ",
+          "morph": "P-2NS",
+          "gloss": "You"
+        },
+        {
+          "w": "μαθητὴς",
+          "morph": "N-NSM",
+          "gloss": "a disciple"
+        },
+        {
+          "w": "εἶ",
+          "morph": "V-PAI-2S",
+          "gloss": "are"
+        },
+        {
+          "w": "ἐκείνου",
+          "morph": "D-GSM",
+          "gloss": "of that One"
+        },
+        {
+          "w": "ἡμεῖς",
+          "morph": "P-1NP",
+          "gloss": "we"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Μωϋσέως",
+          "morph": "N-GSM",
+          "gloss": "of Moses"
+        },
+        {
+          "w": "ἐσμὲν",
+          "morph": "V-PAI-1P",
+          "gloss": "are"
+        },
+        {
+          "w": "μαθηταί",
+          "morph": "N-NPM",
+          "gloss": "disciples"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "神 對 摩 西 說 話 是 我 們 知 道 的 ； 只 是 這 個 人 ， 我 們 不 知 道 他 從 那 裡 來 ！",
+      "en": "We know that God has spoken to Moses! We do not know where this man comes from!”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἡμεῖς",
+          "morph": "P-1NP",
+          "gloss": "We"
+        },
+        {
+          "w": "οἴδαμεν",
+          "morph": "V-RAI-1P",
+          "gloss": "know"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "Μωϋσεῖ",
+          "morph": "N-DSM",
+          "gloss": "to Moses"
+        },
+        {
+          "w": "λελάληκεν",
+          "morph": "V-RAI-3S",
+          "gloss": "has spoken"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεός",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "τοῦτον",
+          "morph": "D-ASM",
+          "gloss": "this [man]"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "οἴδαμεν",
+          "morph": "V-RAI-1P",
+          "gloss": "we know"
+        },
+        {
+          "w": "πόθεν",
+          "morph": "ADV-I",
+          "gloss": "from where"
+        },
+        {
+          "w": "ἐστίν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "那 人 回 答 說 ： 他 開 了 我 的 眼 睛 ， 你 們 竟 不 知 道 他 從 那 裡 來 ， 這 真 是 奇 怪 ！",
+      "en": "The man replied, “This is a remarkable thing that you don’t know where he comes from, and yet he caused me to see!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπεκρίθη",
+          "morph": "V-ADI-3S",
+          "gloss": "Answered"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἄνθρωπος",
+          "morph": "N-NSM",
+          "gloss": "man"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "Ἐν",
+          "morph": "PREP",
+          "gloss": "In"
+        },
+        {
+          "w": "τούτῳ",
+          "morph": "D-DSN",
+          "gloss": "this"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "-"
+        },
+        {
+          "w": "θαυμαστόν",
+          "morph": "A-NSN",
+          "gloss": "an amazing thing"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ὑμεῖς",
+          "morph": "P-2NP",
+          "gloss": "you"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "οἴδατε",
+          "morph": "V-RAI-2P",
+          "gloss": "know"
+        },
+        {
+          "w": "πόθεν",
+          "morph": "ADV-I",
+          "gloss": "from where"
+        },
+        {
+          "w": "ἐστίν",
+          "morph": "V-PAI-3S",
+          "gloss": "He is"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and yet"
+        },
+        {
+          "w": "ἤνοιξέν",
+          "morph": "V-AAI-3S",
+          "gloss": "He opened"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "my"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "-"
+        },
+        {
+          "w": "ὀφθαλμούς",
+          "morph": "N-APM",
+          "gloss": "eyes"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "我 們 知 道 神 不 聽 罪 人 ， 惟 有 敬 奉 神 、 遵 行 他 旨 意 的 ， 神 才 聽 他 。",
+      "en": "We know that God doesn’t listen to sinners, but if anyone is devout and does his will, God listens to him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οἴδαμεν",
+          "morph": "V-RAI-1P",
+          "gloss": "We know"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "ἁμαρτωλῶν",
+          "morph": "A-GPM",
+          "gloss": "sinners"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἀκούει",
+          "morph": "V-PAI-3S",
+          "gloss": "does hear"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ἐάν",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "τις",
+          "morph": "X-NSM",
+          "gloss": "anyone"
+        },
+        {
+          "w": "θεοσεβὴς",
+          "morph": "A-NSM",
+          "gloss": "God-fearing"
+        },
+        {
+          "w": "ᾖ",
+          "morph": "V-PAS-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "θέλημα",
+          "morph": "N-ASN",
+          "gloss": "will"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "ποιῇ",
+          "morph": "V-PAS-3S",
+          "gloss": "does"
+        },
+        {
+          "w": "τούτου",
+          "morph": "D-GSM",
+          "gloss": "him"
+        },
+        {
+          "w": "ἀκούει",
+          "morph": "V-PAI-3S",
+          "gloss": "He hears"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "從 創 世 以 來 ， 未 曾 聽 見 有 人 把 生 來 是 瞎 子 的 眼 睛 開 了 。",
+      "en": "Never before has anyone heard of someone causing a man born blind to see.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "Out of"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "αἰῶνος",
+          "morph": "N-GSM",
+          "gloss": "age"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "never"
+        },
+        {
+          "w": "ἠκούσθη",
+          "morph": "V-API-3S",
+          "gloss": "it has been heard"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἠνέῳξέν",
+          "morph": "V-AAI-3S",
+          "gloss": "opened"
+        },
+        {
+          "w": "τις",
+          "morph": "X-NSM",
+          "gloss": "anyone"
+        },
+        {
+          "w": "ὀφθαλμοὺς",
+          "morph": "N-APM",
+          "gloss": "[the] eyes"
+        },
+        {
+          "w": "τυφλοῦ",
+          "morph": "A-GSM",
+          "gloss": "of [one] blind"
+        },
+        {
+          "w": "γεγεννημένου",
+          "morph": "V-RPP-GSM",
+          "gloss": "having been born"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "這 人 若 不 是 從 神 來 的 ， 甚 麼 也 不 能 做 。",
+      "en": "If this man were not from God, he could do nothing.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἰ",
+          "morph": "COND",
+          "gloss": "If"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "were"
+        },
+        {
+          "w": "οὗτος",
+          "morph": "D-NSM",
+          "gloss": "this [man]"
+        },
+        {
+          "w": "παρὰ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἠδύνατο",
+          "morph": "V-INI-3S-ATT",
+          "gloss": "He could"
+        },
+        {
+          "w": "ποιεῖν",
+          "morph": "V-PAN",
+          "gloss": "do"
+        },
+        {
+          "w": "οὐδέν",
+          "morph": "A-ASN-N",
+          "gloss": "nothing"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "他 們 回 答 說 ： 你 全 然 生 在 罪 孽 中 ， 還 要 教 訓 我 們 麼 ？ 於 是 把 他 趕 出 去 了 。",
+      "en": "They replied, “You were born completely in sinfulness, and yet you presume to teach us?” So they threw him out.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπεκρίθησαν",
+          "morph": "V-ADI-3P",
+          "gloss": "They answered"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "said"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "Ἐν",
+          "morph": "PREP",
+          "gloss": "In"
+        },
+        {
+          "w": "ἁμαρτίαις",
+          "morph": "N-DPF",
+          "gloss": "sins"
+        },
+        {
+          "w": "σὺ",
+          "morph": "P-2NS",
+          "gloss": "you"
+        },
+        {
+          "w": "ἐγεννήθης",
+          "morph": "V-API-2S",
+          "gloss": "were born"
+        },
+        {
+          "w": "ὅλος",
+          "morph": "A-NSM",
+          "gloss": "entirely"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "σὺ",
+          "morph": "P-2NS",
+          "gloss": "you"
+        },
+        {
+          "w": "διδάσκεις",
+          "morph": "V-PAI-2S",
+          "gloss": "teach"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἐξέβαλον",
+          "morph": "V-2AAI-3P",
+          "gloss": "they cast"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "ἔξω",
+          "morph": "ADV",
+          "gloss": "out"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "耶 穌 聽 說 他 們 把 他 趕 出 去 ， 後 來 遇 見 他 ， 就 說 ： 你 信 神 的 兒 子 麼 ？",
+      "en": "Jesus heard that they had thrown him out, so he found the man and said to him, “Do you believe in the Son of Man?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἤκουσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "Heard"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἐξέβαλον",
+          "morph": "V-2AAI-3P",
+          "gloss": "they had cast"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "ἔξω",
+          "morph": "ADV",
+          "gloss": "out"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εὑρὼν",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having found"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "He said"
+        },
+        {
+          "w": "Σὺ",
+          "morph": "P-2NS",
+          "gloss": "You"
+        },
+        {
+          "w": "πιστεύεις",
+          "morph": "V-PAI-2S",
+          "gloss": "believe"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "Υἱὸν",
+          "morph": "N-ASM",
+          "gloss": "Son"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of"
+        },
+        {
+          "w": "ἀνθρώπου",
+          "morph": "N-GSM",
+          "gloss": "Man"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "他 回 答 說 ： 主 阿 ， 誰 是 神 的 兒 子 ， 叫 我 信 他 呢 ？",
+      "en": "The man replied, “And who is he, sir, that I may believe in him?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπεκρίθη",
+          "morph": "V-ADI-3S",
+          "gloss": "Answered"
+        },
+        {
+          "w": "ἐκεῖνος",
+          "morph": "D-NSM",
+          "gloss": "he"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "τίς",
+          "morph": "I-NSM",
+          "gloss": "who"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is He"
+        },
+        {
+          "w": "Κύριε",
+          "morph": "N-VSM",
+          "gloss": "Lord"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "πιστεύσω",
+          "morph": "V-AAS-1S",
+          "gloss": "I may believe"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "zh": "耶 穌 說 ： 你 已 經 看 見 他 ， 現 在 和 你 說 話 的 就 是 他 。",
+      "en": "Jesus told him, “You have seen him; he is the one speaking with you.” [",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "Said"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "Both"
+        },
+        {
+          "w": "ἑώρακας",
+          "morph": "V-RAI-2S-ATT",
+          "gloss": "You have seen"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [One]"
+        },
+        {
+          "w": "λαλῶν",
+          "morph": "V-PAP-NSM",
+          "gloss": "speaking"
+        },
+        {
+          "w": "μετὰ",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "σοῦ",
+          "morph": "P-2GS",
+          "gloss": "you"
+        },
+        {
+          "w": "ἐκεῖνός",
+          "morph": "D-NSM",
+          "gloss": "He"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "zh": "他 說 ： 主 阿 ， 我 信 ！ 就 拜 耶 穌 。",
+      "en": "He said, “Lord, I believe,” and he worshiped him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἔφη",
+          "morph": "V-IAI-3S",
+          "gloss": "he was saying"
+        },
+        {
+          "w": "Πιστεύω",
+          "morph": "V-PAI-1S",
+          "gloss": "I believe"
+        },
+        {
+          "w": "Κύριε",
+          "morph": "N-VSM",
+          "gloss": "Lord"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "προσεκύνησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "he worshiped"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "zh": "耶 穌 說 ： 我 為 審 判 到 這 世 上 來 ， 叫 不 能 看 見 的 ， 可 以 看 見 ； 能 看 見 的 ， 反 瞎 了 眼 。",
+      "en": "Jesus said,] “For judgment I have come into this world, so that those who do not see may gain their sight, and the ones who see may become blind.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "Εἰς",
+          "morph": "PREP",
+          "gloss": "For"
+        },
+        {
+          "w": "κρίμα",
+          "morph": "N-ASN",
+          "gloss": "judgment"
+        },
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "κόσμον",
+          "morph": "N-ASM",
+          "gloss": "world"
+        },
+        {
+          "w": "τοῦτον",
+          "morph": "D-ASM",
+          "gloss": "this"
+        },
+        {
+          "w": "ἦλθον",
+          "morph": "V-2AAI-1S",
+          "gloss": "came"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "those"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "βλέποντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "seeing"
+        },
+        {
+          "w": "βλέπωσιν",
+          "morph": "V-PAS-3P",
+          "gloss": "may see"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "those"
+        },
+        {
+          "w": "βλέποντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "seeing"
+        },
+        {
+          "w": "τυφλοὶ",
+          "morph": "A-NPM",
+          "gloss": "blind"
+        },
+        {
+          "w": "γένωνται",
+          "morph": "V-2ADS-3P",
+          "gloss": "may become"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "zh": "同 他 在 那 裡 的 法 利 賽 人 聽 見 這 話 ， 就 說 ： 難 道 我 們 也 瞎 了 眼 麼 ？",
+      "en": "Some of the Pharisees who were with him heard this and asked him, “We are not blind too, are we?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἤκουσαν",
+          "morph": "V-AAI-3P",
+          "gloss": "Heard"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "the"
+        },
+        {
+          "w": "Φαρισαίων",
+          "morph": "N-GPM",
+          "gloss": "Pharisees"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-APN",
+          "gloss": "these things"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "who"
+        },
+        {
+          "w": "μετ’",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "ὄντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "were"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "they said"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to Him"
+        },
+        {
+          "w": "Μὴ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ἡμεῖς",
+          "morph": "P-1NP",
+          "gloss": "we"
+        },
+        {
+          "w": "τυφλοί",
+          "morph": "A-NPM",
+          "gloss": "blind"
+        },
+        {
+          "w": "ἐσμεν",
+          "morph": "V-PAI-1P",
+          "gloss": "are"
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "zh": "耶 穌 對 他 們 說 ： 你 們 若 瞎 了 眼 ， 就 沒 有 罪 了 ； 但 如 今 你 們 說 我 們 能 看 見 ， 所 以 你 們 的 罪 還 在 。",
+      "en": "Jesus replied, “If you were blind, you would not be guilty of sin, but now because you claim that you can see, your guilt remains.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "Said"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "Εἰ",
+          "morph": "COND",
+          "gloss": "If"
+        },
+        {
+          "w": "τυφλοὶ",
+          "morph": "A-NPM",
+          "gloss": "blind"
+        },
+        {
+          "w": "ἦτε",
+          "morph": "V-IAI-2P",
+          "gloss": "you were"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἂν",
+          "morph": "PRT",
+          "gloss": "-"
+        },
+        {
+          "w": "εἴχετε",
+          "morph": "V-IAI-2P",
+          "gloss": "you would have"
+        },
+        {
+          "w": "ἁμαρτίαν",
+          "morph": "N-ASF",
+          "gloss": "sin"
+        },
+        {
+          "w": "νῦν",
+          "morph": "ADV",
+          "gloss": "since"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "λέγετε",
+          "morph": "V-PAI-2P",
+          "gloss": "you say"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "-"
+        },
+        {
+          "w": "Βλέπομεν",
+          "morph": "V-PAI-1P",
+          "gloss": "We see"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἁμαρτία",
+          "morph": "N-NSF",
+          "gloss": "sin"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "μένει",
+          "morph": "V-PAI-3S",
+          "gloss": "remains"
+        }
+      ]
+    }
+  ]
+}

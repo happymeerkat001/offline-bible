@@ -1,0 +1,3566 @@
+{
+  "book": 1,
+  "chapter": 41,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "過 了 兩 年 ， 法 老 做 夢 ， 夢 見 自 己 站 在 河 邊 ，",
+      "en": "At the end of two full years Pharaoh had a dream. As he was standing by the Nile,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֕י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מִקֵּ֖ץ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שְׁנָתַ֣יִם",
+          "morph": "HAcfda"
+        },
+        {
+          "w": "יָמִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וּפַרְעֹ֣ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "חֹלֵ֔ם",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "וְהִנֵּ֖ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "עֹמֵ֥ד",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיְאֹֽר",
+          "morph": "HTd/Np"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "有 七 隻 母 牛 從 河 裡 上 來 ， 又 美 好 又 肥 壯 ， 在 蘆 荻 中 吃 草 。",
+      "en": "seven fine-looking, fat cows were coming up out of the Nile, and they grazed in the reeds.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִנֵּ֣ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיְאֹ֗ר",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "עֹלֹת֙",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "שֶׁ֣בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "פָּר֔וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "יְפ֥וֹת",
+          "morph": "HAafpc"
+        },
+        {
+          "w": "מַרְאֶ֖ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּבְרִיאֹ֣ת",
+          "morph": "HC/Aafpc"
+        },
+        {
+          "w": "בָּשָׂ֑ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וַתִּרְעֶ֖ינָה",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "בָּאָֽחוּ",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "隨 後 又 有 七 隻 母 牛 從 河 裡 上 來 ， 又 醜 陋 又 乾 瘦 ， 與 那 七 隻 母 牛 一 同 站 在 河 邊 。",
+      "en": "Then seven bad-looking, thin cows were coming up after them from the Nile, and they stood beside the other cows at the edge of the river.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִנֵּ֞ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "שֶׁ֧בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "פָּר֣וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "אֲחֵר֗וֹת",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "עֹל֤וֹת",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "אַחֲרֵיהֶן֙",
+          "morph": "HR/Sp3fp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיְאֹ֔ר",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "רָע֥וֹת",
+          "morph": "HAafpc"
+        },
+        {
+          "w": "מַרְאֶ֖ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְדַקּ֣וֹת",
+          "morph": "HC/Aafpc"
+        },
+        {
+          "w": "בָּשָׂ֑ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וַֽתַּעֲמֹ֛דְנָה",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "אֵ֥צֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַפָּר֖וֹת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׂפַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַיְאֹֽר",
+          "morph": "HTd/Np"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "這 又 醜 陋 又 乾 瘦 的 七 隻 母 牛 吃 盡 了 那 又 美 好 又 肥 壯 的 七 隻 母 牛 。 法 老 就 醒 了 。",
+      "en": "The bad-looking, thin cows ate the seven fine-looking, fat cows. Then Pharaoh woke up.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּאכַ֣לְנָה",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "הַפָּר֗וֹת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "רָע֤וֹת",
+          "morph": "HAafpc"
+        },
+        {
+          "w": "הַמַּרְאֶה֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְדַקֹּ֣ת",
+          "morph": "HC/Aafpc"
+        },
+        {
+          "w": "הַבָּשָׂ֔ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֵ֚ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שֶׁ֣בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "הַפָּר֔וֹת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "יְפֹ֥ת",
+          "morph": "HAafpc"
+        },
+        {
+          "w": "הַמַּרְאֶ֖ה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהַבְּרִיאֹ֑ת",
+          "morph": "HC/Td/Aafpa"
+        },
+        {
+          "w": "וַיִּיקַ֖ץ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "他 又 睡 著 ， 第 二 回 做 夢 ， 夢 見 一 棵 麥 子 長 了 七 個 穗 子 ， 又 肥 大 又 佳 美 ，",
+      "en": "Then he fell asleep again and had a second dream: There were seven heads of grain growing on one stalk, healthy and good.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּישָׁ֕ן",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "וַֽיַּחֲלֹ֖ם",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שֵׁנִ֑ית",
+          "morph": "HAofsa"
+        },
+        {
+          "w": "וְהִנֵּ֣ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "שֶׁ֣בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שִׁבֳּלִ֗ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "עֹל֛וֹת",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "בְּקָנֶ֥ה",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֶחָ֖ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "בְּרִיא֥וֹת",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "וְטֹבֽוֹת",
+          "morph": "HC/Aafpa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "隨 後 又 長 了 七 個 穗 子 ， 又 細 弱 又 被 東 風 吹 焦 了 。",
+      "en": "Then seven heads of grain, thin and burned by the east wind, were sprouting up after them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִנֵּה֙",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "שֶׁ֣בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שִׁבֳּלִ֔ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "דַּקּ֖וֹת",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "וּשְׁדוּפֹ֣ת",
+          "morph": "HC/Vqsfpc"
+        },
+        {
+          "w": "קָדִ֑ים",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "צֹמְח֖וֹת",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "אַחֲרֵיהֶֽן",
+          "morph": "HR/Sp3fp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "這 細 弱 的 穗 子 吞 了 那 七 個 又 肥 大 又 飽 滿 的 穗 子 。 法 老 醒 了 ， 不 料 是 個 夢 。",
+      "en": "The thin heads swallowed up the seven healthy and full heads. Then Pharaoh woke up and realized it was a dream.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתִּבְלַ֨עְנָה֙",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "הַשִּׁבֳּלִ֣ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הַדַּקּ֔וֹת",
+          "morph": "HTd/Aafpa"
+        },
+        {
+          "w": "אֵ֚ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שֶׁ֣בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "הַֽשִּׁבֳּלִ֔ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הַבְּרִיא֖וֹת",
+          "morph": "HTd/Aafpa"
+        },
+        {
+          "w": "וְהַמְּלֵא֑וֹת",
+          "morph": "HC/Td/Aafpa"
+        },
+        {
+          "w": "וַיִּיקַ֥ץ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהִנֵּ֥ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "חֲלֽוֹם",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "到 了 早 晨 ， 法 老 心 裡 不 安 ， 就 差 人 召 了 埃 及 所 有 的 術 士 和 博 士 來 ； 法 老 就 把 所 做 的 夢 告 訴 他 們 ， 卻 沒 有 人 能 給 法 老 圓 解 。",
+      "en": "In the morning he was troubled, so he called for all the diviner-priests of Egypt and all its wise men. Pharaoh told them his dreams, but no one could interpret them for him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֤י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בַבֹּ֨קֶר֙",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וַתִּפָּ֣עֶם",
+          "morph": "HC/VNw3fs"
+        },
+        {
+          "w": "רוּח֔וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "וַיִּשְׁלַ֗ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "וַיִּקְרָ֛א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חַרְטֻמֵּ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מִצְרַ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חֲכָמֶ֑יהָ",
+          "morph": "HAampc/Sp3fs"
+        },
+        {
+          "w": "וַיְסַפֵּ֨ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "חֲלֹמ֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְאֵין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "פּוֹתֵ֥ר",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אוֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "לְפַרְעֹֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "那 時 酒 政 對 法 老 說 ： 我 今 日 想 起 我 的 罪 來 。",
+      "en": "Then the chief cupbearer said to Pharaoh, “Today I recall my failures.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּר֙",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "שַׂ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמַּשְׁקִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HR"
+        },
+        {
+          "w": "פַּרְעֹ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "חֲטָאַ֕י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "אֲנִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מַזְכִּ֥יר",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "הַיּֽוֹם",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "從 前 法 老 惱 怒 臣 僕 ， 把 我 和 膳 長 下 在 護 衛 長 府 內 的 監 裡 。",
+      "en": "Pharaoh was enraged with his servants, and he put me in prison in the house of the captain of the guards—me and the chief baker.",
+      "notes": [],
+      "he": [
+        {
+          "w": "פַּרְעֹ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "קָצַ֣ף",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "עֲבָדָ֑יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וַיִּתֵּ֨ן",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֹתִ֜י",
+          "morph": "HTo/Sp1cs"
+        },
+        {
+          "w": "בְּמִשְׁמַ֗ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "בֵּ֚ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שַׂ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַטַּבָּחִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֹתִ֕י",
+          "morph": "HTo/Sp1cs"
+        },
+        {
+          "w": "וְאֵ֖ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "שַׂ֥ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאֹפִֽים",
+          "morph": "HTd/Vqrmpa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "我 們 二 人 同 夜 各 做 一 夢 ， 各 夢 都 有 講 解 。",
+      "en": "We each had a dream one night; each of us had a dream with its own meaning.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַנַּֽחַלְמָ֥ה",
+          "morph": "HC/Vqw1cp/Sh"
+        },
+        {
+          "w": "חֲל֛וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּלַ֥יְלָה",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֶחָ֖ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "אֲנִ֣י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "וָה֑וּא",
+          "morph": "HC/Pp3ms"
+        },
+        {
+          "w": "אִ֛ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כְּפִתְר֥וֹן",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "חֲלֹמ֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "חָלָֽמְנוּ",
+          "morph": "HVqp1cp"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "在 那 裡 同 著 我 們 有 一 個 希 伯 來 的 少 年 人 ， 是 護 衛 長 的 僕 人 ， 我 們 告 訴 他 ， 他 就 把 我 們 的 夢 圓 解 ， 是 按 著 各 人 的 夢 圓 解 的 。",
+      "en": "Now a young man, a Hebrew, a servant of the captain of the guards, was with us there. We told him our dreams, and he interpreted the meaning of each of our respective dreams for us.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשָׁ֨ם",
+          "morph": "HC/D"
+        },
+        {
+          "w": "אִתָּ֜נוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "נַ֣עַר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עִבְרִ֗י",
+          "morph": "HNgmsa"
+        },
+        {
+          "w": "עֶ֚בֶד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְשַׂ֣ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַטַּבָּחִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וַנְּ֨סַפֶּר",
+          "morph": "HC/Vpw1cp"
+        },
+        {
+          "w": "ל֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וַיִּפְתָּר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לָ֖נוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "חֲלֹמֹתֵ֑ינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        },
+        {
+          "w": "אִ֥ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כַּחֲלֹמ֖וֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "פָּתָֽר",
+          "morph": "HVqp3ms"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "後 來 正 如 他 給 我 們 圓 解 的 成 就 了 ； 我 官 復 原 職 ， 膳 長 被 掛 起 來 了 。",
+      "en": "It happened just as he had said to us—Pharaoh restored me to my office, but he impaled the baker.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֛י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כַּאֲשֶׁ֥ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "פָּֽתַר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לָ֖נוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "כֵּ֣ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "הָיָ֑ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֹתִ֛י",
+          "morph": "HTo/Sp1cs"
+        },
+        {
+          "w": "הֵשִׁ֥יב",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כַּנִּ֖י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וְאֹת֥וֹ",
+          "morph": "HC/To/Sp3ms"
+        },
+        {
+          "w": "תָלָֽה",
+          "morph": "HVqp3ms"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "法 老 遂 即 差 人 去 召 約 瑟 ， 他 們 便 急 忙 帶 他 出 監 ， 他 就 剃 頭 ， 刮 臉 ， 換 衣 裳 ， 進 到 法 老 面 前 。",
+      "en": "Then Pharaoh summoned Joseph. So they brought him quickly out of the dungeon; he shaved himself, changed his clothes, and came before Pharaoh.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁלַ֤ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּקְרָ֣א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יוֹסֵ֔ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיְרִיצֻ֖הוּ",
+          "morph": "HC/Vhw3mp/Sp3ms"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַבּ֑וֹר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַיְגַלַּח֙",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "וַיְחַלֵּ֣ף",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "שִׂמְלֹתָ֔יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "וַיָּבֹ֖א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פַּרְעֹֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "法 老 對 約 瑟 說 ： 我 做 了 一 夢 ， 沒 有 人 能 解 ； 我 聽 見 人 說 ， 你 聽 了 夢 就 能 解 。",
+      "en": "Pharaoh said to Joseph, “I had a dream, and there is no one who can interpret it. But I have heard about you, that you can interpret dreams.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יוֹסֵ֔ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "חֲל֣וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "חָלַ֔מְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "וּפֹתֵ֖ר",
+          "morph": "HC/Vqrmsa"
+        },
+        {
+          "w": "אֵ֣ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֹת֑וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "וַאֲנִ֗י",
+          "morph": "HC/Pp1cs"
+        },
+        {
+          "w": "שָׁמַ֤עְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "עָלֶ֨יךָ֙",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "תִּשְׁמַ֥ע",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "חֲל֖וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לִפְתֹּ֥ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֹתֽוֹ",
+          "morph": "HTo/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "約 瑟 回 答 法 老 說 ： 這 不 在 乎 我 ， 神 必 將 平 安 的 話 回 答 法 老 。",
+      "en": "Joseph replied to Pharaoh, “It is not within my power, but God will speak concerning the welfare of Pharaoh.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּ֨עַן",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יוֹסֵ֧ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "פַּרְעֹ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֖ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בִּלְעָדָ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "אֱלֹהִ֕ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "יַעֲנֶ֖ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שְׁל֥וֹם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פַּרְעֹֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "法 老 對 約 瑟 說 ： 我 夢 見 我 站 在 河 邊 ，",
+      "en": "Then Pharaoh said to Joseph, “In my dream I was standing by the edge of the Nile.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יוֹסֵ֑ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּחֲלֹמִ֕י",
+          "morph": "HR/Ncmsc/Sp1cs"
+        },
+        {
+          "w": "הִנְנִ֥י",
+          "morph": "HTm/Sp1cs"
+        },
+        {
+          "w": "עֹמֵ֖ד",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׂפַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַיְאֹֽר",
+          "morph": "HTd/Np"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "有 七 隻 母 牛 從 河 裡 上 來 ， 又 肥 壯 又 美 好 ， 在 蘆 荻 中 吃 草 。",
+      "en": "Then seven fat and fine-looking cows were coming up out of the Nile, and they grazed in the reeds.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִנֵּ֣ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיְאֹ֗ר",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "עֹלֹת֙",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "שֶׁ֣בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "פָּר֔וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "בְּרִיא֥וֹת",
+          "morph": "HAafpc"
+        },
+        {
+          "w": "בָּשָׂ֖ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וִיפֹ֣ת",
+          "morph": "HC/Aafpc"
+        },
+        {
+          "w": "תֹּ֑אַר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וַתִּרְעֶ֖ינָה",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "בָּאָֽחוּ",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "隨 後 又 有 七 隻 母 牛 上 來 ， 又 軟 弱 又 醜 陋 又 乾 瘦 ， 在 埃 及 遍 地 ， 我 沒 有 見 過 這 樣 不 好 的 。",
+      "en": "Then seven other cows came up after them; they were scrawny, very bad looking, and lean. I had never seen such bad-looking cows as these in all the land of Egypt!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִנֵּ֞ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "שֶֽׁבַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "פָּר֤וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "אֲחֵרוֹת֙",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "עֹל֣וֹת",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "אַחֲרֵיהֶ֔ן",
+          "morph": "HR/Sp3fp"
+        },
+        {
+          "w": "דַּלּ֨וֹת",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "וְרָע֥וֹת",
+          "morph": "HC/Aafpc"
+        },
+        {
+          "w": "תֹּ֛אַר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מְאֹ֖ד",
+          "morph": "HD"
+        },
+        {
+          "w": "וְרַקּ֣וֹת",
+          "morph": "HC/Aafpc"
+        },
+        {
+          "w": "בָּשָׂ֑ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "רָאִ֧יתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "כָהֵ֛נָּה",
+          "morph": "HR/Pp3fp"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרַ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָרֹֽעַ",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "這 又 乾 瘦 又 醜 陋 的 母 牛 吃 盡 了 那 以 先 的 七 隻 肥 母 牛 ，",
+      "en": "The lean, bad-looking cows ate up the seven fat cows.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּאכַ֨לְנָה֙",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "הַפָּר֔וֹת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָרַקּ֖וֹת",
+          "morph": "HTd/Aafpa"
+        },
+        {
+          "w": "וְהָרָע֑וֹת",
+          "morph": "HC/Td/Aafpa"
+        },
+        {
+          "w": "אֵ֣ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שֶׁ֧בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "הַפָּר֛וֹת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָרִאשֹׁנ֖וֹת",
+          "morph": "HTd/Aafpa"
+        },
+        {
+          "w": "הַבְּרִיאֹֽת",
+          "morph": "HTd/Aafpa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "吃 了 以 後 卻 看 不 出 是 吃 了 ， 那 醜 陋 的 樣 子 仍 舊 和 先 前 一 樣 。 我 就 醒 了 。",
+      "en": "When they had eaten them, no one would have known that they had done so, for they were just as bad looking as before. Then I woke up.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתָּבֹ֣אנָה",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "קִרְבֶּ֗נָה",
+          "morph": "HNcmsc/Sp3fp"
+        },
+        {
+          "w": "וְלֹ֤א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "נוֹדַע֙",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "בָ֣אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "קִרְבֶּ֔נָה",
+          "morph": "HNcmsc/Sp3fp"
+        },
+        {
+          "w": "וּמַרְאֵיהֶ֣ן",
+          "morph": "HC/Ncmsc/Sp3fp"
+        },
+        {
+          "w": "רַ֔ע",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "כַּאֲשֶׁ֖ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "בַּתְּחִלָּ֑ה",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "וָאִיקָֽץ",
+          "morph": "HC/Vqw1cs"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "我 又 夢 見 一 棵 麥 子 ， 長 了 七 個 穗 子 ， 又 飽 滿 又 佳 美 ，",
+      "en": "I also saw in my dream seven heads of grain growing on one stalk, full and good.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאֵ֖רֶא",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "בַּחֲלֹמִ֑י",
+          "morph": "HR/Ncmsc/Sp1cs"
+        },
+        {
+          "w": "וְהִנֵּ֣ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "שֶׁ֣בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שִׁבֳּלִ֗ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "עֹלֹ֛ת",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "בְּקָנֶ֥ה",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֶחָ֖ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "מְלֵאֹ֥ת",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "וְטֹבֽוֹת",
+          "morph": "HC/Aafpa"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "隨 後 又 長 了 七 個 穗 子 ， 枯 槁 細 弱 ， 被 東 風 吹 焦 了 。",
+      "en": "Then seven heads of grain, withered and thin and burned with the east wind, were sprouting up after them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִנֵּה֙",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "שֶׁ֣בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שִׁבֳּלִ֔ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "צְנֻמ֥וֹת",
+          "morph": "HVqsfpa"
+        },
+        {
+          "w": "דַּקּ֖וֹת",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "שְׁדֻפ֣וֹת",
+          "morph": "HVqsfpc"
+        },
+        {
+          "w": "קָדִ֑ים",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "צֹמְח֖וֹת",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "אַחֲרֵיהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "這 些 細 弱 的 穗 子 吞 了 那 七 個 佳 美 的 穗 子 。 我 將 這 夢 告 訴 了 術 士 ， 卻 沒 有 人 能 給 我 解 說 。",
+      "en": "The thin heads of grain swallowed up the seven good heads of grain. So I told all this to the diviner-priests, but no one could tell me its meaning.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתִּבְלַ֨עְןָ֙",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "הָשִׁבֳּלִ֣ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הַדַּקֹּ֔ת",
+          "morph": "HTd/Aafpa"
+        },
+        {
+          "w": "אֵ֛ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שֶׁ֥בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "הַֽשִׁבֳּלִ֖ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הַטֹּב֑וֹת",
+          "morph": "HTd/Aafpa"
+        },
+        {
+          "w": "וָֽאֹמַר֙",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַֽחַרְטֻמִּ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְאֵ֥ין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "מַגִּ֖יד",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "לִֽי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "約 瑟 對 法 老 說 ： 法 老 的 夢 乃 是 一 個 。 神 已 將 所 要 做 的 事 指 示 法 老 了 。",
+      "en": "Then Joseph said to Pharaoh, “Both dreams of Pharaoh have the same meaning. God has revealed to Pharaoh what he is about to do.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יוֹסֵף֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פַּרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "חֲל֥וֹם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פַּרְעֹ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶחָ֣ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "ה֑וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "אֵ֣ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲשֶׁ֧ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הָאֱלֹהִ֛ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "עֹשֶׂ֖ה",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "הִגִּ֥יד",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "לְפַרְעֹֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "七 隻 好 母 牛 是 七 年 ， 七 個 好 穗 子 也 是 七 年 ； 這 夢 乃 是 一 個 。",
+      "en": "The seven good cows represent seven years, and the seven good heads of grain represent seven years. Both dreams have the same meaning.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שֶׁ֧בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "פָּרֹ֣ת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "הַטֹּבֹ֗ת",
+          "morph": "HTd/Aafpa"
+        },
+        {
+          "w": "שֶׁ֤בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שָׁנִים֙",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "הֵ֔נָּה",
+          "morph": "HPp3fp"
+        },
+        {
+          "w": "וְשֶׁ֤בַע",
+          "morph": "HC/Acfsa"
+        },
+        {
+          "w": "הַֽשִּׁבֳּלִים֙",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הַטֹּבֹ֔ת",
+          "morph": "HTd/Aafpa"
+        },
+        {
+          "w": "שֶׁ֥בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שָׁנִ֖ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "הֵ֑נָּה",
+          "morph": "HPp3fp"
+        },
+        {
+          "w": "חֲל֖וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶחָ֥ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "הֽוּא",
+          "morph": "HPp3ms"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "那 隨 後 上 來 的 七 隻 又 乾 瘦 又 醜 陋 的 母 牛 是 七 年 ， 那 七 個 虛 空 、 被 東 風 吹 焦 的 穗 子 也 是 七 年 ， 都 是 七 個 荒 年 。",
+      "en": "The seven lean, bad-looking cows that came up after them represent seven years, as do the seven empty heads of grain burned with the east wind. They represent seven years of famine.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשֶׁ֣בַע",
+          "morph": "HC/Acfsa"
+        },
+        {
+          "w": "הַ֠פָּרוֹת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָֽרַקּ֨וֹת",
+          "morph": "HTd/Aafpa"
+        },
+        {
+          "w": "וְהָרָעֹ֜ת",
+          "morph": "HC/Td/Aafpa"
+        },
+        {
+          "w": "הָעֹלֹ֣ת",
+          "morph": "HTd/Vqrfpa"
+        },
+        {
+          "w": "אַחֲרֵיהֶ֗ן",
+          "morph": "HR/Sp3fp"
+        },
+        {
+          "w": "שֶׁ֤בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שָׁנִים֙",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "הֵ֔נָּה",
+          "morph": "HPp3fp"
+        },
+        {
+          "w": "וְשֶׁ֤בַע",
+          "morph": "HC/Acfsa"
+        },
+        {
+          "w": "הַֽשִׁבֳּלִים֙",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָרֵק֔וֹת",
+          "morph": "HTd/Aafpa"
+        },
+        {
+          "w": "שְׁדֻפ֖וֹת",
+          "morph": "HVqsfpc"
+        },
+        {
+          "w": "הַקָּדִ֑ים",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יִהְי֕וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "שֶׁ֖בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שְׁנֵ֥י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "רָעָֽב",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "這 就 是 我 對 法 老 所 說 ， 神 已 將 所 要 做 的 事 顯 明 給 法 老 了 。",
+      "en": "This is just what I told Pharaoh: God has shown Pharaoh what he is about to do.",
+      "notes": [],
+      "he": [
+        {
+          "w": "ה֣וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "הַדָּבָ֔ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "דִּבַּ֖רְתִּי",
+          "morph": "HVpp1cs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פַּרְעֹ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֧ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הָאֱלֹהִ֛ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "עֹשֶׂ֖ה",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "הֶרְאָ֥ה",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "פַּרְעֹֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "埃 及 遍 地 必 來 七 個 大 豐 年 ，",
+      "en": "Seven years of great abundance are coming throughout the whole land of Egypt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הִנֵּ֛ה",
+          "morph": "HTm"
+        },
+        {
+          "w": "שֶׁ֥בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שָׁנִ֖ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "בָּא֑וֹת",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "שָׂבָ֥ע",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "גָּד֖וֹל",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "隨 後 又 要 來 七 個 荒 年 ， 甚 至 埃 及 地 都 忘 了 先 前 的 豐 收 ， 全 地 必 被 饑 荒 所 滅 。",
+      "en": "But seven years of famine will occur after them, and all the abundance will be forgotten in the land of Egypt. The famine will devastate the land.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְ֠קָמוּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "שֶׁ֜בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שְׁנֵ֤י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "רָעָב֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אַחֲרֵיהֶ֔ן",
+          "morph": "HR/Sp3fp"
+        },
+        {
+          "w": "וְנִשְׁכַּ֥ח",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׂבָ֖ע",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְכִלָּ֥ה",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "הָרָעָ֖ב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "因 那 以 後 的 饑 荒 甚 大 ， 便 不 覺 得 先 前 的 豐 收 了 。",
+      "en": "The previous abundance of the land will not be remembered because of the famine that follows, for the famine will be very severe.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלֹֽא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִוָּדַ֤ע",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "הַשָּׂבָע֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בָּאָ֔רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "מִפְּנֵ֛י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "הָרָעָ֥ב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַה֖וּא",
+          "morph": "HTd/Pp3ms"
+        },
+        {
+          "w": "אַחֲרֵי",
+          "morph": "HR"
+        },
+        {
+          "w": "כֵ֑ן",
+          "morph": "HD"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "כָבֵ֥ד",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "ה֖וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "מְאֹֽד",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "至 於 法 老 兩 回 做 夢 ， 是 因 神 命 定 這 事 ， 而 且 必 速 速 成 就 。",
+      "en": "The dream was repeated to Pharaoh because the matter has been decreed by God, and God will make it happen soon.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַ֨ל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הִשָּׁנ֧וֹת",
+          "morph": "HVNc"
+        },
+        {
+          "w": "הַחֲל֛וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פַּרְעֹ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "פַּעֲמָ֑יִם",
+          "morph": "HNcfda"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "נָכ֤וֹן",
+          "morph": "HVNrmsa"
+        },
+        {
+          "w": "הַדָּבָר֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מֵעִ֣ם",
+          "morph": "HR/R"
+        },
+        {
+          "w": "הָאֱלֹהִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וּמְמַהֵ֥ר",
+          "morph": "HC/Vprmsa"
+        },
+        {
+          "w": "הָאֱלֹהִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "לַעֲשֹׂתֽוֹ",
+          "morph": "HR/Vqc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "所 以 ， 法 老 當 揀 選 一 個 有 聰 明 有 智 慧 的 人 ， 派 他 治 理 埃 及 地 。",
+      "en": "“So now Pharaoh should look for a wise and discerning man and give him authority over all the land of Egypt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַתָּה֙",
+          "morph": "HC/D"
+        },
+        {
+          "w": "יֵרֶ֣א",
+          "morph": "HVqj3ms"
+        },
+        {
+          "w": "פַרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אִ֖ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "נָב֣וֹן",
+          "morph": "HVNrmsa"
+        },
+        {
+          "w": "וְחָכָ֑ם",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "וִישִׁיתֵ֖הוּ",
+          "morph": "HC/Vqj3ms/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "法 老 當 這 樣 行 ， 又 派 官 員 管 理 這 地 。 當 七 個 豐 年 的 時 候 ， 征 收 埃 及 地 的 五 分 之 一 ，",
+      "en": "Pharaoh should do this—he should appoint officials throughout the land to collect one-fifth of the produce of the land of Egypt during the seven years of abundance.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יַעֲשֶׂ֣ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "פַרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְיַפְקֵ֥ד",
+          "morph": "HC/Vhj3ms"
+        },
+        {
+          "w": "פְּקִדִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְחִמֵּשׁ֙",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּשֶׁ֖בַע",
+          "morph": "HR/Acfsa"
+        },
+        {
+          "w": "שְׁנֵ֥י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "הַשָּׂבָֽע",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "叫 他 們 把 將 來 豐 年 一 切 的 糧 食 聚 斂 起 來 ， 積 蓄 五 穀 ， 收 存 在 各 城 裡 做 食 物 ， 歸 於 法 老 的 手 下 。",
+      "en": "They should gather all the excess food during these good years that are coming. By Pharaoh’s authority they should store up grain so the cities will have food, and they should preserve it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיִקְבְּצ֗וּ",
+          "morph": "HC/Vqi3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹ֨כֶל֙",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׁנִ֣ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הַטֹּבֹ֔ת",
+          "morph": "HTd/Aafpa"
+        },
+        {
+          "w": "הַבָּאֹ֖ת",
+          "morph": "HTd/Vqrfpa"
+        },
+        {
+          "w": "הָאֵ֑לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "וְיִצְבְּרוּ",
+          "morph": "HC/Vqi3mp"
+        },
+        {
+          "w": "בָ֞ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תַּ֧חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "יַד",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "פַּרְעֹ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֹ֥כֶל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בֶּעָרִ֖ים",
+          "morph": "HRd/Ncfpa"
+        },
+        {
+          "w": "וְשָׁמָֽרוּ",
+          "morph": "HC/Vqq3cp"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "所 積 蓄 的 糧 食 可 以 防 備 埃 及 地 將 來 的 七 個 荒 年 ， 免 得 這 地 被 饑 荒 所 滅 。",
+      "en": "This food should be held in storage for the land in preparation for the seven years of famine that will occur throughout the land of Egypt. In this way the land will survive the famine.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיָ֨ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הָאֹ֤כֶל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְפִקָּדוֹן֙",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לָאָ֔רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "לְשֶׁ֨בַע֙",
+          "morph": "HR/Acfsa"
+        },
+        {
+          "w": "שְׁנֵ֣י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "הָרָעָ֔ב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּהְיֶ֖יןָ",
+          "morph": "HVqi3fp"
+        },
+        {
+          "w": "בְּאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְלֹֽא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תִכָּרֵ֥ת",
+          "morph": "HVNi3fs"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "בָּרָעָֽב",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "zh": "法 老 和 他 一 切 臣 僕 都 以 這 事 為 妙 。",
+      "en": "This advice made sense to Pharaoh and all his officials.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּיטַ֥ב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הַדָּבָ֖ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּעֵינֵ֣י",
+          "morph": "HR/Ncbdc"
+        },
+        {
+          "w": "פַרְעֹ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּבְעֵינֵ֖י",
+          "morph": "HC/R/Ncbdc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲבָדָֽיו",
+          "morph": "HNcmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "zh": "法 老 對 臣 僕 說 ： 像 這 樣 的 人 ， 有 神 的 靈 在 他 裡 頭 ， 我 們 豈 能 找 得 著 呢 ？",
+      "en": "So Pharaoh asked his officials, “Can we find a man like Joseph, one in whom the Spirit of God is present?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֥אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "עֲבָדָ֑יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "הֲנִמְצָ֣א",
+          "morph": "HTi/Vqi1cp"
+        },
+        {
+          "w": "כָזֶ֔ה",
+          "morph": "HR/Pdxms"
+        },
+        {
+          "w": "אִ֕ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֛ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "ר֥וּחַ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אֱלֹהִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בּֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "zh": "法 老 對 約 瑟 說 ： 神 既 將 這 事 都 指 示 你 ， 可 見 沒 有 人 像 你 這 樣 有 聰 明 有 智 慧 。",
+      "en": "So Pharaoh said to Joseph, “Because God has enabled you to know all this, there is no one as wise and discerning as you are!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יוֹסֵ֔ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַחֲרֵ֨י",
+          "morph": "HR"
+        },
+        {
+          "w": "הוֹדִ֧יעַ",
+          "morph": "HVhc"
+        },
+        {
+          "w": "אֱלֹהִ֛ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "אוֹתְךָ֖",
+          "morph": "HTo/Sp2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "זֹ֑את",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "אֵין",
+          "morph": "HTn"
+        },
+        {
+          "w": "נָב֥וֹן",
+          "morph": "HVNrmsa"
+        },
+        {
+          "w": "וְחָכָ֖ם",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "כָּמֽוֹךָ",
+          "morph": "HR/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "zh": "你 可 以 掌 管 我 的 家 ； 我 的 民 都 必 聽 從 你 的 話 。 惟 獨 在 寶 座 上 我 比 你 大 。",
+      "en": "You will oversee my household, and all my people will submit to your commands. Only I, the king, will be greater than you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַתָּה֙",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "תִּהְיֶ֣ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּיתִ֔י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "פִּ֖יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "יִשַּׁ֣ק",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַמִּ֑י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "רַ֥ק",
+          "morph": "HTa"
+        },
+        {
+          "w": "הַכִּסֵּ֖א",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶגְדַּ֥ל",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "מִמֶּֽךָּ",
+          "morph": "HR/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "zh": "法 老 又 對 約 瑟 說 ： 我 派 你 治 理 埃 及 全 地 。",
+      "en": "“See here,” Pharaoh said to Joseph, “I place you in authority over all the land of Egypt.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֥אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יוֹסֵ֑ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "רְאֵה֙",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "נָתַ֣תִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אֹֽתְךָ֔",
+          "morph": "HTo/Sp2ms"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "zh": "法 老 就 摘 下 手 上 打 印 的 戒 指 ， 戴 在 約 瑟 的 手 上 ， 給 他 穿 上 細 麻 衣 ， 把 金 鍊 戴 在 他 的 頸 項 上 ，",
+      "en": "Then Pharaoh took his signet ring from his own hand and put it on Joseph’s. He clothed him with fine linen clothes and put a gold chain around his neck.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֨סַר",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "טַבַּעְתּוֹ֙",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "מֵעַ֣ל",
+          "morph": "HR/R"
+        },
+        {
+          "w": "יָד֔וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "וַיִּתֵּ֥ן",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֹתָ֖הּ",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יַ֣ד",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "יוֹסֵ֑ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיַּלְבֵּ֤שׁ",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "אֹתוֹ֙",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "בִּגְדֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "שֵׁ֔שׁ",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "וַיָּ֛שֶׂם",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "רְבִ֥ד",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַזָּהָ֖ב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "צַוָּארֽוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "zh": "又 叫 約 瑟 坐 他 的 副 車 ， 喝 道 的 在 前 呼 叫 說 ： 跪 下 。 這 樣 、 法 老 派 他 治 理 埃 及 全 地 。",
+      "en": "Pharaoh had him ride in the chariot used by his second-in-command, and they cried out before him, “Kneel down!” So he placed him over all the land of Egypt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּרְכֵּ֣ב",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "אֹת֗וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "בְּמִרְכֶּ֤בֶת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַמִּשְׁנֶה֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "ל֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וַיִּקְרְא֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "לְפָנָ֖יו",
+          "morph": "HR/Ncbpc/Sp3ms"
+        },
+        {
+          "w": "אַבְרֵ֑ךְ",
+          "morph": "HD"
+        },
+        {
+          "w": "וְנָת֣וֹן",
+          "morph": "HC/Vqa"
+        },
+        {
+          "w": "אֹת֔וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "zh": "法 老 對 約 瑟 說 ： 我 是 法 老 ， 在 埃 及 全 地 ， 若 沒 有 你 的 命 令 ， 不 許 人 擅 自 辦 事 ( 原 文 作 動 手 動 腳 ) 。",
+      "en": "Pharaoh also said to Joseph, “I am Pharaoh, but without your permission no one will move his hand or his foot in all the land of Egypt.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֧אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יוֹסֵ֖ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲנִ֣י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "פַרְעֹ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּבִלְעָדֶ֗יךָ",
+          "morph": "HC/R/Sp2ms"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָרִ֨ים",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "אִ֧ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יָד֛וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "רַגְל֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "zh": "法 老 賜 名 給 約 瑟 ， 叫 撒 發 那 忒 巴 內 亞 ， 又 將 安 城 的 祭 司 波 提 非 拉 的 女 兒 亞 西 納 給 他 為 妻 。 約 瑟 就 出 去 巡 行 埃 及 地 。",
+      "en": "Pharaoh gave Joseph the name Zaphenath-Paneah. He also gave him Asenath daughter of Potiphera, priest of On, to be his wife. So Joseph took charge of all the land of Egypt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקְרָ֨א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַרְעֹ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "שֵׁם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יוֹסֵף֮",
+          "morph": "HNp"
+        },
+        {
+          "w": "צָֽפְנַ֣ת",
+          "morph": "HNp"
+        },
+        {
+          "w": "פַּעְנֵחַ֒",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּתֶּן",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "ל֣וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אָֽסְנַ֗ת",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "פּ֥וֹטִי",
+          "morph": "HNp"
+        },
+        {
+          "w": "פֶ֛רַע",
+          "morph": "HNp"
+        },
+        {
+          "w": "כֹּהֵ֥ן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְאִשָּׁ֑ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וַיֵּצֵ֥א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יוֹסֵ֖ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 46,
+      "zh": "約 瑟 見 埃 及 王 法 老 的 時 候 年 三 十 歲 。 他 從 法 老 面 前 出 去 ， 遍 行 埃 及 全 地 。",
+      "en": "Now Joseph was 30 years old when he began serving Pharaoh king of Egypt. Joseph was commissioned by Pharaoh and was in charge of all the land of Egypt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיוֹסֵף֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שְׁלֹשִׁ֣ים",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "שָׁנָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּעָמְד֕וֹ",
+          "morph": "HR/Vqc/Sp3ms"
+        },
+        {
+          "w": "לִפְנֵ֖י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "פַּרְעֹ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶֽלֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיֵּצֵ֤א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יוֹסֵף֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִלִּפְנֵ֣י",
+          "morph": "HR/R/Ncbpc"
+        },
+        {
+          "w": "פַרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיַּעְבֹ֖ר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 47,
+      "zh": "七 個 豐 年 之 內 ， 地 的 出 產 極 豐 極 盛 ( 原 文 作 一 把 一 把 的 ) ，",
+      "en": "During the seven years of abundance the land produced large, bountiful harvests.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתַּ֣עַשׂ",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "הָאָ֔רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "בְּשֶׁ֖בַע",
+          "morph": "HR/Acfsa"
+        },
+        {
+          "w": "שְׁנֵ֣י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "הַשָּׂבָ֑ע",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לִקְמָצִֽים",
+          "morph": "HR/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 48,
+      "zh": "約 瑟 聚 歛 埃 及 地 七 個 豐 年 一 切 的 糧 食 ， 把 糧 食 積 存 在 各 城 裡 ； 各 城 周 圍 田 地 的 糧 食 都 積 存 在 本 城 裡 。",
+      "en": "Joseph collected all the excess food in the land of Egypt during the seven years and stored it in the cities. In every city he put the food gathered from the fields around it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקְבֹּ֞ץ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹ֣כֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שֶׁ֣בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שָׁנִ֗ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הָיוּ֙",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בְּאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּתֶּן",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֹ֖כֶל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בֶּעָרִ֑ים",
+          "morph": "HRd/Ncfpa"
+        },
+        {
+          "w": "אֹ֧כֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שְׂדֵה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעִ֛יר",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "סְבִיבֹתֶ֖יהָ",
+          "morph": "HNcbpc/Sp3fs"
+        },
+        {
+          "w": "נָתַ֥ן",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בְּתוֹכָֽהּ",
+          "morph": "HR/Ncmsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 49,
+      "zh": "約 瑟 積 蓄 五 穀 甚 多 ， 如 同 海 邊 的 沙 ， 無 法 計 算 ， 因 為 穀 不 可 勝 數 。",
+      "en": "Joseph stored up a vast amount of grain, like the sand of the sea, until he stopped measuring it because it was impossible to measure.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּצְבֹּ֨ר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יוֹסֵ֥ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "בָּ֛ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כְּח֥וֹל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַיָּ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַרְבֵּ֣ה",
+          "morph": "HVha"
+        },
+        {
+          "w": "מְאֹ֑ד",
+          "morph": "HD"
+        },
+        {
+          "w": "עַ֛ד",
+          "morph": "HR"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "חָדַ֥ל",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לִסְפֹּ֖ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "אֵ֥ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "מִסְפָּֽר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 50,
+      "zh": "荒 年 未 到 以 前 ， 安 城 的 祭 司 波 提 非 拉 的 女 兒 亞 西 納 給 約 瑟 生 了 兩 個 兒 子 。",
+      "en": "Two sons were born to Joseph before the famine came. Asenath daughter of Potiphera, priest of On, was their mother.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּלְיוֹסֵ֤ף",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "יֻלַּד֙",
+          "morph": "HVPp3ms"
+        },
+        {
+          "w": "שְׁנֵ֣י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "בָנִ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בְּטֶ֥רֶם",
+          "morph": "HR/D"
+        },
+        {
+          "w": "תָּב֖וֹא",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "שְׁנַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הָרָעָ֑ב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יָֽלְדָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "לּוֹ֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אָֽסְנַ֔ת",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "פּ֥וֹטִי",
+          "morph": "HNp"
+        },
+        {
+          "w": "פֶ֖רַע",
+          "morph": "HNp"
+        },
+        {
+          "w": "כֹּהֵ֥ן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֽוֹן",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 51,
+      "zh": "約 瑟 給 長 子 起 名 叫 瑪 拿 西 ( 就 是 使 之 忘 了 的 意 思 ) ， 因 為 他 說 ： 神 使 我 忘 了 一 切 的 困 苦 和 我 父 的 全 家 。",
+      "en": "Joseph named the firstborn Manasseh, saying, “Certainly God has made me forget all my trouble and all my father’s house.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקְרָ֥א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יוֹסֵ֛ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שֵׁ֥ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַבְּכ֖וֹר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מְנַשֶּׁ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "נַשַּׁ֤נִי",
+          "morph": "HVpp3ms/Sp1cs"
+        },
+        {
+          "w": "אֱלֹהִים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲמָלִ֔י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "וְאֵ֖ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בֵּ֥ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָבִֽי",
+          "morph": "HNcmsc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 52,
+      "zh": "他 給 次 子 起 名 叫 以 法 蓮 ( 就 是 使 之 昌 盛 的 意 思 ) ， 因 為 他 說 ： 神 使 我 在 受 苦 的 地 方 昌 盛 。",
+      "en": "He named the second child Ephraim, saying, “Certainly God has made me fruitful in the land of my suffering.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֵ֛ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "שֵׁ֥ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשֵּׁנִ֖י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "קָרָ֣א",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֶפְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "הִפְרַ֥נִי",
+          "morph": "HVhp3ms/Sp1cs"
+        },
+        {
+          "w": "אֱלֹהִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בְּאֶ֥רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "עָנְיִֽי",
+          "morph": "HNcmsc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 53,
+      "zh": "埃 及 地 的 七 個 豐 年 一 完 ，",
+      "en": "The seven years of abundance in the land of Egypt came to an end.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתִּכְלֶ֕ינָה",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "שֶׁ֖בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שְׁנֵ֣י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "הַשָּׂבָ֑ע",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הָיָ֖ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בְּאֶ֥רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 54,
+      "zh": "七 個 荒 年 就 來 了 。 正 如 約 瑟 所 說 的 ， 各 地 都 有 饑 荒 ； 惟 獨 埃 及 全 地 有 糧 食 。",
+      "en": "Then the seven years of famine began, just as Joseph had predicted. There was famine in all the other lands, but throughout the land of Egypt there was food.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתְּחִלֶּ֜ינָה",
+          "morph": "HC/Vhw3fp"
+        },
+        {
+          "w": "שֶׁ֣בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שְׁנֵ֤י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "הָרָעָב֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לָב֔וֹא",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "כַּאֲשֶׁ֖ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יוֹסֵ֑ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיְהִ֤י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "רָעָב֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָ֣אֲרָצ֔וֹת",
+          "morph": "HTd/Ncbpa"
+        },
+        {
+          "w": "וּבְכָל",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרַ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "הָ֥יָה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לָֽחֶם",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 55,
+      "zh": "及 至 埃 及 全 地 有 了 饑 荒 ， 眾 民 向 法 老 哀 求 糧 食 ， 法 老 對 他 們 說 ： 你 們 往 約 瑟 那 裡 去 ， 凡 他 所 說 的 ， 你 們 都 要 做 。",
+      "en": "When all the land of Egypt experienced the famine, the people cried out to Pharaoh for food. Pharaoh said to all the people of Egypt, “Go to Joseph and do whatever he tells you.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתִּרְעַב֙",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּצְעַ֥ק",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הָעָ֛ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פַּרְעֹ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לַלָּ֑חֶם",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "וַיֹּ֨אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מִצְרַ֨יִם֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְכ֣וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יוֹסֵ֔ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יֹאמַ֥ר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "תַּעֲשֽׂוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 56,
+      "zh": "當 時 饑 荒 遍 滿 天 下 ， 約 瑟 開 了 各 處 的 倉 ， 糶 糧 給 埃 及 人 ； 在 埃 及 地 饑 荒 甚 大 。",
+      "en": "While the famine was over all the earth, Joseph opened the storehouses and sold grain to the Egyptians. The famine was severe throughout the land of Egypt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָרָעָ֣ב",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "הָיָ֔ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פְּנֵ֣י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וַיִּפְתַּ֨ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יוֹסֵ֜ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶֽת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בָּהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "וַיִּשְׁבֹּ֣ר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לְמִצְרַ֔יִם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַיֶּחֱזַ֥ק",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הָֽרָעָ֖ב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּאֶ֥רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 57,
+      "zh": "各 地 的 人 都 往 埃 及 去 ， 到 約 瑟 那 裡 糴 糧 ， 因 為 天 下 的 饑 荒 甚 大 。",
+      "en": "People from every country came to Joseph in Egypt to buy grain because the famine was severe throughout the earth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הָאָ֨רֶץ֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "בָּ֣אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מִצְרַ֔יְמָה",
+          "morph": "HNp/Sd"
+        },
+        {
+          "w": "לִשְׁבֹּ֖ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יוֹסֵ֑ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "חָזַ֥ק",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "הָרָעָ֖ב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    }
+  ]
+}

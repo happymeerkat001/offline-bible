@@ -1,0 +1,746 @@
+{
+  "book": 26,
+  "chapter": 19,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "你 當 為 以 色 列 的 王 作 起 哀 歌 ，",
+      "en": "“And you, sing a lament for the princes of Israel,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאַתָּה֙",
+          "morph": "HC/Pp2ms"
+        },
+        {
+          "w": "שָׂ֣א",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "קִינָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "נְשִׂיאֵ֖י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "說 ： 你 的 母 親 是 甚 麼 呢 ？ 是 個 母 獅 子 ， 蹲 伏 在 獅 子 中 間 ， 在 少 壯 獅 子 中 養 育 小 獅 子 。",
+      "en": "and say: “‘What a lioness was your mother among the lions! She lay among young lions; she reared her cubs.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאָמַרְתָּ֗",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "מָ֤ה",
+          "morph": "HTi"
+        },
+        {
+          "w": "אִמְּךָ֙",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "לְבִיָּ֔א",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בֵּ֥ין",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲרָי֖וֹת",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רָבָ֑צָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "בְּת֥וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "כְּפִרִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רִבְּתָ֥ה",
+          "morph": "HVpp3fs"
+        },
+        {
+          "w": "גוּרֶֽיהָ",
+          "morph": "HNcmpc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "在 他 小 獅 子 中 養 大 一 個 ， 成 了 少 壯 獅 子 ， 學 會 抓 食 而 吃 人 。",
+      "en": "She reared one of her cubs; he became a young lion. He learned to tear prey; he devoured people.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתַּ֛עַל",
+          "morph": "HC/Vhw3fs"
+        },
+        {
+          "w": "אֶחָ֥ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "מִגֻּרֶ֖יהָ",
+          "morph": "HR/Ncmpc/Sp3fs"
+        },
+        {
+          "w": "כְּפִ֣יר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הָיָ֑ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "וַיִּלְמַ֥ד",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לִטְרָף",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "טֶ֖רֶף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אָדָ֥ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אָכָֽל",
+          "morph": "HVqp3ms"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "列 國 聽 見 了 就 把 他 捉 在 他 們 的 坑 中 ， 用 鉤 子 拉 到 埃 及 地 去 。",
+      "en": "The nations heard about him; he was trapped in their pit. They brought him with hooks to the land of Egypt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁמְע֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֵלָ֛יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "גּוֹיִ֖ם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בְּשַׁחְתָּ֣ם",
+          "morph": "HR/Ncfsc/Sp3mp"
+        },
+        {
+          "w": "נִתְפָּ֑שׂ",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "וַיְבִאֻ֥הוּ",
+          "morph": "HC/Vhw3mp/Sp3ms"
+        },
+        {
+          "w": "בַֽחַחִ֖ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "母 獅 見 自 己 等 候 失 了 指 望 ， 就 從 他 小 獅 子 中 又 將 一 個 養 為 少 壯 獅 子 。",
+      "en": "“‘When she realized that she waited in vain, her hope was lost. She took another of her cubs and made him a young lion.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֵּ֨רֶא֙",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "נֽוֹחֲלָ֔ה",
+          "morph": "HVNp3fs"
+        },
+        {
+          "w": "אָבְדָ֖ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "תִּקְוָתָ֑הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "וַתִּקַּ֛ח",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "אֶחָ֥ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "מִגֻּרֶ֖יהָ",
+          "morph": "HR/Ncmpc/Sp3fs"
+        },
+        {
+          "w": "כְּפִ֥יר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "שָׂמָֽתְהוּ",
+          "morph": "HVqp3fs/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "他 在 眾 獅 子 中 走 來 走 去 ， 成 了 少 壯 獅 子 ， 學 會 抓 食 而 吃 人 。",
+      "en": "He walked about among the lions; he became a young lion. He learned to tear prey; he devoured people.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּתְהַלֵּ֥ךְ",
+          "morph": "HC/Vtw3ms"
+        },
+        {
+          "w": "בְּתוֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֲרָי֖וֹת",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "כְּפִ֣יר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הָיָ֑ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "וַיִּלְמַ֥ד",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לִטְרָף",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "טֶ֖רֶף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אָדָ֥ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אָכָֽל",
+          "morph": "HVqp3ms"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "他 知 道 列 國 的 宮 殿 ， 又 使 他 們 的 城 邑 變 為 荒 場 ； 因 他 咆 哮 的 聲 音 ， 遍 地 和 其 中 所 有 的 就 都 荒 廢 。",
+      "en": "He broke down their strongholds and devastated their cities. The land and everything in it was frightened at the sound of his roaring.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּ֨דַע֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אַלְמְנוֹתָ֔יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "וְעָרֵיהֶ֖ם",
+          "morph": "HC/Ncfpc/Sp3mp"
+        },
+        {
+          "w": "הֶחֱרִ֑יב",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "וַתֵּ֤שַׁם",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "אֶ֨רֶץ֙",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וּמְלֹאָ֔הּ",
+          "morph": "HC/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "מִקּ֖וֹל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שַׁאֲגָתֽוֹ",
+          "morph": "HNcfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "於 是 四 圍 邦 國 各 省 的 人 來 攻 擊 他 ， 將 網 撒 在 他 身 上 ， 捉 在 他 們 的 坑 中 。",
+      "en": "The nations—the surrounding regions—attacked him. They threw their net over him; he was caught in their pit.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּתְּנ֨וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "עָלָ֥יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "גּוֹיִ֛ם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "סָבִ֖יב",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "מִמְּדִינ֑וֹת",
+          "morph": "HR/Ncfpa"
+        },
+        {
+          "w": "וַֽיִּפְרְשׂ֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "עָלָ֛יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "רִשְׁתָּ֖ם",
+          "morph": "HNcfsc/Sp3mp"
+        },
+        {
+          "w": "בְּשַׁחְתָּ֥ם",
+          "morph": "HR/Ncfsc/Sp3mp"
+        },
+        {
+          "w": "נִתְפָּֽשׂ",
+          "morph": "HVNp3ms"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "他 們 用 鉤 子 鉤 住 他 ， 將 他 放 在 籠 中 ， 帶 到 巴 比 倫 王 那 裡 ， 將 他 放 入 堅 固 之 所 ， 使 他 的 聲 音 在 以 色 列 山 上 不 再 聽 見 。",
+      "en": "They put him in a collar with hooks; they brought him to the king of Babylon; they brought him to prison so that his voice would not be heard any longer on the mountains of Israel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַֽיִּתְּנֻ֤הוּ",
+          "morph": "HC/Vqw3mp/Sp3ms"
+        },
+        {
+          "w": "בַסּוּגַר֙",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בַּֽחַחִ֔ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "וַיְבִאֻ֖הוּ",
+          "morph": "HC/Vhw3mp/Sp3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֶ֣לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּבֶ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "יְבִאֻ֨הוּ֙",
+          "morph": "HVhi3mp/Sp3ms"
+        },
+        {
+          "w": "בַּמְּצֹד֔וֹת",
+          "morph": "HRd/Ncfpa"
+        },
+        {
+          "w": "לְמַ֗עַן",
+          "morph": "HR"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִשָּׁמַ֥ע",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "קוֹל֛וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "ע֖וֹד",
+          "morph": "HD"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָרֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "你 的 母 親 先 前 如 葡 萄 樹 ， 極 其 茂 盛 （ 原 文 是 在 你 血 中 ） ， 栽 於 水 旁 。 因 為 水 多 ， 就 多 結 果 子 ， 滿 生 枝 子 ；",
+      "en": "“‘Your mother was like a vine in your vineyard, planted by water. It was fruitful and full of branches because it was well-watered.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִמְּךָ֥",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "כַגֶּ֛פֶן",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "בְּדָמְךָ֖",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "מַ֣יִם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "שְׁתוּלָ֑ה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "פֹּֽרִיָּה֙",
+          "morph": "HVqrfsa"
+        },
+        {
+          "w": "וַֽעֲנֵפָ֔ה",
+          "morph": "HC/Aafsa"
+        },
+        {
+          "w": "הָיְתָ֖ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "מִמַּ֥יִם",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "רַבִּֽים",
+          "morph": "HAampa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "生 出 堅 固 的 枝 幹 ， 可 作 掌 權 者 的 杖 。 這 枝 幹 高 舉 在 茂 密 的 枝 中 ， 而 且 他 生 長 高 大 ， 枝 子 繁 多 ， 遠 遠 可 見 。",
+      "en": "Its boughs were strong, fit for rulers’ scepters; it reached up into the clouds. It stood out because of its height and its many branches.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּֽהְיוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "לָ֞הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "מַטּ֣וֹת",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עֹ֗ז",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "שִׁבְטֵי֙",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מֹֽשְׁלִ֔ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "וַתִּגְבַּ֥הּ",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "קֽוֹמָת֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּ֣ין",
+          "morph": "HR"
+        },
+        {
+          "w": "עֲבֹתִ֑ים",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "וַיֵּרָ֣א",
+          "morph": "HC/VNw3ms"
+        },
+        {
+          "w": "בְגָבְה֔וֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "בְּרֹ֖ב",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "דָּלִיֹּתָֽיו",
+          "morph": "HNcfpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "但 這 葡 萄 樹 因 忿 怒 被 拔 出 摔 在 地 上 ； 東 風 吹 乾 其 上 的 果 子 ， 堅 固 的 枝 幹 折 斷 枯 乾 ， 被 火 燒 燬 了 ；",
+      "en": "But it was plucked up in anger; it was thrown down to the ground. The east wind dried up its fruit; its strong branches broke off and withered— a fire consumed them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֻּתַּ֤שׁ",
+          "morph": "HC/VHw3fs"
+        },
+        {
+          "w": "בְּחֵמָה֙",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "לָאָ֣רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "הֻשְׁלָ֔כָה",
+          "morph": "HVHp3fs"
+        },
+        {
+          "w": "וְר֥וּחַ",
+          "morph": "HC/Ncbsc"
+        },
+        {
+          "w": "הַקָּדִ֖ים",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הוֹבִ֣ישׁ",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "פִּרְיָ֑הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "הִתְפָּרְק֧וּ",
+          "morph": "HVtp3cp"
+        },
+        {
+          "w": "וְיָבֵ֛שׁוּ",
+          "morph": "HC/Vqp3cp"
+        },
+        {
+          "w": "מַטֵּ֥ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֻזָּ֖הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "אֵ֥שׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "אֲכָלָֽתְהוּ",
+          "morph": "HVqp3fs/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "如 今 栽 於 曠 野 乾 旱 無 水 之 地 。",
+      "en": "Now it is planted in the wilderness, in a dry and thirsty land.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַתָּ֖ה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "שְׁתוּלָ֣ה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "בַמִּדְבָּ֑ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בְּאֶ֖רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "צִיָּ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְצָמָֽא",
+          "morph": "HC/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "火 也 從 他 枝 幹 中 發 出 ， 燒 滅 果 子 ， 以 致 沒 有 堅 固 的 枝 幹 可 作 掌 權 者 的 杖 。 這 是 哀 歌 ， 也 必 用 以 作 哀 歌 。",
+      "en": "A fire has gone out from its branch; it has consumed its shoot and its fruit. No strong branch was left in it, nor a scepter to rule.’ “This is a lament song, and has become a lament song.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֵּצֵ֨א",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "אֵ֜שׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "מִמַּטֵּ֤ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "בַדֶּ֨יהָ֙",
+          "morph": "HNcmpc/Sp3fs"
+        },
+        {
+          "w": "פִּרְיָ֣הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "אָכָ֔לָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "הָ֥יָה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בָ֛הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "מַטֵּה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֹ֖ז",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "שֵׁ֣בֶט",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לִמְשׁ֑וֹל",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "קִ֥ינָה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "הִ֖יא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "וַתְּהִ֥י",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "לְקִינָֽה",
+          "morph": "HR/Ncfsa"
+        }
+      ]
+    }
+  ]
+}

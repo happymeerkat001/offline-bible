@@ -1,0 +1,998 @@
+{
+  "book": 28,
+  "chapter": 9,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "以 色 列 啊 ， 不 要 像 外 邦 人 歡 喜 快 樂 ； 因 為 你 行 邪 淫 離 棄 你 的 神 ， 在 各 穀 場 上 如 妓 女 喜 愛 賞 賜 。",
+      "en": "O Israel, do not rejoice jubilantly like the nations, for you are unfaithful to your God. You love to receive a prostitute’s wages on all the floors where you thresh your grain.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּשְׂמַ֨ח",
+          "morph": "HVqj2ms"
+        },
+        {
+          "w": "יִשְׂרָאֵ֤ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "גִּיל֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כָּֽעַמִּ֔ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "זָנִ֖יתָ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "מֵעַ֣ל",
+          "morph": "HR/R"
+        },
+        {
+          "w": "אֱלֹהֶ֑יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "אָהַ֣בְתָּ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "אֶתְנָ֔ן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "גָּרְנ֥וֹת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "דָּגָֽן",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "穀 場 和 酒 醡 都 不 夠 以 色 列 人 使 用 ； 新 酒 也 必 缺 乏 。",
+      "en": "Threshing floors and wine vats will not feed the people, and new wine only deceives them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "גֹּ֥רֶן",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וָיֶ֖קֶב",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִרְעֵ֑ם",
+          "morph": "HVqi3ms/Sp3mp"
+        },
+        {
+          "w": "וְתִיר֖וֹשׁ",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "יְכַ֥חֶשׁ",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "בָּֽהּ",
+          "morph": "HR/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "他 們 必 不 得 住 耶 和 華 的 地 ； 以 法 蓮 卻 要 歸 回 埃 及 ， 必 在 亞 述 吃 不 潔 淨 的 食 物 。",
+      "en": "They will not remain in the Lord’s land. Ephraim will return to Egypt; they will eat ritually unclean food in Assyria.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יֵשְׁב֖וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "בְּאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשָׁ֤ב",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶפְרַ֨יִם֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּבְאַשּׁ֖וּר",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "טָמֵ֥א",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יֹאכֵֽלוּ",
+          "morph": "HVqi3mp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "他 們 必 不 得 向 耶 和 華 奠 酒 ， 即 便 奠 酒 也 不 蒙 悅 納 。 他 們 的 祭 物 必 如 居 喪 者 的 食 物 ， 凡 吃 的 必 被 玷 污 ； 因 他 們 的 食 物 只 為 自 己 的 口 腹 ， 必 不 奉 入 耶 和 華 的 殿 。",
+      "en": "They will not pour out drink offerings of wine to the Lord; they will not please him with their sacrifices. Their sacrifices will be like bread eaten while in mourning; all those who eat them will make themselves ritually unclean. For their bread will be only to satisfy their appetite; it will not come into the temple of the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִסְּכ֨וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "לַיהוָ֥ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "יַיִן֮",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יֶֽעֶרְבוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "לוֹ֒",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "זִבְחֵיהֶ֗ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "כְּלֶ֤חֶם",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "אוֹנִים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לָהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹכְלָ֖יו",
+          "morph": "HVqrmpc/Sp3ms"
+        },
+        {
+          "w": "יִטַמָּ֑אוּ",
+          "morph": "HVti3mp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "לַחְמָ֣ם",
+          "morph": "HNcbsc/Sp3mp"
+        },
+        {
+          "w": "לְנַפְשָׁ֔ם",
+          "morph": "HR/Ncbsc/Sp3mp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָב֖וֹא",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בֵּ֥ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "在 大 會 的 日 子 ， 到 耶 和 華 的 節 期 ， 你 們 怎 樣 行 呢 ？",
+      "en": "So what will you do on the festival day, on the festival days of the Lord?",
+      "notes": [],
+      "he": [
+        {
+          "w": "מַֽה",
+          "morph": "HTi"
+        },
+        {
+          "w": "תַּעֲשׂ֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "לְי֣וֹם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מוֹעֵ֑ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּלְי֖וֹם",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "חַג",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "看 哪 ， 他 們 逃 避 災 難 ； 埃 及 人 必 收 殮 他 們 的 屍 首 ， 摩 弗 人 必 葬 埋 他 們 的 骸 骨 。 他 們 用 銀 子 做 的 美 物 上 必 長 蒺 藜 ； 他 們 的 帳 棚 中 必 生 荊 棘 。",
+      "en": "Look! Even if they flee from the destruction, Egypt will take hold of them, and Memphis will bury them. The weeds will inherit the silver they treasure— thornbushes will occupy their homes.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "הִנֵּ֤ה",
+          "morph": "HTm"
+        },
+        {
+          "w": "הָֽלְכוּ֙",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מִשֹּׁ֔ד",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "מִצְרַ֥יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "תְּקַבְּצֵ֖ם",
+          "morph": "HVpi3fs/Sp3mp"
+        },
+        {
+          "w": "מֹ֣ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "תְּקַבְּרֵ֑ם",
+          "morph": "HVpi3fs/Sp3mp"
+        },
+        {
+          "w": "מַחְמַ֣ד",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "לְכַסְפָּ֗ם",
+          "morph": "HR/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "קִמּוֹשׂ֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִֽירָשֵׁ֔ם",
+          "morph": "HVqi3ms/Sp3mp"
+        },
+        {
+          "w": "ח֖וֹחַ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּאָהֳלֵיהֶֽם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "以 色 列 人 必 知 道 降 罰 的 日 子 臨 近 ， 報 應 的 時 候 來 到 。 民 說 ： 作 先 知 的 是 愚 昧 ； 受 靈 感 的 是 狂 妄 ， 皆 因 他 們 多 多 作 孽 ， 大 懷 怨 恨 。",
+      "en": "The time of judgment is about to arrive! The time of retribution is imminent! Israel will be humbled! The prophet is considered a fool— the inspired man is viewed as a madman— because of the multitude of your sins and your intense animosity.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בָּ֣אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "יְמֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַפְּקֻדָּ֗ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "בָּ֚אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "יְמֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַשִׁלֻּ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יֵדְע֖וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱוִ֣יל",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "הַנָּבִ֗יא",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מְשֻׁגָּע֙",
+          "morph": "HVPsmsa"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָר֔וּחַ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "עַ֚ל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹ֣ב",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "עֲוֺנְךָ֔",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "וְרַבָּ֖ה",
+          "morph": "HC/Aafsa"
+        },
+        {
+          "w": "מַשְׂטֵמָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "以 法 蓮 曾 作 我 神 守 望 的 ； 至 於 先 知 ， 在 他 一 切 的 道 上 作 為 捕 鳥 人 的 網 羅 ， 在 他 神 的 家 中 懷 怨 恨 。",
+      "en": "The prophet is a watchman over Ephraim on behalf of God, yet traps are laid for him along all his paths; animosity rages against him in the land of his God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "צֹפֶ֥ה",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אֶפְרַ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "אֱלֹהָ֑י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "נָבִ֞יא",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "פַּ֤ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יָקוֹשׁ֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דְּרָכָ֔יו",
+          "morph": "HNcbpc/Sp3ms"
+        },
+        {
+          "w": "מַשְׂטֵמָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּבֵ֥ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֱלֹהָֽיו",
+          "morph": "HNcmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "以 法 蓮 深 深 地 敗 壞 ， 如 在 基 比 亞 的 日 子 一 樣 。 耶 和 華 必 記 念 他 們 的 罪 孽 ， 追 討 他 們 的 罪 惡 。",
+      "en": "They have sunk deep into corruption as in the days of Gibeah. He will remember their wrongdoing. He will repay them for their sins.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הֶעְמִֽיקוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "שִׁחֵ֖תוּ",
+          "morph": "HVpp3cp"
+        },
+        {
+          "w": "כִּימֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "הַגִּבְעָ֑ה",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "יִזְכּ֣וֹר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "עֲוֺנָ֔ם",
+          "morph": "HNcbsc/Sp3mp"
+        },
+        {
+          "w": "יִפְק֖וֹד",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "חַטֹּאותָֽם",
+          "morph": "HNcfpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "主 說 ： 我 遇 見 以 色 列 如 葡 萄 在 曠 野 ； 我 看 見 你 們 的 列 祖 如 無 花 果 樹 上 春 季 初 熟 的 果 子 。 他 們 卻 來 到 巴 力 毗 珥 專 拜 那 可 羞 恥 的 ， 就 成 為 可 憎 惡 的 ， 與 他 們 所 愛 的 一 樣 。",
+      "en": "When I found Israel, it was like finding grapes in the wilderness. I viewed your ancestors like an early fig on a fig tree in its first season. Then they came to Baal Peor, and they dedicated themselves to shame— they became as detestable as what they loved.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כַּעֲנָבִ֣ים",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "בַּמִּדְבָּ֗ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "מָצָ֨אתִי֙",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "כְּבִכּוּרָ֤ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "בִתְאֵנָה֙",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "בְּרֵ֣אשִׁיתָ֔הּ",
+          "morph": "HR/Ncfsc/Sp3fs"
+        },
+        {
+          "w": "רָאִ֖יתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אֲבֽוֹתֵיכֶ֑ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "הֵ֜מָּה",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "בָּ֣אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בַֽעַל",
+          "morph": "HNp"
+        },
+        {
+          "w": "פְּע֗וֹר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּנָּֽזְרוּ֙",
+          "morph": "HC/VNw3mp"
+        },
+        {
+          "w": "לַבֹּ֔שֶׁת",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "וַיִּהְי֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שִׁקּוּצִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "כְּאָהֳבָֽם",
+          "morph": "HR/Vqc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "至 於 以 法 蓮 人 ， 他 們 的 榮 耀 必 如 鳥 飛 去 ， 必 不 生 產 ， 不 懷 胎 ， 不 成 孕 。",
+      "en": "Ephraim will be like a bird; what they value will fly away. They will not bear children— they will not enjoy pregnancy— they will not even conceive!",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֶפְרַ֕יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "כָּע֖וֹף",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "יִתְעוֹפֵ֣ף",
+          "morph": "HVri3ms"
+        },
+        {
+          "w": "כְּבוֹדָ֑ם",
+          "morph": "HNcbsc/Sp3mp"
+        },
+        {
+          "w": "מִלֵּדָ֥ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וּמִבֶּ֖טֶן",
+          "morph": "HC/R/Ncfsa"
+        },
+        {
+          "w": "וּמֵהֵרָיֽוֹן",
+          "morph": "HC/R/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "縱 然 養 大 兒 女 ， 我 卻 必 使 他 們 喪 子 ， 甚 至 不 留 一 個 。 我 離 棄 他 們 ， 他 們 就 有 禍 了 。",
+      "en": "Even if they raise their children, I will take away every last one of them. Woe to them! For I will turn away from them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "יְגַדְּלוּ֙",
+          "morph": "HVpi3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּנֵיהֶ֔ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "וְשִׁכַּלְתִּ֖ים",
+          "morph": "HC/Vpq1cs/Sp3mp"
+        },
+        {
+          "w": "מֵֽאָדָ֑ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "גַם",
+          "morph": "HD"
+        },
+        {
+          "w": "א֥וֹי",
+          "morph": "HTj"
+        },
+        {
+          "w": "לָהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "בְּשׂוּרִ֥י",
+          "morph": "HR/Vqc/Sp1cs"
+        },
+        {
+          "w": "מֵהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "我 看 以 法 蓮 如 推 羅 栽 於 美 地 。 以 法 蓮 卻 要 將 自 己 的 兒 女 帶 出 來 ， 交 與 行 殺 戮 的 人 。",
+      "en": "Ephraim, as I have seen, has given their children for prey; Ephraim will bear his sons for slaughter.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֶפְרַ֛יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "כַּאֲשֶׁר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "רָאִ֥יתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "לְצ֖וֹר",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "שְׁתוּלָ֣ה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "בְנָוֶ֑ה",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "וְאֶפְרַ֕יִם",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "לְהוֹצִ֥יא",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הֹרֵ֖ג",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בָּנָֽיו",
+          "morph": "HNcmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "耶 和 華 啊 ， 求 你 加 給 他 們 ─ 加 甚 麼 呢 ？ 要 使 他 們 胎 墜 乳 乾 。",
+      "en": "Give them, O Lord— what will you give them? Give them wombs that miscarry, and breasts that cannot nurse!",
+      "notes": [],
+      "he": [
+        {
+          "w": "תֵּן",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "לָהֶ֥ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מַה",
+          "morph": "HTi"
+        },
+        {
+          "w": "תִּתֵּ֑ן",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "תֵּן",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "לָהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "רֶ֣חֶם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מַשְׁכִּ֔יל",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "וְשָׁדַ֖יִם",
+          "morph": "HC/Ncmda"
+        },
+        {
+          "w": "צֹמְקִֽים",
+          "morph": "HVqrmpa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "耶 和 華 說 ： 他 們 一 切 的 惡 事 都 在 吉 甲 ； 我 在 那 裡 憎 惡 他 們 。 因 他 們 所 行 的 惡 ， 我 必 從 我 地 上 趕 出 他 們 去 ， 不 再 憐 愛 他 們 ； 他 們 的 首 領 都 是 悖 逆 的 。",
+      "en": "Because of all their evil in Gilgal, I hate them there. On account of their evil deeds, I will drive them out of my land. I will no longer love them; all their rulers are rebels.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רָעָתָ֤ם",
+          "morph": "HNcfsc/Sp3mp"
+        },
+        {
+          "w": "בַּגִּלְגָּל֙",
+          "morph": "HRd/Np"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "שָׁ֣ם",
+          "morph": "HD"
+        },
+        {
+          "w": "שְׂנֵאתִ֔ים",
+          "morph": "HVqp1cs/Sp3mp"
+        },
+        {
+          "w": "עַ֚ל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹ֣עַ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מַֽעַלְלֵיהֶ֔ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "מִבֵּיתִ֖י",
+          "morph": "HR/Ncmsc/Sp1cs"
+        },
+        {
+          "w": "אֲגָרְשֵׁ֑ם",
+          "morph": "HVpi1cs/Sp3mp"
+        },
+        {
+          "w": "לֹ֤א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אוֹסֵף֙",
+          "morph": "HVhh1cs"
+        },
+        {
+          "w": "אַהֲבָתָ֔ם",
+          "morph": "HVqc/Sp3mp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שָׂרֵיהֶ֖ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "סֹרְרִֽים",
+          "morph": "HVqrmpa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "以 法 蓮 受 責 罰 ， 根 本 枯 乾 ， 必 不 能 結 果 ， 即 或 生 產 ， 我 必 殺 他 們 所 生 的 愛 子 。",
+      "en": "Ephraim will be struck down— their root will be dried up; they will not yield any fruit. Even if they do bear children, I will kill their precious offspring.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הֻכָּ֣ה",
+          "morph": "HVHp3ms"
+        },
+        {
+          "w": "אֶפְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "שָׁרְשָׁ֥ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "יָבֵ֖שׁ",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "פְּרִ֣י",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בלי",
+          "morph": "HTn"
+        },
+        {
+          "w": "בַֽל",
+          "morph": "HTn"
+        },
+        {
+          "w": "יַעֲשׂ֑וּן",
+          "morph": "HVqi3mp/Sn"
+        },
+        {
+          "w": "גַּ֚ם",
+          "morph": "HTa"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "יֵֽלֵד֔וּן",
+          "morph": "HVqi3mp/Sn"
+        },
+        {
+          "w": "וְהֵמַתִּ֖י",
+          "morph": "HC/Vhq1cs"
+        },
+        {
+          "w": "מַחֲמַדֵּ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בִטְנָֽם",
+          "morph": "HNcfsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "我 的 神 必 棄 絕 他 們 ， 因 為 他 們 不 聽 從 他 ； 他 們 也 必 飄 流 在 列 國 中 。",
+      "en": "My God will reject them, for they have not obeyed him; so they will be fugitives among the nations.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יִמְאָסֵ֣ם",
+          "morph": "HVqi3ms/Sp3mp"
+        },
+        {
+          "w": "אֱלֹהַ֔י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "כִּ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "שָׁמְע֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "ל֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְיִהְי֥וּ",
+          "morph": "HC/Vqi3mp"
+        },
+        {
+          "w": "נֹדְדִ֖ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "בַּגּוֹיִֽם",
+          "morph": "HRd/Ncmpa"
+        }
+      ]
+    }
+  ]
+}

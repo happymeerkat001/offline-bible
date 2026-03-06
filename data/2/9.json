@@ -1,0 +1,2370 @@
+{
+  "book": 2,
+  "chapter": 9,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 吩 咐 摩 西 說 ： 你 進 去 見 法 老 ， 對 他 說 ： 耶 和 華 ─ 希 伯 來 人 的 神 這 樣 說 ： 容 我 的 百 姓 去 ， 好 事 奉 我 。",
+      "en": "Then the Lord said to Moses, “Go to Pharaoh and tell him, ‘This is what the Lord, the God of the Hebrews, has said, “Release my people that they may serve me!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֹּ֖א",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פַּרְעֹ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְדִבַּרְתָּ֣",
+          "morph": "HC/Vpp2ms"
+        },
+        {
+          "w": "אֵלָ֗יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "כֹּֽה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֤ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָֽעִבְרִ֔ים",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "שַׁלַּ֥ח",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עַמִּ֖י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וְיַֽעַבְדֻֽנִי",
+          "morph": "HC/Vqi3mp/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 若 不 肯 容 他 們 去 ， 仍 舊 強 留 他 們 ，",
+      "en": "For if you refuse to release them and continue holding them,",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "מָאֵ֥ן",
+          "morph": "HVprmsa"
+        },
+        {
+          "w": "אַתָּ֖ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "לְשַׁלֵּ֑חַ",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "וְעוֹדְךָ֖",
+          "morph": "HC/D/Sp2ms"
+        },
+        {
+          "w": "מַחֲזִ֥יק",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "בָּֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "耶 和 華 的 手 加 在 你 田 間 的 牲 畜 上 ， 就 是 在 馬 、 驢 、 駱 駝 、 牛 群 、 羊 群 上 ， 必 有 重 重 的 瘟 疫 。",
+      "en": "then the hand of the Lord will surely bring a very terrible plague on your livestock in the field, on the horses, the donkeys, the camels, the herds, and the flocks.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הִנֵּ֨ה",
+          "morph": "HTm"
+        },
+        {
+          "w": "יַד",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "יְהוָ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הוֹיָ֗ה",
+          "morph": "HVqrfsa"
+        },
+        {
+          "w": "בְּמִקְנְךָ֙",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בַּשָּׂדֶ֔ה",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בַּסּוּסִ֤ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "בַּֽחֲמֹרִים֙",
+          "morph": "HRd/Ncbpa"
+        },
+        {
+          "w": "בַּגְּמַלִּ֔ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "בַּבָּקָ֖ר",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "וּבַצֹּ֑אן",
+          "morph": "HC/Rd/Ncbsa"
+        },
+        {
+          "w": "דֶּ֖בֶר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כָּבֵ֥ד",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מְאֹֽד",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "耶 和 華 要 分 別 以 色 列 的 牲 畜 和 埃 及 的 牲 畜 ， 凡 屬 以 色 列 人 的 ， 一 樣 都 不 死 。",
+      "en": "But the Lord will distinguish between the livestock of Israel and the livestock of Egypt, and nothing will die of all that the Israelites have.”’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִפְלָ֣ה",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֵּ֚ין",
+          "morph": "HR"
+        },
+        {
+          "w": "מִקְנֵ֣ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּבֵ֖ין",
+          "morph": "HC/R"
+        },
+        {
+          "w": "מִקְנֵ֣ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יָמ֛וּת",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מִכָּל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לִבְנֵ֥י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "דָּבָֽר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "耶 和 華 就 定 了 時 候 ， 說 ： 明 天 耶 和 華 必 在 此 地 行 這 事 。",
+      "en": "The Lord set an appointed time, saying, “Tomorrow the Lord will do this in the land.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֥שֶׂם",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מוֹעֵ֣ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מָחָ֗ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יַעֲשֶׂ֧ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַדָּבָ֥ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֖ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "בָּאָֽרֶץ",
+          "morph": "HRd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "第 二 天 ， 耶 和 華 就 行 這 事 。 埃 及 的 牲 畜 幾 乎 都 死 了 ， 只 是 以 色 列 人 的 牲 畜 ， 一 個 都 沒 有 死 。",
+      "en": "And the Lord did this on the next day; all the livestock of the Egyptians died, but of the Israelites’ livestock not one died.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּ֨עַשׂ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַדָּבָ֤ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּה֙",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "מִֽמָּחֳרָ֔ת",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וַיָּ֕מָת",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כֹּ֖ל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִקְנֵ֣ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִמִּקְנֵ֥ה",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "מֵ֥ת",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֶחָֽד",
+          "morph": "HAcmsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "法 老 打 發 人 去 看 ， 誰 知 以 色 列 人 的 牲 畜 連 一 個 都 沒 有 死 。 法 老 的 心 卻 是 固 執 ， 不 容 百 姓 去 。",
+      "en": "Pharaoh sent representatives to investigate, and indeed, not even one of the livestock of Israel had died. But Pharaoh’s heart remained hard, and he did not release the people.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁלַ֣ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהִנֵּ֗ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "מֵ֛ת",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "מִמִּקְנֵ֥ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "אֶחָ֑ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "וַיִּכְבַּד֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לֵ֣ב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פַּרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "שִׁלַּ֖ח",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעָֽם",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "耶 和 華 吩 咐 摩 西 、 亞 倫 說 ： 你 們 取 幾 捧 爐 灰 ， 摩 西 要 在 法 老 面 前 向 天 揚 起 來 。",
+      "en": "Then the Lord said to Moses and Aaron, “Take handfuls of soot from a furnace, and have Moses throw it into the air while Pharaoh is watching.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָה֮",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶֽל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אַהֲרֹן֒",
+          "morph": "HNp"
+        },
+        {
+          "w": "קְח֤וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "לָכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מְלֹ֣א",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חָפְנֵיכֶ֔ם",
+          "morph": "HNcmdc/Sp2mp"
+        },
+        {
+          "w": "פִּ֖יחַ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כִּבְשָׁ֑ן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּזְרָק֥וֹ",
+          "morph": "HC/Vqp3ms/Sp3ms"
+        },
+        {
+          "w": "מֹשֶׁ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַשָּׁמַ֖יְמָה",
+          "morph": "HTd/Ncmpa/Sd"
+        },
+        {
+          "w": "לְעֵינֵ֥י",
+          "morph": "HR/Ncbdc"
+        },
+        {
+          "w": "פַרְעֹֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "這 灰 要 在 埃 及 全 地 變 作 塵 土 ， 在 人 身 上 和 牲 畜 身 上 成 了 起 泡 的 瘡 。",
+      "en": "It will become fine dust over the whole land of Egypt and will cause boils to break out and fester on both people and animals in all the land of Egypt.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיָ֣ה",
+          "morph": "HC/Vqp3ms"
+        },
+        {
+          "w": "לְאָבָ֔ק",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהָיָ֨ה",
+          "morph": "HC/Vqp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָדָ֜ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַבְּהֵמָ֗ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "לִשְׁחִ֥ין",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "פֹּרֵ֛חַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אֲבַעְבֻּעֹ֖ת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "摩 西 、 亞 倫 取 了 爐 灰 ， 站 在 法 老 面 前 。 摩 西 向 天 揚 起 來 ， 就 在 人 身 上 和 牲 畜 身 上 成 了 起 泡 的 瘡 。",
+      "en": "So they took soot from a furnace and stood before Pharaoh, Moses threw it into the air, and it caused festering boils to break out on both people and animals.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקְח֞וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "פִּ֣יחַ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַכִּבְשָׁ֗ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַיַּֽעַמְדוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "פַרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּזְרֹ֥ק",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֹת֛וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "מֹשֶׁ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַשָּׁמָ֑יְמָה",
+          "morph": "HTd/Ncmpa/Sd"
+        },
+        {
+          "w": "וַיְהִ֗י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שְׁחִין֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲבַעְבֻּעֹ֔ת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "פֹּרֵ֕חַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בָּאָדָ֖ם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וּבַבְּהֵמָֽה",
+          "morph": "HC/Rd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "行 法 術 的 在 摩 西 面 前 站 立 不 住 ， 因 為 在 他 們 身 上 和 一 切 埃 及 人 身 上 都 有 這 瘡 。",
+      "en": "The magicians could not stand before Moses because of the boils, for boils were on the magicians and on all the Egyptians.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלֹֽא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יָכְל֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "הַֽחַרְטֻמִּ֗ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "לַעֲמֹ֛ד",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "מֹשֶׁ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִפְּנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "הַשְּׁחִ֑ין",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "הָיָ֣ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "הַשְּׁחִ֔ין",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בַּֽחֲרְטֻמִּ֖ם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "וּבְכָל",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "耶 和 華 使 法 老 的 心 剛 硬 ， 不 聽 他 們 ， 正 如 耶 和 華 對 摩 西 所 說 的 。",
+      "en": "But the Lord hardened Pharaoh’s heart, and he did not listen to them, just as the Lord had predicted to Moses.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְחַזֵּ֤ק",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "לֵ֣ב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פַּרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "שָׁמַ֖ע",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֲלֵהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֛ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "דִּבֶּ֥ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶֽׁה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "耶 和 華 對 摩 西 說 ： 你 清 早 起 來 ， 站 在 法 老 面 前 ， 對 他 說 ： 耶 和 華 ─ 希 伯 來 人 的 神 這 樣 說 ： 容 我 的 百 姓 去 ， 好 事 奉 我 。",
+      "en": "The Lord said to Moses, “Get up early in the morning, stand before Pharaoh, and tell him, ‘This is what the Lord, the God of the Hebrews, has said: “Release my people so that they may serve me!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַשְׁכֵּ֣ם",
+          "morph": "HVhv2ms"
+        },
+        {
+          "w": "בַּבֹּ֔קֶר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְהִתְיַצֵּ֖ב",
+          "morph": "HC/Vtv2ms"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "פַרְעֹ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָמַרְתָּ֣",
+          "morph": "HC/Vqp2ms"
+        },
+        {
+          "w": "אֵלָ֗יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "כֹּֽה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֤ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָֽעִבְרִ֔ים",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "שַׁלַּ֥ח",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עַמִּ֖י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וְיַֽעַבְדֻֽנִי",
+          "morph": "HC/Vqi3mp/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "因 為 這 一 次 我 要 叫 一 切 的 災 殃 臨 到 你 和 你 臣 僕 並 你 百 姓 的 身 上 ， 叫 你 知 道 在 普 天 下 沒 有 像 我 的 。",
+      "en": "For this time I will send all my plagues on your very self and on your servants and your people, so that you may know that there is no one like me in all the earth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "בַּפַּ֣עַם",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "הַזֹּ֗את",
+          "morph": "HTd/Pdxfs"
+        },
+        {
+          "w": "אֲנִ֨י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "שֹׁלֵ֜חַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מַגֵּפֹתַי֙",
+          "morph": "HNcfpc/Sp1cs"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "לִבְּךָ֔",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וּבַעֲבָדֶ֖יךָ",
+          "morph": "HC/R/Ncmpc/Sp2ms"
+        },
+        {
+          "w": "וּבְעַמֶּ֑ךָ",
+          "morph": "HC/R/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "בַּעֲב֣וּר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "תֵּדַ֔ע",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "כִּ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֵ֥ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "כָּמֹ֖נִי",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "我 若 伸 手 用 瘟 疫 攻 擊 你 和 你 的 百 姓 ， 你 早 就 從 地 上 除 滅 了 。",
+      "en": "For by now I could have stretched out my hand and struck you and your people with plague, and you would have been destroyed from the earth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "עַתָּה֙",
+          "morph": "HD"
+        },
+        {
+          "w": "שָׁלַ֣חְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יָדִ֔י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "וָאַ֥ךְ",
+          "morph": "HC/Vhw1cs"
+        },
+        {
+          "w": "אוֹתְךָ֛",
+          "morph": "HTo/Sp2ms"
+        },
+        {
+          "w": "וְאֶֽת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "עַמְּךָ֖",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "בַּדָּ֑בֶר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וַתִּכָּחֵ֖ד",
+          "morph": "HC/VNw2ms"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "其 實 ， 我 叫 你 存 立 ， 是 特 要 向 你 顯 我 的 大 能 ， 並 要 使 我 的 名 傳 遍 天 下 。",
+      "en": "But for this purpose I have caused you to stand: to show you my strength, and so that my name may be declared in all the earth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאוּלָ֗ם",
+          "morph": "HC/D"
+        },
+        {
+          "w": "בַּעֲב֥וּר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "זֹאת֙",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "הֶעֱמַדְתִּ֔יךָ",
+          "morph": "HVhp1cs/Sp2ms"
+        },
+        {
+          "w": "בַּעֲב֖וּר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַרְאֹתְךָ֣",
+          "morph": "HVhc/Sp2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כֹּחִ֑י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וּלְמַ֛עַן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "סַפֵּ֥ר",
+          "morph": "HVpc"
+        },
+        {
+          "w": "שְׁמִ֖י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "你 還 向 我 的 百 姓 自 高 ， 不 容 他 們 去 麼 ？",
+      "en": "You are still exalting yourself against my people by not releasing them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עוֹדְךָ֖",
+          "morph": "HD/Sp2ms"
+        },
+        {
+          "w": "מִסְתּוֹלֵ֣ל",
+          "morph": "HVrrmsa"
+        },
+        {
+          "w": "בְּעַמִּ֑י",
+          "morph": "HR/Ncmsc/Sp1cs"
+        },
+        {
+          "w": "לְבִלְתִּ֖י",
+          "morph": "HR/C"
+        },
+        {
+          "w": "שַׁלְּחָֽם",
+          "morph": "HVpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "到 明 天 約 在 這 時 候 ， 我 必 叫 重 大 的 冰 雹 降 下 ， 自 從 埃 及 開 國 以 來 ， 沒 有 這 樣 的 冰 雹 。",
+      "en": "I am going to cause very severe hail to rain down about this time tomorrow, such hail as has never occurred in Egypt from the day it was founded until now.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הִנְנִ֤י",
+          "morph": "HTm/Sp1cs"
+        },
+        {
+          "w": "מַמְטִיר֙",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "כָּעֵ֣ת",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "מָחָ֔ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בָּרָ֖ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כָּבֵ֣ד",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מְאֹ֑ד",
+          "morph": "HD"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "הָיָ֤ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "כָמֹ֨הוּ֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "בְּמִצְרַ֔יִם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לְמִן",
+          "morph": "HR/R"
+        },
+        {
+          "w": "הַיּ֥וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הִוָּסְדָ֖ה",
+          "morph": "HVNc/Sp3fs"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "עָֽתָּה",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "現 在 你 要 打 發 人 把 你 的 牲 畜 和 你 田 間 一 切 所 有 的 催 進 來 ； 凡 在 田 間 不 收 回 家 的 ， 無 論 是 人 是 牲 畜 ， 冰 雹 必 降 在 他 們 身 上 ， 他 們 就 必 死 。",
+      "en": "So now, send instructions to gather your livestock and all your possessions in the fields to a safe place. Every person or animal caught in the field and not brought into the house—the hail will come down on them, and they will die!”’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַתָּ֗ה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "שְׁלַ֤ח",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "הָעֵז֙",
+          "morph": "HVhv2ms"
+        },
+        {
+          "w": "אֶֽת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִקְנְךָ֔",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וְאֵ֛ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לְךָ֖",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "בַּשָּׂדֶ֑ה",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאָדָ֨ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהַבְּהֵמָ֜ה",
+          "morph": "HC/Td/Ncfsa"
+        },
+        {
+          "w": "אֲשֶֽׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִמָּצֵ֣א",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "בַשָּׂדֶ֗ה",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְלֹ֤א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יֵֽאָסֵף֙",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "הַבַּ֔יְתָה",
+          "morph": "HTd/Ncmsa/Sd"
+        },
+        {
+          "w": "וְיָרַ֧ד",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "עֲלֵהֶ֛ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "הַבָּרָ֖ד",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וָמֵֽתוּ",
+          "morph": "HC/Vqq3cp"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "法 老 的 臣 僕 中 ， 懼 怕 耶 和 華 這 話 的 ， 便 叫 他 的 奴 僕 和 牲 畜 跑 進 家 來 。",
+      "en": "Those of Pharaoh’s servants who feared the Lord’s message hurried to bring their servants and livestock into the houses,",
+      "notes": [],
+      "he": [
+        {
+          "w": "הַיָּרֵא֙",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דְּבַ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵֽעַבְדֵ֖י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "פַּרְעֹ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הֵנִ֛יס",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֲבָדָ֥יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "מִקְנֵ֖הוּ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַבָּתִּֽים",
+          "morph": "HTd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "但 那 不 把 耶 和 華 這 話 放 在 心 上 的 ， 就 將 他 的 奴 僕 和 牲 畜 留 在 田 裡 。",
+      "en": "but those who did not take the Lord’s message seriously left their servants and their cattle in the field.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַאֲשֶׁ֥ר",
+          "morph": "HC/Tr"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "שָׂ֛ם",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לִבּ֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "דְּבַ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיַּעֲזֹ֛ב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֲבָדָ֥יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "מִקְנֵ֖הוּ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "בַּשָּׂדֶֽה",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "耶 和 華 對 摩 西 說 ： 你 向 天 伸 杖 ， 使 埃 及 遍 地 的 人 身 上 和 牲 畜 身 上 ， 並 田 間 各 樣 菜 蔬 上 ， 都 有 冰 雹 。",
+      "en": "Then the Lord said to Moses, “Extend your hand toward the sky that there may be hail in all the land of Egypt, on people and on animals, and on everything that grows in the field in the land of Egypt.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֨אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁה",
+          "morph": "HNp"
+        },
+        {
+          "w": "נְטֵ֤ה",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יָֽדְךָ֙",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשָּׁמַ֔יִם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וִיהִ֥י",
+          "morph": "HC/Vqi3ms"
+        },
+        {
+          "w": "בָרָ֖ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָדָ֣ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַבְּהֵמָ֗ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְעַ֛ל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֵ֥שֶׂב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׂדֶ֖ה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּאֶ֥רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "摩 西 向 天 伸 杖 ， 耶 和 華 就 打 雷 下 雹 ， 有 火 閃 到 地 上 ； 耶 和 華 下 雹 在 埃 及 地 上 。",
+      "en": "When Moses extended his staff toward the sky, the Lord sent thunder and hail, and fire fell to the earth; so the Lord caused hail to rain down on the land of Egypt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּ֨ט",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מֹשֶׁ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מַטֵּהוּ֮",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשָּׁמַיִם֒",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וַֽיהוָ֗ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "נָתַ֤ן",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "קֹלֹת֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וּבָרָ֔ד",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וַתִּ֥הֲלַךְ",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "אֵ֖שׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "אָ֑רְצָה",
+          "morph": "HNcbsa/Sd"
+        },
+        {
+          "w": "וַיַּמְטֵ֧ר",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בָּרָ֖ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "那 時 ， 雹 與 火 攙 雜 ， 甚 是 利 害 ， 自 從 埃 及 成 國 以 來 ， 遍 地 沒 有 這 樣 的 。",
+      "en": "Hail fell and fire mingled with the hail; the hail was so severe that there had not been any like it in all the land of Egypt since it had become a nation.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֣י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בָרָ֔ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאֵ֕שׁ",
+          "morph": "HC/Ncbsa"
+        },
+        {
+          "w": "מִתְלַקַּ֖חַת",
+          "morph": "HVtrfsa"
+        },
+        {
+          "w": "בְּת֣וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַבָּרָ֑ד",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "כָּבֵ֣ד",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מְאֹ֔ד",
+          "morph": "HD"
+        },
+        {
+          "w": "אֲ֠שֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "הָיָ֤ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "כָמֹ֨הוּ֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵאָ֖ז",
+          "morph": "HR/D"
+        },
+        {
+          "w": "הָיְתָ֥ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "לְגֽוֹי",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "在 埃 及 遍 地 ， 雹 擊 打 了 田 間 所 有 的 人 和 牲 畜 ， 並 一 切 的 菜 蔬 ， 又 打 壞 田 間 一 切 的 樹 木 。",
+      "en": "The hail struck everything in the open fields, both people and animals, throughout all the land of Egypt. The hail struck everything that grows in the field, and it broke all the trees of the field to pieces.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּ֨ךְ",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "הַבָּרָ֜ד",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרַ֗יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֵ֚ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בַּשָּׂדֶ֔ה",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "מֵאָדָ֖ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בְּהֵמָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְאֵ֨ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֵ֤שֶׂב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׂדֶה֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הִכָּ֣ה",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "הַבָּרָ֔ד",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֵ֥ץ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׂדֶ֖ה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "שִׁבֵּֽר",
+          "morph": "HVpp3ms"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "惟 獨 以 色 列 人 所 住 的 歌 珊 地 沒 有 冰 雹 。",
+      "en": "Only in the land of Goshen, where the Israelites lived, was there no hail.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רַ֚ק",
+          "morph": "HTa"
+        },
+        {
+          "w": "בְּאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "גֹּ֔שֶׁן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שָׁ֖ם",
+          "morph": "HD"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "הָיָ֖ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בָּרָֽד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "法 老 打 發 人 召 摩 西 、 亞 倫 來 ， 對 他 們 說 ： 這 一 次 我 犯 了 罪 了 。 耶 和 華 是 公 義 的 ； 我 和 我 的 百 姓 是 邪 惡 的 。",
+      "en": "So Pharaoh sent and summoned Moses and Aaron and said to them, “I have sinned this time! The Lord is righteous, and I and my people are guilty.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁלַ֣ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּקְרָא֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לְמֹשֶׁ֣ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וּֽלְאַהֲרֹ֔ן",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "וַיֹּ֥אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֲלֵהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "חָטָ֣אתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "הַפָּ֑עַם",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַצַּדִּ֔יק",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "וַאֲנִ֥י",
+          "morph": "HC/Pp1cs"
+        },
+        {
+          "w": "וְעַמִּ֖י",
+          "morph": "HC/Ncmsc/Sp1cs"
+        },
+        {
+          "w": "הָרְשָׁעִֽים",
+          "morph": "HTd/Aampa"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "這 雷 轟 和 冰 雹 已 經 夠 了 。 請 你 們 求 耶 和 華 ， 我 就 容 你 們 去 ， 不 再 留 住 你 們 。",
+      "en": "Pray to the Lord, for the mighty thunderings and hail are too much! I will release you and you will stay no longer.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "הַעְתִּ֨ירוּ֙",
+          "morph": "HVhv2mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְרַ֕ב",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "מִֽהְיֹ֛ת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "קֹלֹ֥ת",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אֱלֹהִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וּבָרָ֑ד",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וַאֲשַׁלְּחָ֣ה",
+          "morph": "HC/Vph1cs"
+        },
+        {
+          "w": "אֶתְכֶ֔ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תֹסִפ֖וּן",
+          "morph": "HVhi2mp/Sn"
+        },
+        {
+          "w": "לַעֲמֹֽד",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "摩 西 對 他 說 ： 我 一 出 城 ， 就 要 向 耶 和 華 舉 手 禱 告 ； 雷 必 止 住 ， 也 不 再 有 冰 雹 ， 叫 你 知 道 全 地 都 是 屬 耶 和 華 的 。",
+      "en": "Moses said to him, “When I leave the city I will spread my hands to the Lord, the thunder will cease, and there will be no more hail, so that you may know that the earth belongs to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלָיו֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "מֹשֶׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כְּצֵאתִי֙",
+          "morph": "HR/Vqc/Sp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעִ֔יר",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֶפְרֹ֥שׂ",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כַּפַּ֖י",
+          "morph": "HNcfdc/Sp1cs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַקֹּל֣וֹת",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "יֶחְדָּל֗וּן",
+          "morph": "HVqi3mp/Sn"
+        },
+        {
+          "w": "וְהַבָּרָד֙",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִֽהְיֶה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "ע֔וֹד",
+          "morph": "HD"
+        },
+        {
+          "w": "לְמַ֣עַן",
+          "morph": "HR"
+        },
+        {
+          "w": "תֵּדַ֔ע",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "לַיהוָ֖ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "至 於 你 和 你 的 臣 僕 ， 我 知 道 你 們 還 是 不 懼 怕 耶 和 華 神 。",
+      "en": "But as for you and your servants, I know that you do not yet fear the Lord God.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאַתָּ֖ה",
+          "morph": "HC/Pp2ms"
+        },
+        {
+          "w": "וַעֲבָדֶ֑יךָ",
+          "morph": "HC/Ncmpc/Sp2ms"
+        },
+        {
+          "w": "יָדַ֕עְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "כִּ֚י",
+          "morph": "HC"
+        },
+        {
+          "w": "טֶ֣רֶם",
+          "morph": "HD"
+        },
+        {
+          "w": "תִּֽירְא֔וּן",
+          "morph": "HVqi2mp/Sn"
+        },
+        {
+          "w": "מִפְּנֵ֖י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהִֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "那 時 ， 麻 和 大 麥 被 雹 擊 打 ； 因 為 大 麥 已 經 吐 穗 ， 麻 也 開 了 花 。",
+      "en": "(Now the flax and the barley were struck by the hail, for the barley had ripened and the flax was in bud.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַפִּשְׁתָּ֥ה",
+          "morph": "HC/Td/Ncfsa"
+        },
+        {
+          "w": "וְהַשְּׂעֹרָ֖ה",
+          "morph": "HC/Td/Ncfsa"
+        },
+        {
+          "w": "נֻכָּ֑תָה",
+          "morph": "HVPp3fs"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "הַשְּׂעֹרָה֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אָבִ֔יב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְהַפִּשְׁתָּ֖ה",
+          "morph": "HC/Td/Ncfsa"
+        },
+        {
+          "w": "גִּבְעֹֽל",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "只 是 小 麥 和 粗 麥 沒 有 被 擊 打 ， 因 為 還 沒 有 長 成 。 ）",
+      "en": "But the wheat and the spelt were not struck, for they are later crops.)",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַחִטָּ֥ה",
+          "morph": "HC/Td/Ncfsa"
+        },
+        {
+          "w": "וְהַכֻּסֶּ֖מֶת",
+          "morph": "HC/Td/Ncfsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "נֻכּ֑וּ",
+          "morph": "HVPp3cp"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֲפִילֹ֖ת",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "הֵֽנָּה",
+          "morph": "HPp3fp"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "摩 西 離 了 法 老 出 城 ， 向 耶 和 華 舉 手 禱 告 ； 雷 和 雹 就 止 住 ， 雨 也 不 再 澆 在 地 上 了 。",
+      "en": "So Moses left Pharaoh, went out of the city, and spread out his hands to the Lord, and the thunder and the hail ceased, and the rain stopped pouring on the earth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּצֵ֨א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מֹשֶׁ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵעִ֤ם",
+          "morph": "HR/R"
+        },
+        {
+          "w": "פַּרְעֹה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעִ֔יר",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וַיִּפְרֹ֥שׂ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כַּפָּ֖יו",
+          "morph": "HNcfdc/Sp3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיַּחְדְּל֤וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "הַקֹּלוֹת֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְהַבָּרָ֔ד",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "וּמָטָ֖ר",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "נִתַּ֥ךְ",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "אָֽרְצָה",
+          "morph": "HNcbsa/Sd"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "法 老 見 雨 和 雹 與 雷 止 住 ， 就 越 發 犯 罪 ； 他 和 他 的 臣 僕 都 硬 著 心 。",
+      "en": "When Pharaoh saw that the rain and hail and thunder ceased, he sinned again: both he and his servants hardened their hearts.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּ֣רְא",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "חָדַ֨ל",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "הַמָּטָ֧ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהַבָּרָ֛ד",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "וְהַקֹּלֹ֖ת",
+          "morph": "HC/Td/Ncmpa"
+        },
+        {
+          "w": "וַיֹּ֣סֶף",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "לַחֲטֹ֑א",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "וַיַּכְבֵּ֥ד",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "לִבּ֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "ה֥וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "וַעֲבָדָֽיו",
+          "morph": "HC/Ncmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "法 老 的 心 剛 硬 ， 不 容 以 色 列 人 去 ， 正 如 耶 和 華 藉 著 摩 西 所 說 的 。",
+      "en": "So Pharaoh’s heart remained hard, and he did not release the Israelites, as the Lord had predicted through Moses.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַֽיֶּחֱזַק֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לֵ֣ב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פַּרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "שִׁלַּ֖ח",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֛ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "דִּבֶּ֥ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּיַד",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מֹשֶֽׁה",
+          "morph": "HNp"
+        }
+      ]
+    }
+  ]
+}

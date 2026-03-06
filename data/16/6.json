@@ -1,0 +1,1378 @@
+{
+  "book": 16,
+  "chapter": 6,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "參 巴 拉 、 多 比 雅 、 亞 拉 伯 人 基 善 和 我 們 其 餘 的 仇 敵 聽 見 我 已 經 修 完 了 城 牆 ， 其 中 沒 有 破 裂 之 處 （ 那 時 我 還 沒 有 安 門 扇 ） ，",
+      "en": "When Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies heard that I had rebuilt the wall and no breach remained in it (even though up to that time I had not positioned doors in the gates),",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֣י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כַאֲשֶׁ֣ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "נִשְׁמַ֣ע",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "לְסַנְבַלַּ֣ט",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְ֠טוֹבִיָּה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּלְגֶ֨שֶׁם",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "הָֽעַרְבִ֜י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "וּלְיֶ֣תֶר",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "אֹֽיְבֵ֗ינוּ",
+          "morph": "HVqrmpc/Sp1cp"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "בָנִ֨יתִי֙",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַ֣חוֹמָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "נ֥וֹתַר",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "בָּ֖הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "פָּ֑רֶץ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "גַּ֚ם",
+          "morph": "HTa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "הָעֵ֣ת",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "הַהִ֔יא",
+          "morph": "HTd/Pp3fs"
+        },
+        {
+          "w": "דְּלָת֖וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "הֶעֱמַ֥דְתִּי",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "בַשְּׁעָרִֽים",
+          "morph": "HRd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "參 巴 拉 和 基 善 就 打 發 人 來 見 我 ， 說 ： 請 你 來 ， 我 們 在 阿 挪 平 原 的 一 個 村 莊 相 會 。 他 們 卻 想 害 我 。",
+      "en": "Sanballat and Geshem sent word to me saying, “Come on! Let’s set up a time to meet together at Kephirim in the plain of Ono.” Now they intended to do me harm.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁלַ֨ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "סַנְבַלַּ֤ט",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְגֶ֨שֶׁם֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "אֵלַ֣י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לְכָ֞ה",
+          "morph": "HVqv2ms/Sh"
+        },
+        {
+          "w": "וְנִֽוָּעֲדָ֥ה",
+          "morph": "HC/VNh1cp"
+        },
+        {
+          "w": "יַחְדָּ֛ו",
+          "morph": "HD"
+        },
+        {
+          "w": "בַּכְּפִירִ֖ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "בְּבִקְעַ֣ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "אוֹנ֑וֹ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהֵ֨מָּה֙",
+          "morph": "HC/Pp3mp"
+        },
+        {
+          "w": "חֹֽשְׁבִ֔ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "לַעֲשׂ֥וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לִ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "רָעָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "於 是 我 差 遣 人 去 見 他 們 ， 說 ： 我 現 在 辦 理 大 工 ， 不 能 下 去 。 焉 能 停 工 下 去 見 你 們 呢 ？",
+      "en": "So I sent messengers to them saying, “I am engaged in an important work, and I am unable to come down. Why should the work come to a halt when I leave it to come down to you?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאֶשְׁלְחָ֨ה",
+          "morph": "HC/Vqw1cs/Sh"
+        },
+        {
+          "w": "עֲלֵיהֶ֤ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "מַלְאָכִים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מְלָאכָ֤ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "גְדוֹלָה֙",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "אֲנִ֣י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "עֹשֶׂ֔ה",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "אוּכַ֖ל",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "לָרֶ֑דֶת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לָ֣מָּה",
+          "morph": "HR/Ti"
+        },
+        {
+          "w": "תִשְׁבַּ֤ת",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "הַמְּלָאכָה֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "כַּאֲשֶׁ֣ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "אַרְפֶּ֔הָ",
+          "morph": "HVhi1cs/Sp3fs"
+        },
+        {
+          "w": "וְיָרַדְתִּ֖י",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "אֲלֵיכֶֽם",
+          "morph": "HR/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "他 們 這 樣 四 次 打 發 人 來 見 我 ， 我 都 如 此 回 答 他 們 。",
+      "en": "They contacted me four times in this way, and I responded the same way each time.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁלְח֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֵלַ֛י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "כַּדָּבָ֥ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֖ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "אַרְבַּ֣ע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "פְּעָמִ֑ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "וָאָשִׁ֥יב",
+          "morph": "HC/Vhw1cs"
+        },
+        {
+          "w": "אוֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "כַּדָּבָ֥ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּֽה",
+          "morph": "HTd/Pdxms"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "參 巴 拉 第 五 次 打 發 僕 人 來 見 我 ， 手 裡 拿 著 未 封 的 信 ，",
+      "en": "The fifth time that Sanballat sent his assistant to me in this way, he had an open letter in his hand.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁלַח֩",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלַ֨י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "סַנְבַלַּ֜ט",
+          "morph": "HNp"
+        },
+        {
+          "w": "כַּדָּבָ֥ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֛ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "פַּ֥עַם",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "חֲמִישִׁ֖ית",
+          "morph": "HAofsa"
+        },
+        {
+          "w": "אֶֽת",
+          "morph": "HTo"
+        },
+        {
+          "w": "נַעֲר֑וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְאִגֶּ֥רֶת",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "פְּתוּחָ֖ה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "בְּיָדֽוֹ",
+          "morph": "HR/Ncbsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "信 上 寫 著 說 ： 外 邦 人 中 有 風 聲 ， 迦 施 慕 （ 就 是 基 善 ， 見 二 章 十 九 節 ） 也 說 ， 你 和 猶 大 人 謀 反 ， 修 造 城 牆 ， 你 要 作 他 們 的 王 ；",
+      "en": "Written in it were the following words: “Among the nations it is rumored (and Geshem has substantiated this) that you and the Jews have intentions of revolting, and for this reason you are building the wall. Furthermore, according to these rumors you are going to become their king.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּת֣וּב",
+          "morph": "HVqsmsa"
+        },
+        {
+          "w": "בָּ֗הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "בַּגּוֹיִ֤ם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "נִשְׁמָע֙",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "וְגַשְׁמ֣וּ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "אֹמֵ֔ר",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אַתָּ֤ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "וְהַיְּהוּדִים֙",
+          "morph": "HC/Td/Ngmpa"
+        },
+        {
+          "w": "חֹשְׁבִ֣ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "לִמְר֔וֹד",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כֵּ֛ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "אַתָּ֥ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "בוֹנֶ֖ה",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "הַחוֹמָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְאַתָּ֗ה",
+          "morph": "HC/Pp2ms"
+        },
+        {
+          "w": "הֹוֶ֤ה",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לָהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "לְמֶ֔לֶךְ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "כַּדְּבָרִ֖ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "הָאֵֽלֶּה",
+          "morph": "HTd/Pdxcp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "你 又 派 先 知 在 耶 路 撒 冷 指 著 你 宣 講 ， 說 在 猶 大 有 王 。 現 在 這 話 必 傳 與 王 知 ； 所 以 請 你 來 ， 與 我 們 彼 此 商 議 。",
+      "en": "You have also established prophets to announce in Jerusalem on your behalf, ‘We have a king in Judah!’ Now the king is going to hear about these rumors. So come on, let’s talk about this.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְגַם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "נְבִיאִ֡ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "הֶעֱמַ֣דְתָּ",
+          "morph": "HVhp2ms"
+        },
+        {
+          "w": "לִקְרֹא֩",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "עָלֶ֨יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "בִֽירוּשָׁלִַ֜ם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לֵאמֹ֗ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מֶ֚לֶךְ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בִּֽיהוּדָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְעַתָּה֙",
+          "morph": "HC/D"
+        },
+        {
+          "w": "יִשָּׁמַ֣ע",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "לַמֶּ֔לֶךְ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "כַּדְּבָרִ֣ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "הָאֵ֑לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "וְעַתָּ֣ה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "לְכָ֔ה",
+          "morph": "HVqv2ms/Sh"
+        },
+        {
+          "w": "וְנִֽוָּעֲצָ֖ה",
+          "morph": "HC/VNh1cp"
+        },
+        {
+          "w": "יַחְדָּֽו",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "我 就 差 遣 人 去 見 他 ， 說 ： 你 所 說 的 這 事 ， 一 概 沒 有 ， 是 你 心 裡 捏 造 的 。",
+      "en": "I sent word back to him, “We are not engaged in these activities you are describing. All of this is a figment of your imagination.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאֶשְׁלְחָ֤ה",
+          "morph": "HC/Vqw1cs/Sh"
+        },
+        {
+          "w": "אֵלָיו֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לֹ֤א",
+          "morph": "HTn"
+        },
+        {
+          "w": "נִֽהְיָה֙",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "כַּדְּבָרִ֣ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "הָאֵ֔לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "אֲשֶׁ֖ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אַתָּ֣ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "אוֹמֵ֑ר",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "מִֽלִּבְּךָ֖",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "אַתָּ֥ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "בוֹדָֽאם",
+          "morph": "HVqrmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "他 們 都 要 使 我 們 懼 怕 ， 意 思 說 ， 他 們 的 手 必 軟 弱 ， 以 致 工 作 不 能 成 就 。 神 啊 ， 求 你 堅 固 我 的 手 。",
+      "en": "All of them were wanting to scare us, supposing, “Their hands will grow slack from the work, and it won’t get done.” So now, strengthen my hands!",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "כֻלָּ֗ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "מְיָֽרְאִ֤ים",
+          "morph": "HVprmpa"
+        },
+        {
+          "w": "אוֹתָ֨נוּ֙",
+          "morph": "HTo/Sp1cp"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "יִרְפּ֧וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "יְדֵיהֶ֛ם",
+          "morph": "HNcbdc/Sp3mp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמְּלָאכָ֖ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תֵעָשֶׂ֑ה",
+          "morph": "HVNi3fs"
+        },
+        {
+          "w": "וְעַתָּ֖ה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "חַזֵּ֥ק",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יָדָֽי",
+          "morph": "HNcbdc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "我 到 了 米 希 大 別 的 孫 子 、 第 來 雅 的 兒 子 示 瑪 雅 家 裡 ； 那 時 ， 他 閉 門 不 出 。 他 說 ： 我 們 不 如 在 神 的 殿 裡 會 面 ， 將 殿 門 關 鎖 ； 因 為 他 們 要 來 殺 你 ， 就 是 夜 裡 來 殺 你 。",
+      "en": "Then I went to the house of Shemaiah son of Delaiah, the son of Mehetabel. He was confined to his home. He said, “Let’s set up a time to meet in the house of God, within the temple. Let’s close the doors of the temple, for they are coming to kill you. It will surely be at night that they will come to kill you.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַאֲנִי",
+          "morph": "HC/Pp1cs"
+        },
+        {
+          "w": "בָ֗אתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שְֽׁמַֽעְיָ֧ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דְּלָיָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְהֵֽיטַבְאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְה֣וּא",
+          "morph": "HC/Pp3ms"
+        },
+        {
+          "w": "עָצ֑וּר",
+          "morph": "HVqsmsa"
+        },
+        {
+          "w": "וַיֹּ֡אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "נִוָּעֵד֩",
+          "morph": "HVNi1cp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּ֨ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאֱלֹהִ֜ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "תּ֣וֹךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַֽהֵיכָ֗ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְנִסְגְּרָה֙",
+          "morph": "HC/Vqh1cp"
+        },
+        {
+          "w": "דַּלְת֣וֹת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "הַהֵיכָ֔ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "כִּ֚י",
+          "morph": "HC"
+        },
+        {
+          "w": "בָּאִ֣ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "לְהָרְגֶ֔ךָ",
+          "morph": "HR/Vqc/Sp2ms"
+        },
+        {
+          "w": "וְלַ֖יְלָה",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "בָּאִ֥ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "לְהָרְגֶֽךָ",
+          "morph": "HR/Vqc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "我 說 ： 像 我 這 樣 的 人 豈 要 逃 跑 呢 ？ 像 我 這 樣 的 人 豈 能 進 入 殿 裡 保 全 生 命 呢 ？ 我 不 進 去 ！",
+      "en": "But I replied, “Should a man like me run away? Would someone like me flee to the temple in order to save his life? I will not go!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאֹמְרָ֗ה",
+          "morph": "HC/Vqw1cs/Sh"
+        },
+        {
+          "w": "הַאִ֤ישׁ",
+          "morph": "HTi/Ncmsa"
+        },
+        {
+          "w": "כָּמ֨וֹנִי֙",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "יִבְרָ֔ח",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וּמִ֥י",
+          "morph": "HC/Ti"
+        },
+        {
+          "w": "כָמ֛וֹנִי",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יָב֥וֹא",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַהֵיכָ֖ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וָחָ֑י",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "לֹ֖א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אָבֽוֹא",
+          "morph": "HVqi1cs"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "我 看 明 神 沒 有 差 遣 他 ， 是 他 自 己 說 這 話 攻 擊 我 ， 是 多 比 雅 和 參 巴 拉 賄 買 了 他 。",
+      "en": "I recognized the fact that God had not sent him, for he had spoken the prophecy against me as a hired agent of Tobiah and Sanballat.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאַכִּ֕ירָה",
+          "morph": "HC/Vhw1cs/Sh"
+        },
+        {
+          "w": "וְהִנֵּ֥ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֱלֹהִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "שְׁלָח֑וֹ",
+          "morph": "HVqp3ms/Sp3ms"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "הַנְּבוּאָה֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "דִּבֶּ֣ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "עָלַ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וְטוֹבִיָּ֥ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְסַנְבַלַּ֖ט",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "שְׂכָרֽוֹ",
+          "morph": "HVqp3ms/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "賄 買 他 的 緣 故 ， 是 要 叫 我 懼 怕 ， 依 從 他 犯 罪 ， 他 們 好 傳 揚 惡 言 毀 謗 我 。",
+      "en": "He had been hired to scare me so that I would do this and thereby sin. They would thus bring reproach on me and I would be discredited.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַ֤עַן",
+          "morph": "HR"
+        },
+        {
+          "w": "שָׂכוּר֙",
+          "morph": "HVqsmsa"
+        },
+        {
+          "w": "ה֔וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "לְמַֽעַן",
+          "morph": "HR"
+        },
+        {
+          "w": "אִירָ֥א",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "וְאֶֽעֱשֶׂה",
+          "morph": "HC/Vqi1cs"
+        },
+        {
+          "w": "כֵּ֖ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "וְחָטָ֑אתִי",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "וְהָיָ֤ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "לָהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "לְשֵׁ֣ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "רָ֔ע",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "לְמַ֖עַן",
+          "morph": "HR"
+        },
+        {
+          "w": "יְחָֽרְפֽוּנִי",
+          "morph": "HVpi3mp/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "我 的 神 啊 ， 多 比 雅 、 參 巴 拉 、 女 先 知 挪 亞 底 ， 和 其 餘 的 先 知 要 叫 我 懼 怕 ， 求 你 記 念 他 們 所 行 的 這 些 事 。",
+      "en": "Remember, O my God, Tobiah and Sanballat in light of these actions of theirs—also Noadiah the prophetess and the other prophets who have been trying to scare me!",
+      "notes": [],
+      "he": [
+        {
+          "w": "זָכְרָ֧ה",
+          "morph": "HVqv2ms/Sh"
+        },
+        {
+          "w": "אֱלֹהַ֛י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "לְטוֹבִיָּ֥ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וּלְסַנְבַלַּ֖ט",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "כְּמַעֲשָׂ֣יו",
+          "morph": "HR/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "אֵ֑לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "וְגַ֨ם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "לְנוֹעַדְיָ֤ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הַנְּבִיאָה֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וּלְיֶ֣תֶר",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "הַנְּבִיאִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הָי֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מְיָֽרְאִ֥ים",
+          "morph": "HVprmpa"
+        },
+        {
+          "w": "אוֹתִֽי",
+          "morph": "HTo/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "以 祿 月 二 十 五 日 ， 城 牆 修 完 了 ， 共 修 了 五 十 二 天 。",
+      "en": "So the wall was completed on the twenty-fifth day of Elul, in just fifty-two days.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתִּשְׁלַם֙",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "הַֽחוֹמָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "בְּעֶשְׂרִ֥ים",
+          "morph": "HR/Acbpa"
+        },
+        {
+          "w": "וַחֲמִשָּׁ֖ה",
+          "morph": "HC/Acmsa"
+        },
+        {
+          "w": "לֶאֱל֑וּל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לַחֲמִשִּׁ֥ים",
+          "morph": "HR/Acbpa"
+        },
+        {
+          "w": "וּשְׁנַ֖יִם",
+          "morph": "HC/Acmda"
+        },
+        {
+          "w": "יֽוֹם",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "我 們 一 切 仇 敵 、 四 圍 的 外 邦 人 聽 見 了 便 懼 怕 ， 愁 眉 不 展 ； 因 為 見 這 工 作 完 成 是 出 乎 我 們 的 神 。",
+      "en": "When all our enemies heard and all the nations who were around us saw this, they were greatly disheartened. They knew that this work had been accomplished with the help of our God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֗י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כַּאֲשֶׁ֤ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "שָֽׁמְעוּ֙",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "א֣וֹיְבֵ֔ינוּ",
+          "morph": "HVqrmpc/Sp1cp"
+        },
+        {
+          "w": "וַיִּֽרְא֗וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַגּוֹיִם֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "סְבִֽיבֹתֵ֔ינוּ",
+          "morph": "HNcbpc/Sp1cp"
+        },
+        {
+          "w": "וַיִּפְּל֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מְאֹ֖ד",
+          "morph": "HD"
+        },
+        {
+          "w": "בְּעֵינֵיהֶ֑ם",
+          "morph": "HR/Ncbdc/Sp3mp"
+        },
+        {
+          "w": "וַיֵּ֣דְע֔וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "כִּ֚י",
+          "morph": "HC"
+        },
+        {
+          "w": "מֵאֵ֣ת",
+          "morph": "HR/R"
+        },
+        {
+          "w": "אֱלֹהֵ֔ינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        },
+        {
+          "w": "נֶעֶשְׂתָ֖ה",
+          "morph": "HVNp3fs"
+        },
+        {
+          "w": "הַמְּלָאכָ֥ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הַזֹּֽאת",
+          "morph": "HTd/Pdxfs"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "在 那 些 日 子 ， 猶 大 的 貴 冑 屢 次 寄 信 與 多 比 雅 ， 多 比 雅 也 來 信 與 他 們 。",
+      "en": "In those days the aristocrats of Judah repeatedly sent letters to Tobiah, and responses from Tobiah were repeatedly coming to them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "גַּ֣ם",
+          "morph": "HTa"
+        },
+        {
+          "w": "בַּיָּמִ֣ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "הָהֵ֗ם",
+          "morph": "HTd/Pp3mp"
+        },
+        {
+          "w": "מַרְבִּ֞ים",
+          "morph": "HVhrmpa"
+        },
+        {
+          "w": "חֹרֵ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוּדָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אִגְּרֹ֣תֵיהֶ֔ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "הוֹלְכ֖וֹת",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "טוֹבִיָּ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַאֲשֶׁ֥ר",
+          "morph": "HC/Tr"
+        },
+        {
+          "w": "לְטוֹבִיָּ֖ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בָּא֥וֹת",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "אֲלֵיהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "在 猶 大 有 許 多 人 與 多 比 雅 結 盟 ； 因 他 是 亞 拉 的 兒 子 ， 示 迦 尼 的 女 婿 ， 並 且 他 的 兒 子 約 哈 難 娶 了 比 利 迦 兒 子 米 書 蘭 的 女 兒 為 妻 。",
+      "en": "For many in Judah had sworn allegiance to him, because he was the son-in-law of Shecaniah son of Arah. His son Jonathan had married the daughter of Meshullam son of Berechiah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "רַבִּ֣ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "בִּֽיהוּדָ֗ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בַּעֲלֵ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "שְׁבוּעָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "ל֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "חָתָ֥ן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "ה֖וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "לִשְׁכַנְיָ֣ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָרַ֑ח",
+          "morph": "HNp"
+        },
+        {
+          "w": "וִֽיהוֹחָנָ֣ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בְּנ֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "לָקַ֕ח",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בַּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "מְשֻׁלָּ֖ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּ֥ן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בֶּֽרֶכְיָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "他 們 常 在 我 面 前 說 多 比 雅 的 善 行 ， 也 將 我 的 話 傳 與 他 。 多 比 雅 又 常 寄 信 來 ， 要 叫 我 懼 怕 。",
+      "en": "They were telling me about his good deeds and then taking back to him the things I said. Tobiah, on the other hand, sent letters in order to scare me.",
+      "notes": [],
+      "he": [
+        {
+          "w": "גַּ֣ם",
+          "morph": "HTa"
+        },
+        {
+          "w": "טוֹבֹתָ֗יו",
+          "morph": "HAafpc/Sp3ms"
+        },
+        {
+          "w": "הָי֤וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אֹמְרִים֙",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "לְפָנַ֔י",
+          "morph": "HR/Ncbpc/Sp1cs"
+        },
+        {
+          "w": "וּדְבָרַ֕י",
+          "morph": "HC/Ncmpc/Sp1cs"
+        },
+        {
+          "w": "הָי֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מוֹצִיאִ֖ים",
+          "morph": "HVhrmpa"
+        },
+        {
+          "w": "ל֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אִגְּר֛וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "שָׁלַ֥ח",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "טוֹבִיָּ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְיָֽרְאֵֽנִי",
+          "morph": "HR/Vpc/Sp1cs"
+        }
+      ]
+    }
+  ]
+}

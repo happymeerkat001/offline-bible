@@ -1,0 +1,1814 @@
+{
+  "book": 6,
+  "chapter": 2,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "當 下 ， 嫩 的 兒 子 約 書 亞 從 什 亭 暗 暗 打 發 兩 個 人 作 探 子 ， 吩 咐 說 ： 你 們 去 窺 探 那 地 和 耶 利 哥 。 於 是 二 人 去 了 ， 來 到 一 個 妓 女 名 叫 喇 合 的 家 裡 ， 就 在 那 裡 躺 臥 。",
+      "en": "Joshua son of Nun sent two spies out from Shittim secretly and instructed them: “Find out what you can about the land, especially Jericho.” They stopped at the house of a prostitute named Rahab and spent the night there.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁלַ֣ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁ֣עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נ֠וּן",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִֽן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשִּׁטִּ֞ים",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "שְׁנַֽיִם",
+          "morph": "HAcmda"
+        },
+        {
+          "w": "אֲנָשִׁ֤ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מְרַגְּלִים֙",
+          "morph": "HVprmpa"
+        },
+        {
+          "w": "חֶ֣רֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לְכ֛וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "רְא֥וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "יְרִיח֑וֹ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיֵּ֨לְכ֜וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וַ֠יָּבֹאוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בֵּית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אִשָּׁ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "זוֹנָ֛ה",
+          "morph": "HVqrfsa"
+        },
+        {
+          "w": "וּשְׁמָ֥הּ",
+          "morph": "HC/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "רָחָ֖ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּשְׁכְּבוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שָֽׁמָּה",
+          "morph": "HD/Sd"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "有 人 告 訴 耶 利 哥 王 說 ： 今 夜 有 以 色 列 人 來 到 這 裡 窺 探 此 地 。",
+      "en": "The king of Jericho received this report: “Note well! Israelite men have come here tonight to spy on the land.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּ֣אָמַ֔ר",
+          "morph": "HC/VNw3ms"
+        },
+        {
+          "w": "לְמֶ֥לֶךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְרִיח֖וֹ",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הִנֵּ֣ה",
+          "morph": "HTm"
+        },
+        {
+          "w": "אֲ֠נָשִׁים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בָּ֣אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "הֵ֧נָּה",
+          "morph": "HD"
+        },
+        {
+          "w": "הַלַּ֛יְלָה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִבְּנֵ֥י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לַחְפֹּ֥ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "耶 利 哥 王 打 發 人 去 見 喇 合 說 ： 那 來 到 你 這 裡 、 進 了 你 家 的 人 要 交 出 來 ， 因 為 他 們 來 窺 探 全 地 。",
+      "en": "So the king of Jericho sent this order to Rahab: “Turn over the men who came to you—the ones who came to your house—for they have come to spy on the whole land!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁלַח֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מֶ֣לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְרִיח֔וֹ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "רָחָ֖ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "ה֠וֹצִיאִי",
+          "morph": "HVhv2fs"
+        },
+        {
+          "w": "הָאֲנָשִׁ֨ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הַבָּאִ֤ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "אֵלַ֨יִךְ֙",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בָּ֣אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לְבֵיתֵ֔ךְ",
+          "morph": "HR/Ncmsc/Sp2fs"
+        },
+        {
+          "w": "כִּ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "לַחְפֹּ֥ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "בָּֽאוּ",
+          "morph": "HVqp3cp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "女 人 將 二 人 隱 藏 ， 就 回 答 說 ： 那 人 果 然 到 我 這 裡 來 ； 他 們 是 那 裡 來 的 我 卻 不 知 道 。",
+      "en": "But the woman hid the two men and replied, “Yes, these men were clients of mine, but I didn’t know where they came from.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתִּקַּ֧ח",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "הָֽאִשָּׁ֛ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שְׁנֵ֥י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "הָאֲנָשִׁ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וַֽתִּצְפְּנ֑וֹ",
+          "morph": "HC/Vqw3fs/Sp3ms"
+        },
+        {
+          "w": "וַתֹּ֣אמֶר",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "כֵּ֗ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "בָּ֤אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אֵלַי֙",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "הָֽאֲנָשִׁ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יָדַ֖עְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "מֵאַ֥יִן",
+          "morph": "HR/Ti"
+        },
+        {
+          "w": "הֵֽמָּה",
+          "morph": "HPp3mp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "天 黑 、 要 關 城 門 的 時 候 ， 他 們 出 去 了 ， 往 那 裡 去 我 卻 不 知 道 。 你 們 快 快 的 去 追 趕 ， 就 必 追 上 。",
+      "en": "When it was time to shut the city gate for the night, the men left. I don’t know where they were heading. Chase after them quickly, for you have time to catch them!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֨י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הַשַּׁ֜עַר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לִסְגּ֗וֹר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בַּחֹ֨שֶׁךְ֙",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְהָאֲנָשִׁ֣ים",
+          "morph": "HC/Td/Ncmpa"
+        },
+        {
+          "w": "יָצָ֔אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָדַ֔עְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אָ֥נָה",
+          "morph": "HD"
+        },
+        {
+          "w": "הָלְכ֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "הָֽאֲנָשִׁ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "רִדְפ֥וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "מַהֵ֛ר",
+          "morph": "HVpa"
+        },
+        {
+          "w": "אַחֲרֵיהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "תַשִּׂיגֽוּם",
+          "morph": "HVhi2mp/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "（ 先 是 女 人 領 二 人 上 了 房 頂 ， 將 他 們 藏 在 那 裡 所 擺 的 麻 中 。 ）",
+      "en": "(Now she had taken them up to the roof and had hidden them in the stalks of flax she had spread out on the roof.)",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִ֖יא",
+          "morph": "HC/Pp3fs"
+        },
+        {
+          "w": "הֶעֱלָ֣תַם",
+          "morph": "HVhp3fs/Sp3mp"
+        },
+        {
+          "w": "הַגָּ֑גָה",
+          "morph": "HTd/Ncmsa/Sd"
+        },
+        {
+          "w": "וַֽתִּטְמְנֵם֙",
+          "morph": "HC/Vqw3fs/Sp3mp"
+        },
+        {
+          "w": "בְּפִשְׁתֵּ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "הָעֵ֔ץ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הָעֲרֻכ֥וֹת",
+          "morph": "HTd/Vqsfpa"
+        },
+        {
+          "w": "לָ֖הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַגָּֽג",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "那 些 人 就 往 約 但 河 的 渡 口 追 趕 他 們 去 了 。 追 趕 他 們 的 人 一 出 去 ， 城 門 就 關 了 。",
+      "en": "Meanwhile, the king’s men tried to find them on the road to the Jordan River near the fords. The city gate was shut as soon as they set out in pursuit of them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָאֲנָשִׁ֗ים",
+          "morph": "HC/Td/Ncmpa"
+        },
+        {
+          "w": "רָדְפ֤וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אַֽחֲרֵיהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "דֶּ֣רֶךְ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הַיַּרְדֵּ֔ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַֽמַּעְבְּר֑וֹת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "וְהַשַּׁ֣עַר",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "סָגָ֔רוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אַחֲרֵ֕י",
+          "morph": "HR"
+        },
+        {
+          "w": "כַּאֲשֶׁ֛ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "יָצְא֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "הָרֹדְפִ֖ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "אַחֲרֵיהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "二 人 還 沒 有 躺 臥 ， 女 人 就 上 房 頂 ， 到 他 們 那 裡 ，",
+      "en": "Now before the spies went to sleep, Rahab went up to the roof.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֵ֖מָּה",
+          "morph": "HC/Pp3mp"
+        },
+        {
+          "w": "טֶ֣רֶם",
+          "morph": "HD"
+        },
+        {
+          "w": "יִשְׁכָּב֑וּן",
+          "morph": "HVqi3mp/Sn"
+        },
+        {
+          "w": "וְהִ֛יא",
+          "morph": "HC/Pp3fs"
+        },
+        {
+          "w": "עָלְתָ֥ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "עֲלֵיהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַגָּֽג",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "對 他 們 說 ： 我 知 道 耶 和 華 已 經 把 這 地 賜 給 你 們 ， 並 且 因 你 們 的 緣 故 我 們 都 驚 慌 了 。 這 地 的 一 切 居 民 在 你 們 面 前 心 都 消 化 了 ；",
+      "en": "She said to the men, “I know the Lord is handing this land over to you. We are absolutely terrified of you, and all who live in the land are cringing before you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּ֨אמֶר֙",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָ֣אֲנָשִׁ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "יָדַ֕עְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "נָתַ֧ן",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְכִֽי",
+          "morph": "HC/C"
+        },
+        {
+          "w": "נָפְלָ֤ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "אֵֽימַתְכֶם֙",
+          "morph": "HNcfsc/Sp2mp"
+        },
+        {
+          "w": "עָלֵ֔ינוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "וְכִ֥י",
+          "morph": "HC/C"
+        },
+        {
+          "w": "נָמֹ֛גוּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יֹשְׁבֵ֥י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "מִפְּנֵיכֶֽם",
+          "morph": "HR/Ncbpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "因 為 我 們 聽 見 你 們 出 埃 及 的 時 候 ， 耶 和 華 怎 樣 在 你 們 前 面 使 紅 海 的 水 乾 了 ， 並 且 你 們 怎 樣 待 約 但 河 東 的 兩 個 亞 摩 利 王 西 宏 和 噩 ， 將 他 們 盡 行 毀 滅 。",
+      "en": "For we heard how the Lord dried up the water of the Red Sea before you when you left Egypt and how you annihilated the two Amorite kings, Sihon and Og, on the other side of the Jordan.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "שָׁמַ֗עְנוּ",
+          "morph": "HVqp1cp"
+        },
+        {
+          "w": "אֵ֠ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הוֹבִ֨ישׁ",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "יְהוָ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֵ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יַם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "סוּף֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִפְּנֵיכֶ֔ם",
+          "morph": "HR/Ncbpc/Sp2mp"
+        },
+        {
+          "w": "בְּצֵאתְכֶ֖ם",
+          "morph": "HR/Vqc/Sp2mp"
+        },
+        {
+          "w": "מִמִּצְרָ֑יִם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַאֲשֶׁ֣ר",
+          "morph": "HC/Tr"
+        },
+        {
+          "w": "עֲשִׂיתֶ֡ם",
+          "morph": "HVqp2mp"
+        },
+        {
+          "w": "לִשְׁנֵי֩",
+          "morph": "HR/Acmdc"
+        },
+        {
+          "w": "מַלְכֵ֨י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָאֱמֹרִ֜י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בְּעֵ֤בֶר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַיַּרְדֵּן֙",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "לְסִיחֹ֣ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וּלְע֔וֹג",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הֶחֱרַמְתֶּ֖ם",
+          "morph": "HVhp2mp"
+        },
+        {
+          "w": "אוֹתָֽם",
+          "morph": "HTo/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "我 們 一 聽 見 這 些 事 ， 心 就 消 化 了 。 因 你 們 的 緣 故 ， 並 無 一 人 有 膽 氣 。 耶 和 華 ─ 你 們 的 神 本 是 上 天 下 地 的 　 神 。",
+      "en": "When we heard the news, we lost our courage, and no one could even breathe for fear of you. For the Lord your God is God in heaven above and on earth below!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַנִּשְׁמַע֙",
+          "morph": "HC/Vqw1cp"
+        },
+        {
+          "w": "וַיִּמַּ֣ס",
+          "morph": "HC/VNw3ms"
+        },
+        {
+          "w": "לְבָבֵ֔נוּ",
+          "morph": "HNcmsc/Sp1cp"
+        },
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "קָ֨מָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "ע֥וֹד",
+          "morph": "HD"
+        },
+        {
+          "w": "ר֛וּחַ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "בְּאִ֖ישׁ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "מִפְּנֵיכֶ֑ם",
+          "morph": "HR/Ncbpc/Sp2mp"
+        },
+        {
+          "w": "כִּ֚י",
+          "morph": "HC"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹֽהֵיכֶ֔ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "ה֤וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "אֱלֹהִים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בַּשָּׁמַ֣יִם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "מִמַּ֔עַל",
+          "morph": "HR/D"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "מִתָּֽחַת",
+          "morph": "HR/R"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "現 在 我 既 是 恩 待 你 們 ， 求 你 們 指 著 耶 和 華 向 我 起 誓 ， 也 要 恩 待 我 父 家 ， 並 給 我 一 個 實 在 的 證 據 ，",
+      "en": "So now, promise me this with an oath sworn in the Lord’s name. Because I have shown allegiance to you, show allegiance to my family. Give me a solemn pledge",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַתָּ֗ה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "הִשָּֽׁבְעוּ",
+          "morph": "HVNv2mp"
+        },
+        {
+          "w": "נָ֥א",
+          "morph": "HTe"
+        },
+        {
+          "w": "לִי֙",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "בַּֽיהוָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "עָשִׂ֥יתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "עִמָּכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "חָ֑סֶד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וַעֲשִׂיתֶ֨ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "אַתֶּ֜ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּ֤ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָבִי֙",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "חֶ֔סֶד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּנְתַתֶּ֥ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "לִ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "א֥וֹת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אֱמֶֽת",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "要 救 活 我 的 父 母 、 弟 兄 、 姊 妹 ， 和 一 切 屬 他 們 的 ， 拯 救 我 們 性 命 不 死 。",
+      "en": "that you will spare the lives of my father, mother, brothers, sisters, and all who belong to them, and will rescue us from death.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַחֲיִתֶ֞ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אָבִ֣י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אִמִּ֗י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אַחַי֙",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אחותי",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "אַחְיוֹתַ֔י",
+          "morph": "HNcfpc/Sp1cs"
+        },
+        {
+          "w": "וְאֵ֖ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לָהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "וְהִצַּלְתֶּ֥ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "נַפְשֹׁתֵ֖ינוּ",
+          "morph": "HNcbpc/Sp1cp"
+        },
+        {
+          "w": "מִמָּֽוֶת",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "二 人 對 他 說 ： 你 若 不 洩 漏 我 們 這 件 事 ， 我 們 情 願 替 你 們 死 。 耶 和 華 將 這 地 賜 給 我 們 的 時 候 ， 我 們 必 以 慈 愛 誠 實 待 你 。",
+      "en": "The men said to her, “If you die, may we die too! If you do not report what we’ve been up to, then we will show unswerving allegiance to you when the Lord hands the land over to us.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֧אמְרוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "לָ֣הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "הָאֲנָשִׁ֗ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "נַפְשֵׁ֤נוּ",
+          "morph": "HNcbsc/Sp1cp"
+        },
+        {
+          "w": "תַחְתֵּיכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לָמ֔וּת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אִ֚ם",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַגִּ֔ידוּ",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דְּבָרֵ֖נוּ",
+          "morph": "HNcmsc/Sp1cp"
+        },
+        {
+          "w": "זֶ֑ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "וְהָיָ֗ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "בְּתֵת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָ֨נוּ֙",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֔רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְעָשִׂ֥ינוּ",
+          "morph": "HC/Vqq1cp"
+        },
+        {
+          "w": "עִמָּ֖ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "חֶ֥סֶד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וֶאֱמֶֽת",
+          "morph": "HC/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "於 是 女 人 用 繩 子 將 二 人 從 窗 戶 裡 縋 下 去 ； 因 他 的 房 子 是 在 城 牆 邊 上 ， 他 也 住 在 城 牆 上 。",
+      "en": "Then Rahab let them down by a rope through the window. (Her house was built as part of the city wall; she lived in the wall.)",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתּוֹרִדֵ֥ם",
+          "morph": "HC/Vhw3fs/Sp3mp"
+        },
+        {
+          "w": "בַּחֶ֖בֶל",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "בְּעַ֣ד",
+          "morph": "HR"
+        },
+        {
+          "w": "הַֽחַלּ֑וֹן",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "בֵיתָהּ֙",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "בְּקִ֣יר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַֽחוֹמָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וּבַֽחוֹמָ֖ה",
+          "morph": "HC/Rd/Ncfsa"
+        },
+        {
+          "w": "הִ֥יא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "יוֹשָֽׁבֶת",
+          "morph": "HVqrfsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "他 對 他 們 說 ： 你 們 且 往 山 上 去 ， 恐 怕 追 趕 的 人 碰 見 你 們 ； 要 在 那 裡 隱 藏 三 天 ， 等 追 趕 的 人 回 來 ， 然 後 才 可 以 走 你 們 的 路 。",
+      "en": "She told them, “Head to the hill country, so the ones chasing you don’t find you. Hide from them there for three days, long enough for those chasing you to return. Then you can be on your way.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּ֤אמֶר",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "לָהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "הָהָ֣רָה",
+          "morph": "HTd/Ncmsa/Sd"
+        },
+        {
+          "w": "לֵּ֔כוּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "פֶּֽן",
+          "morph": "HC"
+        },
+        {
+          "w": "יִפְגְּע֥וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "בָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "הָרֹדְפִ֑ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "וְנַחְבֵּתֶ֨ם",
+          "morph": "HC/VNq2mp"
+        },
+        {
+          "w": "שָׁ֜מָּה",
+          "morph": "HD/Sd"
+        },
+        {
+          "w": "שְׁלֹ֣שֶׁת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִ֗ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "עַ֚ד",
+          "morph": "HR"
+        },
+        {
+          "w": "שׁ֣וֹב",
+          "morph": "HVqa"
+        },
+        {
+          "w": "הָרֹֽדְפִ֔ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "וְאַחַ֖ר",
+          "morph": "HC/D"
+        },
+        {
+          "w": "תֵּלְכ֥וּ",
+          "morph": "HVqj2mp"
+        },
+        {
+          "w": "לְדַרְכְּכֶֽם",
+          "morph": "HR/Ncbsc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "二 人 對 他 說 ： 你 要 這 樣 行 。 不 然 ， 你 叫 我 們 所 起 的 誓 就 與 我 們 無 干 了 。",
+      "en": "The men said to her, “We are not bound by this oath you made us swear unless the following conditions are met:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּאמְר֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֵלֶ֖יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "הָאֲנָשִׁ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "נְקִיִּ֣ם",
+          "morph": "HAampa"
+        },
+        {
+          "w": "אֲנַ֔חְנוּ",
+          "morph": "HPp1cp"
+        },
+        {
+          "w": "מִשְּׁבֻעָתֵ֥ךְ",
+          "morph": "HR/Ncfsc/Sp2fs"
+        },
+        {
+          "w": "הַזֶּ֖ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הִשְׁבַּעְתָּֽנוּ",
+          "morph": "HVhp2fs/Sp1cp"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "我 們 來 到 這 地 的 時 候 ， 你 要 把 這 條 朱 紅 線 繩 繫 在 縋 我 們 下 去 的 窗 戶 上 ， 並 要 使 你 的 父 母 、 弟 兄 ， 和 你 父 的 全 家 都 聚 集 在 你 家 中 。",
+      "en": "When we invade the land, tie this red rope in the window through which you let us down, and gather together in your house your father, mother, brothers, and all who live in your father’s house.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הִנֵּ֛ה",
+          "morph": "HTm"
+        },
+        {
+          "w": "אֲנַ֥חְנוּ",
+          "morph": "HPp1cp"
+        },
+        {
+          "w": "בָאִ֖ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "בָּאָ֑רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "תִּקְוַ֡ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "חוּט֩",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׁנִ֨י",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֜ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "תִּקְשְׁרִ֗י",
+          "morph": "HVqi2fs"
+        },
+        {
+          "w": "בַּֽחַלּוֹן֙",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הוֹרַדְתֵּ֣נוּ",
+          "morph": "HVhp2fs/Sp1cp"
+        },
+        {
+          "w": "ב֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אָבִ֨יךְ",
+          "morph": "HNcmsc/Sp2fs"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אִמֵּ֜ךְ",
+          "morph": "HNcfsc/Sp2fs"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אַחַ֗יִךְ",
+          "morph": "HNcmpc/Sp2fs"
+        },
+        {
+          "w": "וְאֵת֙",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָבִ֔יךְ",
+          "morph": "HNcmsc/Sp2fs"
+        },
+        {
+          "w": "תַּאַסְפִ֥י",
+          "morph": "HVqi2fs"
+        },
+        {
+          "w": "אֵלַ֖יִךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "הַבָּֽיְתָה",
+          "morph": "HTd/Ncmsa/Sd"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "凡 出 了 你 家 門 往 街 上 去 的 ， 他 的 罪 （ 原 文 是 血 ） 必 歸 到 自 己 的 頭 上 ， 與 我 們 無 干 了 。 凡 在 你 家 裡 的 ， 若 有 人 下 手 害 他 ， 流 他 血 的 罪 就 歸 到 我 們 的 頭 上 。",
+      "en": "Anyone who leaves your house will be responsible for his own death—we are innocent in that case! But if anyone with you in the house is harmed, we will be responsible.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיָ֡ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "כֹּ֣ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יֵצֵא֩",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מִדַּלְתֵ֨י",
+          "morph": "HR/Ncfdc"
+        },
+        {
+          "w": "בֵיתֵ֧ךְ",
+          "morph": "HNcmsc/Sp2fs"
+        },
+        {
+          "w": "הַח֛וּצָה",
+          "morph": "HTd/Ncmsa/Sd"
+        },
+        {
+          "w": "דָּמ֥וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "בְרֹאשׁ֖וֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "וַאֲנַ֣חְנוּ",
+          "morph": "HC/Pp1cp"
+        },
+        {
+          "w": "נְקִיִּ֑ם",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וְ֠כֹל",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִֽהְיֶ֤ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אִתָּךְ֙",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "בַּבַּ֔יִת",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "דָּמ֣וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "בְרֹאשֵׁ֔נוּ",
+          "morph": "HR/Ncmsc/Sp1cp"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "יָ֖ד",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "תִּֽהְיֶה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "בּֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "你 若 洩 漏 我 們 這 件 事 ， 你 叫 我 們 所 起 的 誓 就 與 我 們 無 干 了 。",
+      "en": "If you should report what we’ve been up to, we are not bound by this oath you made us swear.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "תַּגִּ֖ידִי",
+          "morph": "HVhi2fs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דְּבָרֵ֣נוּ",
+          "morph": "HNcmsc/Sp1cp"
+        },
+        {
+          "w": "זֶ֑ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "וְהָיִ֣ינוּ",
+          "morph": "HC/Vqq1cp"
+        },
+        {
+          "w": "נְקִיִּ֔ם",
+          "morph": "HAampa"
+        },
+        {
+          "w": "מִשְּׁבֻעָתֵ֖ךְ",
+          "morph": "HR/Ncfsc/Sp2fs"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הִשְׁבַּעְתָּֽנוּ",
+          "morph": "HVhp2fs/Sp1cp"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "女 人 說 ： 照 你 們 的 話 行 罷 ！ 於 是 打 發 他 們 去 了 ， 又 把 朱 紅 線 繩 繫 在 窗 戶 上 。",
+      "en": "She said, “I agree to these conditions.” She sent them on their way and then tied the red rope in the window.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּ֨אמֶר֙",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "כְּדִבְרֵיכֶ֣ם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "כֶּן",
+          "morph": "HD"
+        },
+        {
+          "w": "ה֔וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "וַֽתְּשַׁלְּחֵ֖ם",
+          "morph": "HC/Vpw3fs/Sp3mp"
+        },
+        {
+          "w": "וַיֵּלֵ֑כוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וַתִּקְשֹׁ֛ר",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "תִּקְוַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַשָּׁנִ֖י",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בַּחַלּֽוֹן",
+          "morph": "HRd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "二 人 到 山 上 ， 在 那 裡 住 了 三 天 ， 等 著 追 趕 的 人 回 去 了 。 追 趕 的 人 一 路 找 他 們 ， 卻 找 不 著 。",
+      "en": "They went to the hill country and stayed there for three days, long enough for those chasing them to return. Their pursuers looked all along the way but did not find them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּלְכוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וַיָּבֹ֣אוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "הָהָ֔רָה",
+          "morph": "HTd/Ncmsa/Sd"
+        },
+        {
+          "w": "וַיֵּ֤שְׁבוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שָׁם֙",
+          "morph": "HD"
+        },
+        {
+          "w": "שְׁלֹ֣שֶׁת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "שָׁ֖בוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "הָרֹדְפִ֑ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "וַיְבַקְשׁ֧וּ",
+          "morph": "HC/Vpw3mp"
+        },
+        {
+          "w": "הָרֹדְפִ֛ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַדֶּ֖רֶךְ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "מָצָֽאוּ",
+          "morph": "HVqp3cp"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "二 人 就 下 山 回 來 ， 過 了 河 ， 到 嫩 的 兒 子 約 書 亞 那 裡 ， 向 他 述 說 所 遭 遇 的 一 切 事 ；",
+      "en": "Then the two men returned—they came down from the hills, crossed the river, came to Joshua son of Nun, and reported to him all they had discovered.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּשֻׁ֜בוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שְׁנֵ֤י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "הָֽאֲנָשִׁים֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וַיֵּרְד֣וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵֽהָהָ֔ר",
+          "morph": "HR/Td/Ncmsa"
+        },
+        {
+          "w": "וַיַּעַבְרוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וַיָּבֹ֔אוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוֹשֻׁ֖עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נ֑וּן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיְסַ֨פְּרוּ",
+          "morph": "HC/Vpw3mp"
+        },
+        {
+          "w": "ל֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אֵ֥ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמֹּצְא֖וֹת",
+          "morph": "HTd/Vqrfpa"
+        },
+        {
+          "w": "אוֹתָֽם",
+          "morph": "HTo/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "又 對 約 書 亞 說 ： 耶 和 華 果 然 將 那 全 地 交 在 我 們 手 中 ； 那 地 的 一 切 居 民 在 我 們 面 前 心 都 消 化 了 。",
+      "en": "They told Joshua, “Surely the Lord is handing over all the land to us! All who live in the land are cringing before us!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּאמְרוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוֹשֻׁ֔עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "נָתַ֧ן",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּיָדֵ֖נוּ",
+          "morph": "HR/Ncbsc/Sp1cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְגַם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "נָמֹ֛גוּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יֹשְׁבֵ֥י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "מִפָּנֵֽינוּ",
+          "morph": "HR/Ncbpc/Sp1cp"
+        }
+      ]
+    }
+  ]
+}

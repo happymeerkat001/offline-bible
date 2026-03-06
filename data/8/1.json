@@ -1,0 +1,1486 @@
+{
+  "book": 8,
+  "chapter": 1,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "當 士 師 秉 政 的 時 候 ， 國 中 遭 遇 饑 荒 。 在 猶 大 、 伯 利 恆 ， 有 一 個 人 帶 著 妻 子 和 兩 個 兒 子 往 摩 押 地 去 寄 居 。",
+      "en": "During the time of the judges, there was a famine in the land of Judah. So a man from Bethlehem in Judah went to live as a resident foreigner in the region of Moab, along with his wife and two sons.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֗י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בִּימֵי֙",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "שְׁפֹ֣ט",
+          "morph": "HVqc"
+        },
+        {
+          "w": "הַשֹּׁפְטִ֔ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "וַיְהִ֥י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "רָעָ֖ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בָּאָ֑רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "וַיֵּ֨לֶךְ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אִ֜ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִבֵּ֧ית",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לֶ֣חֶם",
+          "morph": "HNp"
+        },
+        {
+          "w": "יְהוּדָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָגוּר֙",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בִּשְׂדֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "מוֹאָ֔ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "ה֥וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "וְאִשְׁתּ֖וֹ",
+          "morph": "HC/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "וּשְׁנֵ֥י",
+          "morph": "HC/Acmdc"
+        },
+        {
+          "w": "בָנָֽיו",
+          "morph": "HNcmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "這 人 名 叫 以 利 米 勒 ， 他 的 妻 名 叫 拿 俄 米 ； 他 兩 個 兒 子 ， 一 個 名 叫 瑪 倫 ， 一 個 名 叫 基 連 ， 都 是 猶 大 的 伯 利 恆 的 以 法 他 人 。 他 們 到 了 摩 押 地 ， 就 住 在 那 裡 。",
+      "en": "(Now the man’s name was Elimelech, his wife was Naomi, and his two sons were Mahlon and Kilion. They were of the clan of Ephrath from Bethlehem in Judah.) They entered the region of Moab and settled there.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשֵׁ֣ם",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הָאִ֣ישׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֱֽלִימֶ֡לֶךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשֵׁם֩",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "אִשְׁתּ֨וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "נָעֳמִ֜י",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשֵׁ֥ם",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "שְׁנֵֽי",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "בָנָ֣יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "מַחְל֤וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְכִלְיוֹן֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "אֶפְרָתִ֔ים",
+          "morph": "HNgmpa"
+        },
+        {
+          "w": "מִבֵּ֥ית",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לֶ֖חֶם",
+          "morph": "HNp"
+        },
+        {
+          "w": "יְהוּדָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיָּבֹ֥אוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שְׂדֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מוֹאָ֖ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּֽהְיוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שָֽׁם",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "後 來 拿 俄 米 的 丈 夫 以 利 米 勒 死 了 ， 剩 下 婦 人 和 他 兩 個 兒 子 。",
+      "en": "Sometime later Naomi’s husband Elimelech died, so she and her two sons were left alone.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֥מָת",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֱלִימֶ֖לֶךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נָעֳמִ֑י",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַתִּשָּׁאֵ֥ר",
+          "morph": "HC/VNw3fs"
+        },
+        {
+          "w": "הִ֖יא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "וּשְׁנֵ֥י",
+          "morph": "HC/Acmdc"
+        },
+        {
+          "w": "בָנֶֽיהָ",
+          "morph": "HNcmpc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "這 兩 個 兒 子 娶 了 摩 押 女 子 為 妻 ， 一 個 名 叫 俄 珥 巴 ， 一 個 名 叫 路 得 ， 在 那 裡 住 了 約 有 十 年 。",
+      "en": "Both her sons married Moabite women. (One was named Orpah and the other Ruth.) And they continued to live there about 10 years.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׂא֣וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "לָהֶ֗ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "נָשִׁים֙",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "מֹֽאֲבִיּ֔וֹת",
+          "morph": "HNgfpa"
+        },
+        {
+          "w": "שֵׁ֤ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָֽאַחַת֙",
+          "morph": "HTd/Acfsa"
+        },
+        {
+          "w": "עָרְפָּ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשֵׁ֥ם",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הַשֵּׁנִ֖ית",
+          "morph": "HTd/Aofsa"
+        },
+        {
+          "w": "ר֑וּת",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיֵּ֥שְׁבוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שָׁ֖ם",
+          "morph": "HD"
+        },
+        {
+          "w": "כְּעֶ֥שֶׂר",
+          "morph": "HR/Acfsa"
+        },
+        {
+          "w": "שָׁנִֽים",
+          "morph": "HNcfpa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "瑪 倫 和 基 連 二 人 也 死 了 ， 剩 下 拿 俄 米 ， 沒 有 丈 夫 ， 也 沒 有 兒 子 。",
+      "en": "Then Naomi’s two sons, Mahlon and Kilion, also died. So the woman was left all alone—bereaved of her two children as well as her husband!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּמ֥וּתוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "גַם",
+          "morph": "HD"
+        },
+        {
+          "w": "שְׁנֵיהֶ֖ם",
+          "morph": "HAcmdc/Sp3mp"
+        },
+        {
+          "w": "מַחְל֣וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְכִלְי֑וֹן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וַתִּשָּׁאֵר֙",
+          "morph": "HC/VNw3fs"
+        },
+        {
+          "w": "הָֽאִשָּׁ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "מִשְּׁנֵ֥י",
+          "morph": "HR/Acmdc"
+        },
+        {
+          "w": "יְלָדֶ֖יהָ",
+          "morph": "HNcmpc/Sp3fs"
+        },
+        {
+          "w": "וּמֵאִישָֽׁהּ",
+          "morph": "HC/R/Ncmsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "他 就 與 兩 個 兒 婦 起 身 ， 要 從 摩 押 地 歸 回 ； 因 為 他 在 摩 押 地 聽 見 耶 和 華 眷 顧 自 己 的 百 姓 ， 賜 糧 食 與 他 們 。",
+      "en": "So she decided to return home from the region of Moab, accompanied by her daughters-in-law, because while she was living in Moab she had heard that the Lord had shown concern for his people, reversing the famine by providing abundant crops.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתָּ֤קָם",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "הִיא֙",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "וְכַלֹּתֶ֔יהָ",
+          "morph": "HC/Ncfpc/Sp3fs"
+        },
+        {
+          "w": "וַתָּ֖שָׁב",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "מִשְּׂדֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "מוֹאָ֑ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "שָֽׁמְעָה֙",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "בִּשְׂדֵ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מוֹאָ֔ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "פָקַ֤ד",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עַמּ֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "לָתֵ֥ת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לָהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "לָֽחֶם",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "於 是 他 和 兩 個 兒 婦 起 行 離 開 所 住 的 地 方 ， 要 回 猶 大 地 去 。",
+      "en": "Now as she and her two daughters-in-law began to leave the place where she had been living to return to the land of Judah,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֵּצֵ֗א",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמָּקוֹם֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הָיְתָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "שָׁ֔מָּה",
+          "morph": "HD/Sd"
+        },
+        {
+          "w": "וּשְׁתֵּ֥י",
+          "morph": "HC/Acfdc"
+        },
+        {
+          "w": "כַלֹּתֶ֖יהָ",
+          "morph": "HNcfpc/Sp3fs"
+        },
+        {
+          "w": "עִמָּ֑הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "וַתֵּלַ֣כְנָה",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "בַדֶּ֔רֶךְ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "לָשׁ֖וּב",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "יְהוּדָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "拿 俄 米 對 兩 個 兒 婦 說 ： 你 們 各 人 回 娘 家 去 罷 。 願 耶 和 華 恩 待 你 們 ， 像 你 們 恩 待 已 死 的 人 與 我 一 樣 ！",
+      "en": "Naomi said to her two daughters-in-law, “Listen to me! Each of you should return to your mother’s home. May the Lord show you the same kind of devotion that you have shown to your deceased husbands and to me.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּ֤אמֶר",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "נָעֳמִי֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לִשְׁתֵּ֣י",
+          "morph": "HR/Acfdc"
+        },
+        {
+          "w": "כַלֹּתֶ֔יהָ",
+          "morph": "HNcfpc/Sp3fs"
+        },
+        {
+          "w": "לֵ֣כְנָה",
+          "morph": "HVqv2fp"
+        },
+        {
+          "w": "שֹּׁ֔בְנָה",
+          "morph": "HVqv2fp"
+        },
+        {
+          "w": "אִשָּׁ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לְבֵ֣ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אִמָּ֑הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "יעשה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יַ֣עַשׂ",
+          "morph": "HVqj3ms"
+        },
+        {
+          "w": "יְהוָ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עִמָּכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "חֶ֔סֶד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כַּאֲשֶׁ֧ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "עֲשִׂיתֶ֛ם",
+          "morph": "HVqp2mp"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמֵּתִ֖ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "וְעִמָּדִֽי",
+          "morph": "HC/R/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "願 耶 和 華 使 你 們 各 在 新 夫 家 中 得 平 安 ！ 於 是 拿 俄 米 與 他 們 親 嘴 。 他 們 就 放 聲 而 哭 ，",
+      "en": "May the Lord enable each of you to find security in the home of a new husband.” Then she kissed them goodbye, and they wept loudly.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יִתֵּ֤ן",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וּמְצֶ֣אןָ",
+          "morph": "HC/Vqv2fp"
+        },
+        {
+          "w": "מְנוּחָ֔ה",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "אִשָּׁ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אִישָׁ֑הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "וַתִּשַּׁ֣ק",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "לָהֶ֔ן",
+          "morph": "HR/Sp3fp"
+        },
+        {
+          "w": "וַתִּשֶּׂ֥אנָה",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "קוֹלָ֖ן",
+          "morph": "HNcmsc/Sp3fp"
+        },
+        {
+          "w": "וַתִּבְכֶּֽינָה",
+          "morph": "HC/Vqw3fp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "說 ： 不 然 ， 我 們 必 與 你 一 同 回 你 本 國 去 。",
+      "en": "But they said to her, “No! We will return with you to your people.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּאמַ֖רְנָה",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "לָּ֑הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "אִתָּ֥ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "נָשׁ֖וּב",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "לְעַמֵּֽךְ",
+          "morph": "HR/Ncmsc/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "拿 俄 米 說 ： 我 女 兒 們 哪 ， 回 去 罷 ！ 為 何 要 跟 我 去 呢 ？ 我 還 能 生 子 作 你 們 的 丈 夫 麼 ？",
+      "en": "But Naomi replied, “Go back home, my daughters! There is no reason for you to return to Judah with me. I am no longer capable of giving birth to sons who might become your husbands!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּ֤אמֶר",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "נָעֳמִי֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "שֹׁ֣בְנָה",
+          "morph": "HVqv2fp"
+        },
+        {
+          "w": "בְנֹתַ֔י",
+          "morph": "HNcfpc/Sp1cs"
+        },
+        {
+          "w": "לָ֥מָּה",
+          "morph": "HR/Ti"
+        },
+        {
+          "w": "תֵלַ֖כְנָה",
+          "morph": "HVqi2fp"
+        },
+        {
+          "w": "עִמִּ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "הַֽעֽוֹד",
+          "morph": "HTi/D"
+        },
+        {
+          "w": "לִ֤י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "בָנִים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בְּֽמֵעַ֔י",
+          "morph": "HR/Ncmpc/Sp1cs"
+        },
+        {
+          "w": "וְהָי֥וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לַאֲנָשִֽׁים",
+          "morph": "HR/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "我 女 兒 們 哪 ， 回 去 罷 ！ 我 年 紀 老 邁 ， 不 能 再 有 丈 夫 ； 即 或 說 ， 我 還 有 指 望 ， 今 夜 有 丈 夫 可 以 生 子 ，",
+      "en": "Go back home, my daughters! For I am too old to get married again. Even if I thought that there was hope that I could get married tonight and conceive sons,",
+      "notes": [],
+      "he": [
+        {
+          "w": "שֹׁ֤בְנָה",
+          "morph": "HVqv2fp"
+        },
+        {
+          "w": "בְנֹתַי֙",
+          "morph": "HNcfpc/Sp1cs"
+        },
+        {
+          "w": "לֵ֔כְןָ",
+          "morph": "HVqv2fp"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "זָקַ֖נְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "מִהְי֣וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לְאִ֑ישׁ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "אָמַ֨רְתִּי֙",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "יֶשׁ",
+          "morph": "HTm"
+        },
+        {
+          "w": "לִ֣י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "תִקְוָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "גַּ֣ם",
+          "morph": "HTa"
+        },
+        {
+          "w": "הָיִ֤יתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "הַלַּ֨יְלָה֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְאִ֔ישׁ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וְגַ֖ם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "יָלַ֥דְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "בָנִֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "你 們 豈 能 等 著 他 們 長 大 呢 ？ 你 們 豈 能 等 著 他 們 不 嫁 別 人 呢 ？ 我 女 兒 們 哪 ， 不 要 這 樣 。 我 為 你 們 的 緣 故 甚 是 愁 苦 ， 因 為 耶 和 華 伸 手 攻 擊 我 。",
+      "en": "surely you would not want to wait until they were old enough to marry. Surely you would not remain unmarried all that time! No, my daughters, you must not return with me. For my intense suffering is too much for you to bear. For the Lord is afflicting me!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "הֲלָהֵ֣ן",
+          "morph": "HTi/C"
+        },
+        {
+          "w": "תְּשַׂבֵּ֗רְנָה",
+          "morph": "HVpi2fp"
+        },
+        {
+          "w": "עַ֚ד",
+          "morph": "HD"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִגְדָּ֔לוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "הֲלָהֵן֙",
+          "morph": "HTi/C"
+        },
+        {
+          "w": "תֵּֽעָגֵ֔נָה",
+          "morph": "HVNi2fp"
+        },
+        {
+          "w": "לְבִלְתִּ֖י",
+          "morph": "HR/C"
+        },
+        {
+          "w": "הֱי֣וֹת",
+          "morph": "HVqc"
+        },
+        {
+          "w": "לְאִ֑ישׁ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אַ֣ל",
+          "morph": "HTn"
+        },
+        {
+          "w": "בְּנֹתַ֗י",
+          "morph": "HNcfpc/Sp1cs"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "מַר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לִ֤י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "מְאֹד֙",
+          "morph": "HD"
+        },
+        {
+          "w": "מִכֶּ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יָצְאָ֥ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "בִ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "יַד",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "兩 個 兒 婦 又 放 聲 而 哭 ， 俄 珥 巴 與 婆 婆 親 嘴 而 別 ， 只 是 路 得 捨 不 得 拿 俄 米 。",
+      "en": "Again they wept loudly. Then Orpah kissed her mother-in-law goodbye, but Ruth clung tightly to her.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתִּשֶּׂ֣נָה",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "קוֹלָ֔ן",
+          "morph": "HNcmsc/Sp3fp"
+        },
+        {
+          "w": "וַתִּבְכֶּ֖ינָה",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "ע֑וֹד",
+          "morph": "HD"
+        },
+        {
+          "w": "וַתִּשַּׁ֤ק",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "עָרְפָּה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לַחֲמוֹתָ֔הּ",
+          "morph": "HR/Ncfsc/Sp3fs"
+        },
+        {
+          "w": "וְר֖וּת",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "דָּ֥בְקָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "בָּֽהּ",
+          "morph": "HR/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "拿 俄 米 說 ： 看 哪 ， 你 嫂 子 已 經 回 他 本 國 和 他 所 拜 的 神 那 裡 去 了 ， 你 也 跟 著 你 嫂 子 回 去 罷 ！",
+      "en": "So Naomi said, “Look, your sister-in-law is returning to her people and to her god. Follow your sister-in-law back home!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּ֗אמֶר",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "הִנֵּה֙",
+          "morph": "HTm"
+        },
+        {
+          "w": "שָׁ֣בָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "יְבִמְתֵּ֔ךְ",
+          "morph": "HNcfsc/Sp2fs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "עַמָּ֖הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אֱלֹהֶ֑יהָ",
+          "morph": "HNcmpc/Sp3fs"
+        },
+        {
+          "w": "שׁ֖וּבִי",
+          "morph": "HVqv2fs"
+        },
+        {
+          "w": "אַחֲרֵ֥י",
+          "morph": "HR"
+        },
+        {
+          "w": "יְבִמְתֵּֽךְ",
+          "morph": "HNcfsc/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "路 得 說 ： 不 要 催 我 回 去 不 跟 隨 你 。 你 往 哪 裡 去 ， 我 也 往 那 裡 去 ； 你 在 哪 裡 住 宿 ， 我 也 在 那 裡 住 宿 ； 你 的 國 就 是 我 的 國 ， 你 的 神 就 是 我 的 　 神 。",
+      "en": "But Ruth replied, “Stop urging me to abandon you! For wherever you go, I will go. Wherever you live, I will live. Your people will become my people, and your God will become my God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּ֤אמֶר",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "רוּת֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּפְגְּעִי",
+          "morph": "HVqj2fs"
+        },
+        {
+          "w": "בִ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "לְעָזְבֵ֖ךְ",
+          "morph": "HR/Vqc/Sp2fs"
+        },
+        {
+          "w": "לָשׁ֣וּב",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מֵאַחֲרָ֑יִךְ",
+          "morph": "HR/R/Sp2fs"
+        },
+        {
+          "w": "כִּ֠י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תֵּלְכִ֜י",
+          "morph": "HVqi2fs"
+        },
+        {
+          "w": "אֵלֵ֗ךְ",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "וּבַאֲשֶׁ֤ר",
+          "morph": "HC/R/Tr"
+        },
+        {
+          "w": "תָּלִ֨ינִי֙",
+          "morph": "HVqi2fs"
+        },
+        {
+          "w": "אָלִ֔ין",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "עַמֵּ֣ךְ",
+          "morph": "HNcmsc/Sp2fs"
+        },
+        {
+          "w": "עַמִּ֔י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וֵאלֹהַ֖יִךְ",
+          "morph": "HC/Ncmpc/Sp2fs"
+        },
+        {
+          "w": "אֱלֹהָֽי",
+          "morph": "HNcmpc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "你 在 哪 裡 死 ， 我 也 在 那 裡 死 ， 也 葬 在 那 裡 。 除 非 死 能 使 你 我 相 離 ！ 不 然 ， 願 耶 和 華 重 重 地 降 罰 與 我 。",
+      "en": "Wherever you die, I will die—and there I will be buried. May the Lord punish me severely if I do not keep my promise! Only death will be able to separate me from you!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "בַּאֲשֶׁ֤ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "תָּמ֨וּתִי֙",
+          "morph": "HVqi2fs"
+        },
+        {
+          "w": "אָמ֔וּת",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "וְשָׁ֖ם",
+          "morph": "HC/D"
+        },
+        {
+          "w": "אֶקָּבֵ֑ר",
+          "morph": "HVNi1cs"
+        },
+        {
+          "w": "כֹּה֩",
+          "morph": "HD"
+        },
+        {
+          "w": "יַעֲשֶׂ֨ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לִי֙",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וְכֹ֣ה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "יֹסִ֔יף",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "הַמָּ֔וֶת",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יַפְרִ֖יד",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "בֵּינִ֥י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וּבֵינֵֽךְ",
+          "morph": "HC/R/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "拿 俄 米 見 路 得 定 意 要 跟 隨 自 己 去 ， 就 不 再 勸 他 了 。",
+      "en": "When Naomi realized that Ruth was determined to go with her, she stopped trying to dissuade her.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֵּ֕רֶא",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "מִתְאַמֶּ֥צֶת",
+          "morph": "HVtrfsa"
+        },
+        {
+          "w": "הִ֖יא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "לָלֶ֣כֶת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אִתָּ֑הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "וַתֶּחְדַּ֖ל",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "לְדַבֵּ֥ר",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "אֵלֶֽיהָ",
+          "morph": "HR/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "於 是 二 人 同 行 ， 來 到 伯 利 恆 。 他 們 到 了 伯 利 恆 ， 合 城 的 人 就 都 驚 訝 。 婦 女 們 說 ： 這 是 拿 俄 米 麼 ？",
+      "en": "So the two of them journeyed together until they arrived in Bethlehem.When they entered Bethlehem, the whole village was excited about their arrival. The women of the village said, “Can this be Naomi?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֵּלַ֣כְנָה",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "שְׁתֵּיהֶ֔ם",
+          "morph": "HAcfdc/Sp3mp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "בֹּאָ֖נָה",
+          "morph": "HVqc/Sp3fp"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָ֑חֶם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיְהִ֗י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כְּבֹאָ֨נָה֙",
+          "morph": "HR/Vqc/Sp3fp"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֶ֔חֶם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַתֵּהֹ֤ם",
+          "morph": "HC/VNw3fs"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעִיר֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "עֲלֵיהֶ֔ן",
+          "morph": "HR/Sp3fp"
+        },
+        {
+          "w": "וַתֹּאמַ֖רְנָה",
+          "morph": "HC/Vqw3fp"
+        },
+        {
+          "w": "הֲזֹ֥את",
+          "morph": "HTi/Pdxfs"
+        },
+        {
+          "w": "נָעֳמִֽי",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "拿 俄 米 對 他 們 說 ： 不 要 叫 我 拿 俄 米 （ 就 是 甜 的 意 思 ） ， 要 叫 我 瑪 拉 （ 就 是 苦 的 意 思 ） ， 因 為 全 能 者 使 我 受 了 大 苦 。",
+      "en": "But she replied to them, “Don’t call me ‘Naomi’! Call me ‘Mara’ because the Sovereign One has treated me very harshly.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֹּ֣אמֶר",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "אֲלֵיהֶ֔ן",
+          "morph": "HR/Sp3fp"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּקְרֶ֥אנָה",
+          "morph": "HVqj2fp"
+        },
+        {
+          "w": "לִ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "נָעֳמִ֑י",
+          "morph": "HNp"
+        },
+        {
+          "w": "קְרֶ֤אןָ",
+          "morph": "HVqv2fp"
+        },
+        {
+          "w": "לִי֙",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "מָרָ֔א",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "הֵמַ֥ר",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "שַׁדַּ֛י",
+          "morph": "HNp"
+        },
+        {
+          "w": "לִ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "מְאֹֽד",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "我 滿 滿 地 出 去 ， 耶 和 華 使 我 空 空 地 回 來 。 耶 和 華 降 禍 與 我 ， 全 能 者 使 我 受 苦 。 既 是 這 樣 ， 你 們 為 何 還 叫 我 拿 俄 米 呢 ？",
+      "en": "I left here full, but the Lord has caused me to return empty-handed. Why do you call me ‘Naomi,’ seeing that the Lord has opposed me, and the Sovereign One has caused me to suffer?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֲנִי֙",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מְלֵאָ֣ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "הָלַ֔כְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "וְרֵיקָ֖ם",
+          "morph": "HC/D"
+        },
+        {
+          "w": "הֱשִׁיבַ֣נִי",
+          "morph": "HVhp3ms/Sp1cs"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָ֣מָּה",
+          "morph": "HR/Ti"
+        },
+        {
+          "w": "תִקְרֶ֤אנָה",
+          "morph": "HVqi2fp"
+        },
+        {
+          "w": "לִי֙",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "נָעֳמִ֔י",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיהוָה֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "עָ֣נָה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בִ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וְשַׁדַּ֖י",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הֵ֥רַֽע",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "לִֽי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "拿 俄 米 和 他 兒 婦 摩 押 女 子 路 得 ， 從 摩 押 地 回 來 到 伯 利 恆 ， 正 是 動 手 割 大 麥 的 時 候 。",
+      "en": "So Naomi returned, accompanied by her Moabite daughter-in-law Ruth, who came back with her from the region of Moab. (Now they arrived in Bethlehem at the beginning of the barley harvest.)",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתָּ֣שָׁב",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "נָעֳמִ֗י",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְר֨וּת",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הַמּוֹאֲבִיָּ֤ה",
+          "morph": "HTd/Ngfsa"
+        },
+        {
+          "w": "כַלָּתָהּ֙",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "עִמָּ֔הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "הַשָּׁ֖בָה",
+          "morph": "HTd/Vqp3fs"
+        },
+        {
+          "w": "מִשְּׂדֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "מוֹאָ֑ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהֵ֗מָּה",
+          "morph": "HC/Pp3mp"
+        },
+        {
+          "w": "בָּ֚אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֶ֔חֶם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּתְחִלַּ֖ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "קְצִ֥יר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שְׂעֹרִֽים",
+          "morph": "HNcfpa"
+        }
+      ]
+    }
+  ]
+}

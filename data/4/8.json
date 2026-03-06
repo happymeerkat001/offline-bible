@@ -1,0 +1,1658 @@
+{
+  "book": 4,
+  "chapter": 8,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 曉 諭 摩 西 說 ：",
+      "en": "The Lord spoke to Moses:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 告 訴 亞 倫 說 ： 點 燈 的 時 候 ， 七 盞 燈 都 要 向 燈 臺 前 面 發 光 。",
+      "en": "“Speak to Aaron and tell him, ‘When you set up the lamps, the seven lamps are to give light in front of the lampstand.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "דַּבֵּר֙",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "אַהֲרֹ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָמַרְתָּ֖",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֵלָ֑יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "בְּהַעֲלֹֽתְךָ֙",
+          "morph": "HR/Vhc/Sp2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַנֵּרֹ֔ת",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מוּל֙",
+          "morph": "HR"
+        },
+        {
+          "w": "פְּנֵ֣י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הַמְּנוֹרָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "יָאִ֖ירוּ",
+          "morph": "HVhi3mp"
+        },
+        {
+          "w": "שִׁבְעַ֥ת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "הַנֵּרֽוֹת",
+          "morph": "HTd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "亞 倫 便 這 樣 行 。 他 點 燈 臺 上 的 燈 ， 使 燈 向 前 發 光 ， 是 照 耶 和 華 所 吩 咐 摩 西 的 。",
+      "en": "And Aaron did so; he set up the lamps to face toward the front of the lampstand, as the Lord commanded Moses.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּ֤עַשׂ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כֵּן֙",
+          "morph": "HTm"
+        },
+        {
+          "w": "אַהֲרֹ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מוּל֙",
+          "morph": "HR"
+        },
+        {
+          "w": "פְּנֵ֣י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הַמְּנוֹרָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הֶעֱלָ֖ה",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "נֵרֹתֶ֑יהָ",
+          "morph": "HNcmpc/Sp3fs"
+        },
+        {
+          "w": "כַּֽאֲשֶׁ֛ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "צִוָּ֥ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֹשֶֽׁה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "這 燈 臺 的 作 法 是 用 金 子 錘 出 來 的 ， 連 座 帶 花 都 是 錘 出 來 的 。 摩 西 製 造 燈 臺 ， 是 照 耶 和 華 所 指 示 的 樣 式 。",
+      "en": "This is how the lampstand was made: It was beaten work in gold; from its shaft to its flowers it was beaten work. According to the pattern that the Lord had shown Moses, so he made the lampstand.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְזֶ֨ה",
+          "morph": "HC/Pdxms"
+        },
+        {
+          "w": "מַעֲשֵׂ֤ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמְּנֹרָה֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "מִקְשָׁ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "זָהָ֔ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "יְרֵכָ֥הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "פִּרְחָ֖הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "מִקְשָׁ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "הִ֑וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "כַּמַּרְאֶ֗ה",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הֶרְאָ֤ה",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֹשֶׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כֵּ֥ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "עָשָׂ֖ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַמְּנֹרָֽה",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "耶 和 華 曉 諭 摩 西 說 ：",
+      "en": "Then the Lord spoke to Moses:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "你 從 以 色 列 人 中 選 出 利 未 人 來 ， 潔 淨 他 們 。",
+      "en": "“Take the Levites from among the Israelites and purify them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "קַ֚ח",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַלְוִיִּ֔ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "מִתּ֖וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְטִהַרְתָּ֖",
+          "morph": "HC/Vpq2ms"
+        },
+        {
+          "w": "אֹתָֽם",
+          "morph": "HTo/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "潔 淨 他 們 當 這 樣 行 ： 用 除 罪 水 彈 在 他 們 身 上 ， 又 叫 他 們 用 剃 頭 刀 刮 全 身 ， 洗 衣 服 ， 潔 淨 自 己 。",
+      "en": "And do this to them to purify them: Sprinkle water of purification on them; then have them shave all their body and wash their clothes, and so purify themselves.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכֹֽה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "תַעֲשֶׂ֤ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "לָהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "לְטַֽהֲרָ֔ם",
+          "morph": "HR/Vpc/Sp3mp"
+        },
+        {
+          "w": "הַזֵּ֥ה",
+          "morph": "HVhv2ms"
+        },
+        {
+          "w": "עֲלֵיהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "מֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "חַטָּ֑את",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְהֶעֱבִ֤ירוּ",
+          "morph": "HC/Vhq3cp"
+        },
+        {
+          "w": "תַ֨עַר֙",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּשָׂרָ֔ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "וְכִבְּס֥וּ",
+          "morph": "HC/Vpq3cp"
+        },
+        {
+          "w": "בִגְדֵיהֶ֖ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "וְהִטֶּהָֽרוּ",
+          "morph": "HC/Vtq3cp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "然 後 叫 他 們 取 一 隻 公 牛 犢 ， 並 同 獻 的 素 祭 ， 就 是 調 油 的 細 麵 ； 你 要 另 取 一 隻 公 牛 犢 作 贖 罪 祭 。",
+      "en": "Then they are to take a young bull with its grain offering of fine flour mixed with olive oil; and you are to take a second young bull for a purification offering.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלָֽקְחוּ֙",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "פַּ֣ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּקָ֔ר",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וּמִנְחָת֔וֹ",
+          "morph": "HC/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "סֹ֖לֶת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּלוּלָ֣ה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "בַשָּׁ֑מֶן",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וּפַר",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "שֵׁנִ֥י",
+          "morph": "HAomsa"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּקָ֖ר",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "תִּקַּ֥ח",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "לְחַטָּֽאת",
+          "morph": "HR/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "將 利 未 人 奉 到 會 幕 前 ， 招 聚 以 色 列 全 會 眾 。",
+      "en": "You are to bring the Levites before the tent of meeting and assemble the entire community of the Israelites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִקְרַבְתָּ֙",
+          "morph": "HC/Vhq2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַלְוִיִּ֔ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "לִפְנֵ֖י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "אֹ֣הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵ֑ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְהִ֨קְהַלְתָּ֔",
+          "morph": "HC/Vhq2ms"
+        },
+        {
+          "w": "אֶֽת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲדַ֖ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "將 利 未 人 奉 到 耶 和 華 面 前 ， 以 色 列 人 要 按 手 在 他 們 頭 上 。",
+      "en": "Then you are to bring the Levites before the Lord, and the Israelites are to lay their hands on the Levites;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִקְרַבְתָּ֥",
+          "morph": "HC/Vhq2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַלְוִיִּ֖ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְסָמְכ֧וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "בְנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֛ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְדֵיהֶ֖ם",
+          "morph": "HNcbdc/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַלְוִיִּֽם",
+          "morph": "HTd/Ngmpa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "亞 倫 也 將 他 們 奉 到 耶 和 華 面 前 ， 為 以 色 列 人 當 作 搖 祭 ， 使 他 們 好 辦 耶 和 華 的 事 。",
+      "en": "and Aaron is to offer the Levites before the Lord as a wave offering from the Israelites, that they may do the work of the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֵנִיף֩",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אַהֲרֹ֨ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַלְוִיִּ֤ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "תְּנוּפָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵאֵ֖ת",
+          "morph": "HR/R"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהָי֕וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "לַעֲבֹ֖ד",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֲבֹדַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "利 未 人 要 按 手 在 那 兩 隻 牛 的 頭 上 ； 你 要 將 一 隻 作 贖 罪 祭 ， 一 隻 作 燔 祭 ， 獻 給 耶 和 華 ， 為 利 未 人 贖 罪 。",
+      "en": "When the Levites lay their hands on the heads of the bulls, offer the one for a purification offering and the other for a whole burnt offering to the Lord, to make atonement for the Levites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַלְוִיִּם֙",
+          "morph": "HC/Td/Ngmpa"
+        },
+        {
+          "w": "יִסְמְכ֣וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְדֵיהֶ֔ם",
+          "morph": "HNcbdc/Sp3mp"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹ֣אשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַפָּרִ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וַ֠עֲשֵׂה",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאֶחָ֨ד",
+          "morph": "HTd/Acmsa"
+        },
+        {
+          "w": "חַטָּ֜את",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הָאֶחָ֤ד",
+          "morph": "HTd/Acmsa"
+        },
+        {
+          "w": "עֹלָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לַֽיהוָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לְכַפֵּ֖ר",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַלְוִיִּֽם",
+          "morph": "HTd/Ngmpa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "你 也 要 使 利 未 人 站 在 亞 倫 和 他 兒 子 面 前 ， 將 他 們 當 作 搖 祭 奉 給 耶 和 華 。",
+      "en": "You are to have the Levites stand before Aaron and his sons, and then offer them as a wave offering to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַֽעֲמַדְתָּ֙",
+          "morph": "HC/Vhq2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַלְוִיִּ֔ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "אַהֲרֹ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְלִפְנֵ֣י",
+          "morph": "HC/R/Ncbpc"
+        },
+        {
+          "w": "בָנָ֑יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וְהֵנַפְתָּ֥",
+          "morph": "HC/Vhq2ms"
+        },
+        {
+          "w": "אֹתָ֛ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "תְּנוּפָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לַֽיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "這 樣 ， 你 從 以 色 列 人 中 將 利 未 人 分 別 出 來 ， 利 未 人 便 要 歸 我 。",
+      "en": "And so you are to separate the Levites from among the Israelites, and the Levites will be mine.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִבְדַּלְתָּ֙",
+          "morph": "HC/Vhq2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַלְוִיִּ֔ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "מִתּ֖וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהָ֥יוּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "לִ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "הַלְוִיִּֽם",
+          "morph": "HTd/Ngmpa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "此 後 利 未 人 要 進 去 辦 會 幕 的 事 ， 你 要 潔 淨 他 們 ， 將 他 們 當 作 搖 祭 奉 上 ；",
+      "en": "“After this, the Levites will go in to do the work of the tent of meeting. So you must cleanse them and offer them like a wave offering.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאַֽחֲרֵי",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כֵן֙",
+          "morph": "HD"
+        },
+        {
+          "w": "יָבֹ֣אוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "הַלְוִיִּ֔ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "לַעֲבֹ֖ד",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֹ֣הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵ֑ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְטִֽהַרְתָּ֣",
+          "morph": "HC/Vpq2ms"
+        },
+        {
+          "w": "אֹתָ֔ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "וְהֵנַפְתָּ֥",
+          "morph": "HC/Vhq2ms"
+        },
+        {
+          "w": "אֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "תְּנוּפָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "因 為 他 們 是 從 以 色 列 人 中 全 然 給 我 的 ， 我 揀 選 他 們 歸 我 ， 是 代 替 以 色 列 人 中 一 切 頭 生 的 。",
+      "en": "For they are entirely given to me from among the Israelites. I have taken them for myself instead of all who open the womb, the firstborn sons of all the Israelites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּי֩",
+          "morph": "HC"
+        },
+        {
+          "w": "נְתֻנִ֨ים",
+          "morph": "HVqsmpa"
+        },
+        {
+          "w": "נְתֻנִ֥ים",
+          "morph": "HVqsmpa"
+        },
+        {
+          "w": "הֵ֨מָּה֙",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "לִ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "מִתּ֖וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "תַּחַת֩",
+          "morph": "HR"
+        },
+        {
+          "w": "פִּטְרַ֨ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רֶ֜חֶם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּכ֥וֹר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כֹּל֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִבְּנֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָקַ֥חְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "לִֽי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "以 色 列 人 中 一 切 頭 生 的 ， 連 人 帶 牲 畜 ， 都 是 我 的 。 我 在 埃 及 地 擊 殺 一 切 頭 生 的 那 天 ， 將 他 們 分 別 為 聖 歸 我 。",
+      "en": "For all the firstborn males among the Israelites are mine, both humans and animals; when I destroyed all the firstborn in the land of Egypt I set them apart for myself.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "לִ֤י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּכוֹר֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בִּבְנֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בָּאָדָ֖ם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וּבַבְּהֵמָ֑ה",
+          "morph": "HC/Rd/Ncfsa"
+        },
+        {
+          "w": "בְּי֗וֹם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַכֹּתִ֤י",
+          "morph": "HVhc/Sp1cs"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּכוֹר֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "הִקְדַּ֥שְׁתִּי",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "אֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "לִֽי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "我 揀 選 利 未 人 代 替 以 色 列 人 中 一 切 頭 生 的 。",
+      "en": "So I have taken the Levites instead of all the firstborn sons among the Israelites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאֶקַּח֙",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַלְוִיִּ֔ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "תַּ֥חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּכ֖וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בִּבְנֵ֥י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "我 從 以 色 列 人 中 將 利 未 人 當 作 賞 賜 給 亞 倫 和 他 的 兒 子 ， 在 會 幕 中 辦 以 色 列 人 的 事 ， 又 為 以 色 列 人 贖 罪 ， 免 得 他 們 挨 近 聖 所 ， 有 災 殃 臨 到 他 們 中 間 。",
+      "en": "I have given the Levites as a gift to Aaron and his sons from among the Israelites, to do the work for the Israelites in the tent of meeting, and to make atonement for the Israelites, so there will be no plague among the Israelites when the Israelites come near the sanctuary.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאֶתְּנָ֨ה",
+          "morph": "HC/Vqw1cs/Sh"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַלְוִיִּ֜ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "נְתֻנִ֣ים",
+          "morph": "HVqsmpa"
+        },
+        {
+          "w": "לְאַהֲרֹ֣ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וּלְבָנָ֗יו",
+          "morph": "HC/R/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "מִתּוֹךְ֮",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֒",
+          "morph": "HNp"
+        },
+        {
+          "w": "לַעֲבֹ֞ד",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֲבֹדַ֤ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בְּנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּאֹ֣הֶל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מוֹעֵ֔ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּלְכַפֵּ֖ר",
+          "morph": "HC/R/Vpc"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְלֹ֨א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִהְיֶ֜ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בִּבְנֵ֤י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "נֶ֔גֶף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּגֶ֥שֶׁת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בְּנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַקֹּֽדֶשׁ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "摩 西 、 亞 倫 ， 並 以 色 列 全 會 眾 便 向 利 未 人 如 此 行 。 凡 耶 和 華 指 著 利 未 人 所 吩 咐 摩 西 的 ， 以 色 列 人 就 向 他 們 這 樣 行 。",
+      "en": "So Moses and Aaron and the entire community of the Israelites did this with the Levites. According to all that the Lord commanded Moses concerning the Levites, this is what the Israelites did with them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּ֨עַשׂ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מֹשֶׁ֧ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאַהֲרֹ֛ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "עֲדַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בְּנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לַלְוִיִּ֑ם",
+          "morph": "HRd/Ngmpa"
+        },
+        {
+          "w": "כְּ֠כֹל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "צִוָּ֨ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֹשֶׁה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לַלְוִיִּ֔ם",
+          "morph": "HRd/Ngmpa"
+        },
+        {
+          "w": "כֵּן",
+          "morph": "HTm"
+        },
+        {
+          "w": "עָשׂ֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לָהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "於 是 利 未 人 潔 淨 自 己 ， 除 了 罪 ， 洗 了 衣 服 ； 亞 倫 將 他 們 當 作 搖 祭 奉 到 耶 和 華 面 前 ， 又 為 他 們 贖 罪 ， 潔 淨 他 們 。",
+      "en": "The Levites purified themselves and washed their clothing; then Aaron presented them like a wave offering before the Lord, and Aaron made atonement for them to purify them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּֽתְחַטְּא֣וּ",
+          "morph": "HC/Vtw3mp"
+        },
+        {
+          "w": "הַלְוִיִּ֗ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "וַֽיְכַבְּסוּ֙",
+          "morph": "HC/Vpw3mp"
+        },
+        {
+          "w": "בִּגְדֵיהֶ֔ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "וַיָּ֨נֶף",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "אַהֲרֹ֥ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֹתָ֛ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "תְּנוּפָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיְכַפֵּ֧ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "עֲלֵיהֶ֛ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אַהֲרֹ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְטַהֲרָֽם",
+          "morph": "HR/Vpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "然 後 利 未 人 進 去 ， 在 亞 倫 和 他 兒 子 面 前 ， 在 會 幕 中 辦 事 。 耶 和 華 指 著 利 未 人 怎 樣 吩 咐 摩 西 ， 以 色 列 人 就 怎 樣 向 他 們 行 了 。",
+      "en": "After this, the Levites went in to do their work in the tent of meeting before Aaron and before his sons. As the Lord had commanded Moses concerning the Levites, so they did.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאַחֲרֵי",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כֵ֞ן",
+          "morph": "HD"
+        },
+        {
+          "w": "בָּ֣אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "הַלְוִיִּ֗ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "לַעֲבֹ֤ד",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֲבֹֽדָתָם֙",
+          "morph": "HNcfsc/Sp3mp"
+        },
+        {
+          "w": "בְּאֹ֣הֶל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מוֹעֵ֔ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "אַהֲרֹ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְלִפְנֵ֣י",
+          "morph": "HC/R/Ncbpc"
+        },
+        {
+          "w": "בָנָ֑יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "כַּאֲשֶׁר֩",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "צִוָּ֨ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֹשֶׁה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַלְוִיִּ֔ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "כֵּ֖ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "עָשׂ֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לָהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "耶 和 華 曉 諭 摩 西 說 ：",
+      "en": "Then the Lord spoke to Moses:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "利 未 人 是 這 樣 ： 從 二 十 五 歲 以 外 ， 他 們 要 前 來 任 職 ， 辦 會 幕 的 事 。",
+      "en": "“This is what pertains to the Levites: At the age of twenty-five years and upward one may begin to join the company in the work of the tent of meeting,",
+      "notes": [],
+      "he": [
+        {
+          "w": "זֹ֖את",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לַלְוִיִּ֑ם",
+          "morph": "HRd/Ngmpa"
+        },
+        {
+          "w": "מִבֶּן֩",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "חָמֵ֨שׁ",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "וְעֶשְׂרִ֤ים",
+          "morph": "HC/Acbpa"
+        },
+        {
+          "w": "שָׁנָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וָמַ֔עְלָה",
+          "morph": "HC/D/Sd"
+        },
+        {
+          "w": "יָבוֹא֙",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לִצְבֹ֣א",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "צָבָ֔א",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "בַּעֲבֹדַ֖ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "אֹ֥הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵֽד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "到 了 五 十 歲 要 停 工 退 任 ， 不 再 辦 事 ，",
+      "en": "and at the age of fifty years they must retire from performing the work and may no longer work.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִבֶּן֙",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "חֲמִשִּׁ֣ים",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "שָׁנָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "יָשׁ֖וּב",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מִצְּבָ֣א",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "הָעֲבֹדָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יַעֲבֹ֖ד",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "עֽוֹד",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "只 要 在 會 幕 裡 ， 和 他 們 的 弟 兄 一 同 伺 候 ， 謹 守 所 吩 咐 的 ， 不 再 辦 事 了 。 至 於 所 吩 咐 利 未 人 的 ， 你 要 這 樣 向 他 們 行 。",
+      "en": "They may assist their colleagues in the tent of meeting to attend to needs, but they must do no work. This is the way you must establish the Levites regarding their duties.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשֵׁרֵ֨ת",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֶחָ֜יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "בְּאֹ֤הֶל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מוֹעֵד֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לִשְׁמֹ֣ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מִשְׁמֶ֔רֶת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וַעֲבֹדָ֖ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יַעֲבֹ֑ד",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "כָּ֛כָה",
+          "morph": "HD"
+        },
+        {
+          "w": "תַּעֲשֶׂ֥ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "לַלְוִיִּ֖ם",
+          "morph": "HRd/Ngmpa"
+        },
+        {
+          "w": "בְּמִשְׁמְרֹתָֽם",
+          "morph": "HR/Ncfpc/Sp3mp"
+        }
+      ]
+    }
+  ]
+}

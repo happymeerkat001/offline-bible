@@ -1,0 +1,1390 @@
+{
+  "book": 21,
+  "chapter": 9,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "我 將 這 一 切 事 放 在 心 上 ， 詳 細 考 究 ， 就 知 道 義 人 和 智 慧 人 ， 並 他 們 的 作 為 都 在 神 手 中 ； 或 是 愛 ， 或 是 恨 ， 都 在 他 們 的 前 面 ， 人 不 能 知 道 。",
+      "en": "So I reflected on all this, attempting to clear it all up. I concluded that the righteous and the wise, as well as their works, are in the hand of God; whether a person will be loved or hated— no one knows what lies ahead.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "זֶ֞ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "נָתַ֤תִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "לִבִּי֙",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וְלָב֣וּר",
+          "morph": "HC/R/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "זֶ֔ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הַצַּדִּיקִ֧ים",
+          "morph": "HTd/Aampa"
+        },
+        {
+          "w": "וְהַחֲכָמִ֛ים",
+          "morph": "HC/Td/Aampa"
+        },
+        {
+          "w": "וַעֲבָדֵיהֶ֖ם",
+          "morph": "HC/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "בְּיַ֣ד",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "הָאֱלֹהִ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "גַּֽם",
+          "morph": "HTa"
+        },
+        {
+          "w": "אַהֲבָ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "גַם",
+          "morph": "HD"
+        },
+        {
+          "w": "שִׂנְאָ֗ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אֵ֤ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "יוֹדֵ֨עַ֙",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "הָֽאָדָ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַכֹּ֖ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לִפְנֵיהֶֽם",
+          "morph": "HR/Ncbpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "凡 臨 到 眾 人 的 事 都 是 一 樣 ： 義 人 和 惡 人 都 遭 遇 一 樣 的 事 ； 好 人 ， 潔 淨 人 和 不 潔 淨 人 ， 獻 祭 的 與 不 獻 祭 的 ， 也 是 一 樣 。 好 人 如 何 ， 罪 人 也 如 何 ； 起 誓 的 如 何 ， 怕 起 誓 的 也 如 何 。",
+      "en": "Everyone shares the same fate— the righteous and the wicked, the good and the bad, the ceremonially clean and unclean, those who offer sacrifices and those who do not. What happens to the good person, also happens to the sinner; what happens to those who make vows, also happens to those who are afraid to make vows.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הַכֹּ֞ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "כַּאֲשֶׁ֣ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "לַכֹּ֗ל",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "מִקְרֶ֨ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶחָ֜ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "לַצַּדִּ֤יק",
+          "morph": "HRd/Aamsa"
+        },
+        {
+          "w": "וְלָרָשָׁע֙",
+          "morph": "HC/Rd/Aamsa"
+        },
+        {
+          "w": "לַטּוֹב֙",
+          "morph": "HRd/Aamsa"
+        },
+        {
+          "w": "וְלַטָּה֣וֹר",
+          "morph": "HC/Rd/Aamsa"
+        },
+        {
+          "w": "וְלַטָּמֵ֔א",
+          "morph": "HC/Rd/Aamsa"
+        },
+        {
+          "w": "וְלַזֹּבֵ֔חַ",
+          "morph": "HC/Rd/Vqrmsa"
+        },
+        {
+          "w": "וְלַאֲשֶׁ֖ר",
+          "morph": "HC/R/Tr"
+        },
+        {
+          "w": "אֵינֶ֣נּוּ",
+          "morph": "HTn/Sp3ms"
+        },
+        {
+          "w": "זֹבֵ֑חַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "כַּטּוֹב֙",
+          "morph": "HRd/Aamsa"
+        },
+        {
+          "w": "כַּֽחֹטֶ֔א",
+          "morph": "HRd/Vqrmsa"
+        },
+        {
+          "w": "הַנִּשְׁבָּ֕ע",
+          "morph": "HTd/VNrmsa"
+        },
+        {
+          "w": "כַּאֲשֶׁ֖ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "שְׁבוּעָ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "יָרֵֽא",
+          "morph": "HVqrmsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "在 日 光 之 下 所 行 的 一 切 事 上 有 一 件 禍 患 ， 就 是 眾 人 所 遭 遇 的 都 是 一 樣 ， 並 且 世 人 的 心 充 滿 了 惡 ； 活 著 的 時 候 心 裡 狂 妄 ， 後 來 就 歸 死 人 那 裡 去 了 。",
+      "en": "This is the unfortunate fact about everything that happens on earth: The same fate awaits everyone. In addition to this, the hearts of all people are full of evil, and there is folly in their hearts during their lives—then they die.",
+      "notes": [],
+      "he": [
+        {
+          "w": "זֶ֣ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "רָ֗ע",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "בְּכֹ֤ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶֽׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נַעֲשָׂה֙",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "תַּ֣חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשֶּׁ֔מֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "מִקְרֶ֥ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶחָ֖ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "לַכֹּ֑ל",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְגַ֣ם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "לֵ֣ב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּֽנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָ֠אָדָם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מָלֵא",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "רָ֨ע",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְהוֹלֵל֤וֹת",
+          "morph": "HC/Ncfpa"
+        },
+        {
+          "w": "בִּלְבָבָם֙",
+          "morph": "HR/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "בְּחַיֵּיהֶ֔ם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "וְאַחֲרָ֖יו",
+          "morph": "HC/R/Sp3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמֵּתִֽים",
+          "morph": "HTd/Vqrmpa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "與 一 切 活 人 相 連 的 ， 那 人 還 有 指 望 ， 因 為 活 著 的 狗 比 死 了 的 獅 子 更 強 。",
+      "en": "But whoever is among the living has hope; a live dog is better than a dead lion.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "מִי֙",
+          "morph": "HTi"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יבחר",
+          "morph": "HVPi3ms"
+        },
+        {
+          "w": "יְחֻבַּ֔ר",
+          "morph": "HVPi3ms"
+        },
+        {
+          "w": "אֶ֥ל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַחַיִּ֖ים",
+          "morph": "HTd/Aampa"
+        },
+        {
+          "w": "יֵ֣שׁ",
+          "morph": "HTm"
+        },
+        {
+          "w": "בִּטָּח֑וֹן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "לְכֶ֤לֶב",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "חַי֙",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "ה֣וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "ט֔וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאַרְיֵ֖ה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַמֵּֽת",
+          "morph": "HTd/Vqrmsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "活 著 的 人 知 道 必 死 ； 死 了 的 人 毫 無 所 知 ， 也 不 再 得 賞 賜 ； 他 們 的 名 無 人 記 念 。",
+      "en": "For the living know that they will die, but the dead do not know anything; they have no further reward—and even the memory of them disappears.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֧י",
+          "morph": "HC"
+        },
+        {
+          "w": "הַֽחַיִּ֛ים",
+          "morph": "HTd/Aampa"
+        },
+        {
+          "w": "יוֹדְעִ֖ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "שֶׁיָּמֻ֑תוּ",
+          "morph": "HTr/Vqi3mp"
+        },
+        {
+          "w": "וְהַמֵּתִ֞ים",
+          "morph": "HC/Td/Vqrmpa"
+        },
+        {
+          "w": "אֵינָ֧ם",
+          "morph": "HTn/Sp3mp"
+        },
+        {
+          "w": "יוֹדְעִ֣ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "מְא֗וּמָה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְאֵֽין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "ע֤וֹד",
+          "morph": "HD"
+        },
+        {
+          "w": "לָהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "שָׂכָ֔ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "נִשְׁכַּ֖ח",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "זִכְרָֽם",
+          "morph": "HNcmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "他 們 的 愛 ， 他 們 的 恨 ， 他 們 的 嫉 妒 ， 早 都 消 滅 了 。 在 日 光 之 下 所 行 的 一 切 事 上 ， 他 們 永 不 再 有 分 了 。",
+      "en": "What they loved, as well as what they hated and envied, perished long ago, and they no longer have a part in anything that happens on earth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "גַּ֣ם",
+          "morph": "HTa"
+        },
+        {
+          "w": "אַהֲבָתָ֧ם",
+          "morph": "HNcfsc/Sp3mp"
+        },
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "שִׂנְאָתָ֛ם",
+          "morph": "HNcfsc/Sp3mp"
+        },
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "קִנְאָתָ֖ם",
+          "morph": "HNcfsc/Sp3mp"
+        },
+        {
+          "w": "כְּבָ֣ר",
+          "morph": "HD"
+        },
+        {
+          "w": "אָבָ֑דָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "וְחֵ֨לֶק",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אֵין",
+          "morph": "HTn"
+        },
+        {
+          "w": "לָהֶ֥ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "עוֹד֙",
+          "morph": "HD"
+        },
+        {
+          "w": "לְעוֹלָ֔ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "בְּכֹ֥ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶֽׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נַעֲשָׂ֖ה",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "תַּ֥חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשָּֽׁמֶשׁ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "你 只 管 去 歡 歡 喜 喜 吃 你 的 飯 ， 心 中 快 樂 喝 你 的 酒 ， 因 為 神 已 經 悅 納 你 的 作 為 。",
+      "en": "Go, eat your food with joy, and drink your wine with a happy heart, because God has already approved your works.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֵ֣ךְ",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "אֱכֹ֤ל",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "בְּשִׂמְחָה֙",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "לַחְמֶ֔ךָ",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "וּֽשֲׁתֵ֥ה",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "בְלֶב",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "ט֖וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יֵינֶ֑ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "כְבָ֔ר",
+          "morph": "HD"
+        },
+        {
+          "w": "רָצָ֥ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "הָאֱלֹהִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֶֽת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מַעֲשֶֽׂיךָ",
+          "morph": "HNcmpc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "你 的 衣 服 當 時 常 潔 白 ， 你 頭 上 也 不 要 缺 少 膏 油 。",
+      "en": "Let your clothes always be white, and do not spare precious ointment on your head.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עֵ֕ת",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "יִהְי֥וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "בְגָדֶ֖יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "לְבָנִ֑ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וְשֶׁ֖מֶן",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹאשְׁךָ֥",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "יֶחְסָֽר",
+          "morph": "HVqj3ms"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "在 你 一 生 虛 空 的 年 日 ， 就 是 神 賜 你 在 日 光 之 下 虛 空 的 年 日 ， 當 同 你 所 愛 的 妻 ， 快 活 度 日 ， 因 為 那 是 你 生 前 在 日 光 之 下 勞 碌 的 事 上 所 得 的 分 。",
+      "en": "Enjoy life with your beloved wife during all the days of your fleeting life that God has given you on earth during all your fleeting days; for that is your reward in life and in your burdensome work on earth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רְאֵ֨ה",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "חַיִּ֜ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "אִשָּׁ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אָהַ֗בְתָּ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְמֵי֙",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "חַיֵּ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הֶבְלֶ֔ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נָֽתַן",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לְךָ֙",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "תַּ֣חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשֶּׁ֔מֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "כֹּ֖ל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְמֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הֶבְלֶ֑ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "ה֤וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "חֶלְקְךָ֙",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "בַּֽחַיִּ֔ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "וּבַעֲמָ֣לְךָ֔",
+          "morph": "HC/R/Ncbsc/Sp2ms"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אַתָּ֥ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "עָמֵ֖ל",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "תַּ֥חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשָּֽׁמֶשׁ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "凡 你 手 所 當 做 的 事 要 盡 力 去 做 ； 因 為 在 你 所 必 去 的 陰 間 沒 有 工 作 ， 沒 有 謀 算 ， 沒 有 知 識 ， 也 沒 有 智 慧 。",
+      "en": "Whatever you find to do with your hands, do it with all your might, because there is neither work nor planning nor knowledge nor wisdom in the grave, the place where you will eventually go.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כֹּ֠ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּמְצָ֧א",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "יָֽדְךָ֛",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "לַעֲשׂ֥וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בְּכֹחֲךָ֖",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "עֲשֵׂ֑ה",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "כִּי֩",
+          "morph": "HC"
+        },
+        {
+          "w": "אֵ֨ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "מַעֲשֶׂ֤ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְחֶשְׁבּוֹן֙",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וְדַ֣עַת",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "וְחָכְמָ֔ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "בִּשְׁא֕וֹל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אַתָּ֖ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "הֹלֵ֥ךְ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "שָֽׁמָּה",
+          "morph": "HD/Sd"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "我 又 轉 念 ： 見 日 光 之 下 ， 快 跑 的 未 必 能 贏 ； 力 戰 的 未 必 得 勝 ； 智 慧 的 未 必 得 糧 食 ； 明 哲 的 未 必 得 資 財 ； 靈 巧 的 未 必 得 喜 悅 。 所 臨 到 眾 人 的 是 在 乎 當 時 的 機 會 。",
+      "en": "Again, I observed this on the earth: The race is not always won by the swiftest, the battle is not always won by the strongest; prosperity does not always belong to those who are the wisest; wealth does not always belong to those who are the most discerning, nor does success always come to those with the most knowledge— for time and chance may overcome them all.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שַׁ֜בְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "וְרָאֹ֣ה",
+          "morph": "HC/Vqa"
+        },
+        {
+          "w": "תַֽחַת",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשֶּׁ֗מֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹא֩",
+          "morph": "HTn"
+        },
+        {
+          "w": "לַקַּלִּ֨ים",
+          "morph": "HRd/Aampa"
+        },
+        {
+          "w": "הַמֵּר֜וֹץ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְלֹ֧א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "לַגִּבּוֹרִ֣ים",
+          "morph": "HRd/Aampa"
+        },
+        {
+          "w": "הַמִּלְחָמָ֗ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְ֠גַם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "לַחֲכָמִ֥ים",
+          "morph": "HRd/Aampa"
+        },
+        {
+          "w": "לֶ֨חֶם֙",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וְגַ֨ם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "לֹ֤א",
+          "morph": "HTn"
+        },
+        {
+          "w": "לַנְּבֹנִים֙",
+          "morph": "HRd/VNrmpa"
+        },
+        {
+          "w": "עֹ֔שֶׁר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְגַ֛ם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "לַיֹּדְעִ֖ים",
+          "morph": "HRd/Vqrmpa"
+        },
+        {
+          "w": "חֵ֑ן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "עֵ֥ת",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וָפֶ֖גַע",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "יִקְרֶ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כֻּלָּֽם",
+          "morph": "HNcmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "原 來 人 也 不 知 道 自 己 的 定 期 。 魚 被 惡 網 圈 住 ， 鳥 被 網 羅 捉 住 ， 禍 患 忽 然 臨 到 的 時 候 ， 世 人 陷 在 其 中 也 是 如 此 。",
+      "en": "Surely, no one knows his appointed time. Like fish that are caught in a deadly net and like birds that are caught in a snare— just like them, all people are ensnared at an unfortunate time that falls upon them suddenly.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֡י",
+          "morph": "HC"
+        },
+        {
+          "w": "גַּם֩",
+          "morph": "HTa"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יֵדַ֨ע",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "הָאָדָ֜ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עִתּ֗וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "כַּדָּגִים֙",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "שֶׁנֶּֽאֱחָזִים֙",
+          "morph": "HTr/VNsmpa"
+        },
+        {
+          "w": "בִּמְצוֹדָ֣ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "רָעָ֔ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "וְכַ֨צִּפֳּרִ֔ים",
+          "morph": "HC/Rd/Ncbpa"
+        },
+        {
+          "w": "הָאֲחֻז֖וֹת",
+          "morph": "HTd/Vqsfpa"
+        },
+        {
+          "w": "בַּפָּ֑ח",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "כָּהֵ֗ם",
+          "morph": "HR/Pp3mp"
+        },
+        {
+          "w": "יֽוּקָשִׁים֙",
+          "morph": "HVPsmpa"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָֽאָדָ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְעֵ֣ת",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "רָעָ֔ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "כְּשֶׁתִּפּ֥וֹל",
+          "morph": "HR/Tr/Vqi3fs"
+        },
+        {
+          "w": "עֲלֵיהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "פִּתְאֹֽם",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "我 見 日 光 之 下 有 一 樣 智 慧 ， 據 我 看 乃 是 廣 大 ，",
+      "en": "This is what I also observed about wisdom on earth, and it is a great burden to me:",
+      "notes": [],
+      "he": [
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "זֹ֛ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "רָאִ֥יתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "חָכְמָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תַּ֣חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשָּׁ֑מֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וּגְדוֹלָ֥ה",
+          "morph": "HC/Aafsa"
+        },
+        {
+          "w": "הִ֖יא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "אֵלָֽי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "就 是 有 一 小 城 ， 其 中 的 人 數 稀 少 ， 有 大 君 王 來 攻 擊 ， 修 築 營 壘 ， 將 城 圍 困 。",
+      "en": "There was once a small city with a few men in it, and a mighty king attacked it, besieging it and building strong siege works against it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עִ֣יר",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "קְטַנָּ֔ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "וַאֲנָשִׁ֥ים",
+          "morph": "HC/Ncmpa"
+        },
+        {
+          "w": "בָּ֖הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "מְעָ֑ט",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּבָֽא",
+          "morph": "HC/Vqp3ms"
+        },
+        {
+          "w": "אֵלֶ֜יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "מֶ֤לֶךְ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "גָּדוֹל֙",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְסָבַ֣ב",
+          "morph": "HC/Vqp3ms"
+        },
+        {
+          "w": "אֹתָ֔הּ",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "וּבָנָ֥ה",
+          "morph": "HC/Vqp3ms"
+        },
+        {
+          "w": "עָלֶ֖יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "מְצוֹדִ֥ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "גְּדֹלִֽים",
+          "morph": "HAampa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "城 中 有 一 個 貧 窮 的 智 慧 人 ， 他 用 智 慧 救 了 那 城 ， 卻 沒 有 人 記 念 那 窮 人 。",
+      "en": "However, a poor but wise man lived in the city, and he could have delivered the city by his wisdom, but no one listened to that poor man.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמָ֣צָא",
+          "morph": "HC/Vqp3ms"
+        },
+        {
+          "w": "בָ֗הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "אִ֤ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִסְכֵּן֙",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "חָכָ֔ם",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וּמִלַּט",
+          "morph": "HC/Vpp3ms"
+        },
+        {
+          "w": "ה֥וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעִ֖יר",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "בְּחָכְמָת֑וֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "וְאָדָם֙",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "זָכַ֔ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאִ֥ישׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַמִּסְכֵּ֖ן",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "הַהּֽוּא",
+          "morph": "HTd/Pp3ms"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "我 就 說 ， 智 慧 勝 過 勇 力 ； 然 而 那 貧 窮 人 的 智 慧 被 人 藐 視 ， 他 的 話 也 無 人 聽 從 。",
+      "en": "So I concluded that wisdom is better than might, but a poor man’s wisdom is despised; no one ever listens to his advice.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאָמַ֣רְתִּי",
+          "morph": "HC/Vqp1cs"
+        },
+        {
+          "w": "אָ֔נִי",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "טוֹבָ֥ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "חָכְמָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מִגְּבוּרָ֑ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וְחָכְמַ֤ת",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "הַמִּסְכֵּן֙",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "בְּזוּיָ֔ה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "וּדְבָרָ֖יו",
+          "morph": "HC/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "אֵינָ֥ם",
+          "morph": "HTn/Sp3mp"
+        },
+        {
+          "w": "נִשְׁמָעִֽים",
+          "morph": "HVNsmpa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "寧 可 在 安 靜 之 中 聽 智 慧 人 的 言 語 ， 不 聽 掌 管 愚 昧 人 的 喊 聲 。",
+      "en": "The words of the wise are heard in quiet, more than the shouting of a ruler is heard among fools.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דִּבְרֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "חֲכָמִ֔ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "בְּנַ֖חַת",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "נִשְׁמָעִ֑ים",
+          "morph": "HVNsmpa"
+        },
+        {
+          "w": "מִזַּעֲקַ֥ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "מוֹשֵׁ֖ל",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בַּכְּסִילִֽים",
+          "morph": "HRd/Aampa"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "智 慧 勝 過 打 仗 的 兵 器 ； 但 一 個 罪 人 能 敗 壞 許 多 善 事 。",
+      "en": "Wisdom is better than weapons of war, but one sinner can destroy much that is good.",
+      "notes": [],
+      "he": [
+        {
+          "w": "טוֹבָ֥ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "חָכְמָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מִכְּלֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "קְרָ֑ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְחוֹטֶ֣א",
+          "morph": "HC/Vqrmsa"
+        },
+        {
+          "w": "אֶחָ֔ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "יְאַבֵּ֥ד",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "טוֹבָ֥ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "הַרְבֵּֽה",
+          "morph": "HVha"
+        }
+      ]
+    }
+  ]
+}

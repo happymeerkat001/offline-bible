@@ -1,0 +1,1705 @@
+{
+  "book": 2,
+  "chapter": 22,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "人 若 偷 牛 或 羊 ， 無 論 是 宰 了 ， 是 賣 了 ， 他 就 要 以 五 牛 賠 一 牛 ， 四 羊 賠 一 羊 。",
+      "en": "(21:37) “If a man steals an ox or a sheep and kills it or sells it, he must pay back five head of cattle for the ox, and four sheep for the one sheep.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "בַּמַּחְתֶּ֛רֶת",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "יִמָּצֵ֥א",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "הַגַּנָּ֖ב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהֻכָּ֣ה",
+          "morph": "HC/VHp3ms"
+        },
+        {
+          "w": "וָמֵ֑ת",
+          "morph": "HC/Vqp3ms"
+        },
+        {
+          "w": "אֵ֥ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "ל֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "דָּמִֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "人 若 遇 見 賊 挖 窟 窿 ， 把 賊 打 了 ， 以 至 於 死 ， 就 不 能 為 他 有 流 血 的 罪 。",
+      "en": "“If a thief is caught breaking in and is struck so that he dies, there will be no blood guilt for him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "זָרְחָ֥ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "הַשֶּׁ֛מֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "עָלָ֖יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "דָּמִ֣ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "ל֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "שַׁלֵּ֣ם",
+          "morph": "HVpa"
+        },
+        {
+          "w": "יְשַׁלֵּ֔ם",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "אֵ֣ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "ל֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְנִמְכַּ֖ר",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "בִּגְנֵבָתֽוֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "若 太 陽 已 經 出 來 ， 就 為 他 有 流 血 的 罪 。 賊 若 被 拿 ， 總 要 賠 還 。 若 他 一 無 所 有 ， 就 要 被 賣 ， 頂 他 所 偷 的 物 。",
+      "en": "If the sun has risen on him, then there is blood guilt for him. A thief must surely make full restitution; if he has nothing, then he will be sold for his theft.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִֽם",
+          "morph": "HC"
+        },
+        {
+          "w": "הִמָּצֵא֩",
+          "morph": "HVNa"
+        },
+        {
+          "w": "תִמָּצֵ֨א",
+          "morph": "HVNi3fs"
+        },
+        {
+          "w": "בְיָד֜וֹ",
+          "morph": "HR/Ncbsc/Sp3ms"
+        },
+        {
+          "w": "הַגְּנֵבָ֗ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "מִשּׁ֧וֹר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "חֲמ֛וֹר",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "שֶׂ֖ה",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "חַיִּ֑ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "שְׁנַ֖יִם",
+          "morph": "HAcmda"
+        },
+        {
+          "w": "יְשַׁלֵּֽם",
+          "morph": "HVpi3ms"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "若 他 所 偷 的 ， 或 牛 ， 或 驢 ， 或 羊 ， 仍 在 他 手 下 存 活 ， 他 就 要 加 倍 賠 還 。",
+      "en": "If the stolen item should in fact be found alive in his possession, whether it be an ox or a donkey or a sheep, he must pay back double.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "יַבְעֶר",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "אִישׁ֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "שָׂדֶ֣ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "כֶ֔רֶם",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וְשִׁלַּח֙",
+          "morph": "HC/Vpp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בעירה",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "בְּעִיר֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וּבִעֵ֖ר",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "בִּשְׂדֵ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אַחֵ֑ר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מֵיטַ֥ב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שָׂדֵ֛הוּ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וּמֵיטַ֥ב",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "כַּרְמ֖וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "יְשַׁלֵּֽם",
+          "morph": "HVpi3ms"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "人 若 在 田 間 或 在 葡 萄 園 裡 放 牲 畜 ， 任 憑 牲 畜 上 別 人 的 田 裡 去 吃 ， 就 必 拿 自 己 田 間 上 好 的 和 葡 萄 園 上 好 的 賠 還 。",
+      "en": "“If a man grazes his livestock in a field or a vineyard and he lets the livestock loose and they graze in the field of another man, he must make restitution from the best of his own field and the best of his own vineyard.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "תֵצֵ֨א",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "אֵ֜שׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וּמָצְאָ֤ה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "קֹצִים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וְנֶאֱכַ֣ל",
+          "morph": "HC/VNp3ms"
+        },
+        {
+          "w": "גָּדִ֔ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "א֥וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "הַקָּמָ֖ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "א֣וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "הַשָּׂדֶ֑ה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "שַׁלֵּ֣ם",
+          "morph": "HVpa"
+        },
+        {
+          "w": "יְשַׁלֵּ֔ם",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "הַמַּבְעִ֖ר",
+          "morph": "HTd/Vhrmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַבְּעֵרָֽה",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "若 點 火 焚 燒 荊 棘 ， 以 致 將 別 人 堆 積 的 禾 捆 ， 站 著 的 禾 稼 ， 或 是 田 園 ， 都 燒 盡 了 ， 那 點 火 的 必 要 賠 還 。",
+      "en": "“If a fire breaks out and spreads to thorn bushes, so that stacked grain or standing grain or the whole field is consumed, the one who started the fire must surely make restitution.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יִתֵּן֩",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אִ֨ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֵעֵ֜הוּ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "כֶּ֤סֶף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֽוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "כֵלִים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לִשְׁמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "וְגֻנַּ֖ב",
+          "morph": "HC/VPq3ms"
+        },
+        {
+          "w": "מִבֵּ֣ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָאִ֑ישׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "יִמָּצֵ֥א",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "הַגַּנָּ֖ב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יְשַׁלֵּ֥ם",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "שְׁנָֽיִם",
+          "morph": "HAcmda"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "人 若 將 銀 錢 或 家 具 交 付 鄰 舍 看 守 ， 這 物 從 那 人 的 家 被 偷 去 ， 若 把 賊 找 到 了 ， 賊 要 加 倍 賠 還 ；",
+      "en": "“If a man gives his neighbor money or articles for safekeeping and it is stolen from the man’s house, if the thief is caught, he must repay double.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֤א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִמָּצֵא֙",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "הַגַּנָּ֔ב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְנִקְרַ֥ב",
+          "morph": "HC/VNp3ms"
+        },
+        {
+          "w": "בַּֽעַל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַבַּ֖יִת",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָֽאֱלֹהִ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "שָׁלַ֛ח",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יָד֖וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "בִּמְלֶ֥אכֶת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "רֵעֵֽהוּ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "若 找 不 到 賊 ， 那 家 主 必 就 近 審 判 官 ， 要 看 看 他 拿 了 原 主 的 物 件 沒 有 。",
+      "en": "If the thief is not caught, then the owner of the house will be brought before the judges to see whether he has laid his hand on his neighbor’s goods.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עַֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דְּבַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פֶּ֡שַׁע",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שׁ֡וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "חֲ֠מוֹר",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שֶׂ֨ה",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שַׂלְמָ֜ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲבֵדָ֗ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יֹאמַר֙",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "ה֣וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "זֶ֔ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "עַ֚ד",
+          "morph": "HR"
+        },
+        {
+          "w": "הָֽאֱלֹהִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "יָבֹ֖א",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "דְּבַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שְׁנֵיהֶ֑ם",
+          "morph": "HAcmdc/Sp3mp"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יַרְשִׁיעֻן֙",
+          "morph": "HVhi3mp/Sn"
+        },
+        {
+          "w": "אֱלֹהִ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "יְשַׁלֵּ֥ם",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "שְׁנַ֖יִם",
+          "morph": "HAcmda"
+        },
+        {
+          "w": "לְרֵעֵֽהוּ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "兩 個 人 的 案 件 ， 無 論 是 為 甚 麼 過 犯 ， 或 是 為 牛 ， 為 驢 ， 為 羊 ， 為 衣 裳 ， 或 是 為 甚 麼 失 掉 之 物 ， 有 一 人 說 ： 這 是 我 的 ， 兩 造 就 要 將 案 件 稟 告 審 判 官 ， 審 判 官 定 誰 有 罪 ， 誰 就 要 加 倍 賠 還 。",
+      "en": "In all cases of illegal possessions, whether for an ox, a donkey, a sheep, a garment, or any kind of lost item, about which someone says ‘This belongs to me,’ the matter of the two of them will come before the judges, and the one whom the judges declare guilty must repay double to his neighbor.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יִתֵּן֩",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אִ֨ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֵעֵ֜הוּ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "חֲמ֨וֹר",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "אוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "שׁ֥וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "שֶׂ֛ה",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "בְּהֵמָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לִשְׁמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "וּמֵ֛ת",
+          "morph": "HC/Vqp3ms"
+        },
+        {
+          "w": "אוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "נִשְׁבַּ֥ר",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "אוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "נִשְׁבָּ֖ה",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "אֵ֥ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "רֹאֶֽה",
+          "morph": "HVqrmsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "人 若 將 驢 ， 或 牛 ， 或 羊 ， 或 別 的 牲 畜 ， 交 付 鄰 舍 看 守 ， 牲 畜 或 死 ， 或 受 傷 ， 或 被 趕 去 ， 無 人 看 見 ，",
+      "en": "If a man gives his neighbor a donkey or an ox or a sheep or any beast to keep, and it dies or is injured or is carried away without anyone seeing it,",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׁבֻעַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְהוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "תִּהְיֶה֙",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "בֵּ֣ין",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁנֵיהֶ֔ם",
+          "morph": "HAcmdc/Sp3mp"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "שָׁלַ֛ח",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יָד֖וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "בִּמְלֶ֣אכֶת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "רֵעֵ֑הוּ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְלָקַ֥ח",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "בְּעָלָ֖יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יְשַׁלֵּֽם",
+          "morph": "HVpi3ms"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "那 看 守 的 人 要 憑 著 耶 和 華 起 誓 ， 手 裡 未 曾 拿 鄰 舍 的 物 ， 本 主 就 要 罷 休 ， 看 守 的 人 不 必 賠 還 。",
+      "en": "then there will be an oath to the Lord between the two of them, that he has not laid his hand on his neighbor’s goods, and its owner will accept this, and he will not have to pay.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "גָּנֹ֥ב",
+          "morph": "HVqa"
+        },
+        {
+          "w": "יִגָּנֵ֖ב",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "מֵעִמּ֑וֹ",
+          "morph": "HR/R/Sp3ms"
+        },
+        {
+          "w": "יְשַׁלֵּ֖ם",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "לִבְעָלָֽיו",
+          "morph": "HR/Ncmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "牲 畜 若 從 看 守 的 那 裡 被 偷 去 ， 他 就 要 賠 還 本 主 ；",
+      "en": "But if it was stolen from him, he will pay its owner.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "טָרֹ֥ף",
+          "morph": "HVqa"
+        },
+        {
+          "w": "יִטָּרֵ֖ף",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "יְבִאֵ֣הוּ",
+          "morph": "HVhi3ms/Sp3ms"
+        },
+        {
+          "w": "עֵ֑ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הַטְּרֵפָ֖ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יְשַׁלֵּֽם",
+          "morph": "HVpi3ms"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "若 被 野 獸 撕 碎 ， 看 守 的 要 帶 來 當 作 證 據 ， 所 撕 的 不 必 賠 還 。",
+      "en": "If it is torn in pieces, then he will bring it for evidence, and he will not have to pay for what was torn.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכִֽי",
+          "morph": "HC/C"
+        },
+        {
+          "w": "יִשְׁאַ֥ל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אִ֛ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מֵעִ֥ם",
+          "morph": "HR/R"
+        },
+        {
+          "w": "רֵעֵ֖הוּ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְנִשְׁבַּ֣ר",
+          "morph": "HC/VNp3ms"
+        },
+        {
+          "w": "אוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "מֵ֑ת",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בְּעָלָ֥יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "אֵין",
+          "morph": "HTn"
+        },
+        {
+          "w": "עִמּ֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "שַׁלֵּ֥ם",
+          "morph": "HVpa"
+        },
+        {
+          "w": "יְשַׁלֵּֽם",
+          "morph": "HVpi3ms"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "人 若 向 鄰 舍 借 甚 麼 ， 所 借 的 或 受 傷 ， 或 死 ， 本 主 沒 有 同 在 一 處 ， 借 的 人 總 要 賠 還 ；",
+      "en": "“If a man borrows an animal from his neighbor and it is hurt or dies when its owner was not with it, the man who borrowed it will surely pay.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "בְּעָלָ֥יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "עִמּ֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יְשַׁלֵּ֑ם",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "שָׂכִ֣יר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "ה֔וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "בָּ֖א",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בִּשְׂכָרֽוֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "若 本 主 同 在 一 處 ， 他 就 不 必 賠 還 ； 若 是 雇 的 ， 也 不 必 賠 還 ， 本 是 為 雇 價 來 的 。",
+      "en": "If its owner was with it, he will not have to pay; if it was hired, what was paid for the hire covers it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכִֽי",
+          "morph": "HC/C"
+        },
+        {
+          "w": "יְפַתֶּ֣ה",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "אִ֗ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּתוּלָ֛ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֹרָ֖שָׂה",
+          "morph": "HVPp3fs"
+        },
+        {
+          "w": "וְשָׁכַ֣ב",
+          "morph": "HC/Vqp3ms"
+        },
+        {
+          "w": "עִמָּ֑הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "מָהֹ֛ר",
+          "morph": "HVqa"
+        },
+        {
+          "w": "יִמְהָרֶ֥נָּה",
+          "morph": "HVqi3ms/Sp3fs"
+        },
+        {
+          "w": "לּ֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "לְאִשָּֽׁה",
+          "morph": "HR/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "人 若 引 誘 沒 有 受 聘 的 處 女 ， 與 他 行 淫 ， 他 總 要 交 出 聘 禮 ， 娶 他 為 妻 。",
+      "en": "“If a man seduces a virgin who is not engaged and goes to bed with her, he must surely pay the marriage price for her to be his wife.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "מָאֵ֧ן",
+          "morph": "HVpa"
+        },
+        {
+          "w": "יְמָאֵ֛ן",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "אָבִ֖יהָ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "לְתִתָּ֣הּ",
+          "morph": "HR/Vqc/Sp3fs"
+        },
+        {
+          "w": "ל֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "כֶּ֣סֶף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִשְׁקֹ֔ל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "כְּמֹ֖הַר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַבְּתוּלֹֽת",
+          "morph": "HTd/Ncfpa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "若 女 子 的 父 親 決 不 肯 將 女 子 給 他 ， 他 就 要 按 處 女 的 聘 禮 ， 交 出 錢 來 。",
+      "en": "If her father refuses to give her to him, he must pay money for the bride price of virgins.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מְכַשֵּׁפָ֖ה",
+          "morph": "HVprfsa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְחַיֶּֽה",
+          "morph": "HVpi2ms"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "行 邪 術 的 女 人 ， 不 可 容 他 存 活 。",
+      "en": "“You must not allow a sorceress to live.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שֹׁכֵ֥ב",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּהֵמָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מ֥וֹת",
+          "morph": "HVqa"
+        },
+        {
+          "w": "יוּמָֽת",
+          "morph": "HVHi3ms"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "凡 與 獸 淫 合 的 ， 總 要 把 他 治 死 。",
+      "en": "“Whoever has sexual relations with a beast must surely be put to death.",
+      "notes": [],
+      "he": [
+        {
+          "w": "זֹבֵ֥חַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לָאֱלֹהִ֖ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "יָֽחֳרָ֑ם",
+          "morph": "HVHi3ms"
+        },
+        {
+          "w": "בִּלְתִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "לַיהוָ֖ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לְבַדּֽוֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "祭 祀 別 神 ， 不 單 單 祭 祀 耶 和 華 的 ， 那 人 必 要 滅 絕 。",
+      "en": "“Whoever sacrifices to a god other than the Lord alone must be utterly destroyed.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְגֵ֥ר",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תוֹנֶ֖ה",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תִלְחָצֶ֑נּוּ",
+          "morph": "HVqi2ms/Sp3ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "גֵרִ֥ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "הֱיִיתֶ֖ם",
+          "morph": "HVqp2mp"
+        },
+        {
+          "w": "בְּאֶ֥רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "不 可 虧 負 寄 居 的 ， 也 不 可 欺 壓 他 ， 因 為 你 們 在 埃 及 地 也 作 過 寄 居 的 。",
+      "en": "“You must not wrong a resident foreigner nor oppress him, for you were foreigners in the land of Egypt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אַלְמָנָ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְיָת֖וֹם",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְעַנּֽוּן",
+          "morph": "HVpi2mp/Sn"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "不 可 苦 待 寡 婦 和 孤 兒 ；",
+      "en": "“You must not afflict any widow or orphan.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "עַנֵּ֥ה",
+          "morph": "HVpa"
+        },
+        {
+          "w": "תְעַנֶּ֖ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "אֹת֑וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "צָעֹ֤ק",
+          "morph": "HVqa"
+        },
+        {
+          "w": "יִצְעַק֙",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֵלַ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "שָׁמֹ֥עַ",
+          "morph": "HVqa"
+        },
+        {
+          "w": "אֶשְׁמַ֖ע",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "צַעֲקָתֽוֹ",
+          "morph": "HNcfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "若 是 苦 待 他 們 一 點 ， 他 們 向 我 一 哀 求 ， 我 總 要 聽 他 們 的 哀 聲 ，",
+      "en": "If you afflict them in any way and they cry to me, I will surely hear their cry,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְחָרָ֣ה",
+          "morph": "HC/Vqp3ms"
+        },
+        {
+          "w": "אַפִּ֔י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וְהָרַגְתִּ֥י",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "אֶתְכֶ֖ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "בֶּחָ֑רֶב",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "וְהָי֤וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "נְשֵׁיכֶם֙",
+          "morph": "HNcfpc/Sp2mp"
+        },
+        {
+          "w": "אַלְמָנ֔וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "וּבְנֵיכֶ֖ם",
+          "morph": "HC/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "יְתֹמִֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "並 要 發 烈 怒 ， 用 刀 殺 你 們 ， 使 你 們 的 妻 子 為 寡 婦 ， 兒 女 為 孤 兒 。",
+      "en": "and my anger will burn and I will kill you with the sword, and your wives will be widows and your children will be fatherless.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "כֶּ֣סֶף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תַּלְוֶ֣ה",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עַמִּ֗י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הֶֽעָנִי֙",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "עִמָּ֔ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִהְיֶ֥ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "ל֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "כְּנֹשֶׁ֑ה",
+          "morph": "HR/Vqrmsa"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְשִׂימ֥וּן",
+          "morph": "HVqi2mp/Sn"
+        },
+        {
+          "w": "עָלָ֖יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "נֶֽשֶׁךְ",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "我 民 中 有 貧 窮 人 與 你 同 住 ， 你 若 借 錢 給 他 ， 不 可 如 放 債 的 向 他 取 利 。",
+      "en": "“If you lend money to any of my people who are needy among you, do not be like a moneylender to him; do not charge him interest.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "חָבֹ֥ל",
+          "morph": "HVqa"
+        },
+        {
+          "w": "תַּחְבֹּ֖ל",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "שַׂלְמַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "רֵעֶ֑ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "בֹּ֥א",
+          "morph": "HVqc"
+        },
+        {
+          "w": "הַשֶּׁ֖מֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "תְּשִׁיבֶ֥נּוּ",
+          "morph": "HVhi2ms/Sp3ms"
+        },
+        {
+          "w": "לֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "你 即 或 拿 鄰 舍 的 衣 服 作 當 頭 ， 必 在 日 落 以 先 歸 還 他 ；",
+      "en": "If you do take the garment of your neighbor in pledge, you must return it to him by the time the sun goes down,",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "הִ֤וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "כסותה",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "כְסוּתוֹ֙",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "לְבַדָּ֔הּ",
+          "morph": "HR/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "הִ֥וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "שִׂמְלָת֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "לְעֹר֑וֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "בַּמֶּ֣ה",
+          "morph": "HR/Ti"
+        },
+        {
+          "w": "יִשְׁכָּ֔ב",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְהָיָה֙",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יִצְעַ֣ק",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֵלַ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וְשָׁמַעְתִּ֖י",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "חַנּ֥וּן",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "אָֽנִי",
+          "morph": "HPp1cs"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "因 他 只 有 這 一 件 當 蓋 頭 ， 是 他 蓋 身 的 衣 服 ， 若 是 沒 有 ， 他 拿 甚 麼 睡 覺 呢 ？ 他 哀 求 我 ， 我 就 應 允 ， 因 為 我 是 有 恩 惠 的 。",
+      "en": "for it is his only covering—it is his garment for his body. What else can he sleep in? And when he cries out to me, I will hear, for I am gracious.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֱלֹהִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְקַלֵּ֑ל",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "וְנָשִׂ֥יא",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "בְעַמְּךָ֖",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תָאֹֽר",
+          "morph": "HVqi2ms"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "不 可 毀 謗 神 ； 也 不 可 毀 謗 你 百 姓 的 官 長 。",
+      "en": "“You must not blaspheme God or curse the ruler of your people.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מְלֵאָתְךָ֥",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "וְדִמְעֲךָ֖",
+          "morph": "HC/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְאַחֵ֑ר",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "בְּכ֥וֹר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּנֶ֖יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "תִּתֶּן",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "לִּֽי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "你 要 從 你 莊 稼 中 的 穀 和 酒 醡 中 滴 出 來 的 酒 拿 來 獻 上 ， 不 可 遲 延 。 你 要 將 頭 生 的 兒 子 歸 給 我 。",
+      "en": "“Do not hold back offerings from your granaries or your vats. You must give me the firstborn of your sons.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כֵּֽן",
+          "morph": "HTm"
+        },
+        {
+          "w": "תַּעֲשֶׂ֥ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "לְשֹׁרְךָ֖",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "לְצֹאנֶ֑ךָ",
+          "morph": "HR/Ncbsc/Sp2ms"
+        },
+        {
+          "w": "שִׁבְעַ֤ת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "יִהְיֶ֣ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "אִמּ֔וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "בַּיּ֥וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַשְּׁמִינִ֖י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "תִּתְּנוֹ",
+          "morph": "HVqi2ms/Sp3ms"
+        },
+        {
+          "w": "לִֽי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "你 牛 羊 頭 生 的 ， 也 要 這 樣 ； 七 天 當 跟 著 母 ， 第 八 天 要 歸 給 我 。",
+      "en": "You must also do this for your oxen and for your sheep; seven days they may remain with their mothers, but give them to me on the eighth day.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאַנְשֵׁי",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "קֹ֖דֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תִּהְי֣וּן",
+          "morph": "HVqi2mp/Sn"
+        },
+        {
+          "w": "לִ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וּבָשָׂ֨ר",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "בַּשָּׂדֶ֤ה",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "טְרֵפָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֹאכֵ֔לוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "לַכֶּ֖לֶב",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "תַּשְׁלִכ֥וּן",
+          "morph": "HVhi2mp/Sn"
+        },
+        {
+          "w": "אֹתֽוֹ",
+          "morph": "HTo/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "你 要 在 我 面 前 為 聖 潔 的 人 。 因 此 ， 田 間 被 野 獸 撕 裂 牲 畜 的 肉 ， 你 們 不 可 吃 ， 要 丟 給 狗 吃 。",
+      "en": "“You will be holy people to me; you must not eat any meat torn by animals in the field. You must throw it to the dogs.",
+      "notes": [],
+      "he": []
+    }
+  ]
+}

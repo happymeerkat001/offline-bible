@@ -1,0 +1,3418 @@
+{
+  "book": 2,
+  "chapter": 12,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 在 埃 及 地 曉 諭 摩 西 、 亞 倫 說 ：",
+      "en": "The Lord said to Moses and Aaron in the land of Egypt,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶֽל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אַהֲרֹ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּאֶ֥רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרַ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 們 要 以 本 月 為 正 月 ， 為 一 年 之 首 。",
+      "en": "“This month is to be your beginning of months; it will be your first month of the year.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הַחֹ֧דֶשׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֛ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "רֹ֣אשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חֳדָשִׁ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רִאשׁ֥וֹן",
+          "morph": "HAomsa"
+        },
+        {
+          "w": "הוּא֙",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "לָכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לְחָדְשֵׁ֖י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "הַשָּׁנָֽה",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "你 們 吩 咐 以 色 列 全 會 眾 說 ： 本 月 初 十 日 ， 各 人 要 按 著 父 家 取 羊 羔 ， 一 家 一 隻 。",
+      "en": "Tell the whole community of Israel, ‘On the tenth day of this month they each must take a lamb for themselves according to their families—a lamb for each household.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דַּבְּר֗וּ",
+          "morph": "HVpv2mp"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲדַ֤ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בֶּעָשֹׂ֖ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "לַחֹ֣דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֑ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "וְיִקְח֣וּ",
+          "morph": "HC/Vqi3mp"
+        },
+        {
+          "w": "לָהֶ֗ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אִ֛ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "שֶׂ֥ה",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "לְבֵית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אָבֹ֖ת",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "שֶׂ֥ה",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "לַבָּֽיִת",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "若 是 一 家 的 人 太 少 ， 吃 不 了 一 隻 羊 羔 ， 本 人 就 要 和 他 隔 壁 的 鄰 舍 共 取 一 隻 。 你 們 預 備 羊 羔 ， 要 按 著 人 數 和 飯 量 計 算 。",
+      "en": "If any household is too small for a lamb, the man and his next-door neighbor are to take a lamb according to the number of people—you will make your count for the lamb according to how much each one can eat.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "יִמְעַ֣ט",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "הַבַּיִת֮",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִהְיֹ֣ת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מִשֶּׂה֒",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "וְלָקַ֣ח",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "ה֗וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "וּשְׁכֵנ֛וֹ",
+          "morph": "HC/Aamsc/Sp3ms"
+        },
+        {
+          "w": "הַקָּרֹ֥ב",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּית֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "בְּמִכְסַ֣ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "נְפָשֹׁ֑ת",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "אִ֚ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְפִ֣י",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אָכְל֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "תָּכֹ֖סּוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשֶּֽׂה",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "要 無 殘 疾 、 一 歲 的 公 羊 羔 ， 你 們 或 從 綿 羊 裡 取 ， 或 從 山 羊 裡 取 ， 都 可 以 。",
+      "en": "Your lamb must be perfect, a male, one year old; you may take it from the sheep or from the goats.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שֶׂ֥ה",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "תָמִ֛ים",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "זָכָ֥ר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שָׁנָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "יִהְיֶ֣ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָכֶ֑ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכְּבָשִׂ֥ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הָעִזִּ֖ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "תִּקָּֽחוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "要 留 到 本 月 十 四 日 ， 在 黃 昏 的 時 候 ， 以 色 列 全 會 眾 把 羊 羔 宰 了 。",
+      "en": "You must care for it until the fourteenth day of this month, and then the whole community of Israel will kill it around sundown.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיָ֤ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "לָכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לְמִשְׁמֶ֔רֶת",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "עַ֣ד",
+          "morph": "HR"
+        },
+        {
+          "w": "אַרְבָּעָ֥ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "עָשָׂ֛ר",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "י֖וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַחֹ֣דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֑ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "וְשָׁחֲט֣וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "אֹת֗וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "כֹּ֛ל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קְהַ֥ל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲדַֽת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֵּ֥ין",
+          "morph": "HR"
+        },
+        {
+          "w": "הָעַרְבָּֽיִם",
+          "morph": "HTd/Ncmda"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "各 家 要 取 點 血 ， 塗 在 吃 羊 羔 的 房 屋 左 右 的 門 框 上 和 門 楣 上 。",
+      "en": "They will take some of the blood and put it on the two side posts and top of the doorframe of the houses where they will eat it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלָֽקְחוּ֙",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַדָּ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְנָֽתְנ֛וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁתֵּ֥י",
+          "morph": "HAcfdc"
+        },
+        {
+          "w": "הַמְּזוּזֹ֖ת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַמַּשְׁק֑וֹף",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עַ֚ל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַבָּ֣תִּ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יֹאכְל֥וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "אֹת֖וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "בָּהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "當 夜 要 吃 羊 羔 的 肉 ； 用 火 烤 了 ， 與 無 酵 餅 和 苦 菜 同 吃 。",
+      "en": "They will eat the meat the same night; they will eat it roasted over the fire with bread made without yeast and with bitter herbs.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאָכְל֥וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַבָּשָׂ֖ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בַּלַּ֣יְלָה",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֑ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "צְלִי",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֵ֣שׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וּמַצּ֔וֹת",
+          "morph": "HC/Ncfpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "מְרֹרִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "יֹאכְלֻֽהוּ",
+          "morph": "HVqi3mp/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "不 可 吃 生 的 ， 斷 不 可 吃 水 煮 的 ， 要 帶 著 頭 、 腿 、 五 臟 ， 用 火 烤 了 吃 。",
+      "en": "Do not eat it raw or boiled in water, but roast it over the fire with its head, its legs, and its entrails.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֹּאכְל֤וּ",
+          "morph": "HVqj2mp"
+        },
+        {
+          "w": "מִמֶּ֨נּוּ֙",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "נָ֔א",
+          "morph": "HTe"
+        },
+        {
+          "w": "וּבָשֵׁ֥ל",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "מְבֻשָּׁ֖ל",
+          "morph": "HVPsmsa"
+        },
+        {
+          "w": "בַּמָּ֑יִם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "צְלִי",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֵ֔שׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "רֹאשׁ֥וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כְּרָעָ֖יו",
+          "morph": "HNcbdc/Sp3ms"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "קִרְבּֽוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "不 可 剩 下 一 點 留 到 早 晨 ； 若 留 到 早 晨 ， 要 用 火 燒 了 。",
+      "en": "You must leave nothing until morning, but you must burn with fire whatever remains of it until morning.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תוֹתִ֥ירוּ",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "מִמֶּ֖נּוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "בֹּ֑קֶר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְהַנֹּתָ֥ר",
+          "morph": "HC/Td/VNrmsa"
+        },
+        {
+          "w": "מִמֶּ֛נּוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "בֹּ֖קֶר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בָּאֵ֥שׁ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "תִּשְׂרֹֽפוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "你 們 吃 羊 羔 當 腰 間 束 帶 ， 腳 上 穿 鞋 ， 手 中 拿 杖 ， 趕 緊 的 吃 ； 這 是 耶 和 華 的 逾 越 節 。",
+      "en": "This is how you are to eat it—dressed to travel, your sandals on your feet, and your staff in your hand. You are to eat it in haste. It is the Lord’s Passover.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכָכָה֮",
+          "morph": "HC/D"
+        },
+        {
+          "w": "תֹּאכְל֣וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֹתוֹ֒",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "מָתְנֵיכֶ֣ם",
+          "morph": "HNcmdc/Sp2mp"
+        },
+        {
+          "w": "חֲגֻרִ֔ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "נַֽעֲלֵיכֶם֙",
+          "morph": "HNcfpc/Sp2mp"
+        },
+        {
+          "w": "בְּרַגְלֵיכֶ֔ם",
+          "morph": "HR/Ncfdc/Sp2mp"
+        },
+        {
+          "w": "וּמַקֶּלְכֶ֖ם",
+          "morph": "HC/Ncmsc/Sp2mp"
+        },
+        {
+          "w": "בְּיֶדְכֶ֑ם",
+          "morph": "HR/Ncbsc/Sp2mp"
+        },
+        {
+          "w": "וַאֲכַלְתֶּ֤ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֹתוֹ֙",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "בְּחִפָּז֔וֹן",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "פֶּ֥סַח",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "ה֖וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "לַיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "因 為 那 夜 我 要 巡 行 埃 及 地 ， 把 埃 及 地 一 切 頭 生 的 ， 無 論 是 人 是 牲 畜 ， 都 擊 殺 了 ， 又 要 敗 壞 埃 及 一 切 的 神 。 我 是 耶 和 華 。",
+      "en": "“‘I will pass through the land of Egypt in the same night, and I will attack all the firstborn in the land of Egypt, both of humans and of animals, and on all the gods of Egypt I will execute judgment. I am the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָבַרְתִּ֣י",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "בְאֶֽרֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרַיִם֮",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּלַּ֣יְלָה",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּה֒",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "וְהִכֵּיתִ֤י",
+          "morph": "HC/Vhq1cs"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּכוֹר֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵאָדָ֖ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בְּהֵמָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּבְכָל",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "אֱלֹהֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מִצְרַ֛יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶֽעֱשֶׂ֥ה",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "שְׁפָטִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "אֲנִ֥י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "這 血 要 在 你 們 所 住 的 房 屋 上 作 記 號 ； 我 一 見 這 血 ， 就 越 過 你 們 去 。 我 擊 殺 埃 及 地 頭 生 的 時 候 ， 災 殃 必 不 臨 到 你 們 身 上 滅 你 們 。",
+      "en": "The blood will be a sign for you on the houses where you are, so that when I see the blood I will pass over you, and this plague will not fall on you to destroy you when I attack the land of Egypt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיָה֩",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַדָּ֨ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לָכֶ֜ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לְאֹ֗ת",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "עַ֤ל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַבָּתִּים֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אַתֶּ֣ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "שָׁ֔ם",
+          "morph": "HD"
+        },
+        {
+          "w": "וְרָאִ֨יתִי֙",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַדָּ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וּפָסַחְתִּ֖י",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "עֲלֵכֶ֑ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וְלֹֽא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִֽהְיֶ֨ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בָכֶ֥ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "נֶ֨גֶף֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְמַשְׁחִ֔ית",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "בְּהַכֹּתִ֖י",
+          "morph": "HR/Vhc/Sp1cs"
+        },
+        {
+          "w": "בְּאֶ֥רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "你 們 要 記 念 這 日 ， 守 為 耶 和 華 的 節 ， 作 為 你 們 世 世 代 代 永 遠 的 定 例 。",
+      "en": "“‘This day will become a memorial for you, and you will celebrate it as a festival to the Lord—you will celebrate it perpetually as a lasting ordinance.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיָה֩",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַיּ֨וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֤ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "לָכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לְזִכָּר֔וֹן",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וְחַגֹּתֶ֥ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֹת֖וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "חַ֣ג",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַֽיהוָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לְדֹרֹ֣תֵיכֶ֔ם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "חֻקַּ֥ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "עוֹלָ֖ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תְּחָגֻּֽהוּ",
+          "morph": "HVqi2mp/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "你 們 要 吃 無 酵 餅 七 日 。 頭 一 日 要 把 酵 從 你 們 各 家 中 除 去 ； 因 為 從 頭 一 日 起 ， 到 第 七 日 為 止 ， 凡 吃 有 酵 之 餅 的 ， 必 從 以 色 列 中 剪 除 。",
+      "en": "For seven days you must eat bread made without yeast. Surely on the first day you must put away yeast from your houses because anyone who eats bread made with yeast from the first day to the seventh day will be cut off from Israel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שִׁבְעַ֤ת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מַצּ֣וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "תֹּאכֵ֔לוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אַ֚ךְ",
+          "morph": "HTa"
+        },
+        {
+          "w": "בַּיּ֣וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הָרִאשׁ֔וֹן",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "תַּשְׁבִּ֥יתוּ",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "שְּׂאֹ֖ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִבָּתֵּיכֶ֑ם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹכֵ֣ל",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "חָמֵ֗ץ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְנִכְרְתָ֞ה",
+          "morph": "HC/VNq3fs"
+        },
+        {
+          "w": "הַנֶּ֤פֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "הַהִוא֙",
+          "morph": "HTd/Pp3fs"
+        },
+        {
+          "w": "מִיִּשְׂרָאֵ֔ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "מִיּ֥וֹם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָרִאשֹׁ֖ן",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "י֥וֹם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשְּׁבִעִֽי",
+          "morph": "HTd/Aomsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "頭 一 日 你 們 當 有 聖 會 ， 第 七 日 也 當 有 聖 會 。 這 兩 日 之 內 ， 除 了 預 備 各 人 所 要 吃 的 以 外 ， 無 論 何 工 都 不 可 做 。",
+      "en": "“‘On the first day there will be a holy convocation, and on the seventh day there will be a holy convocation for you. You must do no work of any kind on them, only what every person will eat—that alone may be prepared for you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבַיּ֤וֹם",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "הָרִאשׁוֹן֙",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "מִקְרָא",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קֹ֔דֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּבַיּוֹם֙",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "הַשְּׁבִיעִ֔י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "מִקְרָא",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קֹ֖דֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִהְיֶ֣ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָכֶ֑ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְלָאכָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יֵעָשֶׂ֣ה",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "בָהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אַ֚ךְ",
+          "morph": "HTa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יֵאָכֵ֣ל",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "נֶ֔פֶשׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "ה֥וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "לְבַדּ֖וֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "יֵעָשֶׂ֥ה",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "לָכֶֽם",
+          "morph": "HR/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "你 們 要 守 無 酵 節 ， 因 為 我 正 當 這 日 把 你 們 的 軍 隊 從 埃 及 地 領 出 來 。 所 以 ， 你 們 要 守 這 日 ， 作 為 世 世 代 代 永 遠 的 定 例 。",
+      "en": "So you will keep the Feast of Unleavened Bread, because on this very day I brought your regiments out from the land of Egypt, and so you must keep this day perpetually as a lasting ordinance.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּשְׁמַרְתֶּם֮",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַמַּצּוֹת֒",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "כִּ֗י",
+          "morph": "HC"
+        },
+        {
+          "w": "בְּעֶ֨צֶם֙",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַיּ֣וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֔ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "הוֹצֵ֥אתִי",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "צִבְאוֹתֵיכֶ֖ם",
+          "morph": "HNcbpc/Sp2mp"
+        },
+        {
+          "w": "מֵאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּשְׁמַרְתֶּ֞ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַיּ֥וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֛ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "לְדֹרֹתֵיכֶ֖ם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "חֻקַּ֥ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "עוֹלָֽם",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "從 正 月 十 四 日 晚 上 ， 直 到 二 十 一 日 晚 上 ， 你 們 要 吃 無 酵 餅 。",
+      "en": "In the first month, from the fourteenth day of the month, in the evening, you will eat bread made without yeast until the twenty-first day of the month in the evening.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בָּרִאשֹׁ֡ן",
+          "morph": "HRd/Aomsa"
+        },
+        {
+          "w": "בְּאַרְבָּעָה֩",
+          "morph": "HR/Acmsa"
+        },
+        {
+          "w": "עָשָׂ֨ר",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "י֤וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַחֹ֨דֶשׁ֙",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בָּעֶ֔רֶב",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "תֹּאכְל֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "מַצֹּ֑ת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "עַ֠ד",
+          "morph": "HR"
+        },
+        {
+          "w": "י֣וֹם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאֶחָ֧ד",
+          "morph": "HTd/Acmsa"
+        },
+        {
+          "w": "וְעֶשְׂרִ֛ים",
+          "morph": "HC/Acbpa"
+        },
+        {
+          "w": "לַחֹ֖דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בָּעָֽרֶב",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "在 你 們 各 家 中 ， 七 日 之 內 不 可 有 酵 ； 因 為 凡 吃 有 酵 之 物 的 ， 無 論 是 寄 居 的 ， 是 本 地 的 ， 必 從 以 色 列 的 會 中 剪 除 。",
+      "en": "For seven days yeast must not be found in your houses, for whoever eats what is made with yeast—that person will be cut off from the community of Israel, whether a resident foreigner or one born in the land.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שִׁבְעַ֣ת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "שְׂאֹ֕ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִמָּצֵ֖א",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "בְּבָתֵּיכֶ֑ם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹכֵ֣ל",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "מַחְמֶ֗צֶת",
+          "morph": "HVhrfsa"
+        },
+        {
+          "w": "וְנִכְרְתָ֞ה",
+          "morph": "HC/VNq3fs"
+        },
+        {
+          "w": "הַנֶּ֤פֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "הַהִוא֙",
+          "morph": "HTd/Pp3fs"
+        },
+        {
+          "w": "מֵעֲדַ֣ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּגֵּ֖ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וּבְאֶזְרַ֥ח",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "有 酵 的 物 ， 你 們 都 不 可 吃 ； 在 你 們 一 切 住 處 要 吃 無 酵 餅 。",
+      "en": "You will not eat anything made with yeast; in all the places where you live you must eat bread made without yeast.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מַחְמֶ֖צֶת",
+          "morph": "HVhrfsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֹאכֵ֑לוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "בְּכֹל֙",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מוֹשְׁבֹ֣תֵיכֶ֔ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "תֹּאכְל֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "מַצּֽוֹת",
+          "morph": "HNcfpa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "於 是 ， 摩 西 召 了 以 色 列 的 眾 長 老 來 ， 對 他 們 說 ： 你 們 要 按 著 家 口 取 出 羊 羔 ， 把 這 逾 越 節 的 羊 羔 宰 了 。",
+      "en": "Then Moses summoned all the elders of Israel, and told them, “Go and select for yourselves a lamb or young goat for your families, and kill the Passover animals.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקְרָ֥א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מֹשֶׁ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "זִקְנֵ֥י",
+          "morph": "HAampc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֲלֵהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "מִֽשְׁכ֗וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "וּקְח֨וּ",
+          "morph": "HC/Vqv2mp"
+        },
+        {
+          "w": "לָכֶ֥ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "צֹ֛אן",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "לְמִשְׁפְּחֹתֵיכֶ֖ם",
+          "morph": "HR/Ncfpc/Sp2mp"
+        },
+        {
+          "w": "וְשַׁחֲט֥וּ",
+          "morph": "HC/Vqv2mp"
+        },
+        {
+          "w": "הַפָּֽסַח",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "拿 一 把 牛 膝 草 ， 蘸 盆 裡 的 血 ， 打 在 門 楣 上 和 左 右 的 門 框 上 。 你 們 誰 也 不 可 出 自 己 的 房 門 ， 直 到 早 晨 。",
+      "en": "Take a branch of hyssop, dip it in the blood that is in the basin, and apply to the top of the doorframe and the two side posts some of the blood that is in the basin. Not one of you is to go out the door of his house until morning.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּלְקַחְתֶּ֞ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֲגֻדַּ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אֵז֗וֹב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּטְבַלְתֶּם֮",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "בַּדָּ֣ם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בַּסַּף֒",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְהִגַּעְתֶּ֤ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמַּשְׁקוֹף֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "שְׁתֵּ֣י",
+          "morph": "HAcfdc"
+        },
+        {
+          "w": "הַמְּזוּזֹ֔ת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַדָּ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בַּסָּ֑ף",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְאַתֶּ֗ם",
+          "morph": "HC/Pp2mp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֵצְא֛וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אִ֥ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִפֶּֽתַח",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "בֵּית֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "בֹּֽקֶר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "因 為 耶 和 華 要 巡 行 擊 殺 埃 及 人 ， 他 看 見 血 在 門 楣 上 和 左 右 的 門 框 上 ， 就 必 越 過 那 門 ， 不 容 滅 命 的 進 你 們 的 房 屋 ， 擊 殺 你 們 。",
+      "en": "For the Lord will pass through to strike Egypt, and when he sees the blood on the top of the doorframe and the two side posts, then the Lord will pass over the door, and he will not permit the destroyer to enter your houses to strike you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָבַ֣ר",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "יְהוָה֮",
+          "morph": "HNp"
+        },
+        {
+          "w": "לִנְגֹּ֣ף",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִצְרַיִם֒",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְרָאָ֤ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַדָּם֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמַּשְׁק֔וֹף",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְעַ֖ל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "שְׁתֵּ֣י",
+          "morph": "HAcfdc"
+        },
+        {
+          "w": "הַמְּזוּזֹ֑ת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "וּפָסַ֤ח",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַפֶּ֔תַח",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְלֹ֤א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִתֵּן֙",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "הַמַּשְׁחִ֔ית",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לָבֹ֥א",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בָּתֵּיכֶ֖ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "לִנְגֹּֽף",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "這 例 ， 你 們 要 守 著 ， 作 為 你 們 和 你 們 子 孫 永 遠 的 定 例 。",
+      "en": "You must observe this event as an ordinance for you and for your children forever.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּשְׁמַרְתֶּ֖ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַדָּבָ֣ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֑ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "לְחָק",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לְךָ֥",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "וּלְבָנֶ֖יךָ",
+          "morph": "HC/R/Ncmpc/Sp2ms"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "עוֹלָֽם",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "日 後 ， 你 們 到 了 耶 和 華 按 著 所 應 許 賜 給 你 們 的 那 地 ， 就 要 守 這 禮 。",
+      "en": "When you enter the land that the Lord will give to you, just as he said, you must observe this ceremony.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיָ֞ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "תָבֹ֣אוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֗רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִתֵּ֧ן",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֣ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "דִּבֵּ֑ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "וּשְׁמַרְתֶּ֖ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעֲבֹדָ֥ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הַזֹּֽאת",
+          "morph": "HTd/Pdxfs"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "你 們 的 兒 女 問 你 們 說 ： 行 這 禮 是 甚 麼 意 思 ？",
+      "en": "When your children ask you, ‘What does this ceremony mean to you?’—",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיָ֕ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יֹאמְר֥וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "אֲלֵיכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "בְּנֵיכֶ֑ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "מָ֛ה",
+          "morph": "HTi"
+        },
+        {
+          "w": "הָעֲבֹדָ֥ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הַזֹּ֖את",
+          "morph": "HTd/Pdxfs"
+        },
+        {
+          "w": "לָכֶֽם",
+          "morph": "HR/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "你 們 就 說 ： 這 是 獻 給 耶 和 華 逾 越 節 的 祭 。 當 以 色 列 人 在 埃 及 的 時 候 ， 他 擊 殺 埃 及 人 ， 越 過 以 色 列 人 的 房 屋 ， 救 了 我 們 各 家 。 於 是 百 姓 低 頭 下 拜 。",
+      "en": "then you will say, ‘It is the sacrifice of the Lord’s Passover, when he passed over the houses of the Israelites in Egypt, when he struck Egypt and delivered our households.’” The people bowed down low to the ground,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַאֲמַרְתֶּ֡ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "זֶֽבַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פֶּ֨סַח",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "ה֜וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "לַֽיהוָ֗ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "פָּ֠סַח",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "בָּתֵּ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּמִצְרַ֔יִם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בְּנָגְפּ֥וֹ",
+          "morph": "HR/Vqc/Sp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִצְרַ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "בָּתֵּ֣ינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        },
+        {
+          "w": "הִצִּ֑יל",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "וַיִּקֹּ֥ד",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הָעָ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַיִּֽשְׁתַּחֲוּֽוּ",
+          "morph": "HC/Vtw3mp"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "耶 和 華 怎 樣 吩 咐 摩 西 、 亞 倫 ， 以 色 列 人 就 怎 樣 行 。",
+      "en": "and the Israelites went away and did exactly as the Lord had commanded Moses and Aaron.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּלְכ֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וַיַּֽעֲשׂ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֨ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "צִוָּ֧ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאַהֲרֹ֖ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "כֵּ֥ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "עָשֽׂוּ",
+          "morph": "HVqp3cp"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "到 了 半 夜 ， 耶 和 華 把 埃 及 地 所 有 的 長 子 ， 就 是 從 坐 寶 座 的 法 老 ， 直 到 被 擄 囚 在 監 裡 之 人 的 長 子 ， 以 及 一 切 頭 生 的 牲 畜 ， 盡 都 殺 了 。",
+      "en": "It happened at midnight—the Lord attacked all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the prison, and all the firstborn of the cattle.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֣י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בַּחֲצִ֣י",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַלַּ֗יְלָה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַֽיהוָה֮",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הִכָּ֣ה",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּכוֹר֮",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרַיִם֒",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִבְּכֹ֤ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "פַּרְעֹה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַיֹּשֵׁ֣ב",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כִּסְא֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "עַ֚ד",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּכ֣וֹר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשְּׁבִ֔י",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֖ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בְּבֵ֣ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַבּ֑וֹר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְכֹ֖ל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "בְּכ֥וֹר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּהֵמָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "法 老 和 一 切 臣 僕 ， 並 埃 及 眾 人 ， 夜 間 都 起 來 了 。 在 埃 及 有 大 哀 號 ， 無 一 家 不 死 一 個 人 的 。",
+      "en": "Pharaoh got up in the night, along with all his servants and all Egypt, and there was a great cry in Egypt, for there was no house in which there was not someone dead.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֨קָם",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לַ֗יְלָה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "ה֤וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "עֲבָדָיו֙",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַתְּהִ֛י",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "צְעָקָ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "גְדֹלָ֖ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "בְּמִצְרָ֑יִם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "אֵ֣ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "בַּ֔יִת",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֵֽין",
+          "morph": "HTn"
+        },
+        {
+          "w": "שָׁ֖ם",
+          "morph": "HD"
+        },
+        {
+          "w": "מֵֽת",
+          "morph": "HVqrmsa"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "夜 間 ， 法 老 召 了 摩 西 、 亞 倫 來 ， 說 ： 起 來 ！ 連 你 們 帶 以 色 列 人 ， 從 我 民 中 出 去 ， 依 你 們 所 說 的 ， 去 事 奉 耶 和 華 罷 ！",
+      "en": "Pharaoh summoned Moses and Aaron in the night and said, “Get up, get out from among my people, both you and the Israelites! Go, serve the Lord as you have requested!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקְרָא֩",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לְמֹשֶׁ֨ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וּֽלְאַהֲרֹ֜ן",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "לַ֗יְלָה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וַיֹּ֨אמֶר֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "ק֤וּמוּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "צְּאוּ֙",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "מִתּ֣וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עַמִּ֔י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "אַתֶּ֖ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּלְכ֛וּ",
+          "morph": "HC/Vqv2mp"
+        },
+        {
+          "w": "עִבְד֥וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כְּדַבֶּרְכֶֽם",
+          "morph": "HR/Vpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "也 依 你 們 所 說 的 ， 連 羊 群 牛 群 帶 著 走 罷 ！ 並 要 為 我 祝 福 。",
+      "en": "Also, take your flocks and your herds, just as you have requested, and leave. But bless me also.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "צֹאנְכֶ֨ם",
+          "morph": "HNcbsc/Sp2mp"
+        },
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "בְּקַרְכֶ֥ם",
+          "morph": "HNcbsc/Sp2mp"
+        },
+        {
+          "w": "קְח֛וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֥ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "דִּבַּרְתֶּ֖ם",
+          "morph": "HVpp2mp"
+        },
+        {
+          "w": "וָלֵ֑כוּ",
+          "morph": "HC/Vqv2mp"
+        },
+        {
+          "w": "וּבֵֽרַכְתֶּ֖ם",
+          "morph": "HC/Vpq2mp"
+        },
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "אֹתִֽי",
+          "morph": "HTo/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "埃 及 人 催 促 百 姓 ， 打 發 他 們 快 快 出 離 那 地 ， 因 為 埃 及 人 說 ： 我 們 都 要 死 了 。",
+      "en": "The Egyptians were urging the people on, in order to send them out of the land quickly, for they were saying, “We are all dead!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתֶּחֱזַ֤ק",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "מִצְרַ֨יִם֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָעָ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְמַהֵ֖ר",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "לְשַׁלְּחָ֣ם",
+          "morph": "HR/Vpc/Sp3mp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "אָמְר֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "כֻּלָּ֥נוּ",
+          "morph": "HNcmsc/Sp1cp"
+        },
+        {
+          "w": "מֵתִֽים",
+          "morph": "HVqrmpa"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "百 姓 就 拿 著 沒 有 酵 的 生 麵 ， 把 摶 麵 盆 包 在 衣 服 中 ， 扛 在 肩 頭 上 。",
+      "en": "So the people took their dough before the yeast was added, with their kneading troughs bound up in their clothing on their shoulders.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשָּׂ֥א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הָעָ֛ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּצֵק֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "טֶ֣רֶם",
+          "morph": "HD"
+        },
+        {
+          "w": "יֶחְמָ֑ץ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מִשְׁאֲרֹתָ֛ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "צְרֻרֹ֥ת",
+          "morph": "HVqsfpa"
+        },
+        {
+          "w": "בְּשִׂמְלֹתָ֖ם",
+          "morph": "HR/Ncfpc/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שִׁכְמָֽם",
+          "morph": "HNcmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "以 色 列 人 照 著 摩 西 的 話 行 ， 向 埃 及 人 要 金 器 、 銀 器 ， 和 衣 裳 。",
+      "en": "Now the Israelites had done as Moses told them—they had requested from the Egyptians silver and gold items and clothing.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבְנֵי",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֥ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "עָשׂ֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "כִּדְבַ֣ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מֹשֶׁ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיִּשְׁאֲלוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִמִּצְרַ֔יִם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "כְּלֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "כֶ֛סֶף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּכְלֵ֥י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "זָהָ֖ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּשְׂמָלֹֽת",
+          "morph": "HC/Ncfpa"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "耶 和 華 叫 百 姓 在 埃 及 人 眼 前 蒙 恩 ， 以 致 埃 及 人 給 他 們 所 要 的 。 他 們 就 把 埃 及 人 的 財 物 奪 去 了 。",
+      "en": "The Lord gave the people favor in the sight of the Egyptians, and they gave them whatever they wanted, and so they plundered Egypt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַֽיהוָ֞ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "נָתַ֨ן",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "חֵ֥ן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעָ֛ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּעֵינֵ֥י",
+          "morph": "HR/Ncbdc"
+        },
+        {
+          "w": "מִצְרַ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיַּשְׁאִל֑וּם",
+          "morph": "HC/Vhw3mp/Sp3mp"
+        },
+        {
+          "w": "וַֽיְנַצְּל֖וּ",
+          "morph": "HC/Vpw3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "zh": "以 色 列 人 從 蘭 塞 起 行 ， 往 疏 割 去 ； 除 了 婦 人 孩 子 ， 步 行 的 男 人 約 有 六 十 萬 。",
+      "en": "The Israelites journeyed from Rameses to Sukkoth. There were about 600,000 men on foot, plus their dependents.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֧וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֛ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵרַעְמְסֵ֖ס",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "סֻכֹּ֑תָה",
+          "morph": "HNp/Sd"
+        },
+        {
+          "w": "כְּשֵׁשׁ",
+          "morph": "HR/Acfsa"
+        },
+        {
+          "w": "מֵא֨וֹת",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "אֶ֧לֶף",
+          "morph": "HAcbsa"
+        },
+        {
+          "w": "רַגְלִ֛י",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "הַגְּבָרִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "לְבַ֥ד",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "מִטָּֽף",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "zh": "又 有 許 多 閒 雜 人 ， 並 有 羊 群 牛 群 ， 和 他 們 一 同 上 去 。",
+      "en": "A mixed multitude also went up with them, and flocks and herds—a very large number of cattle.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְגַם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "עֵ֥רֶב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "רַ֖ב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "עָלָ֣ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אִתָּ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "וְצֹ֣אן",
+          "morph": "HC/Ncbsa"
+        },
+        {
+          "w": "וּבָקָ֔ר",
+          "morph": "HC/Ncbsa"
+        },
+        {
+          "w": "מִקְנֶ֖ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כָּבֵ֥ד",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מְאֹֽד",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "zh": "他 們 用 埃 及 帶 出 來 的 生 麵 烤 成 無 酵 餅 。 這 生 麵 原 沒 有 發 起 ； 因 為 他 們 被 催 逼 離 開 埃 及 ， 不 能 耽 延 ， 也 沒 有 為 自 己 預 備 甚 麼 食 物 。",
+      "en": "They baked cakes of bread without yeast using the dough they had brought from Egypt, for it was made without yeast. Because they were thrust out of Egypt and were not able to delay, they could not prepare food for themselves either.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּאפ֨וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַבָּצֵ֜ק",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הוֹצִ֧יאוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "מִמִּצְרַ֛יִם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "עֻגֹ֥ת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "מַצּ֖וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "חָמֵ֑ץ",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "גֹרְשׁ֣וּ",
+          "morph": "HVPp3cp"
+        },
+        {
+          "w": "מִמִּצְרַ֗יִם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְלֹ֤א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יָֽכְלוּ֙",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לְהִתְמַהְמֵ֔הַּ",
+          "morph": "HR/Vfc"
+        },
+        {
+          "w": "וְגַם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "צֵדָ֖ה",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "עָשׂ֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לָהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "zh": "以 色 列 人 住 在 埃 及 共 有 四 百 三 十 年 。",
+      "en": "Now the length of time the Israelites lived in Egypt was 430 years.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמוֹשַׁב֙",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יָשְׁב֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בְּמִצְרָ֑יִם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "שְׁלֹשִׁ֣ים",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "שָׁנָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְאַרְבַּ֥ע",
+          "morph": "HC/Acfsa"
+        },
+        {
+          "w": "מֵא֖וֹת",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "שָׁנָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "zh": "正 滿 了 四 百 三 十 年 的 那 一 天 ， 耶 和 華 的 軍 隊 都 從 埃 及 地 出 來 了 。",
+      "en": "At the end of the 430 years, on the very day, all the regiments of the Lord went out of the land of Egypt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֗י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מִקֵּץ֙",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שְׁלֹשִׁ֣ים",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "שָׁנָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְאַרְבַּ֥ע",
+          "morph": "HC/Acfsa"
+        },
+        {
+          "w": "מֵא֖וֹת",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "שָׁנָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וַיְהִ֗י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בְּעֶ֨צֶם֙",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַיּ֣וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֔ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "יָֽצְא֛וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "צִבְא֥וֹת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵאֶ֥רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "zh": "這 夜 是 耶 和 華 的 夜 ； 因 耶 和 華 領 他 們 出 了 埃 及 地 ， 所 以 當 向 耶 和 華 謹 守 ， 是 以 色 列 眾 人 世 世 代 代 該 謹 守 的 。",
+      "en": "It was a night of vigil for the Lord to bring them out from the land of Egypt, and so on this night all Israel is to keep the vigil to the Lord for generations to come.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֵ֣יל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שִׁמֻּרִ֥ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "הוּא֙",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "לַֽיהוָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לְהוֹצִיאָ֖ם",
+          "morph": "HR/Vhc/Sp3mp"
+        },
+        {
+          "w": "מֵאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "הֽוּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "הַלַּ֤יְלָה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּה֙",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "לַֽיהוָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "שִׁמֻּרִ֛ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְדֹרֹתָֽם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "zh": "耶 和 華 對 摩 西 、 亞 倫 說 ： 逾 越 節 的 例 是 這 樣 ： 外 邦 人 都 不 可 吃 這 羊 羔 。",
+      "en": "The Lord said to Moses and Aaron, “This is the ordinance of the Passover. No foreigner may share in eating it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאַהֲרֹ֔ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "זֹ֖את",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "חֻקַּ֣ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הַפָּ֑סַח",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נֵכָ֖ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יֹ֥אכַל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בּֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "zh": "但 各 人 用 銀 子 買 的 奴 僕 ， 既 受 了 割 禮 就 可 以 吃 。",
+      "en": "But everyone’s servant who is bought for money, after you have circumcised him, may eat it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "עֶ֥בֶד",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אִ֖ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִקְנַת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "כָּ֑סֶף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּמַלְתָּ֣ה",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֹת֔וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "אָ֖ז",
+          "morph": "HD"
+        },
+        {
+          "w": "יֹ֥אכַל",
+          "morph": "HVqj3ms"
+        },
+        {
+          "w": "בּֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "zh": "寄 居 的 和 雇 工 人 都 不 可 吃 。",
+      "en": "A foreigner and a hired worker must not eat it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "תּוֹשָׁ֥ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְשָׂכִ֖יר",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יֹ֥אכַל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בּֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 46,
+      "zh": "應 當 在 一 個 房 子 裡 吃 ； 不 可 把 一 點 肉 從 房 子 裡 帶 到 外 頭 去 。 羊 羔 的 骨 頭 一 根 也 不 可 折 斷 。",
+      "en": "It must be eaten in one house; you must not bring any of the meat outside the house, and you must not break a bone of it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּבַ֤יִת",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֶחָד֙",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "יֵאָכֵ֔ל",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תוֹצִ֧יא",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַבַּ֛יִת",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַבָּשָׂ֖ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "ח֑וּצָה",
+          "morph": "HNcmsa/Sd"
+        },
+        {
+          "w": "וְעֶ֖צֶם",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִשְׁבְּרוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "בֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 47,
+      "zh": "以 色 列 全 會 眾 都 要 守 這 禮 。",
+      "en": "The whole community of Israel must observe it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲדַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "יַעֲשׂ֥וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "אֹתֽוֹ",
+          "morph": "HTo/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 48,
+      "zh": "若 有 外 人 寄 居 在 你 們 中 間 ， 願 向 耶 和 華 守 逾 越 節 ， 他 所 有 的 男 子 務 要 受 割 禮 ， 然 後 才 容 他 前 來 遵 守 ， 他 也 就 像 本 地 人 一 樣 ； 但 未 受 割 禮 的 ， 都 不 可 吃 這 羊 羔 。",
+      "en": "“When a resident foreigner lives with you and wants to observe the Passover to the Lord, all his males must be circumcised, and then he may approach and observe it, and he will be like one who is born in the land—but no uncircumcised person may eat of it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכִֽי",
+          "morph": "HC/C"
+        },
+        {
+          "w": "יָג֨וּר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אִתְּךָ֜",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "גֵּ֗ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְעָ֣שָׂה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "פֶסַח֮",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַיהוָה֒",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הִמּ֧וֹל",
+          "morph": "HVNa"
+        },
+        {
+          "w": "ל֣וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "זָכָ֗ר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְאָז֙",
+          "morph": "HC/D"
+        },
+        {
+          "w": "יִקְרַ֣ב",
+          "morph": "HVqj3ms"
+        },
+        {
+          "w": "לַעֲשֹׂת֔וֹ",
+          "morph": "HR/Vqc/Sp3ms"
+        },
+        {
+          "w": "וְהָיָ֖ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "כְּאֶזְרַ֣ח",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "עָרֵ֖ל",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יֹ֥אכַל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בּֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 49,
+      "zh": "本 地 人 和 寄 居 在 你 們 中 間 的 外 人 同 歸 一 例 。",
+      "en": "The same law will apply to the person who is native-born and to the resident foreigner who lives among you.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "תּוֹרָ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אַחַ֔ת",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "יִהְיֶ֖ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָֽאֶזְרָ֑ח",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְלַגֵּ֖ר",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "הַגָּ֥ר",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "בְּתוֹכְכֶֽם",
+          "morph": "HR/Ncmsc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 50,
+      "zh": "耶 和 華 怎 樣 吩 咐 摩 西 、 亞 倫 ， 以 色 列 眾 人 就 怎 樣 行 了 。",
+      "en": "So all the Israelites did exactly as the Lord commanded Moses and Aaron.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּֽעֲשׂ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֨ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "צִוָּ֧ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶֽת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אַהֲרֹ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "כֵּ֥ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "עָשֽׂוּ",
+          "morph": "HVqp3cp"
+        }
+      ]
+    },
+    {
+      "v": 51,
+      "zh": "正 當 那 日 ， 耶 和 華 將 以 色 列 人 按 著 他 們 的 軍 隊 ， 從 埃 及 地 領 出 來 。",
+      "en": "And on this very day the Lord brought the Israelites out of the land of Egypt by their regiments.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֕י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בְּעֶ֖צֶם",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַיּ֣וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֑ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "הוֹצִ֨יא",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "יְהוָ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּנֵ֧י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֛ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵאֶ֥רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרַ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "צִבְאֹתָֽם",
+          "morph": "HNcbpc/Sp3mp"
+        }
+      ]
+    }
+  ]
+}

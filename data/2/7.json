@@ -1,0 +1,1686 @@
+{
+  "book": 2,
+  "chapter": 7,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 對 摩 西 說 ： 我 使 你 在 法 老 面 前 代 替 神 ， 你 的 哥 哥 亞 倫 是 替 你 說 話 的 。",
+      "en": "So the Lord said to Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "רְאֵ֛ה",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "נְתַתִּ֥יךָ",
+          "morph": "HVqp1cs/Sp2ms"
+        },
+        {
+          "w": "אֱלֹהִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לְפַרְעֹ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְאַהֲרֹ֥ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "אָחִ֖יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "יִהְיֶ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "נְבִיאֶֽךָ",
+          "morph": "HNcmsc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "凡 我 所 吩 咐 你 的 ， 你 都 要 說 。 你 的 哥 哥 亞 倫 要 對 法 老 說 ， 容 以 色 列 人 出 他 的 地 。",
+      "en": "You are to speak everything I command you, and your brother Aaron is to tell Pharaoh that he must release the Israelites from his land.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַתָּ֣ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "תְדַבֵּ֔ר",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "אֵ֖ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֲצַוֶּ֑ךָּ",
+          "morph": "HVpi1cs/Sp2ms"
+        },
+        {
+          "w": "וְאַהֲרֹ֤ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "אָחִ֨יךָ֙",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "יְדַבֵּ֣ר",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פַּרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשִׁלַּ֥ח",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵאַרְצֽוֹ",
+          "morph": "HR/Ncbsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "我 要 使 法 老 的 心 剛 硬 ， 也 要 在 埃 及 地 多 行 神 蹟 奇 事 。",
+      "en": "But I will harden Pharaoh’s heart, and although I will multiply my signs and my wonders in the land of Egypt,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַאֲנִ֥י",
+          "morph": "HC/Pp1cs"
+        },
+        {
+          "w": "אַקְשֶׁ֖ה",
+          "morph": "HVhi1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "לֵ֣ב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פַּרְעֹ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהִרְבֵּיתִ֧י",
+          "morph": "HC/Vhq1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֹתֹתַ֛י",
+          "morph": "HNcbpc/Sp1cs"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "מוֹפְתַ֖י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "בְּאֶ֥רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "但 法 老 必 不 聽 你 們 ； 我 要 伸 手 重 重 的 刑 罰 埃 及 ， 將 我 的 軍 隊 以 色 列 民 從 埃 及 地 領 出 來 。",
+      "en": "Pharaoh will not listen to you. I will reach into Egypt and bring out my regiments, my people the Israelites, from the land of Egypt with great acts of judgment.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלֹֽא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִשְׁמַ֤ע",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֲלֵכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "פַּרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְנָתַתִּ֥י",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יָדִ֖י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "בְּמִצְרָ֑יִם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְהוֹצֵאתִ֨י",
+          "morph": "HC/Vhq1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "צִבְאֹתַ֜י",
+          "morph": "HNcbpc/Sp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עַמִּ֤י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּשְׁפָטִ֖ים",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "גְּדֹלִֽים",
+          "morph": "HAampa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "我 伸 手 攻 擊 埃 及 ， 將 以 色 列 人 從 他 們 中 間 領 出 來 的 時 候 ， 埃 及 人 就 要 知 道 我 是 耶 和 華 。",
+      "en": "Then the Egyptians will know that I am the Lord when I extend my hand over Egypt and bring the Israelites out from among them.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיָדְע֤וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "מִצְרַ֨יִם֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "אֲנִ֣י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּנְטֹתִ֥י",
+          "morph": "HR/Vqc/Sp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יָדִ֖י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהוֹצֵאתִ֥י",
+          "morph": "HC/Vhq1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִתּוֹכָֽם",
+          "morph": "HR/Ncmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "摩 西 、 亞 倫 這 樣 行 ； 耶 和 華 怎 樣 吩 咐 他 們 ， 他 們 就 照 樣 行 了 。",
+      "en": "And Moses and Aaron did so; they did just as the Lord commanded them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּ֥עַשׂ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מֹשֶׁ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאַהֲרֹ֑ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "כַּאֲשֶׁ֨ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "צִוָּ֧ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "כֵּ֥ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "עָשֽׂוּ",
+          "morph": "HVqp3cp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "摩 西 、 亞 倫 與 法 老 說 話 的 時 候 ， 摩 西 八 十 歲 ， 亞 倫 八 十 三 歲 。",
+      "en": "Now Moses was eighty years old and Aaron was eighty-three years old when they spoke to Pharaoh.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמֹשֶׁה֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שְׁמֹנִ֣ים",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "שָׁנָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְאַֽהֲרֹ֔ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שָׁלֹ֥שׁ",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "וּשְׁמֹנִ֖ים",
+          "morph": "HC/Acbpa"
+        },
+        {
+          "w": "שָׁנָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּדַבְּרָ֖ם",
+          "morph": "HR/Vpc/Sp3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פַּרְעֹֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "耶 和 華 曉 諭 摩 西 、 亞 倫 說 ：",
+      "en": "The Lord said to Moses and Aaron,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶֽל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אַהֲרֹ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "法 老 若 對 你 們 說 ： 你 們 行 件 奇 事 罷 ！ 你 就 吩 咐 亞 倫 說 ： 把 杖 丟 在 法 老 面 前 ， 使 杖 變 作 蛇 。",
+      "en": "“When Pharaoh says to you, ‘Do a miracle,’ and you say to Aaron, ‘Take your staff and throw it down before Pharaoh,’ it will become a snake.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּי֩",
+          "morph": "HC"
+        },
+        {
+          "w": "יְדַבֵּ֨ר",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "אֲלֵכֶ֤ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "פַּרְעֹה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "תְּנ֥וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מוֹפֵ֑ת",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאָמַרְתָּ֣",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "אַהֲרֹ֗ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "קַ֧ח",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "אֶֽת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מַטְּךָ֛",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וְהַשְׁלֵ֥ךְ",
+          "morph": "HC/Vhv2ms"
+        },
+        {
+          "w": "לִפְנֵֽי",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "פַרְעֹ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "יְהִ֥י",
+          "morph": "HVqj3ms"
+        },
+        {
+          "w": "לְתַנִּֽין",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "摩 西 、 亞 倫 進 去 見 法 老 ， 就 照 耶 和 華 所 吩 咐 的 行 。 亞 倫 把 杖 丟 在 法 老 和 臣 僕 面 前 ， 杖 就 變 作 蛇 。",
+      "en": "When Moses and Aaron went to Pharaoh, they did so, just as the Lord had commanded them—Aaron threw down his staff before Pharaoh and his servants, and it became a snake.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּבֹ֨א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מֹשֶׁ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאַהֲרֹן֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פַּרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיַּ֣עַשׂוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "כֵ֔ן",
+          "morph": "HD"
+        },
+        {
+          "w": "כַּאֲשֶׁ֖ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "צִוָּ֣ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיַּשְׁלֵ֨ךְ",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "אַהֲרֹ֜ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מַטֵּ֗הוּ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "פַרְעֹ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְלִפְנֵ֥י",
+          "morph": "HC/R/Ncbpc"
+        },
+        {
+          "w": "עֲבָדָ֖יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וַיְהִ֥י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לְתַנִּֽין",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "於 是 法 老 召 了 博 士 和 術 士 來 ； 他 們 是 埃 及 行 法 術 的 ， 也 用 邪 術 照 樣 而 行 。",
+      "en": "Then Pharaoh also summoned wise men and sorcerers, and the magicians of Egypt by their secret arts did the same thing.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקְרָא֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "פַּרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לַֽחֲכָמִ֖ים",
+          "morph": "HRd/Aampa"
+        },
+        {
+          "w": "וְלַֽמְכַשְּׁפִ֑ים",
+          "morph": "HC/Rd/Vprmpa"
+        },
+        {
+          "w": "וַיַּֽעֲשׂ֨וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "גַם",
+          "morph": "HD"
+        },
+        {
+          "w": "הֵ֜ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "חַרְטֻמֵּ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מִצְרַ֛יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּלַהֲטֵיהֶ֖ם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "כֵּֽן",
+          "morph": "HTm"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "他 們 各 人 丟 下 自 己 的 杖 ， 杖 就 變 作 蛇 ； 但 亞 倫 的 杖 吞 了 他 們 的 杖 。",
+      "en": "Each man threw down his staff, and the staffs became snakes. But Aaron’s staff swallowed up their staffs.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּשְׁלִ֨יכוּ֙",
+          "morph": "HC/Vhw3mp"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מַטֵּ֔הוּ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וַיִּהְי֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "לְתַנִּינִ֑ם",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "וַיִּבְלַ֥ע",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מַטֵּֽה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אַהֲרֹ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מַטֹּתָֽם",
+          "morph": "HNcmpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "法 老 心 裡 剛 硬 ， 不 肯 聽 從 摩 西 、 亞 倫 ， 正 如 耶 和 華 所 說 的 。",
+      "en": "Yet Pharaoh’s heart became hard, and he did not listen to them, just as the Lord had predicted.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֶּחֱזַק֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לֵ֣ב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פַּרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "שָׁמַ֖ע",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֲלֵהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֖ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "דִּבֶּ֥ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "耶 和 華 對 摩 西 說 ： 法 老 心 裡 固 執 ， 不 肯 容 百 姓 去 。",
+      "en": "The Lord said to Moses, “Pharaoh’s heart is hard; he refuses to release the people.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כָּבֵ֖ד",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "לֵ֣ב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פַּרְעֹ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵאֵ֖ן",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "לְשַׁלַּ֥ח",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "הָעָֽם",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "明 日 早 晨 ， 他 出 來 往 水 邊 去 ， 你 要 往 河 邊 迎 接 他 ， 手 裡 要 拿 著 那 變 過 蛇 的 杖 ，",
+      "en": "Go to Pharaoh in the morning when he goes out to the water. Position yourself to meet him by the edge of the Nile, and take in your hand the staff that was turned into a snake.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֵ֣ךְ",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פַּרְעֹ֞ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּבֹּ֗קֶר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הִנֵּה֙",
+          "morph": "HTm"
+        },
+        {
+          "w": "יֹצֵ֣א",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "הַמַּ֔יְמָה",
+          "morph": "HTd/Ncmpa/Sd"
+        },
+        {
+          "w": "וְנִצַּבְתָּ֥",
+          "morph": "HC/VNq2ms"
+        },
+        {
+          "w": "לִקְרָאת֖וֹ",
+          "morph": "HR/Vqc/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׂפַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַיְאֹ֑ר",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "וְהַמַּטֶּ֛ה",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נֶהְפַּ֥ךְ",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "לְנָחָ֖שׁ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "תִּקַּ֥ח",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "בְּיָדֶֽךָ",
+          "morph": "HR/Ncbsc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "對 他 說 ： 耶 和 華 ─ 希 伯 來 人 的 神 打 發 我 來 見 你 ， 說 ： 容 我 的 百 姓 去 ， 好 在 曠 野 事 奉 我 。 到 如 今 你 還 是 不 聽 。",
+      "en": "Tell him, ‘The Lord, the God of the Hebrews, has sent me to you to say, “Release my people, that they may serve me in the wilderness!” But until now you have not listened.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאָמַרְתָּ֣",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֵלָ֗יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "יְהוָ֞ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָעִבְרִים֙",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "שְׁלָחַ֤נִי",
+          "morph": "HVqp3ms/Sp1cs"
+        },
+        {
+          "w": "אֵלֶ֨יךָ֙",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "שַׁלַּח֙",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עַמִּ֔י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וְיַֽעַבְדֻ֖נִי",
+          "morph": "HC/Vqi3mp/Sp1cs"
+        },
+        {
+          "w": "בַּמִּדְבָּ֑ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְהִנֵּ֥ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "שָׁמַ֖עְתָּ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "כֹּֽה",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "耶 和 華 這 樣 說 ： 我 要 用 我 手 裡 的 杖 擊 打 河 中 的 水 ， 水 就 變 作 血 ； 因 此 ， 你 必 知 道 我 是 耶 和 華 。",
+      "en": "This is what the Lord has said: “By this you will know that I am the Lord: I am going to strike the water of the Nile with the staff that is in my hand, and it will be turned into blood.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כֹּ֚ה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּזֹ֣את",
+          "morph": "HR/Pdxfs"
+        },
+        {
+          "w": "תֵּדַ֔ע",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "כִּ֖י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֲנִ֣י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הִנֵּ֨ה",
+          "morph": "HTm"
+        },
+        {
+          "w": "אָנֹכִ֜י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מַכֶּ֣ה",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "בַּמַּטֶּ֣ה",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בְּיָדִ֗י",
+          "morph": "HR/Ncbsc/Sp1cs"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמַּ֛יִם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בַּיְאֹ֖ר",
+          "morph": "HRd/Np"
+        },
+        {
+          "w": "וְנֶהֶפְכ֥וּ",
+          "morph": "HC/VNp3cp"
+        },
+        {
+          "w": "לְדָֽם",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "河 裡 的 魚 必 死 ， 河 也 要 腥 臭 ， 埃 及 人 就 要 厭 惡 吃 這 河 裡 的 水 。",
+      "en": "Fish in the Nile will die, the Nile will stink, and the Egyptians will be unable to drink water from the Nile.”’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַדָּגָ֧ה",
+          "morph": "HC/Td/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בַּיְאֹ֛ר",
+          "morph": "HRd/Np"
+        },
+        {
+          "w": "תָּמ֖וּת",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "וּבָאַ֣שׁ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַיְאֹ֑ר",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "וְנִלְא֣וּ",
+          "morph": "HC/VNq3cp"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "לִשְׁתּ֥וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מַ֖יִם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיְאֹֽר",
+          "morph": "HTd/Np"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "耶 和 華 曉 諭 摩 西 說 ： 你 對 亞 倫 說 ： 把 你 的 杖 伸 在 埃 及 所 有 的 水 以 上 ， 就 是 在 他 們 的 江 、 河 、 池 、 塘 以 上 ， 叫 水 都 變 作 血 。 在 埃 及 遍 地 ， 無 論 在 木 器 中 ， 石 器 中 ， 都 必 有 血 。",
+      "en": "Then the Lord said to Moses, “Tell Aaron, ‘Take your staff and stretch out your hand over Egypt’s waters—over their rivers, over their canals, over their ponds, and over all their reservoirs—so that it becomes blood.’ There will be blood everywhere in the land of Egypt, even in wooden and stone containers.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֨אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱמֹ֣ר",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "אַהֲרֹ֡ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "קַ֣ח",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "מַטְּךָ֣",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וּנְטֵֽה",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "יָדְךָ֩",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֵימֵ֨י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מִצְרַ֜יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "נַהֲרֹתָ֣ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְאֹרֵיהֶ֣ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אַגְמֵיהֶ֗ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "וְעַ֛ל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִקְוֵ֥ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מֵימֵיהֶ֖ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "וְיִֽהְיוּ",
+          "morph": "HC/Vqi3mp"
+        },
+        {
+          "w": "דָ֑ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְהָ֤יָה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "דָם֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּבָעֵצִ֖ים",
+          "morph": "HC/Rd/Ncmpa"
+        },
+        {
+          "w": "וּבָאֲבָנִֽים",
+          "morph": "HC/Rd/Ncfpa"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "摩 西 、 亞 倫 就 照 耶 和 華 所 吩 咐 的 行 。 亞 倫 在 法 老 和 臣 僕 眼 前 舉 杖 擊 打 河 裡 的 水 ， 河 裡 的 水 都 變 作 血 了 。",
+      "en": "Moses and Aaron did so, just as the Lord had commanded. He raised the staff and struck the water that was in the Nile right before the eyes of Pharaoh and his servants, and all the water that was in the Nile was turned to blood.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּֽעֲשׂוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "כֵן֩",
+          "morph": "HD"
+        },
+        {
+          "w": "מֹשֶׁ֨ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאַהֲרֹ֜ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "כַּאֲשֶׁ֣ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "צִוָּ֣ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיָּ֤רֶם",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "בַּמַּטֶּה֙",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וַיַּ֤ךְ",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַמַּ֨יִם֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בַּיְאֹ֔ר",
+          "morph": "HRd/Np"
+        },
+        {
+          "w": "לְעֵינֵ֣י",
+          "morph": "HR/Ncbdc"
+        },
+        {
+          "w": "פַרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּלְעֵינֵ֖י",
+          "morph": "HC/R/Ncbdc"
+        },
+        {
+          "w": "עֲבָדָ֑יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וַיֵּהָֽפְכ֛וּ",
+          "morph": "HC/VNw3mp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמַּ֥יִם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בַּיְאֹ֖ר",
+          "morph": "HRd/Np"
+        },
+        {
+          "w": "לְדָֽם",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "河 裡 的 魚 死 了 ， 河 也 腥 臭 了 ， 埃 及 人 就 不 能 吃 這 河 裡 的 水 ； 埃 及 遍 地 都 有 了 血 。",
+      "en": "When the fish that were in the Nile died, the Nile began to stink, so that the Egyptians could not drink water from the Nile. There was blood everywhere in the land of Egypt!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַדָּגָ֨ה",
+          "morph": "HC/Td/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בַּיְאֹ֥ר",
+          "morph": "HRd/Np"
+        },
+        {
+          "w": "מֵ֨תָה֙",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "וַיִּבְאַ֣שׁ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הַיְאֹ֔ר",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יָכְל֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "לִשְׁתּ֥וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מַ֖יִם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיְאֹ֑ר",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "וַיְהִ֥י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הַדָּ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "埃 及 行 法 術 的 ， 也 用 邪 術 照 樣 而 行 。 法 老 心 裡 剛 硬 ， 不 肯 聽 摩 西 、 亞 倫 ， 正 如 耶 和 華 所 說 的 。",
+      "en": "But the magicians of Egypt did the same by their secret arts, and so Pharaoh’s heart remained hard, and he refused to listen to Moses and Aaron—just as the Lord had predicted.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּֽעֲשׂוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "כֵ֛ן",
+          "morph": "HD"
+        },
+        {
+          "w": "חַרְטֻמֵּ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מִצְרַ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּלָטֵיהֶ֑ם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "וַיֶּחֱזַ֤ק",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לֵב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פַּרְעֹה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "שָׁמַ֣ע",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֲלֵהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֖ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "דִּבֶּ֥ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "法 老 轉 身 進 宮 ， 也 不 把 這 事 放 在 心 上 。",
+      "en": "And Pharaoh turned and went into his house. He did not pay any attention to this.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּ֣פֶן",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיָּבֹ֖א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּית֑וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "שָׁ֥ת",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לִבּ֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "לָזֹֽאת",
+          "morph": "HR/Pdxfs"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "埃 及 人 都 在 河 的 兩 邊 挖 地 ， 要 得 水 喝 ， 因 為 他 們 不 能 喝 這 河 裡 的 水 。",
+      "en": "All the Egyptians dug around the Nile for water to drink, because they could not drink the water of the Nile.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּחְפְּר֧וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִצְרַ֛יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "סְבִיבֹ֥ת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הַיְאֹ֖ר",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "מַ֣יִם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לִשְׁתּ֑וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֤א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָֽכְלוּ֙",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לִשְׁתֹּ֔ת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מִמֵּימֵ֖י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "הַיְאֹֽר",
+          "morph": "HTd/Np"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "耶 和 華 擊 打 河 以 後 滿 了 七 天 。",
+      "en": "Seven full days passed after the Lord struck the Nile.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּמָּלֵ֖א",
+          "morph": "HC/VNw3ms"
+        },
+        {
+          "w": "שִׁבְעַ֣ת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "אַחֲרֵ֥י",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכּוֹת",
+          "morph": "HVhc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַיְאֹֽר",
+          "morph": "HTd/Np"
+        }
+      ]
+    }
+  ]
+}

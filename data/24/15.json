@@ -1,0 +1,1450 @@
+{
+  "book": 24,
+  "chapter": 15,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 對 我 說 ： 雖 有 摩 西 和 撒 母 耳 站 在 我 面 前 代 求 ， 我 的 心 也 不 顧 惜 這 百 姓 。 你 將 他 們 從 我 眼 前 趕 出 ， 叫 他 們 去 罷 ！",
+      "en": "Then the Lord said to me, “Even if Moses and Samuel stood before me pleading for these people, I would not feel pity for them! Get them away from me! Tell them to go away!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֵלַ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "יַעֲמֹ֨ד",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מֹשֶׁ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּשְׁמוּאֵל֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "לְפָנַ֔י",
+          "morph": "HR/Ncbpc/Sp1cs"
+        },
+        {
+          "w": "אֵ֥ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "נַפְשִׁ֖י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָעָ֣ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֑ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "שַׁלַּ֥ח",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "מֵֽעַל",
+          "morph": "HR/R"
+        },
+        {
+          "w": "פָּנַ֖י",
+          "morph": "HNcbpc/Sp1cs"
+        },
+        {
+          "w": "וְיֵצֵֽאוּ",
+          "morph": "HC/Vqi3mp"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "他 們 問 你 說 ： 我 們 往 哪 裡 去 呢 ？ 你 便 告 訴 他 們 ， 耶 和 華 如 此 說 ： 定 為 死 亡 的 ， 必 致 死 亡 ； 定 為 刀 殺 的 ， 必 交 刀 殺 ； 定 為 饑 荒 的 ， 必 遭 饑 荒 ； 定 為 擄 掠 的 ， 必 被 擄 掠 。",
+      "en": "If they ask you, ‘Where should we go?’ tell them the Lord says this: ‘Those who are destined to die of disease will go to death by disease. Those who are destined to die in war will go to death in war. Those who are destined to die of starvation will go to death by starvation. Those who are destined to go into exile will go into exile.’",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיָ֛ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יֹאמְר֥וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "אֵלֶ֖יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "אָ֣נָה",
+          "morph": "HD"
+        },
+        {
+          "w": "נֵצֵ֑א",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "וְאָמַרְתָּ֨",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֲלֵיהֶ֜ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כֹּֽה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לַמָּ֤וֶת",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "לַמָּ֨וֶת֙",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וַאֲשֶׁ֤ר",
+          "morph": "HC/Tr"
+        },
+        {
+          "w": "לַחֶ֨רֶב֙",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "לַחֶ֔רֶב",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "וַאֲשֶׁ֤ר",
+          "morph": "HC/Tr"
+        },
+        {
+          "w": "לָֽרָעָב֙",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "לָֽרָעָ֔ב",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וַאֲשֶׁ֥ר",
+          "morph": "HC/Tr"
+        },
+        {
+          "w": "לַשְּׁבִ֖י",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "לַשֶּֽׁבִי",
+          "morph": "HRd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "耶 和 華 說 ： 我 命 定 四 樣 害 他 們 ， 就 是 刀 劍 殺 戮 、 狗 類 撕 裂 、 空 中 的 飛 鳥 ， 和 地 上 的 野 獸 吞 吃 毀 滅 ；",
+      "en": "“I will punish them in four different ways: I will have war kill them; I will have dogs drag off their dead bodies; I will have birds and wild beasts devour and destroy their corpses.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּפָקַדְתִּ֨י",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "עֲלֵיהֶ֜ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אַרְבַּ֤ע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "מִשְׁפָּחוֹת֙",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "נְאֻם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַחֶ֣רֶב",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "לַֽהֲרֹ֔ג",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַכְּלָבִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "לִסְחֹ֑ב",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "ע֧וֹף",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׁמַ֛יִם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "בֶּהֱמַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "לֶאֱכֹ֥ל",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "וּלְהַשְׁחִֽית",
+          "morph": "HC/R/Vhc"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "又 必 使 他 們 在 天 下 萬 國 中 拋 來 拋 去 ， 都 因 猶 大 王 希 西 家 的 兒 子 瑪 拿 西 在 耶 路 撒 冷 所 行 的 事 。",
+      "en": "I will make all the people in all the kingdoms of the world horrified at what has happened to them because of what Hezekiah’s son Manasseh, king of Judah, did in Jerusalem.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּנְתַתִּ֣ים",
+          "morph": "HC/Vqq1cs/Sp3mp"
+        },
+        {
+          "w": "לזועה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "לְזַֽעֲוָ֔ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "לְכֹ֖ל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מַמְלְכ֣וֹת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "בִּ֠גְלַל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מְנַשֶּׁ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְחִזְקִיָּ֨הוּ֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶ֣לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַ֥ל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עָשָׂ֖ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בִּירוּשָׁלִָֽם",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "耶 路 撒 冷 啊 ， 誰 可 憐 你 呢 ？ 誰 為 你 悲 傷 呢 ？ 誰 轉 身 問 你 的 安 呢 ？",
+      "en": "The Lord cried out, “Who in the world will have pity on you, Jerusalem? Who will grieve over you? Who will stop long enough to inquire about how you are doing?",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֠י",
+          "morph": "HC"
+        },
+        {
+          "w": "מִֽי",
+          "morph": "HTi"
+        },
+        {
+          "w": "יַחְמֹ֤ל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "עָלַ֨יִךְ֙",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "יְר֣וּשָׁלִַ֔ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִ֖י",
+          "morph": "HC/Ti"
+        },
+        {
+          "w": "יָנ֣וּד",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָ֑ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "וּמִ֣י",
+          "morph": "HC/Ti"
+        },
+        {
+          "w": "יָס֔וּר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לִשְׁאֹ֥ל",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לְשָׁלֹ֖ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לָֽךְ",
+          "morph": "HR/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "耶 和 華 說 ： 你 棄 絕 了 我 ， 轉 身 退 後 ； 因 此 我 伸 手 攻 擊 你 ， 毀 壞 你 。 我 後 悔 甚 不 耐 煩 。",
+      "en": "I, the Lord, say: ‘You people have deserted me; you keep turning your back on me.’ So I have unleashed my power against you and have begun to destroy you. I have grown tired of feeling sorry for you!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַ֣תְּ",
+          "morph": "HPp2fs"
+        },
+        {
+          "w": "נָטַ֥שְׁתְּ",
+          "morph": "HVqp2fs"
+        },
+        {
+          "w": "אֹתִ֛י",
+          "morph": "HTo/Sp1cs"
+        },
+        {
+          "w": "נְאֻם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אָח֣וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תֵּלֵ֑כִי",
+          "morph": "HVqi2fs"
+        },
+        {
+          "w": "וָאַ֨ט",
+          "morph": "HC/Vhw1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יָדִ֤י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "עָלַ֨יִךְ֙",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "וָֽאַשְׁחִיתֵ֔ךְ",
+          "morph": "HC/Vhw1cs/Sp2fs"
+        },
+        {
+          "w": "נִלְאֵ֖יתִי",
+          "morph": "HVNp1cs"
+        },
+        {
+          "w": "הִנָּחֵֽם",
+          "morph": "HVNc"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "我 在 境 內 各 城 門 口 （ 或 譯 ： 我 在 這 地 邊 界 的 關 口 ） ， 用 簸 箕 簸 了 我 的 百 姓 ， 使 他 們 喪 掉 兒 女 。 我 毀 滅 他 們 ， 他 們 仍 不 轉 離 所 行 的 道 。",
+      "en": "The Lord continued, “In every town in the land I will purge them like straw blown away by the wind. I will destroy my people. I will kill off their children. I will do so because they did not change their behavior.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאֶזְרֵ֥ם",
+          "morph": "HC/Vqw1cs/Sp3mp"
+        },
+        {
+          "w": "בְּמִזְרֶ֖ה",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "בְּשַׁעֲרֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "שִׁכַּ֤לְתִּי",
+          "morph": "HVpp1cs"
+        },
+        {
+          "w": "אִבַּ֨דְתִּי֙",
+          "morph": "HVpp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עַמִּ֔י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "מִדַּרְכֵיהֶ֖ם",
+          "morph": "HR/Ncbpc/Sp3mp"
+        },
+        {
+          "w": "לוֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "שָֽׁבוּ",
+          "morph": "HVqp3cp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "他 們 的 寡 婦 在 我 面 前 比 海 沙 更 多 ； 我 使 滅 命 的 午 間 來 ， 攻 擊 少 年 人 的 母 親 ， 使 痛 苦 驚 嚇 忽 然 臨 到 他 身 上 。",
+      "en": "Their widows will become in my sight more numerous than the grains of sand on the seashores. At noontime I will bring a destroyer against the mothers of their young men. I will cause anguish and terror to fall suddenly upon them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עָֽצְמוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לִ֤י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "אַלְמְנֹתָו֙",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "מֵח֣וֹל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יַמִּ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "הֵבֵ֨אתִי",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "לָהֶ֥ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֵ֛ם",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בָּח֖וּר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "שֹׁדֵ֣ד",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בַּֽצָּהֳרָ֑יִם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "הִפַּ֤לְתִּי",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "עָלֶ֨יהָ֙",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "פִּתְאֹ֔ם",
+          "morph": "HD"
+        },
+        {
+          "w": "עִ֖יר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּבֶהָלֽוֹת",
+          "morph": "HC/Ncfpa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "生 過 七 子 的 婦 人 力 衰 氣 絕 ； 尚 在 白 晝 ， 日 頭 忽 落 ； 他 抱 愧 蒙 羞 。 其 餘 的 人 ， 我 必 在 他 們 敵 人 跟 前 ， 交 與 刀 劍 。 這 是 耶 和 華 說 的 。",
+      "en": "The mother who had seven children will grow faint. All the breath will go out of her. Her pride and joy will be taken from her in the prime of their life. It will seem as if the sun had set while it was still day. She will suffer shame and humiliation. I will cause any of them who are still left alive to be killed in war by the onslaughts of their enemies,” says the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֻמְלְלָ֞ה",
+          "morph": "HVKp3fs"
+        },
+        {
+          "w": "יֹלֶ֣דֶת",
+          "morph": "HVqrfsc"
+        },
+        {
+          "w": "הַשִּׁבְעָ֗ה",
+          "morph": "HTd/Acmsa"
+        },
+        {
+          "w": "נָפְחָ֥ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "נַפְשָׁ֛הּ",
+          "morph": "HNcbsc/Sp3fs"
+        },
+        {
+          "w": "באה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "בָּ֥א",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "שִׁמְשָׁ֛הּ",
+          "morph": "HNcbsc/Sp3fs"
+        },
+        {
+          "w": "בְּעֹ֥ד",
+          "morph": "HR/D"
+        },
+        {
+          "w": "יוֹמָ֖ם",
+          "morph": "HD"
+        },
+        {
+          "w": "בּ֣וֹשָׁה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "וְחָפֵ֑רָה",
+          "morph": "HC/Vqp3fs"
+        },
+        {
+          "w": "וּשְׁאֵֽרִיתָ֗ם",
+          "morph": "HC/Ncfsc/Sp3mp"
+        },
+        {
+          "w": "לַחֶ֧רֶב",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "אֶתֵּ֛ן",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "אֹיְבֵיהֶ֖ם",
+          "morph": "HVqrmpc/Sp3mp"
+        },
+        {
+          "w": "נְאֻם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "我 的 母 親 哪 ， 我 有 禍 了 ！ 因 你 生 我 作 為 遍 地 相 爭 相 競 的 人 。 我 素 來 沒 有 借 貸 與 人 ， 人 也 沒 有 借 貸 與 我 ， 人 人 卻 都 咒 罵 我 。",
+      "en": "I said, “Oh, mother, how I regret that you ever gave birth to me! I am always starting arguments and quarrels with the people of this land. I have not lent money to anyone, and I have not borrowed from anyone. Yet all these people are treating me with contempt.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֽוֹי",
+          "morph": "HTj"
+        },
+        {
+          "w": "לִ֣י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "אִמִּ֔י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "יְלִדְתִּ֗נִי",
+          "morph": "HVqp2fs/Sp1cs"
+        },
+        {
+          "w": "אִ֥ישׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רִ֛יב",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וְאִ֥ישׁ",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "מָד֖וֹן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "נָשִׁ֥יתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "נָֽשׁוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בִ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "כֻּלֹּ֥ה",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "מְקַלְלַֽונִי",
+          "morph": "HVprmpc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "耶 和 華 說 ： 我 必 要 堅 固 你 ， 使 你 得 好 處 。 災 禍 苦 難 臨 到 的 時 候 ， 我 必 要 使 仇 敵 央 求 你 。",
+      "en": "The Lord said, “Jerusalem, I will surely send you away for your own good. I will surely bring the enemy upon you in a time of trouble and distress.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "שרותך",
+          "morph": "HVqp1cs/Sp2ms"
+        },
+        {
+          "w": "שֵֽׁרִיתִ֖יךָ",
+          "morph": "HVpp1cs/Sp2ms"
+        },
+        {
+          "w": "לְט֑וֹב",
+          "morph": "HR/Aamsa"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "ל֣וֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "הִפְגַּ֣עְתִּֽי",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "בְךָ֗",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "בְּעֵ֥ת",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "רָעָ֛ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "וּבְעֵ֥ת",
+          "morph": "HC/R/Ncbsc"
+        },
+        {
+          "w": "צָרָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאֹיֵֽב",
+          "morph": "HTd/Vqrmsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "（ 人 豈 能 將 銅 與 鐵 ， 就 是 北 方 的 鐵 折 斷 呢 ？ ）",
+      "en": "Can you people who are like iron and bronze break that iron fist from the north?",
+      "notes": [],
+      "he": [
+        {
+          "w": "הֲיָרֹ֨עַ",
+          "morph": "HTi/Vqi3ms"
+        },
+        {
+          "w": "בַּרְזֶ֧ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בַּרְזֶ֛ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִצָּפ֖וֹן",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וּנְחֹֽשֶׁת",
+          "morph": "HC/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "我 必 因 你 在 四 境 之 內 所 犯 的 一 切 罪 ， 把 你 的 貨 物 財 寶 當 掠 物 ， 白 白 地 交 給 仇 敵 。",
+      "en": "I will give away your wealth and your treasures as plunder. I will give it away free of charge for the sins you have committed throughout your land.",
+      "notes": [],
+      "he": [
+        {
+          "w": "חֵילְךָ֧",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וְאוֹצְרוֹתֶ֛יךָ",
+          "morph": "HC/Ncmpc/Sp2ms"
+        },
+        {
+          "w": "לָבַ֥ז",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֶתֵּ֖ן",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "בִמְחִ֑יר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וּבְכָל",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "חַטֹּאותֶ֖יךָ",
+          "morph": "HNcfpc/Sp2ms"
+        },
+        {
+          "w": "וּבְכָל",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "גְּבוּלֶֽיךָ",
+          "morph": "HNcmpc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "我 也 必 使 仇 敵 帶 這 掠 物 到 你 所 不 認 識 的 地 去 ， 因 我 怒 中 起 的 火 要 將 你 們 焚 燒 。",
+      "en": "I will make you serve your enemies in a land that you know nothing about. For my anger is like a fire that will burn against you.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַֽעֲבַרְתִּי֙",
+          "morph": "HC/Vhq1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֹ֣יְבֶ֔יךָ",
+          "morph": "HVqrmpc/Sp2ms"
+        },
+        {
+          "w": "בְּאֶ֖רֶץ",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָדָ֑עְתָּ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "אֵ֛שׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "קָדְחָ֥ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "בְאַפִּ֖י",
+          "morph": "HR/Ncmsc/Sp1cs"
+        },
+        {
+          "w": "עֲלֵיכֶ֥ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "תּוּקָֽד",
+          "morph": "HVHi3fs"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "耶 和 華 啊 ， 你 是 知 道 的 ； 求 你 記 念 我 ， 眷 顧 我 ， 向 逼 迫 我 的 人 為 我 報 仇 ； 不 要 向 他 們 忍 怒 取 我 的 命 ， 要 知 道 我 為 你 的 緣 故 受 了 凌 辱 。",
+      "en": "I said, “Lord, you know how I suffer. Take thought of me and care for me. Pay back for me those who have been persecuting me. Do not be so patient with them that you allow them to kill me. Be mindful of how I have put up with their insults for your sake.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַתָּ֧ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "יָדַ֣עְתָּ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "יְהוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "זָכְרֵ֤נִי",
+          "morph": "HVqv2ms/Sp1cs"
+        },
+        {
+          "w": "וּפָקְדֵ֨נִי֙",
+          "morph": "HC/Vqv2ms/Sp1cs"
+        },
+        {
+          "w": "וְהִנָּ֤קֶם",
+          "morph": "HC/VNv2ms"
+        },
+        {
+          "w": "לִי֙",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "מֵרֹ֣דְפַ֔י",
+          "morph": "HR/Vqrmpc/Sp1cs"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "לְאֶ֥רֶךְ",
+          "morph": "HR/Aamsc"
+        },
+        {
+          "w": "אַפְּךָ֖",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "תִּקָּחֵ֑נִי",
+          "morph": "HVqi2ms/Sp1cs"
+        },
+        {
+          "w": "דַּ֕ע",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "שְׂאֵתִ֥י",
+          "morph": "HVqc/Sp1cs"
+        },
+        {
+          "w": "עָלֶ֖יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "חֶרְפָּֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "耶 和 華 ─ 萬 軍 之 神 啊 ， 我 得 著 你 的 言 語 就 當 食 物 吃 了 ； 你 的 言 語 是 我 心 中 的 歡 喜 快 樂 ， 因 我 是 稱 為 你 名 下 的 人 。",
+      "en": "As your words came to me, I drank them in, and they filled my heart with joy and happiness because I belong to you, O Lord God of Heaven’s Armies.",
+      "notes": [],
+      "he": [
+        {
+          "w": "נִמְצְא֤וּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "דְבָרֶ֨יךָ֙",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "וָאֹ֣כְלֵ֔ם",
+          "morph": "HC/Vqw1cs/Sp3mp"
+        },
+        {
+          "w": "וַיְהִ֤י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "דבריך",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "דְבָֽרְךָ֙",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "לִ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "לְשָׂשׂ֖וֹן",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וּלְשִׂמְחַ֣ת",
+          "morph": "HC/R/Ncfsc"
+        },
+        {
+          "w": "לְבָבִ֑י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "נִקְרָ֤א",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "שִׁמְךָ֙",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "עָלַ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "צְבָאֽוֹת",
+          "morph": "HNcbpa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "我 沒 有 坐 在 宴 樂 人 的 會 中 ， 也 沒 有 歡 樂 ； 我 因 你 的 感 動 （ 原 文 是 手 ） 獨 自 靜 坐 ， 因 你 使 我 滿 心 憤 恨 。",
+      "en": "I did not spend my time in the company of other people, laughing and having a good time. I stayed to myself because I felt obligated to you and because I was filled with anger at what they had done.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָשַׁ֥בְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "בְסוֹד",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מְשַׂחֲקִ֖ים",
+          "morph": "HVprmpa"
+        },
+        {
+          "w": "וָֽאֶעְלֹ֑ז",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "מִפְּנֵ֤י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יָֽדְךָ֙",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "בָּדָ֣ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יָשַׁ֔בְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "זַ֖עַם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִלֵּאתָֽנִי",
+          "morph": "HVpp2ms/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "我 的 痛 苦 為 何 長 久 不 止 呢 ？ 我 的 傷 痕 為 何 無 法 醫 治 、 不 能 痊 愈 呢 ？ 難 道 你 待 我 有 詭 詐 ， 像 流 乾 的 河 道 麼 ？",
+      "en": "Why must I continually suffer such painful anguish? Why must I endure the sting of their insults like an incurable wound? Will you let me down when I need you, like a brook one goes to for water but that cannot be relied on?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "לָ֣מָּה",
+          "morph": "HR/Ti"
+        },
+        {
+          "w": "הָיָ֤ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "כְאֵבִי֙",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "נֶ֔צַח",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּמַכָּתִ֖י",
+          "morph": "HC/Ncfsc/Sp1cs"
+        },
+        {
+          "w": "אֲנוּשָׁ֑ה֙",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "מֵֽאֲנָה֙",
+          "morph": "HVpp3fs"
+        },
+        {
+          "w": "הֵֽרָפֵ֔א",
+          "morph": "HVNc"
+        },
+        {
+          "w": "הָי֨וֹ",
+          "morph": "HVqa"
+        },
+        {
+          "w": "תִֽהְיֶ֥ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "לִי֙",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "כְּמ֣וֹ",
+          "morph": "HR"
+        },
+        {
+          "w": "אַכְזָ֔ב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מַ֖יִם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "נֶאֱמָֽנוּ",
+          "morph": "HVNp3cp"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "耶 和 華 如 此 說 ： 你 若 歸 回 ， 我 就 將 你 再 帶 來 ， 使 你 站 在 我 面 前 ； 你 若 將 寶 貴 的 和 下 賤 的 分 別 出 來 ， 你 就 可 以 當 作 我 的 口 。 他 們 必 歸 向 你 ， 你 卻 不 可 歸 向 他 們 。",
+      "en": "Because of this, the Lord said, “You must repent of such words and thoughts! If you do, I will restore you to the privilege of serving me. If you say what is worthwhile instead of what is worthless, I will again allow you to be my spokesman. They must become as you have been. You must not become like them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לָכֵ֞ן",
+          "morph": "HR/D"
+        },
+        {
+          "w": "כֹּֽה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "תָּשׁ֤וּב",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "וַאֲשִֽׁיבְךָ֙",
+          "morph": "HC/Vhi1cs/Sp2ms"
+        },
+        {
+          "w": "לְפָנַ֣י",
+          "morph": "HR/Ncbpc/Sp1cs"
+        },
+        {
+          "w": "תַּֽעֲמֹ֔ד",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "תּוֹצִ֥יא",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "יָקָ֛ר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מִזּוֹלֵ֖ל",
+          "morph": "HR/Vqrmsa"
+        },
+        {
+          "w": "כְּפִ֣י",
+          "morph": "HR/Ncmsc/Sp1cs"
+        },
+        {
+          "w": "תִֽהְיֶ֑ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "יָשֻׁ֤בוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "הֵ֨מָּה֙",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "אֵלֶ֔יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "וְאַתָּ֖ה",
+          "morph": "HC/Pp2ms"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תָשׁ֥וּב",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "אֲלֵיהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "我 必 使 你 向 這 百 姓 成 為 堅 固 的 銅 牆 ； 他 們 必 攻 擊 你 ， 卻 不 能 勝 你 ； 因 我 與 你 同 在 ， 要 拯 救 你 ， 搭 救 你 。 這 是 耶 和 華 說 的 。",
+      "en": "I will make you as strong as a wall to these people, a fortified wall of bronze. They will attack you, but they will not be able to overcome you. For I will be with you to rescue you and deliver you,” says the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּנְתַתִּ֜יךָ",
+          "morph": "HC/Vqq1cs/Sp2ms"
+        },
+        {
+          "w": "לָעָ֣ם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֗ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "לְחוֹמַ֤ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "נְחֹ֨שֶׁת֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּצוּרָ֔ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "וְנִלְחֲמ֥וּ",
+          "morph": "HC/VNq3cp"
+        },
+        {
+          "w": "אֵלֶ֖יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "י֣וּכְלוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "לָ֑ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "אִתְּךָ֥",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "אֲנִ֛י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "לְהוֹשִֽׁיעֲךָ֥",
+          "morph": "HR/Vhc/Sp2ms"
+        },
+        {
+          "w": "וּלְהַצִּילֶ֖ךָ",
+          "morph": "HC/R/Vhc/Sp2ms"
+        },
+        {
+          "w": "נְאֻם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "我 必 搭 救 你 脫 離 惡 人 的 手 ， 救 贖 你 脫 離 強 暴 人 的 手 。",
+      "en": "“I will deliver you from the power of the wicked. I will free you from the clutches of violent people.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִצַּלְתִּ֖יךָ",
+          "morph": "HC/Vhq1cs/Sp2ms"
+        },
+        {
+          "w": "מִיַּ֣ד",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "רָעִ֑ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וּפְדִתִ֖יךָ",
+          "morph": "HC/Vqp1cs/Sp2ms"
+        },
+        {
+          "w": "מִכַּ֥ף",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "עָרִצִֽים",
+          "morph": "HAampa"
+        }
+      ]
+    }
+  ]
+}

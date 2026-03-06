@@ -1,0 +1,734 @@
+{
+  "book": 34,
+  "chapter": 2,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "尼 尼 微 啊 ， 那 打 碎 邦 國 的 上 來 攻 擊 你 。 你 要 看 守 保 障 ， 謹 防 道 路 ， 使 腰 強 壯 ， 大 大 勉 力 。",
+      "en": "(2:2) An enemy who will scatter you, Nineveh, has advanced against you! Guard the rampart! Watch the road! Prepare yourselves for battle! Muster your mighty strength!",
+      "notes": [],
+      "he": [
+        {
+          "w": "הִנֵּ֨ה",
+          "morph": "HTm"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הֶהָרִ֜ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "רַגְלֵ֤י",
+          "morph": "HNcfdc"
+        },
+        {
+          "w": "מְבַשֵּׂר֙",
+          "morph": "HVprmsa"
+        },
+        {
+          "w": "מַשְׁמִ֣יעַ",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "שָׁל֔וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "חָגִּ֧י",
+          "morph": "HVqv2fs"
+        },
+        {
+          "w": "יְהוּדָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "חַגַּ֖יִךְ",
+          "morph": "HNcmpc/Sp2fs"
+        },
+        {
+          "w": "שַׁלְּמִ֣י",
+          "morph": "HVpv2fs"
+        },
+        {
+          "w": "נְדָרָ֑יִךְ",
+          "morph": "HNcmpc/Sp2fs"
+        },
+        {
+          "w": "כִּי֩",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֨א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יוֹסִ֥יף",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "ע֛וֹד",
+          "morph": "HD"
+        },
+        {
+          "w": "לעבור",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לַֽעֲבָר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בָּ֥ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "בְּלִיַּ֖עַל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כֻּלֹּ֥ה",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "נִכְרָֽת",
+          "morph": "HVNp3ms"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "耶 和 華 復 興 雅 各 的 榮 華 ， 好 像 以 色 列 的 榮 華 一 樣 ； 因 為 使 地 空 虛 的 ， 已 經 使 雅 各 和 以 色 列 空 虛 ， 將 他 們 的 葡 萄 枝 毀 壞 了 。",
+      "en": "For the Lord is about to restore the majesty of Jacob, as well as the majesty of Israel, though their enemies have plundered them and have destroyed their fields.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עָלָ֥ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "מֵפִ֛יץ",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "פָּנַ֖יִךְ",
+          "morph": "HNcbpc/Sp2fs"
+        },
+        {
+          "w": "נָצ֣וֹר",
+          "morph": "HVqa"
+        },
+        {
+          "w": "מְצֻרָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "צַפֵּה",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "דֶ֨רֶךְ֙",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "חַזֵּ֣ק",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "מָתְנַ֔יִם",
+          "morph": "HNcmda"
+        },
+        {
+          "w": "אַמֵּ֥ץ",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "כֹּ֖חַ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מְאֹֽד",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "他 勇 士 的 盾 牌 是 紅 的 ， 精 兵 都 穿 朱 紅 衣 服 。 在 他 預 備 爭 戰 的 日 子 ， 戰 車 上 的 鋼 鐵 閃 爍 如 火 ， 柏 木 把 的 槍 也 掄 起 來 了 。",
+      "en": "The shields of his warriors are dyed red; the mighty soldiers are dressed in scarlet garments. The chariots are in flashing metal fittings on the day of battle; the soldiers brandish their spears.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "שָׁ֤ב",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "גְּא֣וֹן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יַעֲקֹ֔ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּגְא֖וֹן",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "בְקָקוּם֙",
+          "morph": "HVqp3cp/Sp3mp"
+        },
+        {
+          "w": "בֹּֽקְקִ֔ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "וּזְמֹרֵיהֶ֖ם",
+          "morph": "HC/Ncfpc/Sp3mp"
+        },
+        {
+          "w": "שִׁחֵֽתוּ",
+          "morph": "HVpp3cp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "車 輛 在 街 上 （ 或 譯 ： 城 外 ） 急 行 ， 在 寬 闊 處 奔 來 奔 去 ， 形 狀 如 火 把 ， 飛 跑 如 閃 電 。",
+      "en": "The chariots race madly through the streets, they rush back and forth in the broad plazas; they look like lightning bolts, they dash here and there like flashes of lightning.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מָגֵ֨ן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "גִּבֹּרֵ֜יהוּ",
+          "morph": "HAampc/Sp3ms"
+        },
+        {
+          "w": "מְאָדָּ֗ם",
+          "morph": "HVPsmsa"
+        },
+        {
+          "w": "אַנְשֵׁי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "חַ֨יִל֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מְתֻלָּעִ֔ים",
+          "morph": "HVPsmpa"
+        },
+        {
+          "w": "בְּאֵשׁ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "פְּלָד֥וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "הָרֶ֖כֶב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּי֣וֹם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הֲכִינ֑וֹ",
+          "morph": "HVhc/Sp3ms"
+        },
+        {
+          "w": "וְהַבְּרֹשִׁ֖ים",
+          "morph": "HC/Td/Ncmpa"
+        },
+        {
+          "w": "הָרְעָֽלוּ",
+          "morph": "HVHp3cp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "尼 尼 微 王 招 聚 他 的 貴 冑 ； 他 們 步 行 絆 跌 ， 速 上 城 牆 ， 預 備 擋 牌 。",
+      "en": "The commander orders his officers; they stumble as they advance; they rush to the city wall, and they set up the covered siege tower.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בַּֽחוּצוֹת֙",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "יִתְהוֹלְל֣וּ",
+          "morph": "HVri3mp"
+        },
+        {
+          "w": "הָרֶ֔כֶב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יִֽשְׁתַּקְשְׁק֖וּן",
+          "morph": "HVfi3mp/Sn"
+        },
+        {
+          "w": "בָּרְחֹב֑וֹת",
+          "morph": "HRd/Ncfpa"
+        },
+        {
+          "w": "מַרְאֵיהֶן֙",
+          "morph": "HNcmsc/Sp3fp"
+        },
+        {
+          "w": "כַּלַּפִּידִ֔ם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "כַּבְּרָקִ֖ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "יְרוֹצֵֽצוּ",
+          "morph": "HVoi3mp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "河 閘 開 放 ， 宮 殿 沖 沒 。",
+      "en": "The sluice gates are opened; the royal palace is deluged and dissolves.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יִזְכֹּר֙",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אַדִּירָ֔יו",
+          "morph": "HAampc/Sp3ms"
+        },
+        {
+          "w": "יִכָּשְׁל֖וּ",
+          "morph": "HVNi3mp"
+        },
+        {
+          "w": "בהלכותם",
+          "morph": "HR/Ncfpc/Sp3mp"
+        },
+        {
+          "w": "בַּהֲלִֽיכָתָ֑ם",
+          "morph": "HR/Ncfsc/Sp3mp"
+        },
+        {
+          "w": "יְמַֽהֲרוּ֙",
+          "morph": "HVpi3mp"
+        },
+        {
+          "w": "חֽוֹמָתָ֔הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "וְהֻכַ֖ן",
+          "morph": "HC/VHp3ms"
+        },
+        {
+          "w": "הַסֹּכֵֽךְ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "王 后 蒙 羞 ， 被 人 擄 去 ； 宮 女 搥 胸 ， 哀 鳴 如 鴿 。 此 乃 命 定 之 事 。",
+      "en": "Nineveh is taken into exile and is led away; her slave girls moan like doves while they beat their breasts.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שַׁעֲרֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַנְּהָר֖וֹת",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "נִפְתָּ֑חוּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "וְהַֽהֵיכָ֖ל",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "נָמֽוֹג",
+          "morph": "HVNp3ms"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "尼 尼 微 自 古 以 來 充 滿 人 民 ， 如 同 聚 水 的 池 子 ； 現 在 居 民 卻 都 逃 跑 。 雖 有 人 呼 喊 說 ： 站 住 ！ 站 住 ！ 卻 無 人 回 顧 。",
+      "en": "Nineveh was like a pool of water throughout her days, but now her people are running away; she cries out: “Stop! Stop!”— but no one turns back.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֻצַּ֖ב",
+          "morph": "HC/VHp3ms"
+        },
+        {
+          "w": "גֻּלְּתָ֣ה",
+          "morph": "HVPp3fs"
+        },
+        {
+          "w": "הֹֽעֲלָ֑תָה",
+          "morph": "HVHp3fs"
+        },
+        {
+          "w": "וְאַמְהֹתֶ֗יהָ",
+          "morph": "HC/Ncfpc/Sp3fs"
+        },
+        {
+          "w": "מְנַֽהֲגוֹת֙",
+          "morph": "HVprfpa"
+        },
+        {
+          "w": "כְּק֣וֹל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יוֹנִ֔ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "מְתֹפְפֹ֖ת",
+          "morph": "HVmrfpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "לִבְבֵהֶֽן",
+          "morph": "HNcmpc/Sp3fp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "你 們 搶 掠 金 銀 罷 ！ 因 為 所 積 蓄 的 無 窮 ， 華 美 的 寶 器 無 數 。",
+      "en": "Her conquerors cry out: “Plunder the silver! Plunder the gold!” There is no end to the treasure— riches of every kind of precious thing.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנִינְוֵ֥ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "כִבְרֵֽכַת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "מַ֖יִם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מִ֣ימֵי",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "הִ֑יא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "וְהֵ֣מָּה",
+          "morph": "HC/Pp3mp"
+        },
+        {
+          "w": "נָסִ֔ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "עִמְד֥וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "עֲמֹ֖דוּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "וְאֵ֥ין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "מַפְנֶֽה",
+          "morph": "HVhrmsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "尼 尼 微 現 在 空 虛 荒 涼 ， 人 心 消 化 ， 雙 膝 相 碰 ， 腰 都 疼 痛 ， 臉 都 變 色 。",
+      "en": "Destruction, devastation, and desolation! Hearts faint, knees tremble; every stomach churns, all their faces have turned pale!",
+      "notes": [],
+      "he": [
+        {
+          "w": "בֹּ֥זּוּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "כֶ֖סֶף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בֹּ֣זּוּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "זָהָ֑ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאֵ֥ין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "קֵ֨צֶה֙",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "לַתְּכוּנָ֔ה",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "כָּבֹ֕ד",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "מִכֹּ֖ל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "כְּלִ֥י",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חֶמְדָּֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "獅 子 的 洞 和 少 壯 獅 子 餵 養 之 處 在 哪 裡 呢 ？ 公 獅 母 獅 小 獅 遊 行 、 無 人 驚 嚇 之 地 在 哪 裡 呢 ？",
+      "en": "Where now is the den of the lions and the feeding place of the young lions, where the lion, lioness, and lion cub once prowled and no one disturbed them?",
+      "notes": [],
+      "he": [
+        {
+          "w": "בּוּקָ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּמְבוּקָ֖ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "וּמְבֻלָּקָ֑ה",
+          "morph": "HC/VPsfsa"
+        },
+        {
+          "w": "וְלֵ֨ב",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "נָמֵ֜ס",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "וּפִ֣ק",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "בִּרְכַּ֗יִם",
+          "morph": "HNcfda"
+        },
+        {
+          "w": "וְחַלְחָלָה֙",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מָתְנַ֔יִם",
+          "morph": "HNcmda"
+        },
+        {
+          "w": "וּפְנֵ֥י",
+          "morph": "HC/Ncbpc"
+        },
+        {
+          "w": "כֻלָּ֖ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "קִבְּצ֥וּ",
+          "morph": "HVpp3cp"
+        },
+        {
+          "w": "פָארֽוּר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "公 獅 為 小 獅 撕 碎 許 多 食 物 ， 為 母 獅 掐 死 活 物 ， 把 撕 碎 的 、 掐 死 的 充 滿 他 的 洞 穴 。",
+      "en": "The lion tore apart as much prey as his cubs needed and strangled prey for his lionesses; he filled his lairs with prey and his dens with torn flesh.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַיֵּה֙",
+          "morph": "HTi"
+        },
+        {
+          "w": "מְע֣וֹן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אֲרָי֔וֹת",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וּמִרְעֶ֥ה",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "ה֖וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "לַכְּפִרִ֑ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הָלַךְ֩",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אַרְיֵ֨ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לָבִ֥יא",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "שָׁ֛ם",
+          "morph": "HD"
+        },
+        {
+          "w": "גּ֥וּר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אַרְיֵ֖ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאֵ֥ין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "מַחֲרִֽיד",
+          "morph": "HVhrmsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "萬 軍 之 耶 和 華 說 ： 我 與 你 為 敵 ， 必 將 你 的 車 輛 焚 燒 成 煙 ， 刀 劍 也 必 吞 滅 你 的 少 壯 獅 子 。 我 必 從 地 上 除 滅 你 所 撕 碎 的 ， 你 使 者 的 聲 音 必 不 再 聽 見 。",
+      "en": "“I am against you!” declares the Lord of Heaven’s Armies: “I will burn your chariots with fire; the sword will devour your young lions. You will no longer prey upon the land; the voices of your messengers will no longer be heard.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַרְיֵ֤ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "טֹרֵף֙",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בְּדֵ֣י",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "גֹֽרוֹתָ֔יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וּמְחַנֵּ֖ק",
+          "morph": "HC/Vprmsa"
+        },
+        {
+          "w": "לְלִבְאֹתָ֑יו",
+          "morph": "HR/Ncbpc/Sp3ms"
+        },
+        {
+          "w": "וַיְמַלֵּא",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "טֶ֣רֶף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "חֹרָ֔יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וּמְעֹֽנֹתָ֖יו",
+          "morph": "HC/Ncbpc/Sp3ms"
+        },
+        {
+          "w": "טְרֵפָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    }
+  ]
+}

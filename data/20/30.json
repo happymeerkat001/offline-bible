@@ -1,0 +1,1482 @@
+{
+  "book": 20,
+  "chapter": 30,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "雅 基 的 兒 子 亞 古 珥 的 言 語 就 是 真 言 。 這 人 對 以 鐵 和 烏 甲 說 ：",
+      "en": "The words of Agur, the son of Jakeh; an oracle: This man says to Ithiel, to Ithiel and to Ukal:",
+      "notes": [],
+      "he": [
+        {
+          "w": "דִּבְרֵ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אָג֥וּר",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יָקֶ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַמַּ֫שָּׂ֥א",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "נְאֻ֣ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַ֭גֶּבֶר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְאִֽיתִיאֵ֑ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לְאִ֖יתִיאֵ֣ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְאֻכָֽל",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "我 比 眾 人 更 蠢 笨 ， 也 沒 有 人 的 聰 明 。",
+      "en": "Surely I am more brutish than any other human being, and I do not have human understanding;",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "בַ֣עַר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "אָנֹכִ֣י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מֵאִ֑ישׁ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וְלֹֽא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "בִינַ֖ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אָדָ֣ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לִֽי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "我 沒 有 學 好 智 慧 ， 也 不 認 識 至 聖 者 。",
+      "en": "I have not learned wisdom, nor can I have knowledge of the Holy One.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלֹֽא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "לָמַ֥דְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "חָכְמָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְדַ֖עַת",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "קְדֹשִׁ֣ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "אֵדָֽע",
+          "morph": "HVqi1cs"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "誰 升 天 又 降 下 來 ？ 誰 聚 風 在 掌 握 中 ？ 誰 包 水 在 衣 服 裡 ？ 誰 立 定 地 的 四 極 ？ 他 名 叫 甚 麼 ？ 他 兒 子 名 叫 甚 麼 ？ 你 知 道 嗎 ？",
+      "en": "Who has ascended into heaven, and then descended? Who has gathered up the winds in his fists? Who has bound up the waters in his cloak? Who has established all the ends of the earth? What is his name, and what is his son’s name? Surely you can know!",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִ֤י",
+          "morph": "HTi"
+        },
+        {
+          "w": "עָלָֽה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "שָׁמַ֨יִם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וַיֵּרַ֡ד",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מִ֤י",
+          "morph": "HTi"
+        },
+        {
+          "w": "אָֽסַף",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "ר֨וּחַ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "בְּחָפְנָ֡יו",
+          "morph": "HR/Ncmdc/Sp3ms"
+        },
+        {
+          "w": "מִ֤י",
+          "morph": "HTi"
+        },
+        {
+          "w": "צָֽרַר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "מַ֨יִם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בַּשִּׂמְלָ֗ה",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "מִ֭י",
+          "morph": "HTi"
+        },
+        {
+          "w": "הֵקִ֣ים",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אַפְסֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אָ֑רֶץ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "מַה",
+          "morph": "HTi"
+        },
+        {
+          "w": "שְּׁמ֥וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וּמַֽה",
+          "morph": "HC/Ti"
+        },
+        {
+          "w": "שֶּׁם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּ֝נ֗וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "תֵדָֽע",
+          "morph": "HVqi2ms"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "神 的 言 語 句 句 都 是 煉 淨 的 ； 投 靠 他 的 ， 他 便 作 他 們 的 盾 牌 。",
+      "en": "Every word of God is purified; he is like a shield for those who take refuge in him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אִמְרַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אֱל֣וֹהַּ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "צְרוּפָ֑ה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "מָגֵ֥ן",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "ה֝֗וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "לַֽחֹסִ֥ים",
+          "morph": "HRd/Vqrmpa"
+        },
+        {
+          "w": "בּֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "他 的 言 語 ， 你 不 可 加 添 ， 恐 怕 他 責 備 你 ， 你 就 顯 為 說 謊 言 的 。",
+      "en": "Do not add to his words, lest he reprove you and prove you to be a liar.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תּ֥וֹסְףְּ",
+          "morph": "HVhj2ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "דְּבָרָ֑יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "פֶּן",
+          "morph": "HC"
+        },
+        {
+          "w": "יוֹכִ֖יחַ",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "בְּךָ֣",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "וְנִכְזָֽבְתָּ",
+          "morph": "HC/VNq2ms"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "我 求 你 兩 件 事 ， 在 我 未 死 之 先 ， 不 要 不 賜 給 我 ：",
+      "en": "Two things I have asked from you; do not refuse me before I die:",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׁ֭תַּיִם",
+          "morph": "HAcfda"
+        },
+        {
+          "w": "שָׁאַ֣לְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "מֵאִתָּ֑ךְ",
+          "morph": "HR/R/Sp2fs"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּמְנַ֥ע",
+          "morph": "HVqj2ms"
+        },
+        {
+          "w": "מִ֝מֶּ֗נִּי",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "בְּטֶ֣רֶם",
+          "morph": "HR/D"
+        },
+        {
+          "w": "אָמֽוּת",
+          "morph": "HVqi1cs"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "求 你 使 虛 假 和 謊 言 遠 離 我 ； 使 我 也 不 貧 窮 也 不 富 足 ； 賜 給 我 需 用 的 飲 食 ，",
+      "en": "Remove falsehood and lies far from me; do not give me poverty or riches; feed me with my allotted portion of bread,",
+      "notes": [],
+      "he": [
+        {
+          "w": "שָׁ֤וְא",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּֽדְבַר",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "כָּזָ֡ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הַרְחֵ֬ק",
+          "morph": "HVhv2ms"
+        },
+        {
+          "w": "מִמֶּ֗נִּי",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "רֵ֣אשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וָ֭עֹשֶׁר",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּֽתֶּן",
+          "morph": "HVqj2ms"
+        },
+        {
+          "w": "לִ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "הַ֝טְרִיפֵ֗נִי",
+          "morph": "HVhv2ms/Sp1cs"
+        },
+        {
+          "w": "לֶ֣חֶם",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "חֻקִּֽי",
+          "morph": "HNcmsc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "恐 怕 我 飽 足 不 認 你 ， 說 ： 耶 和 華 是 誰 呢 ？ 又 恐 怕 我 貧 窮 就 偷 竊 ， 以 致 褻 瀆 我 神 的 名 。",
+      "en": "lest I become satisfied and act deceptively and say, “Who is the Lord?” Or lest I become poor and steal and demean the name of my God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "פֶּ֥ן",
+          "morph": "HC"
+        },
+        {
+          "w": "אֶשְׂבַּ֨ע",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "וְכִחַשְׁתִּי֮",
+          "morph": "HC/Vpq1cs"
+        },
+        {
+          "w": "וְאָמַ֗רְתִּי",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "מִ֥י",
+          "morph": "HTi"
+        },
+        {
+          "w": "יְה֫וָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּפֶֽן",
+          "morph": "HC/C"
+        },
+        {
+          "w": "אִוָּרֵ֥שׁ",
+          "morph": "HVNi1cs"
+        },
+        {
+          "w": "וְגָנַ֑בְתִּי",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "וְ֝תָפַ֗שְׂתִּי",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "שֵׁ֣ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֱלֹהָֽי",
+          "morph": "HNcmpc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "你 不 要 向 主 人 讒 謗 僕 人 ， 恐 怕 他 咒 詛 你 ， 你 便 算 為 有 罪 。",
+      "en": "Do not slander a servant to his master, lest he curse you, and you are found guilty.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַּלְשֵׁ֣ן",
+          "morph": "HVhj2ms"
+        },
+        {
+          "w": "עֶ֭בֶד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אדנו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "אֲדֹנָ֑יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "פֶּֽן",
+          "morph": "HC"
+        },
+        {
+          "w": "יְקַלֶּלְךָ֥",
+          "morph": "HVpi3ms/Sp2ms"
+        },
+        {
+          "w": "וְאָשָֽׁמְתָּ",
+          "morph": "HC/Vqq2ms"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "有 一 宗 人 （ 宗 ： 原 文 是 代 ； 下 同 ） ， 咒 詛 父 親 ， 不 給 母 親 祝 福 。",
+      "en": "There is a generation who curse their fathers and do not bless their mothers.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דּ֭וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אָבִ֣יו",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "יְקַלֵּ֑ל",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אִ֝מּ֗וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יְבָרֵֽךְ",
+          "morph": "HVpi3ms"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "有 一 宗 人 ， 自 以 為 清 潔 ， 卻 沒 有 洗 去 自 己 的 污 穢 。",
+      "en": "There is a generation who are pure in their own opinion and yet are not washed from their filthiness.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דּ֭וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "טָה֣וֹר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "בְּעֵינָ֑יו",
+          "morph": "HR/Ncbdc/Sp3ms"
+        },
+        {
+          "w": "וּ֝מִצֹּאָת֗וֹ",
+          "morph": "HC/R/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "רֻחָֽץ",
+          "morph": "HVPp3ms"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "有 一 宗 人 ， 眼 目 何 其 高 傲 ， 眼 皮 也 是 高 舉 。",
+      "en": "There is a generation whose eyes are so lofty and whose eyelids are lifted up disdainfully.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דּ֭וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מָה",
+          "morph": "HTi"
+        },
+        {
+          "w": "רָמ֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "עֵינָ֑יו",
+          "morph": "HNcbdc/Sp3ms"
+        },
+        {
+          "w": "וְ֝עַפְעַפָּ֗יו",
+          "morph": "HC/Ncmdc/Sp3ms"
+        },
+        {
+          "w": "יִנָּשֵֽׂאוּ",
+          "morph": "HVNi3mp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "有 一 宗 人 ， 牙 如 劍 ， 齒 如 刀 ， 要 吞 滅 地 上 的 困 苦 人 和 世 間 的 窮 乏 人 。",
+      "en": "There is a generation whose teeth are like swords and whose molars are like knives to devour the poor from the earth and the needy from among the human race.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דּ֤וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "חֲרָב֣וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "שִׁנָּיו֮",
+          "morph": "HNcbdc/Sp3ms"
+        },
+        {
+          "w": "וּֽמַאֲכָל֪וֹת",
+          "morph": "HC/Ncfpa"
+        },
+        {
+          "w": "מְֽתַלְּעֹ֫תָ֥יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "לֶאֱכֹ֣ל",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "עֲנִיִּ֣ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "מֵאֶ֑רֶץ",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "וְ֝אֶבְיוֹנִ֗ים",
+          "morph": "HC/Aampa"
+        },
+        {
+          "w": "מֵאָדָֽם",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "螞 蟥 有 兩 個 女 兒 ， 常 說 ： 給 呀 ， 給 呀 ！ 有 三 樣 不 知 足 的 ， 連 不 說 夠 的 共 有 四 樣 ：",
+      "en": "The leech has two daughters: “Give! Give!” There are three things that will never be satisfied, four that have never said, “Enough”—",
+      "notes": [],
+      "he": [
+        {
+          "w": "לַֽעֲלוּקָ֨ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "שְׁתֵּ֥י",
+          "morph": "HAcfdc"
+        },
+        {
+          "w": "בָנוֹת֮",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "הַ֤ב",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "הַ֥ב",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "שָׁל֣וֹשׁ",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "הֵ֭נָּה",
+          "morph": "HPp3fp"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִשְׂבַּ֑עְנָה",
+          "morph": "HVqi3fp"
+        },
+        {
+          "w": "אַ֝רְבַּ֗ע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "אָ֥מְרוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "הֽוֹן",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "就 是 陰 間 和 石 胎 ， 浸 水 不 足 的 地 ， 並 火 。",
+      "en": "the grave, the barren womb; earth has not been satisfied with water; and fire has never said, “Enough!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׁאוֹל֮",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעֹ֪צֶ֫ר",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "רָ֥חַם",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "אֶ֭רֶץ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "שָׂ֣בְעָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "מַּ֑יִם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וְ֝אֵ֗שׁ",
+          "morph": "HC/Ncbsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "אָ֥מְרָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "הֽוֹן",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "戲 笑 父 親 、 藐 視 而 不 聽 從 母 親 的 ， 他 的 眼 睛 必 為 谷 中 的 烏 鴉 啄 出 來 ， 為 鷹 雛 所 吃 。",
+      "en": "The eye that mocks at a father and despises obeying a mother— the ravens of the valley will peck it out, and the young vultures will eat it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עַ֤יִן",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "תִּֽלְעַ֣ג",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "לְאָב֮",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וְתָב֪וּז",
+          "morph": "HC/Vqi3fs"
+        },
+        {
+          "w": "לִֽיקֲּהַ֫ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "אֵ֥ם",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "יִקְּר֥וּהָ",
+          "morph": "HVqi3mp/Sp3fs"
+        },
+        {
+          "w": "עֹרְבֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "נַ֑חַל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְֽיֹאכְל֥וּהָ",
+          "morph": "HC/Vqi3mp/Sp3fs"
+        },
+        {
+          "w": "בְנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "נָֽשֶׁר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "我 所 測 不 透 的 奇 妙 有 三 樣 ， 連 我 所 不 知 道 的 共 有 四 樣 ：",
+      "en": "There are three things that are too wonderful for me, four that I do not understand:",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׁלֹשָׁ֣ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "הֵ֭מָּה",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "נִפְלְא֣וּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "מִמֶּ֑נִּי",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וארבע",
+          "morph": "HC/Acfsa"
+        },
+        {
+          "w": "וְ֝אַרְבָּעָ֗ה",
+          "morph": "HC/Acmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יְדַעְתִּֽים",
+          "morph": "HVqp1cs/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "就 是 鷹 在 空 中 飛 的 道 ； 蛇 在 磐 石 上 爬 的 道 ； 船 在 海 中 行 的 道 ； 男 與 女 交 合 的 道 。",
+      "en": "the way of an eagle in the sky, the way of a snake on a rock, the way of a ship in the sea, and the way of a man with a woman.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דֶּ֤רֶךְ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הַנֶּ֨שֶׁר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בַּשָּׁמַיִם֮",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "דֶּ֥רֶךְ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "נָחָ֗שׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עֲלֵ֫י",
+          "morph": "HR"
+        },
+        {
+          "w": "צ֥וּר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "דֶּֽרֶךְ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אֳנִיָּ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְלֶב",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יָ֑ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְדֶ֖רֶךְ",
+          "morph": "HC/Ncbsc"
+        },
+        {
+          "w": "גֶּ֣בֶר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּעַלְמָֽה",
+          "morph": "HR/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "淫 婦 的 道 也 是 這 樣 ： 他 吃 了 ， 把 嘴 一 擦 就 說 ： 我 沒 有 行 惡 。",
+      "en": "This is the way of an adulterous woman: She has eaten and wiped her mouth and has said, “I have not done wrong.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "כֵּ֤ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "דֶּ֥רֶךְ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אִשָּׁ֗ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מְנָ֫אָ֥פֶת",
+          "morph": "HVprfsa"
+        },
+        {
+          "w": "אָ֭כְלָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "וּמָ֣חֲתָה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "פִ֑יהָ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "וְ֝אָמְרָ֗ה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "פָעַ֥לְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אָֽוֶן",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "使 地 震 動 的 有 三 樣 ， 連 地 擔 不 起 的 共 有 四 樣 ：",
+      "en": "Under three things the earth has trembled, and under four things it cannot bear up:",
+      "notes": [],
+      "he": [
+        {
+          "w": "תַּ֣חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "שָׁ֭לוֹשׁ",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "רָ֣גְזָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "אֶ֑רֶץ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וְתַ֥חַת",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אַ֝רְבַּ֗ע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תוּכַ֥ל",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "שְׂאֵֽת",
+          "morph": "HVqc"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "就 是 僕 人 作 王 ； 愚 頑 人 吃 飽 ；",
+      "en": "under a servant who becomes king, under a fool who becomes stuffed with food,",
+      "notes": [],
+      "he": [
+        {
+          "w": "תַּֽחַת",
+          "morph": "HR"
+        },
+        {
+          "w": "עֶ֭בֶד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "יִמְל֑וֹךְ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְ֝נָבָ֗ל",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "יִֽשְׂבַּֽע",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָֽחֶם",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "醜 惡 的 女 子 出 嫁 ； 婢 女 接 續 主 母 。",
+      "en": "under an unloved woman who becomes married, and under a female servant who dispossesses her mistress.",
+      "notes": [],
+      "he": [
+        {
+          "w": "תַּ֣חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׂ֭נוּאָה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "תִבָּעֵ֑ל",
+          "morph": "HVNi3fs"
+        },
+        {
+          "w": "וְ֝שִׁפְחָ֗ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "תִירַ֥שׁ",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "גְּבִרְתָּֽהּ",
+          "morph": "HNcfsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "地 上 有 四 樣 小 物 ， 卻 甚 聰 明 ：",
+      "en": "There are four things on earth that are small, but they are exceedingly wise:",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַרְבָּ֣עָה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "הֵ֭ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "קְטַנֵּי",
+          "morph": "HAampc"
+        },
+        {
+          "w": "אָ֑רֶץ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וְ֝הֵ֗מָּה",
+          "morph": "HC/Pp3mp"
+        },
+        {
+          "w": "חֲכָמִ֥ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "מְחֻכָּמִֽים",
+          "morph": "HVPsmpa"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "螞 蟻 是 無 力 之 類 ， 卻 在 夏 天 預 備 糧 食 。",
+      "en": "Ants are creatures with little strength, but they prepare their food in the summer;",
+      "notes": [],
+      "he": [
+        {
+          "w": "הַ֭נְּמָלִים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "עַ֣ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "עָ֑ז",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וַיָּכִ֖ינוּ",
+          "morph": "HC/Vhw3mp"
+        },
+        {
+          "w": "בַקַּ֣יִץ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "לַחְמָֽם",
+          "morph": "HNcbsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "沙 番 是 軟 弱 之 類 ， 卻 在 磐 石 中 造 房 。",
+      "en": "rock badgers are creatures with little power, but they make their homes in the crags;",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׁ֭פַנִּים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "עַ֣ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "עָצ֑וּם",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וַיָּשִׂ֖ימוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בַסֶּ֣לַע",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בֵּיתָֽם",
+          "morph": "HNcmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "蝗 蟲 沒 有 君 王 ， 卻 分 隊 而 出 。",
+      "en": "locusts have no king, but they all go forward by ranks;",
+      "notes": [],
+      "he": [
+        {
+          "w": "מֶ֭לֶךְ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֵ֣ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "לָאַרְבֶּ֑ה",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וַיֵּצֵ֖א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "חֹצֵ֣ץ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "כֻּלּֽוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "守 宮 用 爪 抓 牆 ， 卻 住 在 王 宮 。",
+      "en": "a lizard you can catch with the hand, but it gets into the palaces of the king.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׂ֭מָמִית",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּיָדַ֣יִם",
+          "morph": "HR/Ncbda"
+        },
+        {
+          "w": "תְּתַפֵּ֑שׂ",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "וְ֝הִ֗יא",
+          "morph": "HC/Pp3fs"
+        },
+        {
+          "w": "בְּהֵ֣יכְלֵי",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "מֶֽלֶךְ",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "步 行 威 武 的 有 三 樣 ， 連 行 走 威 武 的 共 有 四 樣 ：",
+      "en": "There are three things that are magnificent in their step, four things that move about magnificently:",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׁלֹשָׁ֣ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "הֵ֭מָּה",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "מֵיטִ֣יבֵי",
+          "morph": "HVhrmpc"
+        },
+        {
+          "w": "צָ֑עַד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְ֝אַרְבָּעָ֗ה",
+          "morph": "HC/Acmsa"
+        },
+        {
+          "w": "מֵיטִ֥בֵי",
+          "morph": "HVhrmpc"
+        },
+        {
+          "w": "לָֽכֶת",
+          "morph": "HVqc"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "就 是 獅 子 ─ 乃 百 獸 中 最 為 猛 烈 、 無 所 躲 避 的 ，",
+      "en": "a lion, mightiest of the beasts, who does not retreat from anything;",
+      "notes": [],
+      "he": [
+        {
+          "w": "לַ֭יִשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "גִּבּ֣וֹר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "בַּבְּהֵמָ֑ה",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יָ֝שׁ֗וּב",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מִפְּנֵי",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "כֹֽל",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "獵 狗 ， 公 山 羊 ， 和 無 人 能 敵 的 君 王 。",
+      "en": "a strutting rooster, a male goat, and a king with his army around him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "זַרְזִ֣יר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מָתְנַ֣יִם",
+          "morph": "HNcmda"
+        },
+        {
+          "w": "אוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "תָ֑יִשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּ֝מֶ֗לֶךְ",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אַלְק֥וּם",
+          "morph": "HD"
+        },
+        {
+          "w": "עִמּֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "你 若 行 事 愚 頑 ， 自 高 自 傲 ， 或 是 懷 了 惡 念 ， 就 當 用 手 摀 口 。",
+      "en": "If you have done foolishly by exalting yourself or if you have planned evil, put your hand over your mouth!",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "נָבַ֥לְתָּ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "בְהִתְנַשֵּׂ֑א",
+          "morph": "HR/Vtc"
+        },
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "זַ֝מּ֗וֹתָ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "יָ֣ד",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "לְפֶֽה",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "搖 牛 奶 必 成 奶 油 ； 扭 鼻 子 必 出 血 。 照 樣 ， 激 動 怒 氣 必 起 爭 端 。",
+      "en": "For as the churning of milk produces butter and as punching the nose produces blood, so stirring up anger produces strife.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "מִ֪יץ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חָלָ֡ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "י֘וֹצִ֤יא",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "חֶמְאָ֗ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּֽמִיץ",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "אַ֭ף",
+          "morph": "HTa"
+        },
+        {
+          "w": "י֣וֹצִיא",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "דָ֑ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּמִ֥יץ",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אַ֝פַּ֗יִם",
+          "morph": "HNcmda"
+        },
+        {
+          "w": "י֣וֹצִיא",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "רִֽיב",
+          "morph": "HNcbsa"
+        }
+      ]
+    }
+  ]
+}

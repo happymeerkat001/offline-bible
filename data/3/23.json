@@ -1,0 +1,2730 @@
+{
+  "book": 3,
+  "chapter": 23,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 對 摩 西 說 ：",
+      "en": "The Lord spoke to Moses:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 曉 諭 以 色 列 人 說 ： 耶 和 華 的 節 期 ， 你 們 要 宣 告 為 聖 會 的 節 期 。",
+      "en": "“Speak to the Israelites and tell them, ‘These are the Lord’s appointed times which you must proclaim as holy assemblies—my appointed times.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דַּבֵּ֞ר",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָמַרְתָּ֣",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֲלֵהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "מוֹעֲדֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּקְרְא֥וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "מִקְרָאֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "קֹ֑דֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֵ֥לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "הֵ֖ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "מוֹעֲדָֽי",
+          "morph": "HNcmpc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "六 日 要 做 工 ， 第 七 日 是 聖 安 息 日 ， 當 有 聖 會 ； 你 們 甚 麼 工 都 不 可 做 。 這 是 在 你 們 一 切 的 住 處 向 耶 和 華 守 的 安 息 日 。",
+      "en": "“‘Six days work may be done, but on the seventh day there must be a Sabbath of complete rest, a holy assembly. You must not do any work; it is a Sabbath to the Lord in all the places where you live.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שֵׁ֣שֶׁת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִים֮",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "תֵּעָשֶׂ֣ה",
+          "morph": "HVNi3fs"
+        },
+        {
+          "w": "מְלָאכָה֒",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּבַיּ֣וֹם",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "הַשְּׁבִיעִ֗י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "שַׁבַּ֤ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "שַׁבָּתוֹן֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִקְרָא",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קֹ֔דֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְלָאכָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשׂ֑וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "שַׁבָּ֥ת",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "הִוא֙",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "לַֽיהוָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בְּכֹ֖ל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מֽוֹשְׁבֹתֵיכֶֽם",
+          "morph": "HNcmpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "耶 和 華 的 節 期 ， 就 是 你 們 到 了 日 期 要 宣 告 為 聖 會 的 ， 乃 是 這 些 。",
+      "en": "“‘These are the Lord’s appointed times, holy assemblies, which you must proclaim at their appointed time.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֵ֚לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "מוֹעֲדֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִקְרָאֵ֖י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "קֹ֑דֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּקְרְא֥וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "בְּמוֹעֲדָֽם",
+          "morph": "HR/Ncmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "正 月 十 四 日 ， 黃 昏 的 時 候 ， 是 耶 和 華 的 逾 越 節 。",
+      "en": "In the first month, on the fourteenth day of the month, at twilight, is a Passover offering to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בַּחֹ֣דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הָרִאשׁ֗וֹן",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "בְּאַרְבָּעָ֥ה",
+          "morph": "HR/Acmsa"
+        },
+        {
+          "w": "עָשָׂ֛ר",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "לַחֹ֖דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בֵּ֣ין",
+          "morph": "HR"
+        },
+        {
+          "w": "הָעַרְבָּ֑יִם",
+          "morph": "HTd/Ncmda"
+        },
+        {
+          "w": "פֶּ֖סַח",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "這 月 十 五 日 是 向 耶 和 華 守 的 無 酵 節 ； 你 們 要 吃 無 酵 餅 七 日 。",
+      "en": "Then on the fifteenth day of the same month will be the Feast of Unleavened Bread to the Lord; seven days you must eat unleavened bread.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבַחֲמִשָּׁ֨ה",
+          "morph": "HC/R/Acfsa"
+        },
+        {
+          "w": "עָשָׂ֥ר",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "יוֹם֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַחֹ֣דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֔ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "חַ֥ג",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמַּצּ֖וֹת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "לַיהוָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "שִׁבְעַ֥ת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מַצּ֥וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "תֹּאכֵֽלוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "第 一 日 當 有 聖 會 ， 甚 麼 勞 碌 的 工 都 不 可 做 ；",
+      "en": "On the first day there will be a holy assembly for you; you must not do any regular work.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בַּיּוֹם֙",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הָֽרִאשׁ֔וֹן",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "מִקְרָא",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קֹ֖דֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִהְיֶ֣ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָכֶ֑ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְלֶ֥אכֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "עֲבֹדָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשֽׂוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "要 將 火 祭 獻 給 耶 和 華 七 日 。 第 七 日 是 聖 會 ， 甚 麼 勞 碌 的 工 都 不 可 做 。",
+      "en": "You must present a gift to the Lord for seven days, and the seventh day is a holy assembly; you must not do any regular work.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִקְרַבְתֶּ֥ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אִשֶּׁ֛ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַיהוָ֖ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "שִׁבְעַ֣ת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בַּיּ֤וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַשְּׁבִיעִי֙",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "מִקְרָא",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קֹ֔דֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְלֶ֥אכֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "עֲבֹדָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשֽׂוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "耶 和 華 對 摩 西 說 ：",
+      "en": "The Lord spoke to Moses:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "你 曉 諭 以 色 列 人 說 ： 你 們 到 了 我 賜 給 你 們 的 地 ， 收 割 莊 稼 的 時 候 ， 要 將 初 熟 的 莊 稼 一 捆 帶 給 祭 司 。",
+      "en": "“Speak to the Israelites and tell them, ‘When you enter the land that I am about to give to you and you gather in its harvest, then you must bring the sheaf of the first portion of your harvest to the priest,",
+      "notes": [],
+      "he": [
+        {
+          "w": "דַּבֵּ֞ר",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָמַרְתָּ֣",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֲלֵהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "תָבֹ֣אוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֗רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֲנִי֙",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "נֹתֵ֣ן",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לָכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וּקְצַרְתֶּ֖ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "קְצִירָ֑הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "וַהֲבֵאתֶ֥ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֹ֛מֶר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רֵאשִׁ֥ית",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "קְצִירְכֶ֖ם",
+          "morph": "HNcmsc/Sp2mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכֹּהֵֽן",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "他 要 把 這 一 捆 在 耶 和 華 面 前 搖 一 搖 ， 使 你 們 得 蒙 悅 納 。 祭 司 要 在 安 息 日 的 次 日 把 這 捆 搖 一 搖 。",
+      "en": "and he must wave the sheaf before the Lord to be accepted for your benefit—on the day after the Sabbath the priest is to wave it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֵנִ֧יף",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעֹ֛מֶר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לִֽרְצֹנְכֶ֑ם",
+          "morph": "HR/Ncmsc/Sp2mp"
+        },
+        {
+          "w": "מִֽמָּחֳרַת֙",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַשַּׁבָּ֔ת",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "יְנִיפֶ֖נּוּ",
+          "morph": "HVhi3ms/Sp3ms"
+        },
+        {
+          "w": "הַכֹּהֵֽן",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "搖 這 捆 的 日 子 ， 你 們 要 把 一 歲 、 沒 有 殘 疾 的 公 綿 羊 羔 獻 給 耶 和 華 為 燔 祭 。",
+      "en": "On the day you wave the sheaf you must also offer a flawless yearling lamb for a burnt offering to the Lord,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַעֲשִׂיתֶ֕ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "בְּי֥וֹם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הֲנִֽיפְכֶ֖ם",
+          "morph": "HVhc/Sp2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעֹ֑מֶר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "כֶּ֣בֶשׂ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תָּמִ֧ים",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שְׁנָת֛וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "לְעֹלָ֖ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "לַיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "同 獻 的 素 祭 ， 就 是 調 油 的 細 麵 伊 法 十 分 之 二 ， 作 為 馨 香 的 火 祭 ， 獻 給 耶 和 華 。 同 獻 的 奠 祭 ， 要 酒 一 欣 四 分 之 一 。",
+      "en": "along with its grain offering, two-tenths of an ephah of choice wheat flour mixed with olive oil, as a gift to the Lord, a soothing aroma, and its drink offering, one-fourth of a hin of wine.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִנְחָתוֹ֩",
+          "morph": "HC/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "שְׁנֵ֨י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "עֶשְׂרֹנִ֜ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "סֹ֣לֶת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּלוּלָ֥ה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "בַשֶּׁ֛מֶן",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אִשֶּׁ֥ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַיהוָ֖ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "רֵ֣יחַ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נִיחֹ֑חַ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְנִסְכֹּ֥ה",
+          "morph": "HC/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "יַ֖יִן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "רְבִיעִ֥ת",
+          "morph": "HAofsc"
+        },
+        {
+          "w": "הַהִֽין",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "無 論 是 餅 ， 是 烘 的 子 粒 ， 是 新 穗 子 ， 你 們 都 不 可 吃 ， 直 等 到 把 你 們 獻 給 神 的 供 物 帶 來 的 那 一 天 才 可 以 吃 。 這 在 你 們 一 切 的 住 處 作 為 世 世 代 代 永 遠 的 定 例 。",
+      "en": "You must not eat bread, roasted grain, or fresh grain until this very day, until you bring the offering to your God. This is a perpetual statute throughout your generations in all the places where you live.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלֶחֶם֩",
+          "morph": "HC/Ncbsa"
+        },
+        {
+          "w": "וְקָלִ֨י",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וְכַרְמֶ֜ל",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֹֽאכְל֗וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "עֶ֨צֶם֙",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַיּ֣וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֔ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "עַ֚ד",
+          "morph": "HR"
+        },
+        {
+          "w": "הֲבִ֣יאֲכֶ֔ם",
+          "morph": "HVhc/Sp2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "קָרְבַּ֖ן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֱלֹהֵיכֶ֑ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "חֻקַּ֤ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "עוֹלָם֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְדֹרֹ֣תֵיכֶ֔ם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "בְּכֹ֖ל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מֹשְׁבֹֽתֵיכֶֽם",
+          "morph": "HNcmpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "你 們 要 從 安 息 日 的 次 日 ， 獻 禾 捆 為 搖 祭 的 那 日 算 起 ， 要 滿 了 七 個 安 息 日 。",
+      "en": "“‘You must count for yourselves seven weeks from the day after the Sabbath, from the day you bring the wave-offering sheaf; they must be complete weeks.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּסְפַרְתֶּ֤ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "לָכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מִמָּחֳרַ֣ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַשַּׁבָּ֔ת",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "מִיּוֹם֙",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הֲבִ֣יאֲכֶ֔ם",
+          "morph": "HVhc/Sp2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֹ֖מֶר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַתְּנוּפָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "שֶׁ֥בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שַׁבָּת֖וֹת",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "תְּמִימֹ֥ת",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "תִּהְיֶֽינָה",
+          "morph": "HVqi3fp"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "到 第 七 個 安 息 日 的 次 日 ， 共 計 五 十 天 ， 又 要 將 新 素 祭 獻 給 耶 和 華 。",
+      "en": "You must count 50 days—until the day after the seventh Sabbath—and then you must present a new grain offering to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עַ֣ד",
+          "morph": "HR"
+        },
+        {
+          "w": "מִֽמָּחֳרַ֤ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַשַּׁבָּת֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "הַשְּׁבִיעִ֔ת",
+          "morph": "HTd/Aofsa"
+        },
+        {
+          "w": "תִּסְפְּר֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "חֲמִשִּׁ֣ים",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "י֑וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְהִקְרַבְתֶּ֛ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "מִנְחָ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "חֲדָשָׁ֖ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "לַיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "要 從 你 們 的 住 處 取 出 細 麵 伊 法 十 分 之 二 ， 加 酵 ， 烤 成 兩 個 搖 祭 的 餅 ， 當 作 初 熟 之 物 獻 給 耶 和 華 。",
+      "en": "From the places where you live you must bring two loaves of bread for a wave offering; they must be made from two-tenths of an ephah of fine wheat flour, baked with yeast, as firstfruits to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִמּוֹשְׁבֹ֨תֵיכֶ֜ם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "תָּבִ֣יאּוּ",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "לֶ֣חֶם",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "תְּנוּפָ֗ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "שְׁ֚תַּיִם",
+          "morph": "HAcfda"
+        },
+        {
+          "w": "שְׁנֵ֣י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "עֶשְׂרֹנִ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "סֹ֣לֶת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תִּהְיֶ֔ינָה",
+          "morph": "HVqi3fp"
+        },
+        {
+          "w": "חָמֵ֖ץ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תֵּאָפֶ֑ינָה",
+          "morph": "HVNi3fp"
+        },
+        {
+          "w": "בִּכּוּרִ֖ים",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "לַֽיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "又 要 將 一 歲 、 沒 有 殘 疾 的 羊 羔 七 隻 、 公 牛 犢 一 隻 、 公 綿 羊 兩 隻 ， 和 餅 一 同 奉 上 。 這 些 與 同 獻 的 素 祭 和 奠 祭 要 作 為 燔 祭 獻 給 耶 和 華 ， 就 是 作 馨 香 的 火 祭 獻 給 耶 和 華 。",
+      "en": "Along with the loaves of bread, you must also present seven flawless yearling lambs, one young bull, and two rams. They are to be a burnt offering to the Lord along with their grain offering and drink offerings, a gift of a soothing aroma to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִקְרַבְתֶּ֣ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַלֶּ֗חֶם",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "שִׁבְעַ֨ת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "כְּבָשִׂ֤ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "תְּמִימִם֙",
+          "morph": "HAampa"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "שָׁנָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּפַ֧ר",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּקָ֛ר",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "אֶחָ֖ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "וְאֵילִ֣ם",
+          "morph": "HC/Ncmpa"
+        },
+        {
+          "w": "שְׁנָ֑יִם",
+          "morph": "HAcmda"
+        },
+        {
+          "w": "יִהְי֤וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "עֹלָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לַֽיהוָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וּמִנְחָתָם֙",
+          "morph": "HC/Ncfsc/Sp3mp"
+        },
+        {
+          "w": "וְנִסְכֵּיהֶ֔ם",
+          "morph": "HC/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "אִשֵּׁ֥ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רֵֽיחַ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נִיחֹ֖חַ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "你 們 要 獻 一 隻 公 山 羊 為 贖 罪 祭 ， 兩 隻 一 歲 的 公 綿 羊 羔 為 平 安 祭 。",
+      "en": "You must also offer one male goat for a sin offering and two yearling lambs for a peace-offering sacrifice,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַעֲשִׂיתֶ֛ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "שְׂעִיר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עִזִּ֥ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "אֶחָ֖ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "לְחַטָּ֑את",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וּשְׁנֵ֧י",
+          "morph": "HC/Acmdc"
+        },
+        {
+          "w": "כְבָשִׂ֛ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "שָׁנָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לְזֶ֥בַח",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שְׁלָמִֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "祭 司 要 把 這 些 和 初 熟 麥 子 做 的 餅 一 同 作 搖 祭 ， 在 耶 和 華 面 前 搖 一 搖 ； 這 是 獻 與 耶 和 華 為 聖 物 歸 給 祭 司 的 。",
+      "en": "and the priest is to wave them—the two lambs—along with the bread of the firstfruits, as a wave offering before the Lord; they will be holy to the Lord for the priest.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֵנִ֣יף",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֣ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֹתָ֡ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "עַל֩",
+          "morph": "HR"
+        },
+        {
+          "w": "לֶ֨חֶם",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הַבִּכּוּרִ֤ים",
+          "morph": "HTd/Ncbpa"
+        },
+        {
+          "w": "תְּנוּפָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁנֵ֖י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "כְּבָשִׂ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "קֹ֛דֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִהְי֥וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "לַיהוָ֖ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לַכֹּהֵֽן",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "當 這 日 ， 你 們 要 宣 告 聖 會 ； 甚 麼 勞 碌 的 工 都 不 可 做 。 這 在 你 們 一 切 的 住 處 作 為 世 世 代 代 永 遠 的 定 例 。",
+      "en": "“‘On this very day you must proclaim an assembly; it is to be a holy assembly for you. You must not do any regular work. This is a perpetual statute in all the places where you live throughout your generations.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּקְרָאתֶ֞ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "בְּעֶ֣צֶם",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַיּ֣וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֗ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "מִֽקְרָא",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קֹ֨דֶשׁ֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִהְיֶ֣ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְלֶ֥אכֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "עֲבֹדָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשׂ֑וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "חֻקַּ֥ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "עוֹלָ֛ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מוֹשְׁבֹ֥תֵיכֶ֖ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "לְדֹרֹֽתֵיכֶֽם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "在 你 們 的 地 收 割 莊 稼 ， 不 可 割 盡 田 角 ， 也 不 可 拾 取 所 遺 落 的 ； 要 留 給 窮 人 和 寄 居 的 。 我 是 耶 和 華 ─ 你 們 的 神 。",
+      "en": "When you gather in the harvest of your land, you must not completely harvest the corner of your field, and you must not gather up the gleanings of your harvest. You must leave them for the poor and the resident foreigner. I am the Lord your God.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּֽבְקֻצְרְכֶ֞ם",
+          "morph": "HC/R/Vqc/Sp2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "קְצִ֣יר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אַרְצְכֶ֗ם",
+          "morph": "HNcbsc/Sp2mp"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְכַלֶּ֞ה",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "פְּאַ֤ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "שָֽׂדְךָ֙",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "בְּקֻצְרֶ֔ךָ",
+          "morph": "HR/Vqc/Sp2ms"
+        },
+        {
+          "w": "וְלֶ֥קֶט",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "קְצִירְךָ֖",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְלַקֵּ֑ט",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "לֶֽעָנִ֤י",
+          "morph": "HRd/Aamsa"
+        },
+        {
+          "w": "וְלַגֵּר֙",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "תַּעֲזֹ֣ב",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "אֹתָ֔ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "אֲנִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶֽם",
+          "morph": "HNcmpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "耶 和 華 對 摩 西 說 ：",
+      "en": "The Lord spoke to Moses:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "你 曉 諭 以 色 列 人 說 ： 七 月 初 一 ， 你 們 要 守 為 聖 安 息 日 ， 要 吹 角 作 紀 念 ， 當 有 聖 會 。",
+      "en": "“Tell the Israelites, ‘In the seventh month, on the first day of the month, you must have a complete rest, a memorial announced by loud horn blasts, a holy assembly.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דַּבֵּ֛ר",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בַּחֹ֨דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַשְּׁבִיעִ֜י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "בְּאֶחָ֣ד",
+          "morph": "HR/Acmsa"
+        },
+        {
+          "w": "לַחֹ֗דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "יִהְיֶ֤ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "שַׁבָּת֔וֹן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "זִכְר֥וֹן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "תְּרוּעָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מִקְרָא",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קֹֽדֶשׁ",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "甚 麼 勞 碌 的 工 都 不 可 做 ； 要 將 火 祭 獻 給 耶 和 華 。",
+      "en": "You must not do any regular work, but you must present a gift to the Lord.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְלֶ֥אכֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "עֲבֹדָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשׂ֑וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "וְהִקְרַבְתֶּ֥ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אִשֶּׁ֖ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "耶 和 華 曉 諭 摩 西 說 ：",
+      "en": "The Lord spoke to Moses:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "七 月 初 十 是 贖 罪 日 ； 你 們 要 守 為 聖 會 ， 並 要 刻 苦 己 心 ， 也 要 將 火 祭 獻 給 耶 和 華 。",
+      "en": "“The tenth day of this seventh month is the Day of Atonement. It is to be a holy assembly for you, and you must humble yourselves and present a gift to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַ֡ךְ",
+          "morph": "HTa"
+        },
+        {
+          "w": "בֶּעָשׂ֣וֹר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "לַחֹדֶשׁ֩",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַשְּׁבִיעִ֨י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "הַזֶּ֜ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "י֧וֹם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַכִּפֻּרִ֣ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "ה֗וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "מִֽקְרָא",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קֹ֨דֶשׁ֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִהְיֶ֣ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וְעִנִּיתֶ֖ם",
+          "morph": "HC/Vpq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "נַפְשֹׁתֵיכֶ֑ם",
+          "morph": "HNcbpc/Sp2mp"
+        },
+        {
+          "w": "וְהִקְרַבְתֶּ֥ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אִשֶּׁ֖ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "當 這 日 ， 甚 麼 工 都 不 可 做 ； 因 為 是 贖 罪 日 ， 要 在 耶 和 華 ─ 你 們 的 神 面 前 贖 罪 。",
+      "en": "You must not do any work on this particular day, because it is a day of atonement to make atonement for yourselves before the Lord your God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "מְלָאכָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשׂ֔וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "בְּעֶ֖צֶם",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַיּ֣וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֑ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "י֤וֹם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כִּפֻּרִים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "ה֔וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "לְכַפֵּ֣ר",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "עֲלֵיכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לִפְנֵ֖י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶֽם",
+          "morph": "HNcmpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "當 這 日 ， 凡 不 刻 苦 己 心 的 ， 必 從 民 中 剪 除 。",
+      "en": "Indeed, any person who does not behave with humility on this particular day will be cut off from his people.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַנֶּ֨פֶשׁ֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְעֻנֶּ֔ה",
+          "morph": "HVPi3fs"
+        },
+        {
+          "w": "בְּעֶ֖צֶם",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַיּ֣וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֑ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "וְנִכְרְתָ֖ה",
+          "morph": "HC/VNq3fs"
+        },
+        {
+          "w": "מֵֽעַמֶּֽיהָ",
+          "morph": "HR/Ncmpc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "凡 這 日 做 甚 麼 工 的 ， 我 必 將 他 從 民 中 除 滅 。",
+      "en": "As for any person who does any work on this particular day, I will exterminate that person from the midst of his people—",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הַנֶּ֗פֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תַּעֲשֶׂה֙",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְלָאכָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּעֶ֖צֶם",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַיּ֣וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֑ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "וְהַֽאֲבַדְתִּ֛י",
+          "morph": "HC/Vhq1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַנֶּ֥פֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "הַהִ֖וא",
+          "morph": "HTd/Pp3fs"
+        },
+        {
+          "w": "מִקֶּ֥רֶב",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עַמָּֽהּ",
+          "morph": "HNcmsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "你 們 甚 麼 工 都 不 可 做 。 這 在 你 們 一 切 的 住 處 作 為 世 世 代 代 永 遠 的 定 例 。",
+      "en": "you must not do any work! This is a perpetual statute throughout your generations in all the places where you live.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְלָאכָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשׂ֑וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "חֻקַּ֤ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "עוֹלָם֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְדֹרֹ֣תֵיכֶ֔ם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "בְּכֹ֖ל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מֹֽשְׁבֹֽתֵיכֶֽם",
+          "morph": "HNcmpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "你 們 要 守 這 日 為 聖 安 息 日 ， 並 要 刻 苦 己 心 。 從 這 月 初 九 日 晚 上 到 次 日 晚 上 ， 要 守 為 安 息 日 。",
+      "en": "It is a Sabbath of complete rest for you, and you must humble yourselves on the ninth day of the month in the evening, from evening until evening you must observe your Sabbath.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "שַׁבַּ֨ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "שַׁבָּת֥וֹן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הוּא֙",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "לָכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וְעִנִּיתֶ֖ם",
+          "morph": "HC/Vpq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "נַפְשֹׁתֵיכֶ֑ם",
+          "morph": "HNcbpc/Sp2mp"
+        },
+        {
+          "w": "בְּתִשְׁעָ֤ה",
+          "morph": "HR/Acmsa"
+        },
+        {
+          "w": "לַחֹ֨דֶשׁ֙",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בָּעֶ֔רֶב",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "מֵעֶ֣רֶב",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "עֶ֔רֶב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תִּשְׁבְּת֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "שַׁבַּתְּכֶֽם",
+          "morph": "HNcbsc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "耶 和 華 對 摩 西 說 ：",
+      "en": "The Lord spoke to Moses:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "你 曉 諭 以 色 列 人 說 ： 這 七 月 十 五 日 是 住 棚 節 ， 要 在 耶 和 華 面 前 守 這 節 七 日 。",
+      "en": "“Tell the Israelites, ‘On the fifteenth day of this seventh month is the Feast of Shelters for seven days to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דַּבֵּ֛ר",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בַּחֲמִשָּׁ֨ה",
+          "morph": "HR/Acmsa"
+        },
+        {
+          "w": "עָשָׂ֜ר",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "י֗וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַחֹ֤דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַשְּׁבִיעִי֙",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "הַזֶּ֔ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "חַ֧ג",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַסֻּכּ֛וֹת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "שִׁבְעַ֥ת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לַיהֹוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "第 一 日 當 有 聖 會 ， 甚 麼 勞 碌 的 工 都 不 可 做 。",
+      "en": "On the first day is a holy assembly; you must do no regular work.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בַּיּ֥וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הָרִאשׁ֖וֹן",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "מִקְרָא",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קֹ֑דֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְלֶ֥אכֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "עֲבֹדָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשֽׂוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "七 日 內 要 將 火 祭 獻 給 耶 和 華 。 第 八 日 當 守 聖 會 ， 要 將 火 祭 獻 給 耶 和 華 。 這 是 嚴 肅 會 ， 甚 麼 勞 碌 的 工 都 不 可 做 。",
+      "en": "For seven days you must present a gift to the Lord. On the eighth day there is to be a holy assembly for you, and you must present a gift to the Lord. It is a solemn assembly day; you must not do any regular work.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שִׁבְעַ֣ת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "תַּקְרִ֥יבוּ",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "אִשֶּׁ֖ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַיהוָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בַּיּ֣וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַשְּׁמִינִ֡י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "מִקְרָא",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קֹדֶשׁ֩",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִהְיֶ֨ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָכֶ֜ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וְהִקְרַבְתֶּ֨ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אִשֶּׁ֤ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַֽיהוָה֙",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "עֲצֶ֣רֶת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "הִ֔וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְלֶ֥אכֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "עֲבֹדָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשֽׂוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "zh": "這 是 耶 和 華 的 節 期 ， 就 是 你 們 要 宣 告 為 聖 會 的 節 期 ； 要 將 火 祭 、 燔 祭 、 素 祭 、 祭 物 ， 並 奠 祭 ， 各 歸 各 日 ， 獻 給 耶 和 華 。",
+      "en": "“‘These are the appointed times of the Lord that you must proclaim as holy assemblies to present a gift to the Lord—burnt offering, grain offering, sacrifice, and drink offerings, each day according to its regulation,",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֵ֚לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "מוֹעֲדֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּקְרְא֥וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "מִקְרָאֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "קֹ֑דֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְהַקְרִ֨יב",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "אִשֶּׁ֜ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַיהוָ֗ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "עֹלָ֧ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּמִנְחָ֛ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "זֶ֥בַח",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּנְסָכִ֖ים",
+          "morph": "HC/Ncmpa"
+        },
+        {
+          "w": "דְּבַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "י֥וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּיוֹמֽוֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "zh": "這 是 在 耶 和 華 的 安 息 日 以 外 ， 又 在 你 們 的 供 物 和 所 許 的 願 ， 並 甘 心 獻 給 耶 和 華 的 以 外 。",
+      "en": "besides the Sabbaths of the Lord and all your gifts, votive offerings, and freewill offerings which you must give to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִלְּבַ֖ד",
+          "morph": "HR/R/Ncmsc"
+        },
+        {
+          "w": "שַׁבְּתֹ֣ת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "יְּהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִלְּבַ֣ד",
+          "morph": "HC/R/R/Ncmsc"
+        },
+        {
+          "w": "מַתְּנֽוֹתֵיכֶ֗ם",
+          "morph": "HNcfpc/Sp2mp"
+        },
+        {
+          "w": "וּמִלְּבַ֤ד",
+          "morph": "HC/R/R/Ncmsc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נִדְרֵיכֶם֙",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "וּמִלְּבַד֙",
+          "morph": "HC/R/R/Ncmsc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נִדְב֣וֹתֵיכֶ֔ם",
+          "morph": "HNcfpc/Sp2mp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּתְּנ֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "לַיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "zh": "你 們 收 藏 了 地 的 出 產 ， 就 從 七 月 十 五 日 起 ， 要 守 耶 和 華 的 節 七 日 。 第 一 日 為 聖 安 息 ； 第 八 日 也 為 聖 安 息 。",
+      "en": "“‘On the fifteenth day of the seventh month, when you gather in the produce of the land, you must celebrate a pilgrim festival of the Lord for seven days. On the first day is a complete rest and on the eighth day is complete rest.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַ֡ךְ",
+          "morph": "HTa"
+        },
+        {
+          "w": "בַּחֲמִשָּׁה֩",
+          "morph": "HR/Acmsa"
+        },
+        {
+          "w": "עָשָׂ֨ר",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "י֜וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַחֹ֣דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַשְּׁבִיעִ֗י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "בְּאָסְפְּכֶם֙",
+          "morph": "HR/Vqc/Sp2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "תְּבוּאַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הָאָ֔רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "תָּחֹ֥גּוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "חַג",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "שִׁבְעַ֣ת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בַּיּ֤וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הָֽרִאשׁוֹן֙",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "שַׁבָּת֔וֹן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּבַיּ֥וֹם",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "הַשְּׁמִינִ֖י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "שַׁבָּתֽוֹן",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "zh": "第 一 日 要 拿 美 好 樹 上 的 果 子 和 棕 樹 上 的 枝 子 ， 與 茂 密 樹 的 枝 條 並 河 旁 的 柳 枝 ， 在 耶 和 華 ─ 你 們 的 神 面 前 歡 樂 七 日 。",
+      "en": "On the first day you must take for yourselves branches from majestic trees—palm branches, branches of leafy trees, and willows of the brook—and you must rejoice before the Lord your God for seven days.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּלְקַחְתֶּ֨ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "לָכֶ֜ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "בַּיּ֣וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הָרִאשׁ֗וֹן",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "פְּרִ֨י",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֵ֤ץ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָדָר֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כַּפֹּ֣ת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "תְּמָרִ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וַעֲנַ֥ף",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "עֵץ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עָבֹ֖ת",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְעַרְבֵי",
+          "morph": "HC/Ncfpc"
+        },
+        {
+          "w": "נָ֑חַל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּשְׂמַחְתֶּ֗ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "לִפְנֵ֛י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶ֖ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "שִׁבְעַ֥ת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "zh": "每 年 七 月 間 ， 要 向 耶 和 華 守 這 節 七 日 。 這 為 你 們 世 世 代 代 永 遠 的 定 例 。",
+      "en": "You must celebrate it as a pilgrim festival to the Lord for seven days in the year. This is a perpetual statute throughout your generations; you must celebrate it in the seventh month.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְחַגֹּתֶ֤ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֹתוֹ֙",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "חַ֣ג",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַֽיהוָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "שִׁבְעַ֥ת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בַּשָּׁנָ֑ה",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "חֻקַּ֤ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "עוֹלָם֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְדֹרֹ֣תֵיכֶ֔ם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "בַּחֹ֥דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַשְּׁבִיעִ֖י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "תָּחֹ֥גּוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֹתֽוֹ",
+          "morph": "HTo/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "zh": "你 們 要 住 在 棚 裡 七 日 ； 凡 以 色 列 家 的 人 都 要 住 在 棚 裡 ，",
+      "en": "You must live in temporary shelters for seven days; every native citizen in Israel must live in shelters,",
+      "notes": [],
+      "he": [
+        {
+          "w": "בַּסֻּכֹּ֥ת",
+          "morph": "HRd/Ncfpa"
+        },
+        {
+          "w": "תֵּשְׁב֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "שִׁבְעַ֣ת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָֽאֶזְרָח֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּיִשְׂרָאֵ֔ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "יֵשְׁב֖וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "בַּסֻּכֹּֽת",
+          "morph": "HRd/Ncfpa"
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "zh": "好 叫 你 們 世 世 代 代 知 道 ， 我 領 以 色 列 人 出 埃 及 地 的 時 候 曾 使 他 們 住 在 棚 裡 。 我 是 耶 和 華 ─ 你 們 的 神 。",
+      "en": "so that your future generations may know that I made the Israelites live in shelters when I brought them out from the land of Egypt. I am the Lord your God.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַעַן֮",
+          "morph": "HR"
+        },
+        {
+          "w": "יֵדְע֣וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "דֹרֹֽתֵיכֶם֒",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "בַסֻּכּ֗וֹת",
+          "morph": "HRd/Ncfpa"
+        },
+        {
+          "w": "הוֹשַׁ֨בְתִּי֙",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּהוֹצִיאִ֥י",
+          "morph": "HR/Vhc/Sp1cs"
+        },
+        {
+          "w": "אוֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "מֵאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲנִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶֽם",
+          "morph": "HNcmpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "zh": "於 是 ， 摩 西 將 耶 和 華 的 節 期 傳 給 以 色 列 人 。",
+      "en": "So Moses spoke to the Israelites about the appointed times of the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֣ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "מֹשֶׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֹעֲדֵ֖י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֖י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    }
+  ]
+}

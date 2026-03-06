@@ -1,0 +1,2406 @@
+{
+  "book": 9,
+  "chapter": 15,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "撒 母 耳 對 掃 羅 說 ： 耶 和 華 差 遣 我 膏 你 為 王 ， 治 理 他 的 百 姓 以 色 列 ； 所 以 你 當 聽 從 耶 和 華 的 話 。",
+      "en": "Then Samuel said to Saul, “I was the one the Lord sent to anoint you as king over his people Israel. Now listen to what the Lord says.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שְׁמוּאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "שָׁא֔וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֹתִ֨י",
+          "morph": "HTo/Sp1cs"
+        },
+        {
+          "w": "שָׁלַ֤ח",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לִמְשָׁחֳךָ֣",
+          "morph": "HR/Vqc/Sp2ms"
+        },
+        {
+          "w": "לְמֶ֔לֶךְ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "עַמּ֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַתָּ֣ה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "שְׁמַ֔ע",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "לְק֖וֹל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "דִּבְרֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "萬 軍 之 耶 和 華 如 此 說 ： 以 色 列 人 出 埃 及 的 時 候 ， 在 路 上 亞 瑪 力 人 怎 樣 待 他 們 ， 怎 樣 抵 擋 他 們 ， 我 都 沒 忘 。",
+      "en": "Here is what the Lord of Heaven’s Armies has said: ‘I carefully observed how the Amalekites opposed Israel along the way when Israel came up from Egypt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כֹּ֤ה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַר֙",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "צְבָא֔וֹת",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "פָּקַ֕דְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אֵ֛ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עָשָׂ֥ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "עֲמָלֵ֖ק",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְיִשְׂרָאֵ֑ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שָׂ֥ם",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לוֹ֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "בַּדֶּ֔רֶךְ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "בַּעֲלֹת֖וֹ",
+          "morph": "HR/Vqc/Sp3ms"
+        },
+        {
+          "w": "מִמִּצְרָֽיִם",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "現 在 你 要 去 擊 打 亞 瑪 力 人 ， 滅 盡 他 們 所 有 的 ， 不 可 憐 惜 他 們 ， 將 男 女 、 孩 童 、 吃 奶 的 ， 並 牛 、 羊 、 駱 駝 ， 和 驢 盡 行 殺 死 。",
+      "en": "So go now and strike down the Amalekites. Destroy everything they have. Don’t spare them. Put them to death—man, woman, child, infant, ox, sheep, camel, and donkey alike.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "עַתָּה֩",
+          "morph": "HD"
+        },
+        {
+          "w": "לֵ֨ךְ",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "וְהִכִּֽיתָ֜ה",
+          "morph": "HC/Vhq2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֲמָלֵ֗ק",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהַֽחֲרַמְתֶּם֙",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "ל֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תַחְמֹ֖ל",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "עָלָ֑יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְהֵמַתָּ֞ה",
+          "morph": "HC/Vhq2ms"
+        },
+        {
+          "w": "מֵאִ֣ישׁ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "אִשָּׁ֗ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מֵֽעֹלֵל֙",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "יוֹנֵ֔ק",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "מִשּׁ֣וֹר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "שֶׂ֔ה",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "מִגָּמָ֖ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "חֲמֽוֹר",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "於 是 掃 羅 招 聚 百 姓 在 提 拉 因 ， 數 點 他 們 ， 共 有 步 兵 二 十 萬 ， 另 有 猶 大 人 一 萬 。",
+      "en": "So Saul assembled the army and mustered them at Telaim. There were 200,000 foot soldiers and 10,000 men of Judah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְשַׁמַּ֤ע",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "שָׁאוּל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעָ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַֽיִּפְקְדֵם֙",
+          "morph": "HC/Vqw3ms/Sp3mp"
+        },
+        {
+          "w": "בַּטְּלָאִ֔ים",
+          "morph": "HRd/Np"
+        },
+        {
+          "w": "מָאתַ֥יִם",
+          "morph": "HAcbda"
+        },
+        {
+          "w": "אֶ֖לֶף",
+          "morph": "HAcbsa"
+        },
+        {
+          "w": "רַגְלִ֑י",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וַעֲשֶׂ֥רֶת",
+          "morph": "HC/Acmsc"
+        },
+        {
+          "w": "אֲלָפִ֖ים",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HR"
+        },
+        {
+          "w": "אִ֥ישׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "掃 羅 到 了 亞 瑪 力 的 京 城 ， 在 谷 中 設 下 埋 伏 。",
+      "en": "Saul proceeded to the city of Amalek, where he set an ambush in the wadi.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּבֹ֥א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שָׁא֖וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "עִ֣יר",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "עֲמָלֵ֑ק",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיָּ֖רֶב",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "בַּנָּֽחַל",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "掃 羅 對 基 尼 人 說 ： 你 們 離 開 亞 瑪 力 人 下 去 罷 ， 恐 怕 我 將 你 們 和 亞 瑪 力 人 一 同 殺 滅 ； 因 為 以 色 列 人 出 埃 及 的 時 候 ， 你 們 曾 恩 待 他 們 。 於 是 基 尼 人 離 開 亞 瑪 力 人 去 了 。",
+      "en": "Saul said to the Kenites, “Go on and leave! Go down from among the Amalekites. Otherwise I will sweep you away with them. After all, you were kind to all the Israelites when they came up from Egypt.” So the Kenites withdrew from among the Amalekites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שָׁא֣וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַקֵּינִ֡י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "לְכוּ֩",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "סֻּ֨רוּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "רְד֜וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "מִתּ֣וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עֲמָלֵקִ֗י",
+          "morph": "HNgmsa"
+        },
+        {
+          "w": "פֶּן",
+          "morph": "HC"
+        },
+        {
+          "w": "אֹֽסִפְךָ֙",
+          "morph": "HVqi1cs/Sp2ms"
+        },
+        {
+          "w": "עִמּ֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְאַתָּ֞ה",
+          "morph": "HC/Pp2ms"
+        },
+        {
+          "w": "עָשִׂ֤יתָה",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "חֶ֨סֶד֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּעֲלוֹתָ֖ם",
+          "morph": "HR/Vqc/Sp3mp"
+        },
+        {
+          "w": "מִמִּצְרָ֑יִם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַיָּ֥סַר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "קֵינִ֖י",
+          "morph": "HNgmsa"
+        },
+        {
+          "w": "מִתּ֥וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עֲמָלֵֽק",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "掃 羅 擊 打 亞 瑪 力 人 ， 從 哈 腓 拉 直 到 埃 及 前 的 書 珥 ，",
+      "en": "Then Saul struck down the Amalekites all the way from Havilah to Shur, which is next to Egypt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּ֥ךְ",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "שָׁא֖וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֲמָלֵ֑ק",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵֽחֲוִילָה֙",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בּוֹאֲךָ֣",
+          "morph": "HVqc/Sp2ms"
+        },
+        {
+          "w": "שׁ֔וּר",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֖ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "פְּנֵ֥י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "生 擒 了 亞 瑪 力 王 亞 甲 ， 用 刀 殺 盡 亞 瑪 力 的 眾 民 。",
+      "en": "He captured King Agag of the Amalekites alive, but he executed all Agag’s people with the sword.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּתְפֹּ֛שׂ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲגַ֥ג",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶֽלֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲמָלֵ֖ק",
+          "morph": "HNp"
+        },
+        {
+          "w": "חָ֑י",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעָ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הֶחֱרִ֥ים",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "לְפִי",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "חָֽרֶב",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "掃 羅 和 百 姓 卻 憐 惜 亞 甲 ， 也 愛 惜 上 好 的 牛 、 羊 、 牛 犢 、 羊 羔 ， 並 一 切 美 物 ， 不 肯 滅 絕 。 凡 下 賤 瘦 弱 的 ， 盡 都 殺 了 。",
+      "en": "However, Saul and the army spared Agag, along with the best of the flock, the cattle, the fatlings, and the lambs, as well as everything else that was of value. They were not willing to slaughter them. But they did slaughter everything that was despised and worthless.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּחְמֹל֩",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שָׁא֨וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהָעָ֜ם",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲגָ֗ג",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "מֵיטַ֣ב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַצֹּאן֩",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְהַבָּקָ֨ר",
+          "morph": "HC/Td/Ncbsa"
+        },
+        {
+          "w": "וְהַמִּשְׁנִ֤ים",
+          "morph": "HC/Td/Ncmpa"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַכָּרִים֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַטּ֔וֹב",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "אָב֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "הַחֲרִימָ֑ם",
+          "morph": "HVhc/Sp3mp"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הַמְּלָאכָ֛ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "נְמִבְזָ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְנָמֵ֖ס",
+          "morph": "HC/VNrmsa"
+        },
+        {
+          "w": "אֹתָ֥הּ",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "הֶחֱרִֽימוּ",
+          "morph": "HVhp3cp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "耶 和 華 的 話 臨 到 撒 母 耳 說 ：",
+      "en": "Then the Lord’s message came to Samuel:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַֽיְהִי֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "דְּבַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁמוּאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "我 立 掃 羅 為 王 ， 我 後 悔 了 ； 因 為 他 轉 去 不 跟 從 我 ， 不 遵 守 我 的 命 令 。 撒 母 耳 便 甚 憂 愁 ， 終 夜 哀 求 耶 和 華 。",
+      "en": "“I regret that I have made Saul king, for he has turned away from me and has not done what I told him to do.” Samuel became angry and he cried out to the Lord all that night.",
+      "notes": [],
+      "he": [
+        {
+          "w": "נִחַ֗מְתִּי",
+          "morph": "HVNp1cs"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "הִמְלַ֤כְתִּי",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שָׁאוּל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְמֶ֔לֶךְ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "שָׁב֙",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "מֵאַֽחֲרַ֔י",
+          "morph": "HR/R/Sp1cs"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "דְּבָרַ֖י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "הֵקִ֑ים",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "וַיִּ֨חַר֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לִשְׁמוּאֵ֔ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַיִּזְעַ֥ק",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַלָּֽיְלָה",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "撒 母 耳 清 早 起 來 ， 迎 接 掃 羅 。 有 人 告 訴 撒 母 耳 說 ： 掃 羅 到 了 迦 密 ， 在 那 裡 立 了 記 紀 念 碑 ， 又 轉 身 下 到 吉 甲 。",
+      "en": "Then Samuel got up early to meet Saul the next morning. But Samuel was informed, “Saul has gone to Carmel where he is setting up a monument for himself.” Then Samuel left and went down to Gilgal.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּשְׁכֵּ֧ם",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "שְׁמוּאֵ֛ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לִקְרַ֥את",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "שָׁא֖וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּבֹּ֑קֶר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וַיֻּגַּ֨ד",
+          "morph": "HC/VHw3ms"
+        },
+        {
+          "w": "לִשְׁמוּאֵ֜ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לֵאמֹ֗ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בָּֽא",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "שָׁא֤וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַכַּרְמֶ֨לָה֙",
+          "morph": "HTd/Np/Sd"
+        },
+        {
+          "w": "וְהִנֵּ֨ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "מַצִּ֥יב",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "לוֹ֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "יָ֔ד",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וַיִּסֹּב֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "וַֽיַּעֲבֹ֔ר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "וַיֵּ֖רֶד",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הַגִּלְגָּֽל",
+          "morph": "HTd/Np"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "撒 母 耳 到 了 掃 羅 那 裡 ， 掃 羅 對 他 說 ： 願 耶 和 華 賜 福 與 你 ， 耶 和 華 的 命 令 我 已 遵 守 了 。",
+      "en": "When Samuel came to Saul, Saul said to him, “May the Lord bless you! I have fulfilled the Lord’s orders.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּבֹ֥א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שְׁמוּאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "שָׁא֑וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיֹּ֧אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "ל֣וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "שָׁא֗וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בָּר֤וּךְ",
+          "morph": "HVqsmsa"
+        },
+        {
+          "w": "אַתָּה֙",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "לַֽיהוָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הֲקִימֹ֖תִי",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דְּבַ֥ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "撒 母 耳 說 ： 我 耳 中 聽 見 有 羊 叫 、 牛 鳴 ， 是 從 哪 裡 來 的 呢 ？",
+      "en": "Samuel replied, “If that is the case, then what is this sound of sheep in my ears and the sound of cattle that I hear?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שְׁמוּאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמֶ֛ה",
+          "morph": "HC/Ti"
+        },
+        {
+          "w": "קֽוֹל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַצֹּ֥אן",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "הַזֶּ֖ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "בְּאָזְנָ֑י",
+          "morph": "HR/Ncfdc/Sp1cs"
+        },
+        {
+          "w": "וְק֣וֹל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הַבָּקָ֔ר",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אָנֹכִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "שֹׁמֵֽעַ",
+          "morph": "HVqrmsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "掃 羅 說 ： 這 是 百 姓 從 亞 瑪 力 人 那 裡 帶 來 的 ； 因 為 他 們 愛 惜 上 好 的 牛 羊 ， 要 獻 與 耶 和 華 ─ 你 的 神 ； 其 餘 的 ， 我 們 都 滅 盡 了 。",
+      "en": "Saul said, “They were brought from the Amalekites; the army spared the best of the flocks and cattle to sacrifice to the Lord our God. But everything else we slaughtered.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֨אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שָׁא֜וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵעֲמָלֵקִ֣י",
+          "morph": "HR/Ngmsa"
+        },
+        {
+          "w": "הֱבִיא֗וּם",
+          "morph": "HVhp3cp/Sp3mp"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "חָמַ֤ל",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "הָעָם֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֵיטַ֤ב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַצֹּאן֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְהַבָּקָ֔ר",
+          "morph": "HC/Td/Ncbsa"
+        },
+        {
+          "w": "לְמַ֥עַן",
+          "morph": "HR"
+        },
+        {
+          "w": "זְבֹ֖חַ",
+          "morph": "HVqc"
+        },
+        {
+          "w": "לַיהוָ֣ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אֱלֹהֶ֑יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַיּוֹתֵ֖ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הֶחֱרַֽמְנוּ",
+          "morph": "HVhp1cp"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "撒 母 耳 對 掃 羅 說 ： 你 住 口 罷 ！ 等 我 將 耶 和 華 昨 夜 向 我 所 說 的 話 告 訴 你 。 掃 羅 說 ： 請 講 。",
+      "en": "Then Samuel said to Saul, “Wait a minute! Let me tell you what the Lord said to me last night.” Saul said to him, “Tell me.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שְׁמוּאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "שָׁא֔וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "הֶ֚רֶף",
+          "morph": "HVhv2ms"
+        },
+        {
+          "w": "וְאַגִּ֣ידָה",
+          "morph": "HC/Vhi1cs"
+        },
+        {
+          "w": "לְּךָ֔",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "אֵת֩",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "דִּבֶּ֧ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֵלַ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "הַלָּ֑יְלָה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "ויאמרו",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וַיֹּ֥אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "ל֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "דַּבֵּֽר",
+          "morph": "HVpv2ms"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "撒 母 耳 對 掃 羅 說 ： 從 前 你 雖 然 以 自 己 為 小 ， 豈 不 是 被 立 為 以 色 列 支 派 的 元 首 麼 ？ 耶 和 華 膏 你 作 以 色 列 的 王 。",
+      "en": "Samuel said, “Is it not true that when you were insignificant in your own eyes, you became head of the tribes of Israel? The Lord chose you as king over Israel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שְׁמוּאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "הֲל֗וֹא",
+          "morph": "HTi/Tn"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "קָטֹ֤ן",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "אַתָּה֙",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "בְּעֵינֶ֔יךָ",
+          "morph": "HR/Ncbdc/Sp2ms"
+        },
+        {
+          "w": "רֹ֛אשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שִׁבְטֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אָ֑תָּה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "וַיִּמְשָׁחֲךָ֧",
+          "morph": "HC/Vqw3ms/Sp2ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְמֶ֖לֶךְ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "耶 和 華 差 遣 你 ， 吩 咐 你 說 ， 你 去 擊 打 那 些 犯 罪 的 亞 瑪 力 人 ， 將 他 們 滅 絕 淨 盡 。",
+      "en": "The Lord sent you on a campaign saying, ‘Go and exterminate those sinful Amalekites! Fight against them until you have destroyed them.’",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁלָחֲךָ֥",
+          "morph": "HC/Vqw3ms/Sp2ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּדָ֑רֶךְ",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "וַיֹּ֗אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לֵ֣ךְ",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "וְהַחֲרַמְתָּ֞ה",
+          "morph": "HC/Vhq2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַֽחַטָּאִים֙",
+          "morph": "HTd/Aampa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֲמָלֵ֔ק",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְנִלְחַמְתָּ֣",
+          "morph": "HC/VNq2ms"
+        },
+        {
+          "w": "ב֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "עַ֥ד",
+          "morph": "HR"
+        },
+        {
+          "w": "כַּלּוֹתָ֖ם",
+          "morph": "HVpc/Sp3mp"
+        },
+        {
+          "w": "אֹתָֽם",
+          "morph": "HTo/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "你 為 何 沒 有 聽 從 耶 和 華 的 命 令 ， 急 忙 擄 掠 財 物 ， 行 耶 和 華 眼 中 看 為 惡 的 事 呢 ？",
+      "en": "Why haven’t you obeyed the Lord? Instead you have greedily rushed upon the plunder! You have done what is wrong in the Lord’s estimation.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלָ֥מָּה",
+          "morph": "HC/R/Ti"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "שָׁמַ֖עְתָּ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "בְּק֣וֹל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַתַּ֨עַט֙",
+          "morph": "HC/Vqw2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשָּׁלָ֔ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַתַּ֥עַשׂ",
+          "morph": "HC/Vqw2ms"
+        },
+        {
+          "w": "הָרַ֖ע",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "בְּעֵינֵ֥י",
+          "morph": "HR/Ncbdc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "掃 羅 對 撒 母 耳 說 ： 我 實 在 聽 從 了 耶 和 華 的 命 令 ， 行 了 耶 和 華 所 差 遣 我 行 的 路 ， 擒 了 亞 瑪 力 王 亞 甲 來 ， 滅 盡 了 亞 瑪 力 人 。",
+      "en": "Then Saul said to Samuel, “But I have obeyed the Lord! I went on the campaign the Lord sent me on. I brought back King Agag of the Amalekites after exterminating the Amalekites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֨אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שָׁא֜וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁמוּאֵ֗ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שָׁמַ֨עְתִּי֙",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "בְּק֣וֹל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וָאֵלֵ֕ךְ",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "בַּדֶּ֖רֶךְ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שְׁלָחַ֣נִי",
+          "morph": "HVqp3ms/Sp1cs"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וָאָבִ֗יא",
+          "morph": "HC/Vhw1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲגַג֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶ֣לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲמָלֵ֔ק",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "עֲמָלֵ֖ק",
+          "morph": "HNp"
+        },
+        {
+          "w": "הֶחֱרַֽמְתִּי",
+          "morph": "HVhp1cs"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "百 姓 卻 在 所 當 滅 的 物 中 取 了 最 好 的 牛 羊 ， 要 在 吉 甲 獻 與 耶 和 華 ─ 你 的 神 。",
+      "en": "But the army took from the plunder some of the sheep and cattle—the best of what was to be slaughtered—to sacrifice to the Lord your God in Gilgal.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקַּ֨ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הָעָ֧ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מֵהַשָּׁלָ֛ל",
+          "morph": "HR/Td/Ncmsa"
+        },
+        {
+          "w": "צֹ֥אן",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וּבָקָ֖ר",
+          "morph": "HC/Ncbsa"
+        },
+        {
+          "w": "רֵאשִׁ֣ית",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַחֵ֑רֶם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לִזְבֹּ֛חַ",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לַֽיהוָ֥ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אֱלֹהֶ֖יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "בַּגִּלְגָּֽל",
+          "morph": "HRd/Np"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "撒 母 耳 說 ： 耶 和 華 喜 悅 燔 祭 和 平 安 祭 ， 豈 如 喜 悅 人 聽 從 他 的 話 呢 ？ 聽 命 勝 於 獻 祭 ； 順 從 勝 於 公 羊 的 脂 油 。",
+      "en": "Then Samuel said, “Does the Lord take pleasure in burnt offerings and sacrifices as much as he does in obedience? Certainly, obedience is better than sacrifice; paying attention is better than the fat of rams.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שְׁמוּאֵ֗ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַחֵ֤פֶץ",
+          "morph": "HTi/Ncmsa"
+        },
+        {
+          "w": "לַֽיהוָה֙",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בְּעֹל֣וֹת",
+          "morph": "HR/Ncfpa"
+        },
+        {
+          "w": "וּזְבָחִ֔ים",
+          "morph": "HC/Ncmpa"
+        },
+        {
+          "w": "כִּשְׁמֹ֖עַ",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בְּק֣וֹל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הִנֵּ֤ה",
+          "morph": "HTm"
+        },
+        {
+          "w": "שְׁמֹ֨עַ֙",
+          "morph": "HVqc"
+        },
+        {
+          "w": "מִזֶּ֣בַח",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "ט֔וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "לְהַקְשִׁ֖יב",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "מֵחֵ֥לֶב",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֵילִֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "悖 逆 的 罪 與 行 邪 術 的 罪 相 等 ； 頑 梗 的 罪 與 拜 虛 神 和 偶 像 的 罪 相 同 。 你 既 厭 棄 耶 和 華 的 命 令 ， 耶 和 華 也 厭 棄 你 作 王 。",
+      "en": "For rebellion is like the sin of divination, and presumption is like the evil of idolatry. Because you have rejected the Lord’s orders, he has rejected you from being king.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "חַטַּאת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "קֶ֨סֶם֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מֶ֔רִי",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאָ֥וֶן",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וּתְרָפִ֖ים",
+          "morph": "HC/Ncmpa"
+        },
+        {
+          "w": "הַפְצַ֑ר",
+          "morph": "HVha"
+        },
+        {
+          "w": "יַ֗עַן",
+          "morph": "HC"
+        },
+        {
+          "w": "מָאַ֨סְתָּ֙",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דְּבַ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּמְאָסְךָ֖",
+          "morph": "HC/Vqw3ms/Sp2ms"
+        },
+        {
+          "w": "מִמֶּֽלֶךְ",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "掃 羅 對 撒 母 耳 說 ： 我 有 罪 了 ， 我 因 懼 怕 百 姓 ， 聽 從 他 們 的 話 ， 就 違 背 了 耶 和 華 的 命 令 和 你 的 言 語 。",
+      "en": "Then Saul said to Samuel, “I have sinned, for I have disobeyed what the Lord commanded and your words as well. For I was afraid of the army, and I obeyed their voice.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֨אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שָׁא֤וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁמוּאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "חָטָ֔אתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "עָבַ֥רְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "פִּֽי",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "דְּבָרֶ֑יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "יָרֵ֨אתִי֙",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעָ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וָאֶשְׁמַ֖ע",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "בְּקוֹלָֽם",
+          "morph": "HR/Ncmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "現 在 求 你 赦 免 我 的 罪 ， 同 我 回 去 ， 我 好 敬 拜 耶 和 華 。",
+      "en": "Now please forgive my sin. Go back with me so I can worship the Lord.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַתָּ֕ה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "שָׂ֥א",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "נָ֖א",
+          "morph": "HTe"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "חַטָּאתִ֑י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "וְשׁ֣וּב",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "עִמִּ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וְאֶֽשְׁתַּחֲוֶ֖ה",
+          "morph": "HC/Vvi1cs"
+        },
+        {
+          "w": "לַֽיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "撒 母 耳 對 掃 羅 說 ： 我 不 同 你 回 去 ； 因 為 你 厭 棄 耶 和 華 的 命 令 ， 耶 和 華 也 厭 棄 你 作 以 色 列 的 王 。",
+      "en": "Samuel said to Saul, “I will not go back with you, for you have rejected the Lord’s orders, and the Lord has rejected you from being king over Israel!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שְׁמוּאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "שָׁא֔וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אָשׁ֖וּב",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "עִמָּ֑ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "מָאַ֨סְתָּה֙",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דְּבַ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּמְאָסְךָ֣",
+          "morph": "HC/Vqw3ms/Sp2ms"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִהְי֥וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מֶ֖לֶךְ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "撒 母 耳 轉 身 要 走 ， 掃 羅 就 扯 住 他 外 袍 的 衣 襟 ， 衣 襟 就 撕 斷 了 。",
+      "en": "When Samuel turned to leave, Saul grabbed the edge of his robe and it tore.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסֹּ֥ב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שְׁמוּאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָלֶ֑כֶת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "וַיַּחֲזֵ֥ק",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "בִּכְנַף",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "מְעִיל֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וַיִּקָּרַֽע",
+          "morph": "HC/VNw3ms"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "撒 母 耳 對 他 說 ： 如 此 ， 今 日 耶 和 華 使 以 色 列 國 與 你 斷 絕 ， 將 這 國 賜 與 比 你 更 好 的 人 。",
+      "en": "Samuel said to him, “The Lord has torn the kingdom of Israel from you this day and has given it to one of your colleagues who is better than you!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלָיו֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "שְׁמוּאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "קָרַ֨ע",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶֽת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מַמְלְכ֧וּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֛ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵעָלֶ֖יךָ",
+          "morph": "HR/R/Sp2ms"
+        },
+        {
+          "w": "הַיּ֑וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וּנְתָנָ֕הּ",
+          "morph": "HC/Vqp3ms/Sp3fs"
+        },
+        {
+          "w": "לְרֵעֲךָ֖",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "הַטּ֥וֹב",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "מִמֶּֽךָּ",
+          "morph": "HR/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "以 色 列 的 大 能 者 必 不 致 說 謊 ， 也 不 致 後 悔 ； 因 為 他 迥 非 世 人 ， 決 不 後 悔 。",
+      "en": "The Preeminent One of Israel does not go back on his word or change his mind, for he is not a human being who changes his mind.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְגַם֙",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "נֵ֣צַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יְשַׁקֵּ֖ר",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִנָּחֵ֑ם",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אָדָ֛ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "ה֖וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "לְהִנָּחֵֽם",
+          "morph": "HR/VNc"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "掃 羅 說 ： 我 有 罪 了 ， 雖 然 如 此 ， 求 你 在 我 百 姓 的 長 老 和 以 色 列 人 面 前 抬 舉 我 ， 同 我 回 去 ， 我 好 敬 拜 耶 和 華 ─ 你 的 神 。",
+      "en": "Saul again replied, “I have sinned. But please honor me before the elders of my people and before Israel. Go back with me so I may worship the Lord your God.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "חָטָ֔אתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "עַתָּ֗ה",
+          "morph": "HD"
+        },
+        {
+          "w": "כַּבְּדֵ֥נִי",
+          "morph": "HVpv2ms/Sp1cs"
+        },
+        {
+          "w": "נָ֛א",
+          "morph": "HTe"
+        },
+        {
+          "w": "נֶ֥גֶד",
+          "morph": "HR"
+        },
+        {
+          "w": "זִקְנֵֽי",
+          "morph": "HAampc"
+        },
+        {
+          "w": "עַמִּ֖י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וְנֶ֣גֶד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשׁ֣וּב",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "עִמִּ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וְהִֽשְׁתַּחֲוֵ֖יתִי",
+          "morph": "HC/Vvp1cs"
+        },
+        {
+          "w": "לַֽיהוָ֥ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אֱלֹהֶֽיךָ",
+          "morph": "HNcmpc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "於 是 撒 母 耳 轉 身 跟 隨 掃 羅 回 去 ， 掃 羅 就 敬 拜 耶 和 華 。",
+      "en": "So Samuel followed Saul back, and Saul worshiped the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֥שָׁב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שְׁמוּאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַחֲרֵ֣י",
+          "morph": "HR"
+        },
+        {
+          "w": "שָׁא֑וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּשְׁתַּ֥חוּ",
+          "morph": "HC/Vtw3ms"
+        },
+        {
+          "w": "שָׁא֖וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לַֽיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "撒 母 耳 說 ： 要 把 亞 瑪 力 王 亞 甲 帶 到 我 這 裡 來 。 亞 甲 就 歡 歡 喜 喜 地 來 到 他 面 前 ， 心 裡 說 ， 死 亡 的 苦 難 必 定 過 去 了 。",
+      "en": "Then Samuel said, “Bring me King Agag of the Amalekites.” So Agag came to him trembling, thinking to himself, “Surely death is bitter!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שְׁמוּאֵ֗ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַגִּ֤ישׁוּ",
+          "morph": "HVhv2mp"
+        },
+        {
+          "w": "אֵלַי֙",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲגַג֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶ֣לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲמָלֵ֔ק",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיֵּ֣לֶךְ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלָ֔יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אֲגַ֖ג",
+          "morph": "HNp"
+        },
+        {
+          "w": "מַעֲדַנֹּ֑ת",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֲגָ֔ג",
+          "morph": "HNp"
+        },
+        {
+          "w": "אָכֵ֖ן",
+          "morph": "HD"
+        },
+        {
+          "w": "סָ֥ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "מַר",
+          "morph": "HAamsc"
+        },
+        {
+          "w": "הַמָּֽוֶת",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "撒 母 耳 說 ： 你 既 用 刀 使 婦 人 喪 子 ， 這 樣 ， 你 母 親 在 婦 人 中 也 必 喪 子 。 於 是 ， 撒 母 耳 在 吉 甲 耶 和 華 面 前 將 亞 甲 殺 死 。",
+      "en": "Samuel said, “Just as your sword left women childless, so your mother will be the most bereaved among women.” Then Samuel hacked Agag to pieces there in Gilgal before the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שְׁמוּאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֨ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "שִׁכְּלָ֤ה",
+          "morph": "HVpp3fs"
+        },
+        {
+          "w": "נָשִׁים֙",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "חַרְבֶּ֔ךָ",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "כֵּן",
+          "morph": "HTm"
+        },
+        {
+          "w": "תִּשְׁכַּ֥ל",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "מִנָּשִׁ֖ים",
+          "morph": "HR/Ncfpa"
+        },
+        {
+          "w": "אִמֶּ֑ךָ",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "וַיְשַׁסֵּ֨ף",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "שְׁמוּאֵ֧ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲגָ֛ג",
+          "morph": "HNp"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּגִּלְגָּֽל",
+          "morph": "HRd/Np"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "撒 母 耳 回 了 拉 瑪 。 掃 羅 上 他 所 住 的 基 比 亞 ， 回 自 己 的 家 去 了 。",
+      "en": "Then Samuel went to Ramah, while Saul went up to his home in Gibeah of Saul.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּ֥לֶךְ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שְׁמוּאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "הָרָמָ֑תָה",
+          "morph": "HTd/Np/Sd"
+        },
+        {
+          "w": "וְשָׁא֛וּל",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "עָלָ֥ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּית֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "גִּבְעַ֥ת",
+          "morph": "HNp"
+        },
+        {
+          "w": "שָׁאֽוּל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "撒 母 耳 直 到 死 的 日 子 ， 再 沒 有 見 掃 羅 ； 但 撒 母 耳 為 掃 羅 悲 傷 ， 是 因 耶 和 華 後 悔 立 他 為 以 色 列 的 王 。",
+      "en": "Until the day he died, Samuel did not see Saul again. Samuel did, however, mourn for Saul, but the Lord regretted that he had made Saul king over Israel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יָסַ֨ף",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "שְׁמוּאֵ֜ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לִרְא֤וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שָׁאוּל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "י֣וֹם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹת֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "הִתְאַבֵּ֥ל",
+          "morph": "HVtp3ms"
+        },
+        {
+          "w": "שְׁמוּאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "שָׁא֑וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיהוָ֣ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "נִחָ֔ם",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "הִמְלִ֥יךְ",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שָׁא֖וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    }
+  ]
+}

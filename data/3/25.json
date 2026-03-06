@@ -1,0 +1,3290 @@
+{
+  "book": 3,
+  "chapter": 25,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 在 西 乃 山 對 摩 西 說 ：",
+      "en": "The Lord spoke to Moses at Mount Sinai:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֤ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּהַ֥ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "סִינַ֖י",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 曉 諭 以 色 列 人 說 ： 你 們 到 了 我 所 賜 你 們 那 地 的 時 候 ， 地 就 要 向 耶 和 華 守 安 息 。",
+      "en": "“Speak to the Israelites and tell them, ‘When you enter the land that I am giving you, the land must observe a Sabbath to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דַּבֵּ֞ר",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָמַרְתָּ֣",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֲלֵהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "תָבֹ֨אוּ֙",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֔רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֲנִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "נֹתֵ֣ן",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לָכֶ֑ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וְשָׁבְתָ֣ה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "הָאָ֔רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "שַׁבָּ֖ת",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "לַיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "六 年 要 耕 種 田 地 ， 也 要 修 理 葡 萄 園 ， 收 藏 地 的 出 產 。",
+      "en": "Six years you may sow your field, and six years you may prune your vineyard and gather the produce,",
+      "notes": [],
+      "he": [
+        {
+          "w": "שֵׁ֤שׁ",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שָׁנִים֙",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "תִּזְרַ֣ע",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "שָׂדֶ֔ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וְשֵׁ֥שׁ",
+          "morph": "HC/Acfsa"
+        },
+        {
+          "w": "שָׁנִ֖ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "תִּזְמֹ֣ר",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "כַּרְמֶ֑ךָ",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "וְאָסַפְתָּ֖",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "תְּבוּאָתָֽהּ",
+          "morph": "HNcfsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "第 七 年 ， 地 要 守 聖 安 息 ， 就 是 向 耶 和 華 守 的 安 息 ， 不 可 耕 種 田 地 ， 也 不 可 修 理 葡 萄 園 。",
+      "en": "but in the seventh year the land must have a Sabbath of complete rest—a Sabbath to the Lord. You must not sow your field or prune your vineyard.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבַשָּׁנָ֣ה",
+          "morph": "HC/Rd/Ncfsa"
+        },
+        {
+          "w": "הַשְּׁבִיעִ֗ת",
+          "morph": "HTd/Aofsa"
+        },
+        {
+          "w": "שַׁבַּ֤ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "שַׁבָּתוֹן֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִהְיֶ֣ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָאָ֔רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "שַׁבָּ֖ת",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "לַיהוָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "שָֽׂדְךָ֙",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִזְרָ֔ע",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "וְכַרְמְךָ֖",
+          "morph": "HC/Ncbsc/Sp2ms"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִזְמֹֽר",
+          "morph": "HVqi2ms"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "遺 落 自 長 的 莊 稼 不 可 收 割 ； 沒 有 修 理 的 葡 萄 樹 也 不 可 摘 取 葡 萄 。 這 年 ， 地 要 守 聖 安 息 。",
+      "en": "You must not gather in the aftergrowth of your harvest, and you must not pick the grapes of your unpruned vines; the land must have a year of complete rest.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֵ֣ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "סְפִ֤יחַ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קְצִֽירְךָ֙",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִקְצ֔וֹר",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "עִנְּבֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "נְזִירֶ֖ךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִבְצֹ֑ר",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "שְׁנַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "שַׁבָּת֖וֹן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִהְיֶ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָאָֽרֶץ",
+          "morph": "HRd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "地 在 安 息 年 所 出 的 ， 要 給 你 和 你 的 僕 人 、 婢 女 、 雇 工 人 ， 並 寄 居 的 外 人 當 食 物 。",
+      "en": "You may have the Sabbath produce of the land to eat—you, your male servant, your female servant, your hired worker, the resident foreigner who stays with you,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְ֠הָיְתָה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "שַׁבַּ֨ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הָאָ֤רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "לָכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לְאָכְלָ֔ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "לְךָ֖",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "וּלְעַבְדְּךָ֣",
+          "morph": "HC/R/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "וְלַאֲמָתֶ֑ךָ",
+          "morph": "HC/R/Ncfsc/Sp2ms"
+        },
+        {
+          "w": "וְלִשְׂכִֽירְךָ֙",
+          "morph": "HC/R/Aamsc/Sp2ms"
+        },
+        {
+          "w": "וּלְתוֹשָׁ֣בְךָ֔",
+          "morph": "HC/R/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "הַגָּרִ֖ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "עִמָּֽךְ",
+          "morph": "HR/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "這 年 的 土 產 也 要 給 你 的 牲 畜 和 你 地 上 的 走 獸 當 食 物 。",
+      "en": "your cattle, and the wild animals that are in your land—all its produce will be for you to eat.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלִ֨בְהֶמְתְּךָ֔",
+          "morph": "HC/R/Ncfsc/Sp2ms"
+        },
+        {
+          "w": "וְלַֽחַיָּ֖ה",
+          "morph": "HC/Rd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בְּאַרְצֶ֑ךָ",
+          "morph": "HR/Ncbsc/Sp2ms"
+        },
+        {
+          "w": "תִּהְיֶ֥ה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "תְּבוּאָתָ֖הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "לֶאֱכֹֽל",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "你 要 計 算 七 個 安 息 年 ， 就 是 七 七 年 。 這 便 為 你 成 了 七 個 安 息 年 ， 共 是 四 十 九 年 。",
+      "en": "“‘You must count off seven weeks of years, seven times seven years, and the days of the seven weeks of years will amount to 49 years.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְסָפַרְתָּ֣",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "לְךָ֗",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "שֶׁ֚בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שַׁבְּתֹ֣ת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "שָׁנִ֔ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "שֶׁ֥בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שָׁנִ֖ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "שֶׁ֣בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "פְּעָמִ֑ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "וְהָי֣וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "לְךָ֗",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "יְמֵי֙",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "שֶׁ֚בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "שַׁבְּתֹ֣ת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הַשָּׁנִ֔ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "תֵּ֥שַׁע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "וְאַרְבָּעִ֖ים",
+          "morph": "HC/Acbpa"
+        },
+        {
+          "w": "שָׁנָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "當 年 七 月 初 十 日 ， 你 要 大 發 角 聲 ； 這 日 就 是 贖 罪 日 ， 要 在 遍 地 發 出 角 聲 。",
+      "en": "You must sound loud horn blasts—in the seventh month, on the tenth day of the month, on the Day of Atonement—you must sound the horn in your entire land.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַֽעֲבַרְתָּ֞",
+          "morph": "HC/Vhq2ms"
+        },
+        {
+          "w": "שׁוֹפַ֤ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "תְּרוּעָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בַּחֹ֣דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַשְּׁבִעִ֔י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "בֶּעָשׂ֖וֹר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "לַחֹ֑דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בְּיוֹם֙",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַכִּפֻּרִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "תַּעֲבִ֥ירוּ",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "שׁוֹפָ֖ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אַרְצְכֶֽם",
+          "morph": "HNcbsc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "第 五 十 年 ， 你 們 要 當 作 聖 年 ， 在 遍 地 給 一 切 的 居 民 宣 告 自 由 。 這 年 必 為 你 們 的 禧 年 ， 各 人 要 歸 自 己 的 產 業 ， 各 歸 本 家 。",
+      "en": "So you must consecrate the fiftieth year, and you must proclaim a release in the land for all its inhabitants. That year will be your Jubilee; each one of you must return to his property, and each one of you must return to his clan.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְקִדַּשְׁתֶּ֗ם",
+          "morph": "HC/Vpq2mp"
+        },
+        {
+          "w": "אֵ֣ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שְׁנַ֤ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַחֲמִשִּׁים֙",
+          "morph": "HTd/Acbpa"
+        },
+        {
+          "w": "שָׁנָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּקְרָאתֶ֥ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "דְּר֛וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בָּאָ֖רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יֹשְׁבֶ֑יהָ",
+          "morph": "HVqrmpc/Sp3fs"
+        },
+        {
+          "w": "יוֹבֵ֥ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הִוא֙",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "תִּהְיֶ֣ה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "לָכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וְשַׁבְתֶּ֗ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אִ֚ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲחֻזָּת֔וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "וְאִ֥ישׁ",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מִשְׁפַּחְתּ֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "תָּשֻֽׁבוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "第 五 十 年 要 作 為 你 們 的 禧 年 。 這 年 不 可 耕 種 ； 地 中 自 長 的 ， 不 可 收 割 ； 沒 有 修 理 的 葡 萄 樹 也 不 可 摘 取 葡 萄 。",
+      "en": "That fiftieth year will be your Jubilee; you must not sow the land, harvest its aftergrowth, or pick the grapes of its unpruned vines.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יוֹבֵ֣ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הִ֗וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "שְׁנַ֛ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַחֲמִשִּׁ֥ים",
+          "morph": "HTd/Acbpa"
+        },
+        {
+          "w": "שָׁנָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תִּהְיֶ֣ה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "לָכֶ֑ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִזְרָ֔עוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "וְלֹ֤א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תִקְצְרוּ֙",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "סְפִיחֶ֔יהָ",
+          "morph": "HNcmpc/Sp3fs"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תִבְצְר֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "נְזִרֶֽיהָ",
+          "morph": "HNcmpc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "因 為 這 是 禧 年 ， 你 們 要 當 作 聖 年 ， 吃 地 中 自 出 的 土 產 。",
+      "en": "Because that year is a Jubilee, it will be holy to you—you may eat its produce from the field.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֚י",
+          "morph": "HC"
+        },
+        {
+          "w": "יוֹבֵ֣ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הִ֔וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "קֹ֖דֶשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תִּהְיֶ֣ה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "לָכֶ֑ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַ֨שָּׂדֶ֔ה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "תֹּאכְל֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "תְּבוּאָתָֽהּ",
+          "morph": "HNcfsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "這 禧 年 ， 你 們 各 人 要 歸 自 己 的 地 業 。",
+      "en": "“‘In this Year of Jubilee you must each return to your property.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בִּשְׁנַ֥ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַיּוֹבֵ֖ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֹּ֑את",
+          "morph": "HTd/Pdxfs"
+        },
+        {
+          "w": "תָּשֻׁ֕בוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אִ֖ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲחֻזָּתֽוֹ",
+          "morph": "HNcfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "你 若 賣 甚 麼 給 鄰 舍 ， 或 是 從 鄰 舍 的 手 中 買 甚 麼 ， 彼 此 不 可 虧 負 。",
+      "en": "If you make a sale to your fellow citizen or buy from your fellow citizen, no one is to wrong his brother.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכִֽי",
+          "morph": "HC/C"
+        },
+        {
+          "w": "תִמְכְּר֤וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "מִמְכָּר֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַעֲמִיתֶ֔ךָ",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "א֥וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "קָנֹ֖ה",
+          "morph": "HVqa"
+        },
+        {
+          "w": "מִיַּ֣ד",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "עֲמִיתֶ֑ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תּוֹנ֖וּ",
+          "morph": "HVhj2mp"
+        },
+        {
+          "w": "אִ֥ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אָחִֽיו",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "你 要 按 禧 年 以 後 的 年 數 向 鄰 舍 買 ； 他 也 要 按 年 數 的 收 成 賣 給 你 。",
+      "en": "You may buy it from your fellow citizen according to the number of years since the last Jubilee; he may sell it to you according to the years of produce that are left.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּמִסְפַּ֤ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שָׁנִים֙",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "אַחַ֣ר",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיּוֹבֵ֔ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "תִּקְנֶ֖ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "מֵאֵ֣ת",
+          "morph": "HR/R"
+        },
+        {
+          "w": "עֲמִיתֶ֑ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "בְּמִסְפַּ֥ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שְׁנֵֽי",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "תְבוּאֹ֖ת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "יִמְכָּר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָֽךְ",
+          "morph": "HR/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "年 歲 若 多 ， 要 照 數 加 添 價 值 ； 年 歲 若 少 ， 要 照 數 減 去 價 值 ， 因 為 他 照 收 成 的 數 目 賣 給 你 。",
+      "en": "The more years there are, the more you may make its purchase price, and the fewer years there are, the less you must make its purchase price, because he is only selling to you a number of years of produce.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְפִ֣י",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "רֹ֣ב",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הַשָּׁנִ֗ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "תַּרְבֶּה֙",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "מִקְנָת֔וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "וּלְפִי֙",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "מְעֹ֣ט",
+          "morph": "HVqc"
+        },
+        {
+          "w": "הַשָּׁנִ֔ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "תַּמְעִ֖יט",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "מִקְנָת֑וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "כִּ֚י",
+          "morph": "HC"
+        },
+        {
+          "w": "מִסְפַּ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "תְּבוּאֹ֔ת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "ה֥וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "מֹכֵ֖ר",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לָֽךְ",
+          "morph": "HR/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "你 們 彼 此 不 可 虧 負 ， 只 要 敬 畏 你 們 的 神 ， 因 為 我 是 耶 和 華 ─ 你 們 的 　 神 。",
+      "en": "No one is to oppress his fellow citizen, but you must fear your God, because I am the Lord your God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלֹ֤א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תוֹנוּ֙",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֲמִית֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְיָרֵ֖אתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "מֵֽאֱלֹהֶ֑יךָ",
+          "morph": "HR/Ncmpc/Sp2ms"
+        },
+        {
+          "w": "כִּ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֲנִ֥י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהֹוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶֽם",
+          "morph": "HNcmpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "我 的 律 例 ， 你 們 要 遵 行 ， 我 的 典 章 ， 你 們 要 謹 守 ， 就 可 以 在 那 地 上 安 然 居 住 。",
+      "en": "You must obey my statutes and my regulations; you must be sure to keep them so that you may live securely in the land.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַעֲשִׂיתֶם֙",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "חֻקֹּתַ֔י",
+          "morph": "HNcbpc/Sp1cs"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "מִשְׁפָּטַ֥י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "תִּשְׁמְר֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "וַעֲשִׂיתֶ֣ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֹתָ֑ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "וִֽישַׁבְתֶּ֥ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "לָבֶֽטַח",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "地 必 出 土 產 ， 你 們 就 要 吃 飽 ， 在 那 地 上 安 然 居 住 。",
+      "en": "“‘The land will give its fruit, and you may eat until you are satisfied, and you may live securely in the land.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנָתְנָ֤ה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "הָאָ֨רֶץ֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "פִּרְיָ֔הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "וַאֲכַלְתֶּ֖ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "לָשֹׂ֑בַע",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וִֽישַׁבְתֶּ֥ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "לָבֶ֖טַח",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "עָלֶֽיהָ",
+          "morph": "HR/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "你 們 若 說 ： 這 第 七 年 我 們 不 耕 種 ， 也 不 收 藏 土 產 ， 吃 甚 麼 呢 ？",
+      "en": "If you say, “What will we eat in the seventh year if we do not sow and gather our produce?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכִ֣י",
+          "morph": "HC/C"
+        },
+        {
+          "w": "תֹאמְר֔וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "מַה",
+          "morph": "HTi"
+        },
+        {
+          "w": "נֹּאכַ֤֖ל",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "בַּשָּׁנָ֣ה",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "הַשְּׁבִיעִ֑ת",
+          "morph": "HTd/Aofsa"
+        },
+        {
+          "w": "הֵ֚ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "נִזְרָ֔ע",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "נֶאֱסֹ֖ף",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "תְּבוּאָתֵֽנוּ",
+          "morph": "HNcfsc/Sp1cp"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "我 必 在 第 六 年 將 我 所 命 的 福 賜 給 你 們 ， 地 便 生 三 年 的 土 產 。",
+      "en": "I will command my blessing for you in the sixth year so that it may yield the produce for three years,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְצִוִּ֤יתִי",
+          "morph": "HC/Vpq1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בִּרְכָתִי֙",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "לָכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "בַּשָּׁנָ֖ה",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "הַשִּׁשִּׁ֑ית",
+          "morph": "HTd/Aofsa"
+        },
+        {
+          "w": "וְעָשָׂת֙",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַתְּבוּאָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "לִשְׁלֹ֖שׁ",
+          "morph": "HR/Acfsa"
+        },
+        {
+          "w": "הַשָּׁנִֽים",
+          "morph": "HTd/Ncfpa"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "第 八 年 ， 你 們 要 耕 種 ， 也 要 吃 陳 糧 ， 等 到 第 九 年 出 產 收 來 的 時 候 ， 你 們 還 吃 陳 糧 。",
+      "en": "and you may sow the eighth year and eat from that sixth year’s produce—old produce. Until you bring in the ninth year’s produce, you may eat old produce.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּזְרַעְתֶּ֗ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֵ֚ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַשָּׁנָ֣ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הַשְּׁמִינִ֔ת",
+          "morph": "HTd/Aofsa"
+        },
+        {
+          "w": "וַאֲכַלְתֶּ֖ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַתְּבוּאָ֣ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "יָשָׁ֑ן",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "עַ֣ד",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשָּׁנָ֣ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הַתְּשִׁיעִ֗ת",
+          "morph": "HTd/Aofsa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "בּוֹא֙",
+          "morph": "HVqc"
+        },
+        {
+          "w": "תְּב֣וּאָתָ֔הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "תֹּאכְל֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "יָשָֽׁן",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "地 不 可 永 賣 ， 因 為 地 是 我 的 ； 你 們 在 我 面 前 是 客 旅 ， 是 寄 居 的 。",
+      "en": "The land must not be sold without reclaim because the land belongs to me, for you are foreign residents, temporary settlers, with me.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָאָ֗רֶץ",
+          "morph": "HC/Td/Ncbsa"
+        },
+        {
+          "w": "לֹ֤א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִמָּכֵר֙",
+          "morph": "HVNi3fs"
+        },
+        {
+          "w": "לִצְמִתֻ֔ת",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "לִ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "גֵרִ֧ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וְתוֹשָׁבִ֛ים",
+          "morph": "HC/Ncmpa"
+        },
+        {
+          "w": "אַתֶּ֖ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "עִמָּדִֽי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "在 你 們 所 得 為 業 的 全 地 ， 也 要 准 人 將 地 贖 回 。",
+      "en": "In all your landed property you must provide for the right of redemption of the land.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבְכֹ֖ל",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אֲחֻזַּתְכֶ֑ם",
+          "morph": "HNcfsc/Sp2mp"
+        },
+        {
+          "w": "גְּאֻלָּ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תִּתְּנ֥וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "לָאָֽרֶץ",
+          "morph": "HRd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "你 的 弟 兄 （ 弟 兄 是 指 本 國 人 說 ； 下 同 ） 若 漸 漸 窮 乏 ， 賣 了 幾 分 地 業 ， 他 至 近 的 親 屬 就 要 來 把 弟 兄 所 賣 的 贖 回 。",
+      "en": "“‘If your brother becomes impoverished and sells some of his property, his near redeemer is to come to you and redeem what his brother sold.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יָמ֣וּךְ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אָחִ֔יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וּמָכַ֖ר",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "מֵאֲחֻזָּת֑וֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "וּבָ֤א",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "גֹֽאֲלוֹ֙",
+          "morph": "HVqrmsc/Sp3ms"
+        },
+        {
+          "w": "הַקָּרֹ֣ב",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "אֵלָ֔יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְגָאַ֕ל",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֵ֖ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִמְכַּ֥ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָחִֽיו",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "若 沒 有 能 給 他 贖 回 的 ， 他 自 己 漸 漸 富 足 ， 能 夠 贖 回 ，",
+      "en": "If a man has no redeemer, but he prospers and gains enough for its redemption,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִ֕ישׁ",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "כִּ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִֽהְיֶה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לּ֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "גֹּאֵ֑ל",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "וְהִשִּׂ֣יגָה",
+          "morph": "HC/Vhq3fs"
+        },
+        {
+          "w": "יָד֔וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "וּמָצָ֖א",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "כְּדֵ֥י",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "גְאֻלָּתֽוֹ",
+          "morph": "HNcfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "就 要 算 出 賣 地 的 年 數 ， 把 餘 剩 年 數 的 價 值 還 那 買 主 ， 自 己 便 歸 回 自 己 的 地 業 。",
+      "en": "he is to calculate the value of the years it was sold, refund the balance to the man to whom he had sold it, and return to his property.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְחִשַּׁב֙",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שְׁנֵ֣י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "מִמְכָּר֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְהֵשִׁיב֙",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָ֣עֹדֵ֔ף",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "לָאִ֖ישׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "מָֽכַר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "ל֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְשָׁ֖ב",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "לַאֲחֻזָּתֽוֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "倘 若 不 能 為 自 己 得 回 所 賣 的 ， 仍 要 存 在 買 主 的 手 裡 直 到 禧 年 ； 到 了 禧 年 ， 地 業 要 出 買 主 的 手 ， 自 己 便 歸 回 自 己 的 地 業 。",
+      "en": "If he has not prospered enough to refund a balance to him, then what he sold will belong to the one who bought it until the Jubilee year, but it must revert in the Jubilee and the original owner may return to his property.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִ֨ם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "מָֽצְאָ֜ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "יָד֗וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "דֵּי֮",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָשִׁ֣יב",
+          "morph": "HVhc"
+        },
+        {
+          "w": "לוֹ֒",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְהָיָ֣ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "מִמְכָּר֗וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "בְּיַד֙",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "הַקֹּנֶ֣ה",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "אֹת֔וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "עַ֖ד",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁנַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַיּוֹבֵ֑ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְיָצָא֙",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "בַּיֹּבֵ֔ל",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְשָׁ֖ב",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "לַאֲחֻזָּתֽוֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "人 若 賣 城 內 的 住 宅 ， 賣 了 以 後 ， 一 年 之 內 可 以 贖 回 ； 在 一 整 年 ， 必 有 贖 回 的 權 柄 。",
+      "en": "“‘If a man sells a residential house in a walled city, its right of redemption must extend until one full year from its sale; its right of redemption must extend to a full calendar year.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִ֗ישׁ",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יִמְכֹּ֤ר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בֵּית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹשַׁב֙",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עִ֣יר",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "חוֹמָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְהָיְתָה֙",
+          "morph": "HC/Vqp3fs"
+        },
+        {
+          "w": "גְּאֻלָּת֔וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "תֹּ֖ם",
+          "morph": "HVqc"
+        },
+        {
+          "w": "שְׁנַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "מִמְכָּר֑וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "יָמִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "תִּהְיֶ֥ה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "גְאֻלָּתֽוֹ",
+          "morph": "HNcfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "若 在 一 整 年 之 內 不 贖 回 ， 這 城 內 的 房 屋 就 定 準 永 歸 買 主 ， 世 世 代 代 為 業 ； 在 禧 年 也 不 得 出 買 主 的 手 。",
+      "en": "If it is not redeemed before the full calendar year is ended, the house in the walled city will belong without reclaim to the one who bought it throughout his generations; it will not revert in the Jubilee.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִ֣ם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִגָּאֵ֗ל",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "מְלֹ֣את",
+          "morph": "HVqc"
+        },
+        {
+          "w": "לוֹ֮",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "שָׁנָ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תְמִימָה֒",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "וְ֠קָם",
+          "morph": "HC/Vqp3ms"
+        },
+        {
+          "w": "הַבַּ֨יִת",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בָּעִ֜יר",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לא",
+          "morph": "HTn"
+        },
+        {
+          "w": "ל֣וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "חֹמָ֗ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לַצְּמִיתֻ֛ת",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "לַקֹּנֶ֥ה",
+          "morph": "HRd/Vqrmsa"
+        },
+        {
+          "w": "אֹת֖וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "לְדֹרֹתָ֑יו",
+          "morph": "HR/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יֵצֵ֖א",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בַּיֹּבֵֽל",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "但 房 屋 在 無 城 牆 的 村 莊 裡 ， 要 看 如 鄉 下 的 田 地 一 樣 ， 可 以 贖 回 ； 到 了 禧 年 ， 都 要 出 買 主 的 手 。",
+      "en": "The houses of villages, however, which have no wall surrounding them must be considered as the field of the land; they will have the right of redemption and must revert in the Jubilee.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבָתֵּ֣י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "הַחֲצֵרִ֗ים",
+          "morph": "HTd/Ncbpa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֵין",
+          "morph": "HTn"
+        },
+        {
+          "w": "לָהֶ֤ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "חֹמָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "סָבִ֔יב",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׂדֵ֥ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "יֵחָשֵׁ֑ב",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "גְּאֻלָּה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תִּהְיֶה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "לּ֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וּבַיֹּבֵ֖ל",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "יֵצֵֽא",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "然 而 利 未 人 所 得 為 業 的 城 邑 ， 其 中 的 房 屋 ， 利 未 人 可 以 隨 時 贖 回 。",
+      "en": "As for the cities of the Levites, the houses in the cities which they possess, the Levites must have a perpetual right of redemption.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָרֵי֙",
+          "morph": "HC/Ncfpc"
+        },
+        {
+          "w": "הַלְוִיִּ֔ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "בָּתֵּ֖י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עָרֵ֣י",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "אֲחֻזָּתָ֑ם",
+          "morph": "HNcfsc/Sp3mp"
+        },
+        {
+          "w": "גְּאֻלַּ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "עוֹלָ֖ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תִּהְיֶ֥ה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "לַלְוִיִּֽם",
+          "morph": "HRd/Ngmpa"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "若 是 一 個 利 未 人 不 將 所 賣 的 房 屋 贖 回 ， 是 在 所 得 為 業 的 城 內 ， 到 了 禧 年 就 要 出 買 主 的 手 ， 因 為 利 未 人 城 邑 的 房 屋 是 他 們 在 以 色 列 人 中 的 產 業 。",
+      "en": "Whatever someone among the Levites might redeem—the sale of a house which is his property in a city—must revert in the Jubilee, because the houses of the cities of the Levites are their property in the midst of the Israelites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַאֲשֶׁ֤ר",
+          "morph": "HC/Tr"
+        },
+        {
+          "w": "יִגְאַל֙",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַלְוִיִּ֔ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "וְיָצָ֧א",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "מִמְכַּר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בַּ֛יִת",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְעִ֥יר",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "אֲחֻזָּת֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "בַּיֹּבֵ֑ל",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "בָתֵּ֞י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עָרֵ֣י",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "הַלְוִיִּ֗ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "הִ֚וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "אֲחֻזָּתָ֔ם",
+          "morph": "HNcfsc/Sp3mp"
+        },
+        {
+          "w": "בְּת֖וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "只 是 他 們 各 城 郊 野 之 地 不 可 賣 ， 因 為 是 他 們 永 遠 的 產 業 。",
+      "en": "Moreover, the open field areas of their cities must not be sold, because that is their perpetual possession.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּֽשְׂדֵ֛ה",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "מִגְרַ֥שׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עָרֵיהֶ֖ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִמָּכֵ֑ר",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "אֲחֻזַּ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "עוֹלָ֛ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "ה֖וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "לָהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "你 的 弟 兄 在 你 那 裡 若 漸 漸 貧 窮 ， 手 中 缺 乏 ， 你 就 要 幫 補 他 ， 使 他 與 你 同 住 ， 像 外 人 和 寄 居 的 一 樣 。",
+      "en": "“‘If your brother becomes impoverished and is indebted to you, you must support him; he must live with you like a foreign resident.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכִֽי",
+          "morph": "HC/C"
+        },
+        {
+          "w": "יָמ֣וּךְ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אָחִ֔יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וּמָ֥טָה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "יָד֖וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "עִמָּ֑ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "וְהֶֽחֱזַ֣קְתָּ",
+          "morph": "HC/Vhq2ms"
+        },
+        {
+          "w": "בּ֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "גֵּ֧ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְתוֹשָׁ֛ב",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וָחַ֖י",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "עִמָּֽךְ",
+          "morph": "HR/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "不 可 向 他 取 利 ， 也 不 可 向 他 多 要 ； 只 要 敬 畏 你 的 神 ， 使 你 的 弟 兄 與 你 同 住 。",
+      "en": "Do not take interest or profit from him, but you must fear your God, and your brother must live with you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּקַּ֤ח",
+          "morph": "HVqj2ms"
+        },
+        {
+          "w": "מֵֽאִתּוֹ֙",
+          "morph": "HR/R/Sp3ms"
+        },
+        {
+          "w": "נֶ֣שֶׁךְ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְתַרְבִּ֔ית",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "וְיָרֵ֖אתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "מֵֽאֱלֹהֶ֑יךָ",
+          "morph": "HR/Ncmpc/Sp2ms"
+        },
+        {
+          "w": "וְחֵ֥י",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אָחִ֖יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "עִמָּֽךְ",
+          "morph": "HR/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "zh": "你 借 錢 給 他 ， 不 可 向 他 取 利 ； 借 糧 給 他 ， 也 不 可 向 他 多 要 。",
+      "en": "You must not lend him your money at interest, and you must not sell him food for profit.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֶ֨ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כַּסְפְּךָ֔",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִתֵּ֥ן",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "ל֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "בְּנֶ֑שֶׁךְ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וּבְמַרְבִּ֖ית",
+          "morph": "HC/R/Ncfsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִתֵּ֥ן",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "אָכְלֶֽךָ",
+          "morph": "HNcmsc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "zh": "我 是 耶 和 華 ─ 你 們 的 神 ， 曾 領 你 們 從 埃 及 地 出 來 ， 為 要 把 迦 南 地 賜 給 你 們 ， 要 作 你 們 的 　 神 。",
+      "en": "I am the Lord your God who brought you out from the land of Egypt to give you the land of Canaan—to be your God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֲנִ֗י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹ֣הֵיכֶ֔ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הוֹצֵ֥אתִי",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "אֶתְכֶ֖ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "מֵאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָתֵ֤ת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לָכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "כְּנַ֔עַן",
+          "morph": "HNp"
+        },
+        {
+          "w": "לִהְי֥וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לֵאלֹהִֽים",
+          "morph": "HR/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "zh": "你 的 弟 兄 若 在 你 那 裡 漸 漸 窮 乏 ， 將 自 己 賣 給 你 ， 不 可 叫 他 像 奴 僕 服 事 你 。",
+      "en": "“‘If your brother becomes impoverished with regard to you so that he sells himself to you, you must not subject him to slave service.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכִֽי",
+          "morph": "HC/C"
+        },
+        {
+          "w": "יָמ֥וּךְ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אָחִ֛יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "עִמָּ֖ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "וְנִמְכַּר",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "לָ֑ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲבֹ֥ד",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "בּ֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "עֲבֹ֥דַת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "עָֽבֶד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "zh": "他 要 在 你 那 裡 像 雇 工 人 和 寄 居 的 一 樣 ， 要 服 事 你 直 到 禧 年 。",
+      "en": "He must be with you as a hired worker, as a resident foreigner; he must serve with you until the Year of Jubilee,",
+      "notes": [],
+      "he": [
+        {
+          "w": "כְּשָׂכִ֥יר",
+          "morph": "HR/Aamsa"
+        },
+        {
+          "w": "כְּתוֹשָׁ֖ב",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "יִהְיֶ֣ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "עִמָּ֑ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁנַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַיֹּבֵ֖ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יַעֲבֹ֥ד",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "עִמָּֽךְ",
+          "morph": "HR/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "zh": "到 了 禧 年 ， 他 和 他 兒 女 要 離 開 你 ， 一 同 出 去 歸 回 本 家 ， 到 他 祖 宗 的 地 業 那 裡 去 。",
+      "en": "but then he may go free, he and his children with him, and may return to his family and to the property of his ancestors.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיָצָא֙",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "מֵֽעִמָּ֔ךְ",
+          "morph": "HR/R/Sp2fs"
+        },
+        {
+          "w": "ה֖וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "וּבָנָ֣יו",
+          "morph": "HC/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "עִמּ֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְשָׁב֙",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מִשְׁפַּחְתּ֔וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אֲחֻזַּ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אֲבֹתָ֖יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "יָשֽׁוּב",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "zh": "因 為 他 們 是 我 的 僕 人 ， 是 我 從 埃 及 地 領 出 來 的 ， 不 可 賣 為 奴 僕 。",
+      "en": "Since the Israelites are my servants whom I brought out from the land of Egypt, they must not be sold in a slave sale.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "עֲבָדַ֣י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "הֵ֔ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הוֹצֵ֥אתִי",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "אֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "מֵאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִמָּכְר֖וּ",
+          "morph": "HVNi3mp"
+        },
+        {
+          "w": "מִמְכֶּ֥רֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "עָֽבֶד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "zh": "不 可 嚴 嚴 的 轄 管 他 ， 只 要 敬 畏 你 的 神 。",
+      "en": "You must not rule over them harshly, but you must fear your God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִרְדֶּ֥ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "ב֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "בְּפָ֑רֶךְ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וְיָרֵ֖אתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "מֵאֱלֹהֶֽיךָ",
+          "morph": "HR/Ncmpc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "zh": "至 於 你 的 奴 僕 、 婢 女 ， 可 以 從 你 四 圍 的 國 中 買 。",
+      "en": "“‘As for your male and female slaves who may belong to you—you may buy male and female slaves from the nations all around you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַבְדְּךָ֥",
+          "morph": "HC/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "וַאֲמָתְךָ֖",
+          "morph": "HC/Ncfsc/Sp2ms"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִהְיוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "לָ֑ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "מֵאֵ֣ת",
+          "morph": "HR/R"
+        },
+        {
+          "w": "הַגּוֹיִ֗ם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁר֙",
+          "morph": "HTr"
+        },
+        {
+          "w": "סְבִיבֹ֣תֵיכֶ֔ם",
+          "morph": "HNcbpc/Sp2mp"
+        },
+        {
+          "w": "מֵהֶ֥ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "תִּקְנ֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "עֶ֥בֶד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאָמָֽה",
+          "morph": "HC/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "zh": "並 且 那 寄 居 在 你 們 中 間 的 外 人 和 他 們 的 家 屬 ， 在 你 們 地 上 所 生 的 ， 你 們 也 可 以 從 其 中 買 人 ； 他 們 要 作 你 們 的 產 業 。",
+      "en": "Also, you may buy slaves from the children of the foreigners who reside with you and from their families that are with you, whom they have fathered in your land; they may become your property.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְ֠גַם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "מִבְּנֵ֨י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "הַתּוֹשָׁבִ֜ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הַגָּרִ֤ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "עִמָּכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מֵהֶ֣ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "תִּקְנ֔וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "וּמִמִּשְׁפַּחְתָּם֙",
+          "morph": "HC/R/Ncfsc/Sp3mp"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עִמָּכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הוֹלִ֖ידוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "בְּאַרְצְכֶ֑ם",
+          "morph": "HR/Ncbsc/Sp2mp"
+        },
+        {
+          "w": "וְהָי֥וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לַֽאֲחֻזָּֽה",
+          "morph": "HR/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 46,
+      "zh": "你 們 要 將 他 們 遺 留 給 你 們 的 子 孫 為 產 業 ， 要 永 遠 從 他 們 中 間 揀 出 奴 僕 ； 只 是 你 們 的 弟 兄 以 色 列 人 ， 你 們 不 可 嚴 嚴 的 轄 管 。",
+      "en": "You may give them as an inheritance to your children after you to possess as property. You may enslave them perpetually. However, as for your brothers the Israelites, no man may rule over his brother harshly.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִתְנַחֲלְתֶּ֨ם",
+          "morph": "HC/Vtq2mp"
+        },
+        {
+          "w": "אֹתָ֜ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "לִבְנֵיכֶ֤ם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "אַחֲרֵיכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לָרֶ֣שֶׁת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֲחֻזָּ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לְעֹלָ֖ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "בָּהֶ֣ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "תַּעֲבֹ֑דוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "וּבְאַ֨חֵיכֶ֤ם",
+          "morph": "HC/R/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "בְּנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּאָחִ֔יו",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִרְדֶּ֥ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "ב֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "בְּפָֽרֶךְ",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 47,
+      "zh": "住 在 你 那 裡 的 外 人 ， 或 是 寄 居 的 ， 若 漸 漸 富 足 ， 你 的 弟 兄 卻 漸 漸 窮 乏 ， 將 自 己 賣 給 那 外 人 ， 或 是 寄 居 的 ， 或 是 外 人 的 宗 族 ，",
+      "en": "“‘If a resident foreigner who is with you prospers and your brother becomes impoverished with regard to him so that he sells himself to a resident foreigner who is with you or to a member of a foreigner’s family,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכִ֣י",
+          "morph": "HC/C"
+        },
+        {
+          "w": "תַשִּׂ֗יג",
+          "morph": "HVhi3fs"
+        },
+        {
+          "w": "יַ֣ד",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "גֵּ֤ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְתוֹשָׁב֙",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "עִמָּ֔ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "וּמָ֥ךְ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אָחִ֖יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "עִמּ֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְנִמְכַּ֗ר",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "לְגֵ֤ר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "תּוֹשָׁב֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עִמָּ֔ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "א֥וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "לְעֵ֖קֶר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מִשְׁפַּ֥חַת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "גֵּֽר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 48,
+      "zh": "賣 了 以 後 ， 可 以 將 他 贖 回 。 無 論 是 他 的 弟 兄 ，",
+      "en": "after he has sold himself he retains a right of redemption. One of his brothers may redeem him,",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַחֲרֵ֣י",
+          "morph": "HR"
+        },
+        {
+          "w": "נִמְכַּ֔ר",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "גְּאֻלָּ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תִּהְיֶה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "לּ֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אֶחָ֥ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "מֵאֶחָ֖יו",
+          "morph": "HR/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "יִגְאָלֶֽנּוּ",
+          "morph": "HVqi3ms/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 49,
+      "zh": "或 伯 叔 、 伯 叔 的 兒 子 ， 本 家 的 近 支 ， 都 可 以 贖 他 。 他 自 己 若 漸 漸 富 足 ， 也 可 以 自 贖 。",
+      "en": "or his uncle or his cousin may redeem him, or any one of the rest of his blood relatives—his family—may redeem him, or if he prospers, he may redeem himself.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "דֹד֞וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "א֤וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דֹּדוֹ֙",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "יִגְאָלֶ֔נּוּ",
+          "morph": "HVqi3ms/Sp3ms"
+        },
+        {
+          "w": "אֽוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "מִשְּׁאֵ֧ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "בְּשָׂר֛וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "מִמִּשְׁפַּחְתּ֖וֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "יִגְאָלֶ֑נּוּ",
+          "morph": "HVqi3ms/Sp3ms"
+        },
+        {
+          "w": "אֽוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "הִשִּׂ֥יגָה",
+          "morph": "HVhp3fs"
+        },
+        {
+          "w": "יָד֖וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "וְנִגְאָֽל",
+          "morph": "HC/VNq3ms"
+        }
+      ]
+    },
+    {
+      "v": 50,
+      "zh": "他 要 和 買 主 計 算 ， 從 賣 自 己 的 那 年 起 ， 算 到 禧 年 ； 所 賣 的 價 值 照 著 年 數 多 少 ， 好 像 工 人 每 年 的 工 價 。",
+      "en": "He must calculate with the one who bought him the number of years from the year he sold himself to him until the Jubilee year, and the cost of his sale must correspond to the number of years, according to the rate of wages a hired worker would have earned while with him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְחִשַּׁב֙",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "קֹנֵ֔הוּ",
+          "morph": "HVqrmsc/Sp3ms"
+        },
+        {
+          "w": "מִשְּׁנַת֙",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הִמָּ֣כְרוֹ",
+          "morph": "HVNc/Sp3ms"
+        },
+        {
+          "w": "ל֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "עַ֖ד",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁנַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַיֹּבֵ֑ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהָיָ֞ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "כֶּ֤סֶף",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִמְכָּרוֹ֙",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "בְּמִסְפַּ֣ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שָׁנִ֔ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "כִּימֵ֥י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "שָׂכִ֖יר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יִהְיֶ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "עִמּֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 51,
+      "zh": "若 缺 少 的 年 數 多 ， 就 要 按 著 年 數 從 買 價 中 償 還 他 的 贖 價",
+      "en": "If there are still many years, in keeping with them, he must refund most of the cost of his purchase for his redemption,",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "ע֥וֹד",
+          "morph": "HD"
+        },
+        {
+          "w": "רַבּ֖וֹת",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "בַּשָּׁנִ֑ים",
+          "morph": "HRd/Ncfpa"
+        },
+        {
+          "w": "לְפִיהֶן֙",
+          "morph": "HR/Ncmsc/Sp3fp"
+        },
+        {
+          "w": "יָשִׁ֣יב",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "גְּאֻלָּת֔וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "מִכֶּ֖סֶף",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מִקְנָתֽוֹ",
+          "morph": "HNcfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 52,
+      "zh": "若 到 禧 年 只 缺 少 幾 年 ， 就 要 按 著 年 數 和 買 主 計 算 ， 償 還 他 的 贖 價 。",
+      "en": "but if only a few years remain until the Jubilee, he must calculate for himself in keeping with the remaining years and refund it for his redemption.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "מְעַ֞ט",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "נִשְׁאַ֧ר",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "בַּשָּׁנִ֛ים",
+          "morph": "HRd/Ncfpa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁנַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַיֹּבֵ֖ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְחִשַּׁב",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "ל֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "כְּפִ֣י",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שָׁנָ֔יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "יָשִׁ֖יב",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "גְּאֻלָּתֽוֹ",
+          "morph": "HNcfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 53,
+      "zh": "他 和 買 主 同 住 ， 要 像 每 年 雇 的 工 人 ， 買 主 不 可 嚴 嚴 的 轄 管 他 。",
+      "en": "He must be with the one who bought him like a yearly hired worker. The one who bought him must not rule over him harshly in your sight.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּשְׂכִ֥יר",
+          "morph": "HR/Aamsc"
+        },
+        {
+          "w": "שָׁנָ֛ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּשָׁנָ֖ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "יִהְיֶ֣ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "עִמּ֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִרְדֶּ֥נּֽוּ",
+          "morph": "HVqi3ms/Sp3ms"
+        },
+        {
+          "w": "בְּפֶ֖רֶךְ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לְעֵינֶֽיךָ",
+          "morph": "HR/Ncbdc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 54,
+      "zh": "他 若 不 這 樣 被 贖 ， 到 了 禧 年 ， 要 和 他 的 兒 女 一 同 出 去 。",
+      "en": "If, however, he is not redeemed in these ways, he must go free in the Jubilee year, he and his children with him,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִגָּאֵ֖ל",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "בְּאֵ֑לֶּה",
+          "morph": "HR/Pdxcp"
+        },
+        {
+          "w": "וְיָצָא֙",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "בִּשְׁנַ֣ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַיֹּבֵ֔ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "ה֖וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "וּבָנָ֥יו",
+          "morph": "HC/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "עִמּֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 55,
+      "zh": "因 為 以 色 列 人 都 是 我 的 僕 人 ， 是 我 從 埃 及 地 領 出 來 的 。 我 是 耶 和 華 ─ 你 們 的 神 。",
+      "en": "because the Israelites are my own servants; they are my servants whom I brought out from the land of Egypt. I am the Lord your God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "לִ֤י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֲבָדִ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "עֲבָדַ֣י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "הֵ֔ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הוֹצֵ֥אתִי",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "אוֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "מֵאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲנִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶֽם",
+          "morph": "HNcmpc/Sp2mp"
+        }
+      ]
+    }
+  ]
+}
