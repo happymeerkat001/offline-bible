@@ -26,11 +26,24 @@ export function mountNavBar(
   next.textContent = 'Next';
   const currentBook = books.find((b) => b.usfm === current.usfm);
 
+  const themeBtn = document.createElement('button');
+  themeBtn.type = 'button';
+  themeBtn.setAttribute('aria-label', 'Toggle dark mode');
+  const isDark = () => document.documentElement.getAttribute('data-theme') === 'dark';
+  themeBtn.textContent = isDark() ? '☀️' : '🌙';
+
+  themeBtn.addEventListener('click', () => {
+    const next_theme = isDark() ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next_theme);
+    localStorage.setItem('theme', next_theme);
+    themeBtn.textContent = next_theme === 'dark' ? '☀️' : '🌙';
+  });
+
   select.addEventListener('change', () => setRoute(select.value, 1));
   prev.addEventListener('click', () => setRoute(current.usfm, Math.max(1, current.chapter - 1)));
   next.addEventListener('click', () =>
     setRoute(current.usfm, Math.min(currentBook?.chapters ?? 1, current.chapter + 1))
   );
 
-  node.append(select, prev, next);
+  node.append(select, prev, next, themeBtn);
 }
