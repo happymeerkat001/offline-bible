@@ -1,0 +1,2633 @@
+{
+  "book": 47,
+  "chapter": 1,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "奉 神 旨 意 作 基 督 耶 穌 使 徒 的 保 羅 和 兄 弟 提 摩 太 ， 寫 信 給 在 哥 林 多 神 的 教 會 ， 並 亞 該 亞 遍 處 的 眾 聖 徒 。",
+      "en": "From Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, to the church of God that is in Corinth, with all the saints who are in all Achaia.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Παῦλος",
+          "morph": "N-NSM",
+          "gloss": "Paul"
+        },
+        {
+          "w": "ἀπόστολος",
+          "morph": "N-NSM",
+          "gloss": "apostle"
+        },
+        {
+          "w": "Χριστοῦ",
+          "morph": "N-GSM",
+          "gloss": "of Christ"
+        },
+        {
+          "w": "Ἰησοῦ",
+          "morph": "N-GSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "θελήματος",
+          "morph": "N-GSN",
+          "gloss": "[the] will"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Τιμόθεος",
+          "morph": "N-NSM",
+          "gloss": "Timothy"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀδελφὸς",
+          "morph": "N-NSM",
+          "gloss": "brother"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "To the"
+        },
+        {
+          "w": "ἐκκλησίᾳ",
+          "morph": "N-DSF",
+          "gloss": "church"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "-"
+        },
+        {
+          "w": "οὔσῃ",
+          "morph": "V-PAP-DSF",
+          "gloss": "being"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "Κορίνθῳ",
+          "morph": "N-DSF",
+          "gloss": "Corinth"
+        },
+        {
+          "w": "σὺν",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἁγίοις",
+          "morph": "A-DPM",
+          "gloss": "saints"
+        },
+        {
+          "w": "πᾶσιν",
+          "morph": "A-DPM",
+          "gloss": "all"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "-"
+        },
+        {
+          "w": "οὖσιν",
+          "morph": "V-PAP-DPM",
+          "gloss": "being"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ὅλῃ",
+          "morph": "A-DSF",
+          "gloss": "all"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀχαΐᾳ",
+          "morph": "N-DSF",
+          "gloss": "Achaia"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "願 恩 惠 、 平 安 從 神 我 們 的 父 和 主 耶 穌 基 督 歸 與 你 們 ！",
+      "en": "Grace and peace to you from God our Father and the Lord Jesus Christ!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "χάρις",
+          "morph": "N-NSF",
+          "gloss": "Grace"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἰρήνη",
+          "morph": "N-NSF",
+          "gloss": "peace"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God"
+        },
+        {
+          "w": "Πατρὸς",
+          "morph": "N-GSM",
+          "gloss": "[the] Father"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "[the] Lord"
+        },
+        {
+          "w": "Ἰησοῦ",
+          "morph": "N-GSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "Χριστοῦ",
+          "morph": "N-GSM",
+          "gloss": "Christ"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "願 頌 讚 歸 與 我 們 的 主 耶 穌 基 督 的 父 神 ， 就 是 發 慈 悲 的 父 ， 賜 各 樣 安 慰 的 神 。",
+      "en": "Blessed is the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Εὐλογητὸς",
+          "morph": "A-NSM",
+          "gloss": "Blessed [be]"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Πατὴρ",
+          "morph": "N-NSM",
+          "gloss": "Father"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "Lord"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "Ἰησοῦ",
+          "morph": "N-GSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "Χριστοῦ",
+          "morph": "N-GSM",
+          "gloss": "Christ"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Πατὴρ",
+          "morph": "N-NSM",
+          "gloss": "Father"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "-"
+        },
+        {
+          "w": "οἰκτιρμῶν",
+          "morph": "N-GPM",
+          "gloss": "of compassions"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "πάσης",
+          "morph": "A-GSF",
+          "gloss": "of all"
+        },
+        {
+          "w": "παρακλήσεως",
+          "morph": "N-GSF",
+          "gloss": "comfort"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "我 們 在 一 切 患 難 中 ， 他 就 安 慰 我 們 ， 叫 我 們 能 用 神 所 賜 的 安 慰 去 安 慰 那 遭 各 樣 患 難 的 人 。",
+      "en": "who comforts us in all our troubles so that we may be able to comfort those experiencing any trouble with the comfort with which we ourselves are comforted by God.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [One]"
+        },
+        {
+          "w": "παρακαλῶν",
+          "morph": "V-PAP-NSM",
+          "gloss": "comforting"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "πάσῃ",
+          "morph": "A-DSF",
+          "gloss": "all"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "θλίψει",
+          "morph": "N-DSF",
+          "gloss": "tribulation"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "δύνασθαι",
+          "morph": "V-PNN",
+          "gloss": "to be able"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "παρακαλεῖν",
+          "morph": "V-PAN",
+          "gloss": "to comfort"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "those"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "πάσῃ",
+          "morph": "A-DSF",
+          "gloss": "every"
+        },
+        {
+          "w": "θλίψει",
+          "morph": "N-DSF",
+          "gloss": "tribulation"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "παρακλήσεως",
+          "morph": "N-GSF",
+          "gloss": "comfort"
+        },
+        {
+          "w": "ἧς",
+          "morph": "R-GSF",
+          "gloss": "with which"
+        },
+        {
+          "w": "παρακαλούμεθα",
+          "morph": "V-PPI-1P",
+          "gloss": "we are comforted"
+        },
+        {
+          "w": "αὐτοὶ",
+          "morph": "P-NPM",
+          "gloss": "ourselves"
+        },
+        {
+          "w": "ὑπὸ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "我 們 既 多 受 基 督 的 苦 楚 ， 就 靠 基 督 多 得 安 慰 。",
+      "en": "For just as the sufferings of Christ overflow toward us, so also our comfort through Christ overflows to you.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "because"
+        },
+        {
+          "w": "καθὼς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "περισσεύει",
+          "morph": "V-PAI-3S",
+          "gloss": "abound"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-NPN",
+          "gloss": "the"
+        },
+        {
+          "w": "παθήματα",
+          "morph": "N-NPN",
+          "gloss": "sufferings"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Χριστοῦ",
+          "morph": "N-GSM",
+          "gloss": "Christ"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "toward"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "οὕτως",
+          "morph": "ADV",
+          "gloss": "thus so"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Χριστοῦ",
+          "morph": "N-GSM",
+          "gloss": "Christ"
+        },
+        {
+          "w": "περισσεύει",
+          "morph": "V-PAI-3S",
+          "gloss": "abounds"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "παράκλησις",
+          "morph": "N-NSF",
+          "gloss": "comfort"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "我 們 受 患 難 呢 ， 是 為 叫 你 們 得 安 慰 ， 得 拯 救 ； 我 們 得 安 慰 呢 ， 也 是 為 叫 你 們 得 安 慰 ； 這 安 慰 能 叫 你 們 忍 受 我 們 所 受 的 那 樣 苦 楚 。",
+      "en": "But if we are afflicted, it is for your comfort and salvation; if we are comforted, it is for your comfort that you experience in your patient endurance of the same sufferings that we also suffer.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἴτε",
+          "morph": "CONJ",
+          "gloss": "If"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "θλιβόμεθα",
+          "morph": "V-PPI-1P",
+          "gloss": "we are constricted"
+        },
+        {
+          "w": "ὑπὲρ",
+          "morph": "PREP",
+          "gloss": "[it is] for"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "your"
+        },
+        {
+          "w": "παρακλήσεως",
+          "morph": "N-GSF",
+          "gloss": "comfort"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "σωτηρίας",
+          "morph": "N-GSF",
+          "gloss": "salvation"
+        },
+        {
+          "w": "εἴτε",
+          "morph": "CONJ",
+          "gloss": "if"
+        },
+        {
+          "w": "παρακαλούμεθα",
+          "morph": "V-PPI-1P",
+          "gloss": "we are encouraged"
+        },
+        {
+          "w": "ὑπὲρ",
+          "morph": "PREP",
+          "gloss": "[it is] for"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "your"
+        },
+        {
+          "w": "παρακλήσεως",
+          "morph": "N-GSF",
+          "gloss": "comfort"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἐνεργουμένης",
+          "morph": "V-PMP-GSF",
+          "gloss": "operating"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ὑπομονῇ",
+          "morph": "N-DSF",
+          "gloss": "[the] endurance"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPN",
+          "gloss": "of the"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPN",
+          "gloss": "same"
+        },
+        {
+          "w": "παθημάτων",
+          "morph": "N-GPN",
+          "gloss": "sufferings"
+        },
+        {
+          "w": "ὧν",
+          "morph": "R-GPN",
+          "gloss": "that"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ἡμεῖς",
+          "morph": "P-1NP",
+          "gloss": "we"
+        },
+        {
+          "w": "πάσχομεν",
+          "morph": "V-PAI-1P",
+          "gloss": "suffer"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "我 們 為 你 們 所 存 的 盼 望 是 確 定 的 ， 因 為 知 道 你 們 既 是 同 受 苦 楚 ， 也 必 同 得 安 慰 。",
+      "en": "And our hope for you is steadfast because we know that as you share in our sufferings, so also you will share in our comfort.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐλπὶς",
+          "morph": "N-NSF",
+          "gloss": "hope"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "βεβαία",
+          "morph": "A-NSF",
+          "gloss": "[is] steadfast"
+        },
+        {
+          "w": "ὑπὲρ",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "you"
+        },
+        {
+          "w": "εἰδότες",
+          "morph": "V-RAP-NPM",
+          "gloss": "knowing"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ὡς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "κοινωνοί",
+          "morph": "N-NPM",
+          "gloss": "partners"
+        },
+        {
+          "w": "ἐστε",
+          "morph": "V-PAI-2P",
+          "gloss": "you are"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPN",
+          "gloss": "of the"
+        },
+        {
+          "w": "παθημάτων",
+          "morph": "N-GPN",
+          "gloss": "sufferings"
+        },
+        {
+          "w": "οὕτως",
+          "morph": "ADV",
+          "gloss": "so"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "παρακλήσεως",
+          "morph": "N-GSF",
+          "gloss": "comfort"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "弟 兄 們 ， 我 們 不 要 你 們 不 曉 得 ， 我 們 從 前 在 亞 西 亞 遭 遇 苦 難 ， 被 壓 太 重 ， 力 不 能 勝 ， 甚 至 連 活 命 的 指 望 都 絕 了 ；",
+      "en": "For we do not want you to be unaware, brothers and sisters, regarding the affliction that happened to us in the province of Asia, that we were burdened excessively, beyond our strength, so that we despaired even of living.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Οὐ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "θέλομεν",
+          "morph": "V-PAI-1P",
+          "gloss": "do we want"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἀγνοεῖν",
+          "morph": "V-PAN",
+          "gloss": "to be ignorant"
+        },
+        {
+          "w": "ἀδελφοί",
+          "morph": "N-VPM",
+          "gloss": "brothers"
+        },
+        {
+          "w": "ὑπὲρ",
+          "morph": "PREP",
+          "gloss": "as to"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "θλίψεως",
+          "morph": "N-GSF",
+          "gloss": "affliction"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "γενομένης",
+          "morph": "V-2ADP-GSF",
+          "gloss": "having happened"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀσίᾳ",
+          "morph": "N-DSF",
+          "gloss": "Asia"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "καθ’",
+          "morph": "PREP",
+          "gloss": "against"
+        },
+        {
+          "w": "ὑπερβολὴν",
+          "morph": "N-ASF",
+          "gloss": "excessively"
+        },
+        {
+          "w": "ὑπὲρ",
+          "morph": "PREP",
+          "gloss": "beyond [our]"
+        },
+        {
+          "w": "δύναμιν",
+          "morph": "N-ASF",
+          "gloss": "power"
+        },
+        {
+          "w": "ἐβαρήθημεν",
+          "morph": "V-API-1P",
+          "gloss": "we were weighed"
+        },
+        {
+          "w": "ὥστε",
+          "morph": "CONJ",
+          "gloss": "so as"
+        },
+        {
+          "w": "ἐξαπορηθῆναι",
+          "morph": "V-APN",
+          "gloss": "to despair"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "for us"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "even"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "-"
+        },
+        {
+          "w": "ζῆν",
+          "morph": "V-PAN",
+          "gloss": "to live"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "自 己 心 裡 也 斷 定 是 必 死 的 ， 叫 我 們 不 靠 自 己 ， 只 靠 叫 死 人 復 活 的 神 。",
+      "en": "Indeed we felt as if the sentence of death had been passed against us, so that we would not trust in ourselves but in God who raises the dead.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "But"
+        },
+        {
+          "w": "αὐτοὶ",
+          "morph": "P-NPM",
+          "gloss": "we"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἑαυτοῖς",
+          "morph": "F-1DPM",
+          "gloss": "ourselves"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀπόκριμα",
+          "morph": "N-ASN",
+          "gloss": "sentence"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "θανάτου",
+          "morph": "N-GSM",
+          "gloss": "of death"
+        },
+        {
+          "w": "ἐσχήκαμεν",
+          "morph": "V-RAI-1P",
+          "gloss": "had"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "in order that"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "πεποιθότες",
+          "morph": "V-2RAP-NPM",
+          "gloss": "trusting"
+        },
+        {
+          "w": "ὦμεν",
+          "morph": "V-PAS-1P",
+          "gloss": "we should be"
+        },
+        {
+          "w": "ἐφ’",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἑαυτοῖς",
+          "morph": "F-1DPM",
+          "gloss": "ourselves"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεῷ",
+          "morph": "N-DSM",
+          "gloss": "God"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the [One]"
+        },
+        {
+          "w": "ἐγείροντι",
+          "morph": "V-PAP-DSM",
+          "gloss": "raising"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "νεκρούς",
+          "morph": "A-APM",
+          "gloss": "dead"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "他 曾 救 我 們 脫 離 那 極 大 的 死 亡 ， 現 在 仍 要 救 我 們 ， 並 且 我 們 指 望 他 將 來 還 要 救 我 們 。",
+      "en": "He delivered us from so great a risk of death, and he will deliver us. We have set our hope on him that he will deliver us yet again,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὃς",
+          "morph": "R-NSM",
+          "gloss": "who"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τηλικούτου",
+          "morph": "D-GSM",
+          "gloss": "such a great"
+        },
+        {
+          "w": "θανάτου",
+          "morph": "N-GSM",
+          "gloss": "a death"
+        },
+        {
+          "w": "ἐρρύσατο",
+          "morph": "V-ANI-3S",
+          "gloss": "has delivered"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ῥύσεται",
+          "morph": "V-FDI-3S",
+          "gloss": "will deliver [us]"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ὃν",
+          "morph": "R-ASM",
+          "gloss": "whom"
+        },
+        {
+          "w": "ἠλπίκαμεν",
+          "morph": "V-RAI-1P",
+          "gloss": "we have hope"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ἔτι",
+          "morph": "ADV",
+          "gloss": "still"
+        },
+        {
+          "w": "ῥύσεται",
+          "morph": "V-FDI-3S",
+          "gloss": "He will deliver [us]"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "你 們 以 祈 禱 幫 助 我 們 ， 好 叫 許 多 人 為 我 們 謝 恩 ， 就 是 為 我 們 因 許 多 人 所 得 的 恩 。",
+      "en": "as you also join in helping us by prayer, so that many people may give thanks to God on our behalf for the gracious gift given to us through the help of many.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "συνυπουργούντων",
+          "morph": "V-PAP-GPM",
+          "gloss": "joining together"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "ὑπὲρ",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "us"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "by"
+        },
+        {
+          "w": "δεήσει",
+          "morph": "N-DSF",
+          "gloss": "supplication"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "so that"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "πολλῶν",
+          "morph": "A-GPN",
+          "gloss": "many"
+        },
+        {
+          "w": "προσώπων",
+          "morph": "N-GPN",
+          "gloss": "persons"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "for the"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "toward"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "χάρισμα",
+          "morph": "N-NSN",
+          "gloss": "grace bestowed"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "πολλῶν",
+          "morph": "A-GPN",
+          "gloss": "many"
+        },
+        {
+          "w": "εὐχαριστηθῇ",
+          "morph": "V-APS-3S",
+          "gloss": "thanks may be given"
+        },
+        {
+          "w": "ὑπὲρ",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "us"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "我 們 所 誇 的 是 自 己 的 良 心 ， 見 證 我 們 憑 著 神 的 聖 潔 和 誠 實 ； 在 世 為 人 不 靠 人 的 聰 明 ， 乃 靠 神 的 恩 惠 ， 向 你 們 更 是 這 樣 。",
+      "en": "For our reason for confidence is this: The testimony of our conscience, that with pure motives and sincerity which are from God—not by human wisdom but by the grace of God—we conducted ourselves in the world, and all the more toward you.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἠ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "For"
+        },
+        {
+          "w": "καύχησις",
+          "morph": "N-NSF",
+          "gloss": "the boasting"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "αὕτη",
+          "morph": "D-NSF",
+          "gloss": "this"
+        },
+        {
+          "w": "ἐστίν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "μαρτύριον",
+          "morph": "N-NSN",
+          "gloss": "testimony"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "συνειδήσεως",
+          "morph": "N-GSF",
+          "gloss": "conscience"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἁγιότητι",
+          "morph": "N-DSF",
+          "gloss": "[the] holiness"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἰλικρινίᾳ",
+          "morph": "N-DSF",
+          "gloss": "sincerity"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "σοφίᾳ",
+          "morph": "N-DSF",
+          "gloss": "wisdom"
+        },
+        {
+          "w": "σαρκικῇ",
+          "morph": "A-DSF",
+          "gloss": "fleshly"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "χάριτι",
+          "morph": "N-DSF",
+          "gloss": "[the] grace"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "ἀνεστράφημεν",
+          "morph": "V-2API-1P",
+          "gloss": "we have conducted ourselves"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "κόσμῳ",
+          "morph": "N-DSM",
+          "gloss": "world"
+        },
+        {
+          "w": "περισσοτέρως",
+          "morph": "ADV-C",
+          "gloss": "more abundantly"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "toward"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "我 們 現 在 寫 給 你 們 的 話 ， 並 不 外 乎 你 們 所 念 的 ， 所 認 識 的 ， 我 也 盼 望 你 們 到 底 還 是 要 認 識 ；",
+      "en": "For we do not write you anything other than what you can read and also understand. But I hope that you will understand completely",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "No"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἄλλα",
+          "morph": "A-APN",
+          "gloss": "other things"
+        },
+        {
+          "w": "γράφομεν",
+          "morph": "V-PAI-1P",
+          "gloss": "we write"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "other"
+        },
+        {
+          "w": "ἢ",
+          "morph": "PRT",
+          "gloss": "than"
+        },
+        {
+          "w": "ἃ",
+          "morph": "R-APN",
+          "gloss": "what"
+        },
+        {
+          "w": "ἀναγινώσκετε",
+          "morph": "V-PAI-2P",
+          "gloss": "you read"
+        },
+        {
+          "w": "ἢ",
+          "morph": "PRT",
+          "gloss": "or"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "even"
+        },
+        {
+          "w": "ἐπιγινώσκετε",
+          "morph": "V-PAI-2P",
+          "gloss": "understand"
+        },
+        {
+          "w": "ἐλπίζω",
+          "morph": "V-PAI-1S",
+          "gloss": "I hope"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἕως",
+          "morph": "ADV",
+          "gloss": "to [the]"
+        },
+        {
+          "w": "τέλους",
+          "morph": "N-GSN",
+          "gloss": "end"
+        },
+        {
+          "w": "ἐπιγνώσεσθε",
+          "morph": "V-FDI-2P",
+          "gloss": "you will understand"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "正 如 你 們 已 經 有 幾 分 認 識 我 們 ， 以 我 們 誇 口 ， 好 像 我 們 在 我 們 主 耶 穌 的 日 子 以 你 們 誇 口 一 樣 。",
+      "en": "just as also you have partly understood us, that we are your source of pride just as you also are ours in the day of the Lord Jesus.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καθὼς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ἐπέγνωτε",
+          "morph": "V-2AAI-2P",
+          "gloss": "you have understood"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "μέρους",
+          "morph": "N-GSN",
+          "gloss": "part"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "so that"
+        },
+        {
+          "w": "καύχημα",
+          "morph": "N-NSN",
+          "gloss": "boasting"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "ἐσμεν",
+          "morph": "V-PAI-1P",
+          "gloss": "we are"
+        },
+        {
+          "w": "καθάπερ",
+          "morph": "ADV",
+          "gloss": "even as"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ὑμεῖς",
+          "morph": "P-2NP",
+          "gloss": "you [are]"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "ours"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἡμέρᾳ",
+          "morph": "N-DSF",
+          "gloss": "day"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "Lord"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "Ἰησοῦ",
+          "morph": "N-GSM",
+          "gloss": "Jesus"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "我 既 然 這 樣 深 信 ， 就 早 有 意 到 你 們 那 裡 去 ， 叫 你 們 再 得 益 處 ；",
+      "en": "And with this confidence I intended to come to you first so that you would get a second opportunity to see us,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ταύτῃ",
+          "morph": "D-DSF",
+          "gloss": "with this"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "-"
+        },
+        {
+          "w": "πεποιθήσει",
+          "morph": "N-DSF",
+          "gloss": "confidence"
+        },
+        {
+          "w": "ἐβουλόμην",
+          "morph": "V-INI-1S",
+          "gloss": "I was planning"
+        },
+        {
+          "w": "πρότερον",
+          "morph": "ADV-C",
+          "gloss": "previously"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἐλθεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to come"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "so that"
+        },
+        {
+          "w": "δευτέραν",
+          "morph": "A-ASF",
+          "gloss": "a second"
+        },
+        {
+          "w": "χάριν",
+          "morph": "N-ASF",
+          "gloss": "blessing of grace"
+        },
+        {
+          "w": "σχῆτε",
+          "morph": "V-2AAS-2P",
+          "gloss": "you might have"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "也 要 從 你 們 那 裡 經 過 ， 往 馬 其 頓 去 ， 再 從 馬 其 頓 回 到 你 們 那 裡 ， 叫 你 們 給 我 送 行 往 猶 太 去 。",
+      "en": "and through your help to go on into Macedonia and then from Macedonia to come back to you and be helped on our way into Judea by you.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "δι’",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "you"
+        },
+        {
+          "w": "διελθεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to pass through"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "Μακεδονίαν",
+          "morph": "N-ASF",
+          "gloss": "Macedonia"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πάλιν",
+          "morph": "ADV",
+          "gloss": "again"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "Μακεδονίας",
+          "morph": "N-GSF",
+          "gloss": "Macedonia"
+        },
+        {
+          "w": "ἐλθεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to come"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὑφ’",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "you"
+        },
+        {
+          "w": "προπεμφθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be set forward"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰουδαίαν",
+          "morph": "N-ASF",
+          "gloss": "Judea"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "我 有 此 意 ， 豈 是 反 復 不 定 麼 ？ 我 所 起 的 意 ， 豈 是 從 情 慾 起 的 ， 叫 我 忽 是 忽 非 麼 ？",
+      "en": "Therefore when I was planning to do this, I did not do so without thinking about what I was doing, did I? Or do I make my plans according to mere human standards so that I would be saying both “Yes, yes” and “No, no” at the same time?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦτο",
+          "morph": "D-ASN",
+          "gloss": "Thus"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "βουλόμενος",
+          "morph": "V-PNP-NSM",
+          "gloss": "purposing"
+        },
+        {
+          "w": "μήτι",
+          "morph": "PRT-I",
+          "gloss": "not"
+        },
+        {
+          "w": "ἄρα",
+          "morph": "PRT-I",
+          "gloss": "then"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἐλαφρίᾳ",
+          "morph": "N-DSF",
+          "gloss": "lightness"
+        },
+        {
+          "w": "ἐχρησάμην",
+          "morph": "V-ADI-1S",
+          "gloss": "did I use"
+        },
+        {
+          "w": "ἢ",
+          "morph": "PRT",
+          "gloss": "Or"
+        },
+        {
+          "w": "ἃ",
+          "morph": "R-APN",
+          "gloss": "what"
+        },
+        {
+          "w": "βουλεύομαι",
+          "morph": "V-PNI-1S",
+          "gloss": "I purpose"
+        },
+        {
+          "w": "κατὰ",
+          "morph": "PREP",
+          "gloss": "according to"
+        },
+        {
+          "w": "σάρκα",
+          "morph": "N-ASF",
+          "gloss": "flesh"
+        },
+        {
+          "w": "βουλεύομαι",
+          "morph": "V-PNI-1S",
+          "gloss": "do I purpose"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "so that"
+        },
+        {
+          "w": "ᾖ",
+          "morph": "V-PAS-3S",
+          "gloss": "there should be"
+        },
+        {
+          "w": "παρ’",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "ἐμοὶ",
+          "morph": "P-1DS",
+          "gloss": "me"
+        },
+        {
+          "w": "τό",
+          "morph": "T-NSN",
+          "gloss": "-"
+        },
+        {
+          "w": "Ναί",
+          "morph": "PRT",
+          "gloss": "Yes"
+        },
+        {
+          "w": "ναὶ",
+          "morph": "PRT",
+          "gloss": "yes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "-"
+        },
+        {
+          "w": "Οὔ",
+          "morph": "PRT-N",
+          "gloss": "No"
+        },
+        {
+          "w": "οὔ",
+          "morph": "PRT-N",
+          "gloss": "no"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "我 指 著 信 實 的 神 說 ， 我 們 向 你 們 所 傳 的 道 ， 並 沒 有 是 而 又 非 的 。",
+      "en": "But as God is faithful, our message to you is not “Yes” and “No.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "πιστὸς",
+          "morph": "A-NSM",
+          "gloss": "Faithful"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God [is]"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "λόγος",
+          "morph": "N-NSM",
+          "gloss": "word"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἔστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "was"
+        },
+        {
+          "w": "Ναί",
+          "morph": "PRT",
+          "gloss": "Yes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Οὔ",
+          "morph": "PRT-N",
+          "gloss": "No"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "因 為 我 和 西 拉 並 提 摩 太 ， 在 你 們 中 間 所 傳 神 的 兒 子 耶 穌 基 督 ， 總 沒 有 是 而 又 非 的 ， 在 他 只 有 一 是 。",
+      "en": "For the Son of God, Jesus Christ, the one who was proclaimed among you by us—by me and Silvanus and Timothy—was not “Yes” and “No,” but it has always been “Yes” in him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "The"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "Υἱὸς",
+          "morph": "N-NSM",
+          "gloss": "Son"
+        },
+        {
+          "w": "Χριστὸς",
+          "morph": "N-NSM",
+          "gloss": "Christ"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [One]"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "among"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "you"
+        },
+        {
+          "w": "δι’",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "us"
+        },
+        {
+          "w": "κηρυχθείς",
+          "morph": "V-APP-NSM",
+          "gloss": "having been proclaimed"
+        },
+        {
+          "w": "δι’",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "ἐμοῦ",
+          "morph": "P-1GS",
+          "gloss": "me"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Σιλουανοῦ",
+          "morph": "N-GSM",
+          "gloss": "Silvanus"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Τιμοθέου",
+          "morph": "N-GSM",
+          "gloss": "Timothy"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἐγένετο",
+          "morph": "V-2ADI-3S",
+          "gloss": "was"
+        },
+        {
+          "w": "Ναί",
+          "morph": "PRT",
+          "gloss": "Yes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Οὔ",
+          "morph": "PRT-N",
+          "gloss": "No"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "Ναί",
+          "morph": "PRT",
+          "gloss": "Yes"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "γέγονεν",
+          "morph": "V-2RAI-3S",
+          "gloss": "it has always been"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "神 的 應 許 ， 不 論 有 多 少 ， 在 基 督 都 是 是 的 。 所 以 藉 著 他 也 都 是 實 在 （ 實 在 ： 原 文 是 阿 們 ） 的 ， 叫 神 因 我 們 得 榮 耀 。",
+      "en": "For every one of God’s promises are “Yes” in him; therefore also through him the “Amen” is spoken, to the glory we give to God.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅσαι",
+          "morph": "K-NPF",
+          "gloss": "As many as"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἐπαγγελίαι",
+          "morph": "N-NPF",
+          "gloss": "promises"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God [there are]"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "[is] the"
+        },
+        {
+          "w": "Ναί",
+          "morph": "PRT",
+          "gloss": "Yes"
+        },
+        {
+          "w": "διὸ",
+          "morph": "CONJ",
+          "gloss": "Therefore"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "δι’",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "Ἀμὴν",
+          "morph": "HEB",
+          "gloss": "Amen"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεῷ",
+          "morph": "N-DSM",
+          "gloss": "to God"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "[is] for"
+        },
+        {
+          "w": "δόξαν",
+          "morph": "N-ASF",
+          "gloss": "glory"
+        },
+        {
+          "w": "δι’",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "us"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "那 在 基 督 裡 堅 固 我 們 和 你 們 ， 並 且 膏 我 們 的 就 是 神 。",
+      "en": "But it is God who establishes us together with you in Christ and who anointed us,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "The [One]"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "βεβαιῶν",
+          "morph": "V-PAP-NSM",
+          "gloss": "establishing"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "σὺν",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "you"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "unto"
+        },
+        {
+          "w": "Χριστὸν",
+          "morph": "N-ASM",
+          "gloss": "Christ"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "χρίσας",
+          "morph": "V-AAP-NSM",
+          "gloss": "having anointed"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "Θεός",
+          "morph": "N-NSM",
+          "gloss": "[is] God"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "他 又 用 印 印 了 我 們 ， 並 賜 聖 靈 在 我 們 心 裡 作 憑 據 （ 原 文 是 質 ） 。",
+      "en": "who also sealed us and gave us the Spirit in our hearts as a down payment.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [One]"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "σφραγισάμενος",
+          "morph": "V-AMP-NSM",
+          "gloss": "having sealed"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "δοὺς",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having given"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀρραβῶνα",
+          "morph": "N-ASM",
+          "gloss": "pledge"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "of the"
+        },
+        {
+          "w": "Πνεύματος",
+          "morph": "N-GSN",
+          "gloss": "Spirit"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "καρδίαις",
+          "morph": "N-DPF",
+          "gloss": "hearts"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "我 呼 籲 神 給 我 的 心 作 見 證 ， 我 沒 有 往 哥 林 多 去 是 為 要 寬 容 你 們 。",
+      "en": "Now I appeal to God as my witness, that to spare you I did not come again to Corinth.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "μάρτυρα",
+          "morph": "N-ASM",
+          "gloss": "as witness"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεὸν",
+          "morph": "N-ASM",
+          "gloss": "God"
+        },
+        {
+          "w": "ἐπικαλοῦμαι",
+          "morph": "V-PMI-1S",
+          "gloss": "call"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἐμὴν",
+          "morph": "S-1SASF",
+          "gloss": "my"
+        },
+        {
+          "w": "ψυχήν",
+          "morph": "N-ASF",
+          "gloss": "soul"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "φειδόμενος",
+          "morph": "V-PNP-NSM",
+          "gloss": "sparing"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "you"
+        },
+        {
+          "w": "οὐκέτι",
+          "morph": "ADV-N",
+          "gloss": "not yet"
+        },
+        {
+          "w": "ἦλθον",
+          "morph": "V-2AAI-1S",
+          "gloss": "have I come"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "Κόρινθον",
+          "morph": "N-ASF",
+          "gloss": "Corinth"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "我 們 並 不 是 轄 管 你 們 的 信 心 ， 乃 是 幫 助 你 們 的 快 樂 ， 因 為 你 們 憑 信 才 站 立 得 住 。",
+      "en": "I do not mean that we rule over your faith, but we are workers with you for your joy, because by faith you stand firm.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὐχ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "κυριεύομεν",
+          "morph": "V-PAI-1P",
+          "gloss": "we lord it over"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "your"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "πίστεως",
+          "morph": "N-GSF",
+          "gloss": "faith"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "συνεργοί",
+          "morph": "A-NPM",
+          "gloss": "fellow workers"
+        },
+        {
+          "w": "ἐσμεν",
+          "morph": "V-PAI-1P",
+          "gloss": "are"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "χαρᾶς",
+          "morph": "N-GSF",
+          "gloss": "joy"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "with you"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "in the"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "πίστει",
+          "morph": "N-DSF",
+          "gloss": "faith"
+        },
+        {
+          "w": "ἑστήκατε",
+          "morph": "V-RAI-2P",
+          "gloss": "you stand firm"
+        }
+      ]
+    }
+  ]
+}

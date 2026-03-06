@@ -1,0 +1,938 @@
+{
+  "book": 18,
+  "chapter": 12,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "約 伯 回 答 說 ：",
+      "en": "Then Job answered:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּ֥עַן",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אִיּ֗וֹב",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיֹּאמַֽר",
+          "morph": "HC/Vqw3ms"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 們 真 是 子 民 哪 ， 你 們 死 亡 ， 智 慧 也 就 滅 沒 了 。",
+      "en": "“Without a doubt you are the people, and wisdom will die with you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אָ֭מְנָם",
+          "morph": "HD"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "אַתֶּם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "עָ֑ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְ֝עִמָּכֶ֗ם",
+          "morph": "HC/R/Sp2mp"
+        },
+        {
+          "w": "תָּמ֥וּת",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "חָכְמָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "但 我 也 有 聰 明 ， 與 你 們 一 樣 ， 並 非 不 及 你 們 。 你 們 所 說 的 ， 誰 不 知 道 呢 ？",
+      "en": "I also have understanding as well as you; I am not inferior to you. Who does not know such things as these?",
+      "notes": [],
+      "he": [
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "לִ֤י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "לֵבָ֨ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כְּֽמוֹכֶ֗ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "נֹפֵ֣ל",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אָנֹכִ֣י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מִכֶּ֑ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/R"
+        },
+        {
+          "w": "מִי",
+          "morph": "HTi"
+        },
+        {
+          "w": "אֵ֥ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "כְּמוֹ",
+          "morph": "HR"
+        },
+        {
+          "w": "אֵֽלֶּה",
+          "morph": "HPdxcp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "我 這 求 告 神 、 蒙 他 應 允 的 人 竟 成 了 朋 友 所 譏 笑 的 ； 公 義 完 全 人 竟 受 了 人 的 譏 笑 。",
+      "en": "I am a laughingstock to my friends, I, who called on God and whom he answered— a righteous and blameless man is a laughingstock!",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׂחֹ֤ק",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְרֵעֵ֨הוּ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "אֶֽהְיֶ֗ה",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "קֹרֵ֣א",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לֶ֭אֱלוֹהַּ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וַֽיַּעֲנֵ֑הוּ",
+          "morph": "HC/Vqw3ms/Sp3ms"
+        },
+        {
+          "w": "שְׂ֝ח֗וֹק",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "צַדִּ֥יק",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "תָּמִֽים",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "安 逸 的 人 心 裡 藐 視 災 禍 ； 這 災 禍 常 常 等 待 滑 腳 的 人 。",
+      "en": "For calamity, there is derision (according to the ideas of the fortunate)— a fate for those whose feet slip.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לַפִּ֣יד",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בּ֭וּז",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְעַשְׁתּ֣וּת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "שַׁאֲנָ֑ן",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "נָ֝כ֗וֹן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְמ֣וֹעֲדֵי",
+          "morph": "HR/Vqrmpc"
+        },
+        {
+          "w": "רָֽגֶל",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "強 盜 的 帳 棚 興 旺 ， 惹 神 的 人 穩 固 ， 神 多 將 財 物 送 到 他 們 手 中 。",
+      "en": "But the tents of robbers are peaceful, and those who provoke God are confident— who carry their god in their hands.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יִשְׁלָ֤יוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "אֹֽהָלִ֨ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לְשֹׁ֥דְדִ֗ים",
+          "morph": "HR/Vqrmpa"
+        },
+        {
+          "w": "וּֽ֭בַטֻּחוֹת",
+          "morph": "HC/Ncfpa"
+        },
+        {
+          "w": "לְמַרְגִּ֣יזֵי",
+          "morph": "HR/Vhrmpc"
+        },
+        {
+          "w": "אֵ֑ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַאֲשֶׁ֤ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "הֵבִ֖יא",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "אֱל֣וֹהַּ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּיָדֽוֹ",
+          "morph": "HR/Ncbsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "你 且 問 走 獸 ， 走 獸 必 指 教 你 ； 又 問 空 中 的 飛 鳥 ， 飛 鳥 必 告 訴 你 ；",
+      "en": "“But now, ask the animals and they will teach you, or the birds of the sky and they will tell you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְֽאוּלָ֗ם",
+          "morph": "HC/D"
+        },
+        {
+          "w": "שְׁאַל",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "נָ֣א",
+          "morph": "HTe"
+        },
+        {
+          "w": "בְהֵמ֣וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "וְתֹרֶ֑ךָּ",
+          "morph": "HC/Vhi3fs/Sp2ms"
+        },
+        {
+          "w": "וְע֥וֹף",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הַ֝שָּׁמַ֗יִם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְיַגֶּד",
+          "morph": "HC/Vhi3ms"
+        },
+        {
+          "w": "לָֽךְ",
+          "morph": "HR/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "或 與 地 說 話 ， 地 必 指 教 你 ； 海 中 的 魚 也 必 向 你 說 明 。",
+      "en": "Or speak to the earth and it will teach you, or let the fish of the sea declare to you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "א֤וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "שִׂ֣יחַ",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "לָאָ֣רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "וְתֹרֶ֑ךָּ",
+          "morph": "HC/Vhi3fs/Sp2ms"
+        },
+        {
+          "w": "וִֽיסַפְּר֥וּ",
+          "morph": "HC/Vpi3mp"
+        },
+        {
+          "w": "לְ֝ךָ֗",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "דְּגֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַיָּֽם",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "看 這 一 切 ， 誰 不 知 道 是 耶 和 華 的 手 做 成 的 呢 ？",
+      "en": "Which of all these does not know that the hand of the Lord has done this?",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִ֭י",
+          "morph": "HTi"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָדַ֣ע",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֵ֑לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "יַד",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "יְ֝הוָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עָ֣שְׂתָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "זֹּֽאת",
+          "morph": "HPdxfs"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "凡 活 物 的 生 命 和 人 類 的 氣 息 都 在 他 手 中 。",
+      "en": "In his hand is the life of every creature and the breath of all the human race.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בְּ֭יָדוֹ",
+          "morph": "HR/Ncbsc/Sp3ms"
+        },
+        {
+          "w": "נֶ֣פֶשׁ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חָ֑י",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְ֝ר֗וּחַ",
+          "morph": "HC/Ncbsc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּשַׂר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אִֽישׁ",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "耳 朵 豈 不 試 驗 言 語 ， 正 如 上 膛 嘗 食 物 麼 ？",
+      "en": "Does not the ear test words, as the tongue tastes food?",
+      "notes": [],
+      "he": [
+        {
+          "w": "הֲלֹא",
+          "morph": "HTi/Tn"
+        },
+        {
+          "w": "אֹ֭זֶן",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מִלִּ֣ין",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "תִּבְחָ֑ן",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "וְ֝חֵ֗ךְ",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אֹ֣כֶל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִטְעַם",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "年 老 的 有 智 慧 ； 壽 高 的 有 知 識 。",
+      "en": "Is not wisdom found among the aged? Does not long life bring understanding?",
+      "notes": [],
+      "he": [
+        {
+          "w": "בִּֽישִׁישִׁ֥ים",
+          "morph": "HR/Aampa"
+        },
+        {
+          "w": "חָכְמָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְאֹ֖רֶךְ",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "יָמִ֣ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "תְּבוּנָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "在 神 有 智 慧 和 能 力 ； 他 有 謀 略 和 知 識 。",
+      "en": "With God are wisdom and power; counsel and understanding are his.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עִ֭מּוֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "חָכְמָ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּגְבוּרָ֑ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "ל֝֗וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "עֵצָ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּתְבוּנָֽה",
+          "morph": "HC/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "他 拆 毀 的 ， 就 不 能 再 建 造 ； 他 捆 住 人 ， 便 不 得 開 釋 。",
+      "en": "If he tears down, it cannot be rebuilt; if he imprisons a person, there is no escape.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הֵ֣ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "יַ֭הֲרוֹס",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִבָּנֶ֑ה",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "יִסְגֹּ֥ר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "אִ֝֗ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִפָּתֵֽחַ",
+          "morph": "HVNi3ms"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "他 把 水 留 住 ， 水 便 枯 乾 ； 他 再 發 出 水 來 ， 水 就 翻 地 。",
+      "en": "If he holds back the waters, then they dry up; if he releases them, they destroy the land.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הֵ֤ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "יַעְצֹ֣ר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בַּמַּ֣יִם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "וְיִבָ֑שׁוּ",
+          "morph": "HC/Vqi3mp"
+        },
+        {
+          "w": "וִֽ֝ישַׁלְּחֵ֗ם",
+          "morph": "HC/Vpi3ms/Sp3mp"
+        },
+        {
+          "w": "וְיַ֖הַפְכוּ",
+          "morph": "HC/Vqi3mp"
+        },
+        {
+          "w": "אָֽרֶץ",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "在 他 有 能 力 和 智 慧 ， 被 誘 惑 的 與 誘 惑 人 的 都 是 屬 他 。",
+      "en": "With him are strength and prudence; both the one who goes astray and the one who misleads are his.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עִ֭מּוֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "עֹ֣ז",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְתֽוּשִׁיָּ֑ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "ל֝֗וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "שֹׁגֵ֥ג",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "וּמַשְׁגֶּֽה",
+          "morph": "HC/Vhrmsa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "他 把 謀 士 剝 衣 擄 去 ， 又 使 審 判 官 變 成 愚 人 。",
+      "en": "He leads counselors away stripped and makes judges into fools.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מוֹלִ֣יךְ",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "יוֹעֲצִ֣ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "שׁוֹלָ֑ל",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְֽשֹׁפְטִ֥ים",
+          "morph": "HC/Vqrmpa"
+        },
+        {
+          "w": "יְהוֹלֵֽל",
+          "morph": "HVpi3ms"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "他 放 鬆 君 王 的 綁 ， 又 用 帶 子 捆 他 們 的 腰 。",
+      "en": "He loosens the bonds of kings and binds a loincloth around their waist.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מוּסַ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְלָכִ֣ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "פִּתֵּ֑חַ",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "וַיֶּאְסֹ֥ר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵ֝ז֗וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּמָתְנֵיהֶֽם",
+          "morph": "HR/Ncmdc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "他 把 祭 司 剝 衣 擄 去 ， 又 使 有 能 的 人 傾 敗 。",
+      "en": "He leads priests away stripped and overthrows the potentates.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מוֹלִ֣יךְ",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "כֹּהֲנִ֣ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "שׁוֹלָ֑ל",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְאֵֽתָנִ֣ים",
+          "morph": "HC/Aampa"
+        },
+        {
+          "w": "יְסַלֵּֽף",
+          "morph": "HVpi3ms"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "他 廢 去 忠 信 人 的 講 論 ， 又 奪 去 老 人 的 聰 明 。",
+      "en": "He deprives the trusted advisers of speech and takes away the discernment of elders.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מֵסִ֣יר",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "שָׂ֭פָה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לְנֶאֱמָנִ֑ים",
+          "morph": "HR/VNrmpa"
+        },
+        {
+          "w": "וְטַ֖עַם",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "זְקֵנִ֣ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "יִקָּֽח",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "他 使 君 王 蒙 羞 被 辱 ， 放 鬆 有 力 之 人 的 腰 帶 。",
+      "en": "He pours contempt on noblemen and disarms the powerful.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שׁוֹפֵ֣ךְ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בּ֭וּז",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "נְדִיבִ֑ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וּמְזִ֖יחַ",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "אֲפִיקִ֣ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רִפָּֽה",
+          "morph": "HVpp3ms"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "他 將 深 奧 的 事 從 黑 暗 中 彰 顯 ， 使 死 蔭 顯 為 光 明 。",
+      "en": "He reveals the deep things of darkness and brings deep shadows into the light.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מְגַלֶּ֣ה",
+          "morph": "HVprmsa"
+        },
+        {
+          "w": "עֲ֭מֻקוֹת",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "מִנִּי",
+          "morph": "HR"
+        },
+        {
+          "w": "חֹ֑שֶׁךְ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וַיֹּצֵ֖א",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "לָא֣וֹר",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "צַלְמָֽוֶת",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "他 使 邦 國 興 旺 而 又 毀 滅 ； 他 使 邦 國 開 廣 而 又 擄 去 。",
+      "en": "He makes nations great and destroys them; he extends the boundaries of nations and disperses them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מַשְׂגִּ֣יא",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "לַ֭גּוֹיִם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "וַֽיְאַבְּדֵ֑ם",
+          "morph": "HC/Vpw3ms/Sp3mp"
+        },
+        {
+          "w": "שֹׁטֵ֥חַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לַ֝גּוֹיִ֗ם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "וַיַּנְחֵֽם",
+          "morph": "HC/Vhw3ms/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "他 將 地 上 民 中 首 領 的 聰 明 奪 去 ， 使 他 們 在 荒 廢 無 路 之 地 漂 流 ；",
+      "en": "He deprives the leaders of the earth of their understanding; he makes them wander in a trackless desert waste.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מֵסִ֗יר",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "לֵ֭ב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רָאשֵׁ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עַם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וַ֝יַּתְעֵ֗ם",
+          "morph": "HC/Vhw3ms/Sp3mp"
+        },
+        {
+          "w": "בְּתֹ֣הוּ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "דָֽרֶךְ",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "他 們 無 光 ， 在 黑 暗 中 摸 索 ， 又 使 他 們 東 倒 西 歪 ， 像 醉 酒 的 人 一 樣 。",
+      "en": "They grope about in darkness without light; he makes them stagger like drunkards.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יְמַֽשְׁשׁוּ",
+          "morph": "HVpi3mp"
+        },
+        {
+          "w": "חֹ֥שֶׁךְ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "א֑וֹר",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וַ֝יַּתְעֵ֗ם",
+          "morph": "HC/Vhw3ms/Sp3mp"
+        },
+        {
+          "w": "כַּשִּׁכּֽוֹר",
+          "morph": "HRd/Aamsa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2206 @@
+{
+  "book": 45,
+  "chapter": 4,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "如 此 說 來 ， 我 們 的 祖 宗 亞 伯 拉 罕 憑 著 肉 體 得 了 甚 麼 呢 ？",
+      "en": "What then shall we say that Abraham, our ancestor according to the flesh, has discovered regarding this matter?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Τί",
+          "morph": "I-ASN",
+          "gloss": "What"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ἐροῦμεν",
+          "morph": "V-FAI-1P",
+          "gloss": "shall we say"
+        },
+        {
+          "w": "εὑρηκέναι",
+          "morph": "V-RAN",
+          "gloss": "discovered"
+        },
+        {
+          "w": "Ἀβραὰμ",
+          "morph": "N-PRI",
+          "gloss": "Abraham"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "προπάτορα",
+          "morph": "N-ASM",
+          "gloss": "father"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "κατὰ",
+          "morph": "PREP",
+          "gloss": "according to"
+        },
+        {
+          "w": "σάρκα",
+          "morph": "N-ASF",
+          "gloss": "[the] flesh"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "倘 若 亞 伯 拉 罕 是 因 行 為 稱 義 ， 就 有 可 誇 的 ； 只 是 在 神 面 前 並 無 可 誇 。",
+      "en": "For if Abraham was declared righteous by works, he has something to boast about—but not before God.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἰ",
+          "morph": "COND",
+          "gloss": "If"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "Ἀβραὰμ",
+          "morph": "N-PRI",
+          "gloss": "Abraham"
+        },
+        {
+          "w": "ἐξ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "ἔργων",
+          "morph": "N-GPN",
+          "gloss": "works"
+        },
+        {
+          "w": "ἐδικαιώθη",
+          "morph": "V-API-3S",
+          "gloss": "was justified"
+        },
+        {
+          "w": "ἔχει",
+          "morph": "V-PAI-3S",
+          "gloss": "he has"
+        },
+        {
+          "w": "καύχημα",
+          "morph": "N-ASN",
+          "gloss": "ground of boasting"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "toward"
+        },
+        {
+          "w": "Θεόν",
+          "morph": "N-ASM",
+          "gloss": "God"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "經 上 說 甚 麼 呢 ？ 說 ： 亞 伯 拉 罕 信 神 ， 這 就 算 為 他 的 義 。",
+      "en": "For what does the scripture say? “Abraham believed God, and it was credited to him as righteousness.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τί",
+          "morph": "I-ASN",
+          "gloss": "What"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γραφὴ",
+          "morph": "N-NSF",
+          "gloss": "Scripture"
+        },
+        {
+          "w": "λέγει",
+          "morph": "V-PAI-3S",
+          "gloss": "says"
+        },
+        {
+          "w": "Ἐπίστευσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "Believed"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "Ἀβραὰμ",
+          "morph": "N-PRI",
+          "gloss": "Abraham"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεῷ",
+          "morph": "N-DSM",
+          "gloss": "God"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐλογίσθη",
+          "morph": "V-API-3S",
+          "gloss": "it was reckoned"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "δικαιοσύνην",
+          "morph": "N-ASF",
+          "gloss": "righteousness"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "做 工 的 得 工 價 ， 不 算 恩 典 ， 乃 是 該 得 的 ；",
+      "en": "Now to the one who works, his pay is not credited due to grace but due to obligation.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "To the [one]"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ἐργαζομένῳ",
+          "morph": "V-PNP-DSM",
+          "gloss": "working"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "μισθὸς",
+          "morph": "N-NSM",
+          "gloss": "reward"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "λογίζεται",
+          "morph": "V-PNI-3S",
+          "gloss": "is reckoned"
+        },
+        {
+          "w": "κατὰ",
+          "morph": "PREP",
+          "gloss": "according to"
+        },
+        {
+          "w": "χάριν",
+          "morph": "N-ASF",
+          "gloss": "grace"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "κατὰ",
+          "morph": "PREP",
+          "gloss": "according to"
+        },
+        {
+          "w": "ὀφείλημα",
+          "morph": "N-ASN",
+          "gloss": "debt"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "惟 有 不 做 工 的 ， 只 信 稱 罪 人 為 義 的 神 ， 他 的 信 就 算 為 義 。",
+      "en": "But to the one who does not work, but believes in the one who declares the ungodly righteous, his faith is credited as righteousness.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "To the [one]"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἐργαζομένῳ",
+          "morph": "V-PNP-DSM",
+          "gloss": "working"
+        },
+        {
+          "w": "πιστεύοντι",
+          "morph": "V-PAP-DSM",
+          "gloss": "believing"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "on"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the [One]"
+        },
+        {
+          "w": "δικαιοῦντα",
+          "morph": "V-PAP-ASM",
+          "gloss": "justifying"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀσεβῆ",
+          "morph": "A-ASM",
+          "gloss": "ungodly"
+        },
+        {
+          "w": "λογίζεται",
+          "morph": "V-PNI-3S",
+          "gloss": "is reckoned"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "πίστις",
+          "morph": "N-NSF",
+          "gloss": "faith"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "δικαιοσύνην",
+          "morph": "N-ASF",
+          "gloss": "righteousness"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "正 如 大 衛 稱 那 在 行 為 以 外 蒙 神 算 為 義 的 人 是 有 福 的 。",
+      "en": "So even David himself speaks regarding the blessedness of the man to whom God credits righteousness apart from works:",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καθάπερ",
+          "morph": "ADV",
+          "gloss": "just as"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "Δαυεὶδ",
+          "morph": "N-PRI",
+          "gloss": "David"
+        },
+        {
+          "w": "λέγει",
+          "morph": "V-PAI-3S",
+          "gloss": "declares"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "μακαρισμὸν",
+          "morph": "N-ASM",
+          "gloss": "blessedness"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "ἀνθρώπου",
+          "morph": "N-GSM",
+          "gloss": "man"
+        },
+        {
+          "w": "ᾧ",
+          "morph": "R-DSM",
+          "gloss": "to whom"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "λογίζεται",
+          "morph": "V-PNI-3S",
+          "gloss": "credits"
+        },
+        {
+          "w": "δικαιοσύνην",
+          "morph": "N-ASF",
+          "gloss": "righteousness"
+        },
+        {
+          "w": "χωρὶς",
+          "morph": "ADV",
+          "gloss": "apart from"
+        },
+        {
+          "w": "ἔργων",
+          "morph": "N-GPN",
+          "gloss": "works"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "他 說 ： 得 赦 免 其 過 、 遮 蓋 其 罪 的 ， 這 人 是 有 福 的 。",
+      "en": "“Blessed are those whose lawless deeds are forgiven, and whose sins are covered;",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Μακάριοι",
+          "morph": "A-NPM",
+          "gloss": "Blessed"
+        },
+        {
+          "w": "ὧν",
+          "morph": "R-GPM",
+          "gloss": "[are they] of whom"
+        },
+        {
+          "w": "ἀφέθησαν",
+          "morph": "V-API-3P",
+          "gloss": "are forgiven"
+        },
+        {
+          "w": "αἱ",
+          "morph": "T-NPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀνομίαι",
+          "morph": "N-NPF",
+          "gloss": "lawless deeds"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὧν",
+          "morph": "R-GPM",
+          "gloss": "of whom"
+        },
+        {
+          "w": "ἐπεκαλύφθησαν",
+          "morph": "V-API-3P",
+          "gloss": "are covered"
+        },
+        {
+          "w": "αἱ",
+          "morph": "T-NPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἁμαρτίαι",
+          "morph": "N-NPF",
+          "gloss": "sins"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "主 不 算 為 有 罪 的 ， 這 人 是 有 福 的 。",
+      "en": "blessed is the one against whom the Lord will never count sin.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "μακάριος",
+          "morph": "A-NSM",
+          "gloss": "blessed"
+        },
+        {
+          "w": "ἀνὴρ",
+          "morph": "N-NSM",
+          "gloss": "[the] man"
+        },
+        {
+          "w": "οὗ",
+          "morph": "R-GSM",
+          "gloss": "against whom"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "no"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "λογίσηται",
+          "morph": "V-ADS-3S",
+          "gloss": "will reckon"
+        },
+        {
+          "w": "Κύριος",
+          "morph": "N-NSM",
+          "gloss": "[the] Lord"
+        },
+        {
+          "w": "ἁμαρτίαν",
+          "morph": "N-ASF",
+          "gloss": "sin"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "如 此 看 來 ， 這 福 是 單 加 給 那 受 割 禮 的 人 麼 ？ 不 也 是 加 給 那 未 受 割 禮 的 人 麼 ？ 因 我 們 所 說 ， 亞 伯 拉 罕 的 信 ， 就 算 為 他 的 義 ，",
+      "en": "Is this blessedness then for the circumcision or also for the uncircumcision? For we say, “faith was credited to Abraham as righteousness.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "[Is] the"
+        },
+        {
+          "w": "μακαρισμὸς",
+          "morph": "N-NSM",
+          "gloss": "blessing"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "οὗτος",
+          "morph": "D-NSM",
+          "gloss": "this"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "on"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "περιτομὴν",
+          "morph": "N-ASF",
+          "gloss": "circumcision"
+        },
+        {
+          "w": "ἢ",
+          "morph": "PRT",
+          "gloss": "or"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "on"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀκροβυστίαν",
+          "morph": "N-ASF",
+          "gloss": "uncircumcision"
+        },
+        {
+          "w": "λέγομεν",
+          "morph": "V-PAI-1P",
+          "gloss": "We are saying"
+        },
+        {
+          "w": "γάρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "Ἐλογίσθη",
+          "morph": "V-API-3S",
+          "gloss": "was credited"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀβραὰμ",
+          "morph": "N-PRI",
+          "gloss": "to Abraham"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "πίστις",
+          "morph": "N-NSF",
+          "gloss": "faith"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "as"
+        },
+        {
+          "w": "δικαιοσύνην",
+          "morph": "N-ASF",
+          "gloss": "righteousness"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "是 怎 麼 算 的 呢 ？ 是 在 他 受 割 禮 的 時 候 呢 ？ 是 在 他 未 受 割 禮 的 時 候 呢 ？ 不 是 在 受 割 禮 的 時 候 ， 乃 是 在 未 受 割 禮 的 時 候 。",
+      "en": "How then was it credited to him? Was he circumcised at the time, or not? No, he was not circumcised but uncircumcised!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "πῶς",
+          "morph": "ADV-I",
+          "gloss": "How"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ἐλογίσθη",
+          "morph": "V-API-3S",
+          "gloss": "was it credited"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "In"
+        },
+        {
+          "w": "περιτομῇ",
+          "morph": "N-DSF",
+          "gloss": "circumcision"
+        },
+        {
+          "w": "ὄντι",
+          "morph": "V-PAP-DSM",
+          "gloss": "being"
+        },
+        {
+          "w": "ἢ",
+          "morph": "PRT",
+          "gloss": "or"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἀκροβυστίᾳ",
+          "morph": "N-DSF",
+          "gloss": "uncircumcision"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "περιτομῇ",
+          "morph": "N-DSF",
+          "gloss": "circumcision"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἀκροβυστίᾳ",
+          "morph": "N-DSF",
+          "gloss": "uncircumcision"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "並 且 他 受 了 割 禮 的 記 號 ， 作 他 未 受 割 禮 的 時 候 因 信 稱 義 的 印 證 ， 叫 他 作 一 切 未 受 割 禮 而 信 之 人 的 父 ， 使 他 們 也 算 為 義 ；",
+      "en": "And he received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised, so that he would become the father of all those who believe but have never been circumcised, that they too could have righteousness credited to them.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "σημεῖον",
+          "morph": "N-ASN",
+          "gloss": "[the] sign"
+        },
+        {
+          "w": "ἔλαβεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "he received"
+        },
+        {
+          "w": "περιτομῆς",
+          "morph": "N-GSF",
+          "gloss": "of circumcision"
+        },
+        {
+          "w": "σφραγῖδα",
+          "morph": "N-ASF",
+          "gloss": "a seal"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "δικαιοσύνης",
+          "morph": "N-GSF",
+          "gloss": "righteousness"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "πίστεως",
+          "morph": "N-GSF",
+          "gloss": "faith"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "that [he had]"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "[while] in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀκροβυστίᾳ",
+          "morph": "N-DSF",
+          "gloss": "uncircumcision"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "εἶναι",
+          "morph": "V-PAN",
+          "gloss": "to be"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "πατέρα",
+          "morph": "N-ASM",
+          "gloss": "father"
+        },
+        {
+          "w": "πάντων",
+          "morph": "A-GPM",
+          "gloss": "of all"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "those"
+        },
+        {
+          "w": "πιστευόντων",
+          "morph": "V-PAP-GPM",
+          "gloss": "believing"
+        },
+        {
+          "w": "δι’",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἀκροβυστίας",
+          "morph": "N-GSF",
+          "gloss": "uncircumcision"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "λογισθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be credited"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "δικαιοσύνην",
+          "morph": "N-ASF",
+          "gloss": "righteousness"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "又 作 受 割 禮 之 人 的 父 ， 就 是 那 些 不 但 受 割 禮 ， 並 且 按 我 們 的 祖 宗 亞 伯 拉 罕 未 受 割 禮 而 信 之 蹤 跡 去 行 的 人 。",
+      "en": "And he is also the father of the circumcised, who are not only circumcised, but who also walk in the footsteps of the faith that our father Abraham possessed when he was still uncircumcised.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πατέρα",
+          "morph": "N-ASM",
+          "gloss": "father"
+        },
+        {
+          "w": "περιτομῆς",
+          "morph": "N-GSF",
+          "gloss": "of circumcision"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "to those"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "περιτομῆς",
+          "morph": "N-GSF",
+          "gloss": "circumcision"
+        },
+        {
+          "w": "μόνον",
+          "morph": "ADV",
+          "gloss": "only"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "to those"
+        },
+        {
+          "w": "στοιχοῦσιν",
+          "morph": "V-PAP-DPM",
+          "gloss": "walking"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPN",
+          "gloss": "in the"
+        },
+        {
+          "w": "ἴχνεσιν",
+          "morph": "N-DPN",
+          "gloss": "steps"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "during"
+        },
+        {
+          "w": "ἀκροβυστίᾳ",
+          "morph": "N-DSF",
+          "gloss": "uncircumcision"
+        },
+        {
+          "w": "πίστεως",
+          "morph": "N-GSF",
+          "gloss": "faith"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "πατρὸς",
+          "morph": "N-GSM",
+          "gloss": "father"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "Ἀβραάμ",
+          "morph": "N-PRI",
+          "gloss": "Abraham"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "因 為 神 應 許 亞 伯 拉 罕 和 他 後 裔 ， 必 得 承 受 世 界 ， 不 是 因 律 法 ， 乃 是 因 信 而 得 的 義 。",
+      "en": "For the promise to Abraham or to his descendants that he would inherit the world was not fulfilled through the law, but through the righteousness that comes by faith.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Οὐ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "νόμου",
+          "morph": "N-GSM",
+          "gloss": "[the] Law"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐπαγγελία",
+          "morph": "N-NSF",
+          "gloss": "promise [was]"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀβραὰμ",
+          "morph": "N-PRI",
+          "gloss": "to Abraham"
+        },
+        {
+          "w": "ἢ",
+          "morph": "PRT",
+          "gloss": "or"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "the"
+        },
+        {
+          "w": "σπέρματι",
+          "morph": "N-DSN",
+          "gloss": "descendants"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "that"
+        },
+        {
+          "w": "κληρονόμον",
+          "morph": "N-ASM",
+          "gloss": "heir"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "he"
+        },
+        {
+          "w": "εἶναι",
+          "morph": "V-PAN",
+          "gloss": "should be"
+        },
+        {
+          "w": "κόσμου",
+          "morph": "N-GSM",
+          "gloss": "[of the] world"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "δικαιοσύνης",
+          "morph": "N-GSF",
+          "gloss": "[the] righteousness"
+        },
+        {
+          "w": "πίστεως",
+          "morph": "N-GSF",
+          "gloss": "of faith"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "若 是 屬 乎 律 法 的 人 才 得 為 後 嗣 ， 信 就 歸 於 虛 空 ， 應 許 也 就 廢 棄 了 。",
+      "en": "For if they become heirs by the law, faith is empty and the promise is nullified.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἰ",
+          "morph": "COND",
+          "gloss": "If"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "those"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "νόμου",
+          "morph": "N-GSM",
+          "gloss": "[the] Law [are]"
+        },
+        {
+          "w": "κληρονόμοι",
+          "morph": "N-NPM",
+          "gloss": "heirs"
+        },
+        {
+          "w": "κεκένωται",
+          "morph": "V-RPI-3S",
+          "gloss": "has been made void"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "πίστις",
+          "morph": "N-NSF",
+          "gloss": "faith"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "κατήργηται",
+          "morph": "V-RPI-3S",
+          "gloss": "made of no effect"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐπαγγελία",
+          "morph": "N-NSF",
+          "gloss": "promise"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "因 為 律 法 是 惹 動 忿 怒 的 （ 或 作 ： 叫 人 受 刑 的 ） ； 那 裡 沒 有 律 法 ， 那 裡 就 沒 有 過 犯 。",
+      "en": "For the law brings wrath, because where there is no law there is no transgression either.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "For"
+        },
+        {
+          "w": "νόμος",
+          "morph": "N-NSM",
+          "gloss": "law"
+        },
+        {
+          "w": "ὀργὴν",
+          "morph": "N-ASF",
+          "gloss": "wrath"
+        },
+        {
+          "w": "κατεργάζεται",
+          "morph": "V-PNI-3S",
+          "gloss": "brings"
+        },
+        {
+          "w": "οὗ",
+          "morph": "ADV",
+          "gloss": "where"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "no"
+        },
+        {
+          "w": "ἔστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "there is"
+        },
+        {
+          "w": "νόμος",
+          "morph": "N-NSM",
+          "gloss": "law"
+        },
+        {
+          "w": "οὐδὲ",
+          "morph": "CONJ-N",
+          "gloss": "neither [is]"
+        },
+        {
+          "w": "παράβασις",
+          "morph": "N-NSF",
+          "gloss": "transgression"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "所 以 人 得 為 後 嗣 是 本 乎 信 ， 因 此 就 屬 乎 恩 ， 叫 應 許 定 然 歸 給 一 切 後 裔 ； 不 但 歸 給 那 屬 乎 律 法 的 ， 也 歸 給 那 效 法 亞 伯 拉 罕 之 信 的 。",
+      "en": "For this reason it is by faith so that it may be by grace, with the result that the promise may be certain to all the descendants—not only to those who are under the law, but also to those who have the faith of Abraham, who is the father of us all",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Διὰ",
+          "morph": "PREP",
+          "gloss": "Therefore"
+        },
+        {
+          "w": "τοῦτο",
+          "morph": "D-ASN",
+          "gloss": "it [is]"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "πίστεως",
+          "morph": "N-GSF",
+          "gloss": "faith"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that [it may be]"
+        },
+        {
+          "w": "κατὰ",
+          "morph": "PREP",
+          "gloss": "according to"
+        },
+        {
+          "w": "χάριν",
+          "morph": "N-ASF",
+          "gloss": "grace"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "εἶναι",
+          "morph": "V-PAN",
+          "gloss": "to be"
+        },
+        {
+          "w": "βεβαίαν",
+          "morph": "A-ASF",
+          "gloss": "sure"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐπαγγελίαν",
+          "morph": "N-ASF",
+          "gloss": "promise"
+        },
+        {
+          "w": "παντὶ",
+          "morph": "A-DSN",
+          "gloss": "to all"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "the"
+        },
+        {
+          "w": "σπέρματι",
+          "morph": "N-DSN",
+          "gloss": "seed"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "to that"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "νόμου",
+          "morph": "N-GSM",
+          "gloss": "law"
+        },
+        {
+          "w": "μόνον",
+          "morph": "ADV",
+          "gloss": "only"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "to that"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of [the]"
+        },
+        {
+          "w": "πίστεως",
+          "morph": "N-GSF",
+          "gloss": "faith"
+        },
+        {
+          "w": "Ἀβραάμ",
+          "morph": "N-PRI",
+          "gloss": "of Abraham"
+        },
+        {
+          "w": "ὅς",
+          "morph": "R-NSM",
+          "gloss": "who"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "πατὴρ",
+          "morph": "N-NSM",
+          "gloss": "[the] father"
+        },
+        {
+          "w": "πάντων",
+          "morph": "A-GPM",
+          "gloss": "of all"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "亞 伯 拉 罕 所 信 的 ， 是 那 叫 死 人 復 活 、 使 無 變 為 有 的 神 ， 他 在 主 面 前 作 我 們 世 人 的 父 。 如 經 上 所 記 ： 我 已 經 立 你 作 多 國 的 父 。",
+      "en": "(as it is written, “I have made you the father of many nations”). He is our father in the presence of God whom he believed—the God who makes the dead alive and summons the things that do not yet exist as though they already do.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καθὼς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "γέγραπται",
+          "morph": "V-RPI-3S",
+          "gloss": "it has been written"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "-"
+        },
+        {
+          "w": "Πατέρα",
+          "morph": "N-ASM",
+          "gloss": "A father"
+        },
+        {
+          "w": "πολλῶν",
+          "morph": "A-GPN",
+          "gloss": "of many"
+        },
+        {
+          "w": "ἐθνῶν",
+          "morph": "N-GPN",
+          "gloss": "nations"
+        },
+        {
+          "w": "τέθεικά",
+          "morph": "V-RAI-1S",
+          "gloss": "I have made"
+        },
+        {
+          "w": "σε",
+          "morph": "P-2AS",
+          "gloss": "you"
+        },
+        {
+          "w": "κατέναντι",
+          "morph": "PREP",
+          "gloss": "before"
+        },
+        {
+          "w": "οὗ",
+          "morph": "R-GSM",
+          "gloss": "whom"
+        },
+        {
+          "w": "ἐπίστευσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "he believed"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the [One]"
+        },
+        {
+          "w": "ζωοποιοῦντος",
+          "morph": "V-PAP-GSM",
+          "gloss": "giving life"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "to the"
+        },
+        {
+          "w": "νεκροὺς",
+          "morph": "A-APM",
+          "gloss": "dead"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "καλοῦντος",
+          "morph": "V-PAP-GSM",
+          "gloss": "calling"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the things"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ὄντα",
+          "morph": "V-PAP-APN",
+          "gloss": "[into] being"
+        },
+        {
+          "w": "ὡς",
+          "morph": "ADV",
+          "gloss": "even"
+        },
+        {
+          "w": "ὄντα",
+          "morph": "V-PAP-APN",
+          "gloss": "existing"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "他 在 無 可 指 望 的 時 候 ， 因 信 仍 有 指 望 ， 就 得 以 作 多 國 的 父 ， 正 如 先 前 所 說 ， 你 的 後 裔 將 要 如 此 。",
+      "en": "Against hope Abraham believed in hope with the result that he became the father of many nations according to the pronouncement, “so will your descendants be.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὃς",
+          "morph": "R-NSM",
+          "gloss": "who"
+        },
+        {
+          "w": "παρ’",
+          "morph": "PREP",
+          "gloss": "against"
+        },
+        {
+          "w": "ἐλπίδα",
+          "morph": "N-ASF",
+          "gloss": "hope"
+        },
+        {
+          "w": "ἐπ’",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἐλπίδι",
+          "morph": "N-DSF",
+          "gloss": "hope"
+        },
+        {
+          "w": "ἐπίστευσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "believed"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "γενέσθαι",
+          "morph": "V-2ADN",
+          "gloss": "to become"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "πατέρα",
+          "morph": "N-ASM",
+          "gloss": "[the] father"
+        },
+        {
+          "w": "πολλῶν",
+          "morph": "A-GPN",
+          "gloss": "of many"
+        },
+        {
+          "w": "ἐθνῶν",
+          "morph": "N-GPN",
+          "gloss": "nations"
+        },
+        {
+          "w": "κατὰ",
+          "morph": "PREP",
+          "gloss": "according to"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "that"
+        },
+        {
+          "w": "εἰρημένον",
+          "morph": "V-RPP-ASN-ATT",
+          "gloss": "having been spoken"
+        },
+        {
+          "w": "Οὕτως",
+          "morph": "ADV",
+          "gloss": "So"
+        },
+        {
+          "w": "ἔσται",
+          "morph": "V-FDI-3S",
+          "gloss": "shall be"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "σπέρμα",
+          "morph": "N-NSN",
+          "gloss": "offspring"
+        },
+        {
+          "w": "σου",
+          "morph": "P-2GS",
+          "gloss": "of you"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "他 將 近 百 歲 的 時 候 ， 雖 然 想 到 自 己 的 身 體 如 同 已 死 ， 撒 拉 的 生 育 已 經 斷 絕 ， 他 的 信 心 還 是 不 軟 弱 ；",
+      "en": "Without being weak in faith, he considered his own body as dead (because he was about one hundred years old) and the deadness of Sarah’s womb.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἀσθενήσας",
+          "morph": "V-AAP-NSM",
+          "gloss": "having become weak"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "in the"
+        },
+        {
+          "w": "πίστει",
+          "morph": "N-DSF",
+          "gloss": "faith"
+        },
+        {
+          "w": "κατενόησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "he considered"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "ἑαυτοῦ",
+          "morph": "F-3GSM",
+          "gloss": "of himself"
+        },
+        {
+          "w": "σῶμα",
+          "morph": "N-ASN",
+          "gloss": "the body"
+        },
+        {
+          "w": "νενεκρωμένον",
+          "morph": "V-RPP-ASN",
+          "gloss": "having become dead"
+        },
+        {
+          "w": "ἑκατονταετής",
+          "morph": "A-NSM",
+          "gloss": "a hundred years old"
+        },
+        {
+          "w": "που",
+          "morph": "ADV",
+          "gloss": "about"
+        },
+        {
+          "w": "ὑπάρχων",
+          "morph": "V-PAP-NSM",
+          "gloss": "being"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "νέκρωσιν",
+          "morph": "N-ASF",
+          "gloss": "lifelessness"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "μήτρας",
+          "morph": "N-GSF",
+          "gloss": "womb"
+        },
+        {
+          "w": "Σάρρας",
+          "morph": "N-GSF",
+          "gloss": "of Sarah"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "並 且 仰 望 神 的 應 許 ， 總 沒 有 因 不 信 心 裡 起 疑 惑 ， 反 倒 因 信 心 裡 得 堅 固 ， 將 榮 耀 歸 給 神 ，",
+      "en": "He did not waver in unbelief about the promise of God but was strengthened in faith, giving glory to God.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "At"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐπαγγελίαν",
+          "morph": "N-ASF",
+          "gloss": "promise"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "διεκρίθη",
+          "morph": "V-API-3S",
+          "gloss": "he did waver"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἀπιστίᾳ",
+          "morph": "N-DSF",
+          "gloss": "through unbelief"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ἐνεδυναμώθη",
+          "morph": "V-API-3S",
+          "gloss": "was strengthened"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "-"
+        },
+        {
+          "w": "πίστει",
+          "morph": "N-DSF",
+          "gloss": "in faith"
+        },
+        {
+          "w": "δοὺς",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having given"
+        },
+        {
+          "w": "δόξαν",
+          "morph": "N-ASF",
+          "gloss": "glory"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεῷ",
+          "morph": "N-DSM",
+          "gloss": "to God"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "且 滿 心 相 信 神 所 應 許 的 必 能 做 成 。",
+      "en": "He was fully convinced that what God promised he was also able to do.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πληροφορηθεὶς",
+          "morph": "V-APP-NSM",
+          "gloss": "having been fully assured"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ὃ",
+          "morph": "R-ASN",
+          "gloss": "what"
+        },
+        {
+          "w": "ἐπήγγελται",
+          "morph": "V-RNI-3S",
+          "gloss": "He had promised"
+        },
+        {
+          "w": "δυνατός",
+          "morph": "A-NSM",
+          "gloss": "able"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "He is"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ποιῆσαι",
+          "morph": "V-AAN",
+          "gloss": "to do"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "所 以 ， 這 就 算 為 他 的 義 。",
+      "en": "So indeed it was credited to Abraham as righteousness.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "διὸ",
+          "morph": "CONJ",
+          "gloss": "Therefore"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ἐλογίσθη",
+          "morph": "V-API-3S",
+          "gloss": "it was credited"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "unto"
+        },
+        {
+          "w": "δικαιοσύνην",
+          "morph": "N-ASF",
+          "gloss": "righteousness"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "算 為 他 義 的 這 句 話 不 是 單 為 他 寫 的 ，",
+      "en": "But the statement it was credited to him was not written only for Abraham’s sake,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Οὐκ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "ἐγράφη",
+          "morph": "V-2API-3S",
+          "gloss": "it was written"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "δι’",
+          "morph": "PREP",
+          "gloss": "on account of"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "μόνον",
+          "morph": "ADV",
+          "gloss": "alone"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἐλογίσθη",
+          "morph": "V-API-3S",
+          "gloss": "it was credited"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "也 是 為 我 們 將 來 得 算 為 義 之 人 寫 的 ， 就 是 我 們 這 信 神 使 我 們 的 主 耶 穌 從 死 裡 復 活 的 人 。",
+      "en": "but also for our sake, to whom it will be credited, those who believe in the one who raised Jesus our Lord from the dead.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "δι’",
+          "morph": "PREP",
+          "gloss": "on account of"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "οἷς",
+          "morph": "R-DPM",
+          "gloss": "to whom"
+        },
+        {
+          "w": "μέλλει",
+          "morph": "V-PAI-3S",
+          "gloss": "it is about"
+        },
+        {
+          "w": "λογίζεσθαι",
+          "morph": "V-PPN",
+          "gloss": "to be credited"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "to those"
+        },
+        {
+          "w": "πιστεύουσιν",
+          "morph": "V-PAP-DPM",
+          "gloss": "believing"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "on"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the [One]"
+        },
+        {
+          "w": "ἐγείραντα",
+          "morph": "V-AAP-ASM",
+          "gloss": "having raised"
+        },
+        {
+          "w": "Ἰησοῦν",
+          "morph": "N-ASM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "Κύριον",
+          "morph": "N-ASM",
+          "gloss": "Lord"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "out from"
+        },
+        {
+          "w": "νεκρῶν",
+          "morph": "A-GPM",
+          "gloss": "[the] dead"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "耶 穌 被 交 給 人 ， 是 為 我 們 的 過 犯 ； 復 活 ， 是 為 叫 我 們 稱 義 （ 或 作 ： 耶 穌 是 為 我 們 的 過 犯 交 付 了 ， 是 為 我 們 稱 義 復 活 了 ） 。",
+      "en": "He was given over because of our transgressions and was raised for the sake of our justification.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὃς",
+          "morph": "R-NSM",
+          "gloss": "who"
+        },
+        {
+          "w": "παρεδόθη",
+          "morph": "V-API-3S",
+          "gloss": "was delivered over"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "παραπτώματα",
+          "morph": "N-APN",
+          "gloss": "trespasses"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἠγέρθη",
+          "morph": "V-API-3S",
+          "gloss": "was raised"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "δικαίωσιν",
+          "morph": "N-ASF",
+          "gloss": "justification"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        }
+      ]
+    }
+  ]
+}

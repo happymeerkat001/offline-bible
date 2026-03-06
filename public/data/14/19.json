@@ -1,0 +1,822 @@
+{
+  "book": 14,
+  "chapter": 19,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "猶 大 王 約 沙 法 平 平 安 安 地 回 耶 路 撒 冷 ， 到 宮 裡 去 了 。",
+      "en": "When King Jehoshaphat of Judah returned home safely to Jerusalem,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַ֠יָּשָׁב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוֹשָׁפָ֨ט",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶֽלֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָ֧ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּית֛וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "בְּשָׁל֖וֹם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לִֽירוּשָׁלִָֽם",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "先 見 哈 拿 尼 的 兒 子 耶 戶 出 來 迎 接 約 沙 法 王 ， 對 他 說 ： 你 豈 當 幫 助 惡 人 ， 愛 那 恨 惡 耶 和 華 的 人 呢 ？ 因 此 耶 和 華 的 忿 怒 臨 到 你 。",
+      "en": "the prophet Jehu son of Hanani confronted him; he said to King Jehoshaphat, “Is it right to help the wicked and be an ally of those who oppose the Lord? Because you have done this, the Lord is angry with you!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּצֵ֣א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פָּנָ֗יו",
+          "morph": "HNcbpc/Sp3ms"
+        },
+        {
+          "w": "יֵה֣וּא",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חֲנָ֘נִי֮",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַחֹזֶה֒",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "וַיֹּ֨אמֶר֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמֶּ֣לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יְהוֹשָׁפָ֔ט",
+          "morph": "HNp"
+        },
+        {
+          "w": "הֲלָרָשָׁ֣ע",
+          "morph": "HTi/Rd/Aamsa"
+        },
+        {
+          "w": "לַעְזֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "וּלְשֹׂנְאֵ֥י",
+          "morph": "HC/R/Vqrmpc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "תֶּאֱהָ֑ב",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "וּבָזֹאת֙",
+          "morph": "HC/R/Pdxfs"
+        },
+        {
+          "w": "עָלֶ֣יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "קֶּ֔צֶף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִלִּפְנֵ֖י",
+          "morph": "HR/R/Ncbpc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "然 而 你 還 有 善 行 ， 因 你 從 國 中 除 掉 木 偶 ， 立 定 心 意 尋 求 神 。",
+      "en": "Nevertheless you have done some good things; you removed the Asherah poles from the land, and you were determined to follow God.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֲבָ֕ל",
+          "morph": "HD"
+        },
+        {
+          "w": "דְּבָרִ֥ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "טוֹבִ֖ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "נִמְצְא֣וּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "עִמָּ֑ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "בִעַ֤רְתָּ",
+          "morph": "HVpp2ms"
+        },
+        {
+          "w": "הָאֲשֵׁרוֹת֙",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֔רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וַהֲכִינ֥וֹתָ",
+          "morph": "HC/Vhp2ms"
+        },
+        {
+          "w": "לְבָבְךָ֖",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "לִדְרֹ֥שׁ",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הָֽאֱלֹהִֽים",
+          "morph": "HTd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "約 沙 法 住 在 耶 路 撒 冷 ， 以 後 又 出 巡 民 間 ， 從 別 是 巴 直 到 以 法 蓮 山 地 ， 引 導 民 歸 向 耶 和 華 ─ 他 們 列 祖 的 神 ；",
+      "en": "Jehoshaphat lived in Jerusalem. He went out among the people from Beer Sheba to the hill country of Ephraim and encouraged them to follow the Lord God of their ancestors.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּ֥שֶׁב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוֹשָׁפָ֖ט",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּירוּשָׁלִָ֑ם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַיָּ֜שָׁב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "וַיֵּצֵ֣א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בָעָ֗ם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "מִבְּאֵ֥ר",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "שֶׁ֨בַע֙",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "הַ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֶפְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיְשִׁיבֵ֕ם",
+          "morph": "HC/Vhw3ms/Sp3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אֲבוֹתֵיהֶֽם",
+          "morph": "HNcmpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "又 在 猶 大 國 中 遍 地 的 堅 固 城 裡 設 立 審 判 官 ，",
+      "en": "He appointed judges throughout the land and in each of the fortified cities of Judah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּעֲמֵ֨ד",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "שֹֽׁפְטִ֜ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "בָּאָ֗רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עָרֵ֧י",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "יְהוּדָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַבְּצֻר֖וֹת",
+          "morph": "HTd/Aafpa"
+        },
+        {
+          "w": "לְעִ֥יר",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וָעִֽיר",
+          "morph": "HC/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "對 他 們 說 ： 你 們 辦 事 應 當 謹 慎 ； 因 為 你 們 判 斷 不 是 為 人 ， 乃 是 為 耶 和 華 。 判 斷 的 時 候 ， 他 必 與 你 們 同 在 。",
+      "en": "He told the judges, “Be careful what you do, for you are not judging for men, but for the Lord, who will be with you when you make judicial decisions.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשֹּֽׁפְטִ֗ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "רְאוּ֙",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "מָֽה",
+          "morph": "HTi"
+        },
+        {
+          "w": "אַתֶּ֣ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "עֹשִׂ֔ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֧א",
+          "morph": "HTn"
+        },
+        {
+          "w": "לְאָדָ֛ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "תִּשְׁפְּט֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "לַיהוָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְעִמָּכֶ֖ם",
+          "morph": "HC/R/Sp2mp"
+        },
+        {
+          "w": "בִּדְבַ֥ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מִשְׁפָּֽט",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "現 在 你 們 應 當 敬 畏 耶 和 華 ， 謹 慎 辦 事 ； 因 為 耶 和 華 ─ 我 們 的 神 沒 有 不 義 ， 不 偏 待 人 ， 也 不 受 賄 賂 。",
+      "en": "Respect the Lord and make careful decisions, for the Lord our God disapproves of injustice, partiality, and bribery.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַתָּ֕ה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "יְהִ֥י",
+          "morph": "HVqj3ms"
+        },
+        {
+          "w": "פַֽחַד",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֲלֵיכֶ֑ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "שִׁמְר֣וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "וַעֲשׂ֔וּ",
+          "morph": "HC/Vqv2mp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "אֵ֞ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֗ינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        },
+        {
+          "w": "עַוְלָ֛ה",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וּמַשֹּׂ֥א",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "פָנִ֖ים",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "וּמִקַּח",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "שֹֽׁחַד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "約 沙 法 從 利 未 人 和 祭 司 ， 並 以 色 列 族 長 中 派 定 人 ， 在 耶 路 撒 冷 為 耶 和 華 判 斷 ， 聽 民 間 的 爭 訟 ， 就 回 耶 路 撒 冷 去 了 。",
+      "en": "In Jerusalem Jehoshaphat appointed some Levites, priests, and Israelite family leaders to judge on behalf of the Lord and to settle disputes among the residents of Jerusalem.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְגַ֣ם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "בִּ֠ירוּשָׁלִַם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הֶעֱמִ֨יד",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "יְהוֹשָׁפָ֜ט",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַלְוִיִּ֣ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "וְהַכֹּהֲנִ֗ים",
+          "morph": "HC/Td/Ncmpa"
+        },
+        {
+          "w": "וּמֵרָאשֵׁ֤י",
+          "morph": "HC/R/Ncmpc"
+        },
+        {
+          "w": "הָאָבוֹת֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "לְיִשְׂרָאֵ֔ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לְמִשְׁפַּ֥ט",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְלָרִ֑יב",
+          "morph": "HC/Rd/Ncbsa"
+        },
+        {
+          "w": "וַיָּשֻׁ֖בוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "יְרוּשָׁלִָֽם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "約 沙 法 囑 咐 他 們 說 ： 你 們 當 敬 畏 耶 和 華 ， 忠 心 誠 實 辦 事 。",
+      "en": "He commanded them: “Carry out your duties with respect for the Lord, with honesty, and with pure motives.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְצַ֥ו",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "עֲלֵיהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "כֹּ֤ה",
+          "morph": "HD"
+        },
+        {
+          "w": "תַעֲשׂוּן֙",
+          "morph": "HVqi2mp/Sn"
+        },
+        {
+          "w": "בְּיִרְאַ֣ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּאֱמוּנָ֖ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וּבְלֵבָ֥ב",
+          "morph": "HC/R/Ncmsa"
+        },
+        {
+          "w": "שָׁלֵֽם",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "住 在 各 城 裡 你 們 的 弟 兄 ， 若 有 爭 訟 的 事 來 到 你 們 這 裡 ， 或 為 流 血 ， 或 犯 律 法 、 誡 命 、 律 例 、 典 章 ， 你 們 要 警 戒 他 們 ， 免 得 他 們 得 罪 耶 和 華 ， 以 致 他 的 忿 怒 臨 到 你 們 和 你 們 的 弟 兄 ； 這 樣 行 ， 你 們 就 沒 有 罪 了 。",
+      "en": "Whenever your countrymen who live in the cities bring a case before you (whether it involves a violent crime or other matters related to the law, commandments, rules, and regulations), warn them that they must not sin against the Lord. If you fail to do so, God will be angry with you and your colleagues, but if you obey, you will be free of guilt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "רִיב֩",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יָב֨וֹא",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "עֲלֵיכֶ֜ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מֵאֲחֵיכֶ֣ם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "הַיֹּשְׁבִ֣ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "בְּעָרֵיהֶ֗ם",
+          "morph": "HR/Ncfpc/Sp3mp"
+        },
+        {
+          "w": "בֵּֽין",
+          "morph": "HR"
+        },
+        {
+          "w": "דָּ֣ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְדָם֮",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "בֵּין",
+          "morph": "HR"
+        },
+        {
+          "w": "תּוֹרָ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לְמִצְוָה֮",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "לְחֻקִּ֣ים",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "וּלְמִשְׁפָּטִים֒",
+          "morph": "HC/R/Ncmpa"
+        },
+        {
+          "w": "וְהִזְהַרְתֶּ֣ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אֹתָ֔ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "וְלֹ֤א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יֶאְשְׁמוּ֙",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "לַיהוָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְהָֽיָה",
+          "morph": "HC/Vqp3ms"
+        },
+        {
+          "w": "קֶ֥צֶף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עֲלֵיכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אֲחֵיכֶ֑ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "כֹּ֥ה",
+          "morph": "HD"
+        },
+        {
+          "w": "תַעֲשׂ֖וּן",
+          "morph": "HVqi2mp/Sn"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תֶאְשָֽׁמוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "凡 屬 耶 和 華 的 事 ， 有 大 祭 司 亞 瑪 利 雅 管 理 你 們 ； 凡 屬 王 的 事 ， 有 猶 大 支 派 的 族 長 以 實 瑪 利 的 兒 子 西 巴 第 雅 管 理 你 們 ； 在 你 們 面 前 有 利 未 人 作 官 長 。 你 們 應 當 壯 膽 辦 事 ， 願 耶 和 華 與 善 人 同 在 。",
+      "en": "Take note, Amariah the chief priest will oversee you in every matter pertaining to the Lord and Zebadiah son of Ishmael, the leader of the family of Judah, in every matter pertaining to the king. The Levites will serve as officials before you. Act courageously, and may the Lord be with those who do well!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִנֵּ֡ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "אֲמַרְיָ֣הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "כֹהֵן֩",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָרֹ֨אשׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עֲלֵיכֶ֜ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לְכֹ֣ל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "דְּבַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּזְבַדְיָ֨הוּ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׁמָעֵ֜אל",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַנָּגִ֤יד",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְבֵית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְהוּדָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְכֹ֣ל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "דְּבַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמֶּ֔לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְשֹׁטְרִ֥ים",
+          "morph": "HC/Vqrmpa"
+        },
+        {
+          "w": "הַלְוִיִּ֖ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "לִפְנֵיכֶ֑ם",
+          "morph": "HR/Ncbpc/Sp2mp"
+        },
+        {
+          "w": "חִזְק֣וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "וַעֲשׂ֔וּ",
+          "morph": "HC/Vqv2mp"
+        },
+        {
+          "w": "וִיהִ֥י",
+          "morph": "HC/Vqi3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "הַטּֽוֹב",
+          "morph": "HTd/Aamsa"
+        }
+      ]
+    }
+  ]
+}

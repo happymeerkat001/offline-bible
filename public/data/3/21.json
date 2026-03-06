@@ -1,0 +1,1422 @@
+{
+  "book": 3,
+  "chapter": 21,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 對 摩 西 說 ： 你 告 訴 亞 倫 子 孫 作 祭 司 的 說 ： 祭 司 不 可 為 民 中 的 死 人 沾 染 自 己 ，",
+      "en": "The Lord said to Moses, “Say to the priests, the sons of Aaron—say to them: ‘For a dead person no priest is to defile himself among his people,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱמֹ֥ר",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכֹּהֲנִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אַהֲרֹ֑ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָמַרְתָּ֣",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֲלֵהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "לְנֶ֥פֶשׁ",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִטַּמָּ֖א",
+          "morph": "HVti3ms"
+        },
+        {
+          "w": "בְּעַמָּֽיו",
+          "morph": "HR/Ncmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "除 非 為 他 骨 肉 之 親 的 父 母 、 兒 女 、 弟 兄 ，",
+      "en": "except for his close relative who is near to him—his mother, his father, his son, his daughter, his brother,",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֚י",
+          "morph": "HC"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "לִשְׁאֵר֔וֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "הַקָּרֹ֖ב",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "אֵלָ֑יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "לְאִמּ֣וֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "וּלְאָבִ֔יו",
+          "morph": "HC/R/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "וְלִבְנ֥וֹ",
+          "morph": "HC/R/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "וּלְבִתּ֖וֹ",
+          "morph": "HC/R/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "וּלְאָחִֽיו",
+          "morph": "HC/R/Ncmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "和 未 曾 出 嫁 、 作 處 女 的 姊 妹 ， 才 可 以 沾 染 自 己 。",
+      "en": "and his virgin sister who is near to him, who has no husband—he may defile himself for her.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלַאֲחֹת֤וֹ",
+          "morph": "HC/R/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "הַבְּתוּלָה֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הַקְּרוֹבָ֣ה",
+          "morph": "HTd/Aafsa"
+        },
+        {
+          "w": "אֵלָ֔יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "הָיְתָ֖ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "לְאִ֑ישׁ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לָ֖הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "יִטַּמָּֽא",
+          "morph": "HVti3ms"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "祭 司 既 在 民 中 為 首 ， 就 不 可 從 俗 沾 染 自 己 。",
+      "en": "He must not defile himself as a husband among his people so as to profane himself.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִטַּמָּ֖א",
+          "morph": "HVti3ms"
+        },
+        {
+          "w": "בַּ֣עַל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּעַמָּ֑יו",
+          "morph": "HR/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "לְהֵ֖חַלּֽוֹ",
+          "morph": "HR/VNc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "不 可 使 頭 光 禿 ； 不 可 剃 除 鬍 鬚 的 周 圍 ， 也 不 可 用 刀 劃 身 。",
+      "en": "Priests must not have a bald spot shaved on their head, they must not shave the corner of their beard, and they must not cut slashes in their body.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יקרחה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "יִקְרְח֤וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "קָרְחָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּרֹאשָׁ֔ם",
+          "morph": "HR/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "וּפְאַ֥ת",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "זְקָנָ֖ם",
+          "morph": "HNcbsc/Sp3mp"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יְגַלֵּ֑חוּ",
+          "morph": "HVpi3mp"
+        },
+        {
+          "w": "וּבִ֨בְשָׂרָ֔ם",
+          "morph": "HC/R/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִשְׂרְט֖וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "שָׂרָֽטֶת",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "要 歸 神 為 聖 ， 不 可 褻 瀆 　 神 的 名 ； 因 為 耶 和 華 的 火 祭 ， 就 是 　 神 的 食 物 ， 是 他 們 獻 的 ， 所 以 他 們 要 成 為 聖 。",
+      "en": "“‘They must be holy to their God, and they must not profane the name of their God, because they are the ones who present the Lord’s gifts, the food of their God. Therefore they must be holy.",
+      "notes": [],
+      "he": [
+        {
+          "w": "קְדֹשִׁ֤ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "יִהְיוּ֙",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "לֵאלֹ֣הֵיהֶ֔ם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יְחַלְּל֔וּ",
+          "morph": "HVpi3mp"
+        },
+        {
+          "w": "שֵׁ֖ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֱלֹהֵיהֶ֑ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "כִּי֩",
+          "morph": "HC"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אִשֵּׁ֨י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוָ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֶ֧חֶם",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אֱלֹהֵיהֶ֛ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "הֵ֥ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "מַקְרִיבִ֖ם",
+          "morph": "HVhrmpa"
+        },
+        {
+          "w": "וְהָ֥יוּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "קֹֽדֶשׁ",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "不 可 娶 妓 女 或 被 污 的 女 人 為 妻 ， 也 不 可 娶 被 休 的 婦 人 為 妻 ， 因 為 祭 司 是 歸 神 為 聖 。",
+      "en": "They must not take a wife defiled by prostitution, nor are they to take a wife divorced from her husband, for the priest is holy to his God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִשָּׁ֨ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "זֹנָ֤ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וַחֲלָלָה֙",
+          "morph": "HC/Aafsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִקָּ֔חוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "וְאִשָּׁ֛ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "גְּרוּשָׁ֥ה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "מֵאִישָׁ֖הּ",
+          "morph": "HR/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִקָּ֑חוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "קָדֹ֥שׁ",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "ה֖וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "לֵאלֹהָֽיו",
+          "morph": "HR/Ncmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "所 以 你 要 使 他 成 聖 ， 因 為 他 奉 獻 你 神 的 食 物 ； 你 要 以 他 為 聖 ， 因 為 我 ─ 使 你 們 成 聖 的 耶 和 華 ─ 是 聖 的 。",
+      "en": "You must sanctify him because he presents the food of your God. He must be holy to you because I, the Lord who sanctifies you all, am holy.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְקִדַּשְׁתּ֔וֹ",
+          "morph": "HC/Vpq2ms/Sp3ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "לֶ֥חֶם",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אֱלֹהֶ֖יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "ה֣וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "מַקְרִ֑יב",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "קָדֹשׁ֙",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יִֽהְיֶה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָּ֔ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "קָד֔וֹשׁ",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "אֲנִ֥י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מְקַדִּשְׁכֶֽם",
+          "morph": "HVprmsc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "祭 司 的 女 兒 若 行 淫 辱 沒 自 己 ， 就 辱 沒 了 父 親 ， 必 用 火 將 他 焚 燒 。",
+      "en": "If a daughter of a priest profanes herself by engaging in prostitution, she is profaning her father. She must be burned to death.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבַת֙",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כֹּהֵ֔ן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "תֵחֵ֖ל",
+          "morph": "HVNi3fs"
+        },
+        {
+          "w": "לִזְנ֑וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אָבִ֨יהָ֙",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "הִ֣יא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "מְחַלֶּ֔לֶת",
+          "morph": "HVprfsa"
+        },
+        {
+          "w": "בָּאֵ֖שׁ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "תִּשָּׂרֵֽף",
+          "morph": "HVNi3fs"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "在 弟 兄 中 作 大 祭 司 、 頭 上 倒 了 膏 油 、 又 承 接 聖 職 ， 穿 了 聖 衣 的 ， 不 可 蓬 頭 散 髮 ， 也 不 可 撕 裂 衣 服 。",
+      "en": "“‘The high priest—who is greater than his brothers, and on whose head the anointing oil is poured, and who has been ordained to wear the priestly garments—must neither dishevel the hair of his head nor tear his garments.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַכֹּהֵן֩",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "הַגָּד֨וֹל",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "מֵאֶחָ֜יו",
+          "morph": "HR/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "אֲֽשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יוּצַ֥ק",
+          "morph": "HVHi3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹאשׁ֣וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "שֶׁ֤מֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמִּשְׁחָה֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וּמִלֵּ֣א",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יָד֔וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "לִלְבֹּ֖שׁ",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַבְּגָדִ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "רֹאשׁוֹ֙",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִפְרָ֔ע",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וּבְגָדָ֖יו",
+          "morph": "HC/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִפְרֹֽם",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "不 可 挨 近 死 屍 ， 也 不 可 為 父 母 沾 染 自 己 。",
+      "en": "He must not go where there is any dead person; he must not defile himself even for his father or for his mother.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַ֛ל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נַפְשֹׁ֥ת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "מֵ֖ת",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָבֹ֑א",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לְאָבִ֥יו",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "וּלְאִמּ֖וֹ",
+          "morph": "HC/R/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִטַּמָּֽא",
+          "morph": "HVti3ms"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "不 可 出 聖 所 ， 也 不 可 褻 瀆 神 的 聖 所 ， 因 為 　 神 膏 油 的 冠 冕 在 他 頭 上 。 我 是 耶 和 華 。",
+      "en": "He must not go out from the sanctuary and must not profane the sanctuary of his God, because the dedication of the anointing oil of his God is on him. I am the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַמִּקְדָּשׁ֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יֵצֵ֔א",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יְחַלֵּ֔ל",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "אֵ֖ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִקְדַּ֣שׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֱלֹהָ֑יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "כִּ֡י",
+          "morph": "HC"
+        },
+        {
+          "w": "נֵ֠זֶר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שֶׁ֣מֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִשְׁחַ֧ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אֱלֹהָ֛יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "עָלָ֖יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אֲנִ֥י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "他 要 娶 處 女 為 妻 。",
+      "en": "He must take a wife who is a virgin.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְה֕וּא",
+          "morph": "HC/Pp3ms"
+        },
+        {
+          "w": "אִשָּׁ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בִבְתוּלֶ֖יהָ",
+          "morph": "HR/Ncbpc/Sp3fs"
+        },
+        {
+          "w": "יִקָּֽח",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "寡 婦 或 是 被 休 的 婦 人 ， 或 是 被 污 為 妓 的 女 人 ， 都 不 可 娶 ； 只 可 娶 本 民 中 的 處 女 為 妻 。",
+      "en": "He must not marry a widow, a divorced woman, or one profaned by prostitution; he may only take a virgin from his people as a wife,",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַלְמָנָ֤ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּגְרוּשָׁה֙",
+          "morph": "HC/Vqsfsa"
+        },
+        {
+          "w": "וַחֲלָלָ֣ה",
+          "morph": "HC/Aafsa"
+        },
+        {
+          "w": "זֹנָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֵ֖לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִקָּ֑ח",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "כִּ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "בְּתוּלָ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מֵעַמָּ֖יו",
+          "morph": "HR/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "יִקַּ֥ח",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אִשָּֽׁה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "不 可 在 民 中 辱 沒 他 的 兒 女 ， 因 為 我 是 叫 他 成 聖 的 耶 和 華 。",
+      "en": "so that he does not profane his children among his people, for I am the Lord who sanctifies him.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלֹֽא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יְחַלֵּ֥ל",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "זַרְע֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "בְּעַמָּ֑יו",
+          "morph": "HR/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "כִּ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֲנִ֥י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מְקַדְּשֽׁוֹ",
+          "morph": "HVprmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "耶 和 華 對 摩 西 說 ：",
+      "en": "The Lord spoke to Moses:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "你 告 訴 亞 倫 說 ： 你 世 世 代 代 的 後 裔 ， 凡 有 殘 疾 的 ， 都 不 可 近 前 來 獻 他 神 的 食 物 。",
+      "en": "“Tell Aaron, ‘No man from your descendants throughout their generations who has a physical flaw is to approach to present the food of his God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דַּבֵּ֥ר",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "אַהֲרֹ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִֽזַּרְעֲךָ֞",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "לְדֹרֹתָ֗ם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִהְיֶ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בוֹ֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "מ֔וּם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִקְרַ֔ב",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לְהַקְרִ֖יב",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "לֶ֥חֶם",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אֱלֹהָֽיו",
+          "morph": "HNcmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "因 為 凡 有 殘 疾 的 ， 無 論 是 瞎 眼 的 、 瘸 腿 的 、 塌 鼻 子 的 、 肢 體 有 餘 的 、",
+      "en": "Certainly no man who has a physical flaw is to approach: a blind man, or one who is lame, or one with a slit nose, or who has a limb too long,",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אִ֛ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בּ֥וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "מ֖וּם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִקְרָ֑ב",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אִ֤ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עִוֵּר֙",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "א֣וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "פִסֵּ֔חַ",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "א֥וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "חָרֻ֖ם",
+          "morph": "HVqsmsa"
+        },
+        {
+          "w": "א֥וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "שָׂרֽוּעַ",
+          "morph": "HVqsmsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "折 腳 折 手 的 、",
+      "en": "or a man who has had a broken leg or arm,",
+      "notes": [],
+      "he": [
+        {
+          "w": "א֣וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "אִ֔ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִהְיֶ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "ב֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "שֶׁ֣בֶר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רָ֑גֶל",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "א֖וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "שֶׁ֥בֶר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יָֽד",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "駝 背 的 、 矮 矬 的 、 眼 睛 有 毛 病 的 、 長 癬 的 、 長 疥 的 ， 或 是 損 壞 腎 子 的 ， 都 不 可 近 前 來 。",
+      "en": "or a hunchback, or a dwarf, or one with a spot in his eye, or a festering eruption, or a feverish rash, or a crushed testicle.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֽוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "גִבֵּ֣ן",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "אוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "דַ֔ק",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "א֖וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "תְּבַלֻּ֣ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּעֵינ֑וֹ",
+          "morph": "HR/Ncbsc/Sp3ms"
+        },
+        {
+          "w": "א֤וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "גָרָב֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "א֣וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "יַלֶּ֔פֶת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "א֖וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "מְר֥וֹחַ",
+          "morph": "HAamsc"
+        },
+        {
+          "w": "אָֽשֶׁךְ",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "祭 司 亞 倫 的 後 裔 ， 凡 有 殘 疾 的 ， 都 不 可 近 前 來 ， 將 火 祭 獻 給 耶 和 華 。 他 有 殘 疾 ， 不 可 近 前 來 獻 神 的 食 物 。",
+      "en": "No man from the descendants of Aaron the priest who has a physical flaw may step forward to present the Lord’s gifts; he has a physical flaw, so he must not step forward to present the food of his God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אִ֞ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בּ֣וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "מ֗וּם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִזֶּ֨רַע֙",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אַהֲרֹ֣ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַכֹּהֵ֔ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִגַּ֔שׁ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לְהַקְרִ֖יב",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אִשֵּׁ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מ֣וּם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בּ֔וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אֵ֚ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "לֶ֣חֶם",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אֱלֹהָ֔יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִגַּ֖שׁ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לְהַקְרִֽיב",
+          "morph": "HR/Vhc"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "神 的 食 物 ， 無 論 是 聖 的 ， 至 聖 的 ， 他 都 可 以 吃 。",
+      "en": "He may eat both the most holy and the holy food of his God,",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֶ֣חֶם",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אֱלֹהָ֔יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "מִקָּדְשֵׁ֖י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "הַקֳּדָשִׁ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַקֳּדָשִׁ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "יֹאכֵֽל",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "但 不 可 進 到 幔 子 前 ， 也 不 可 就 近 壇 前 ； 因 為 他 有 殘 疾 ， 免 得 褻 瀆 我 的 聖 所 。 我 是 叫 他 成 聖 的 耶 和 華 。",
+      "en": "but he must not go near the special curtain or step forward to the altar because he has a physical flaw. Thus he must not profane my holy places, for I am the Lord who sanctifies them.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַ֣ךְ",
+          "morph": "HTa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַפָּרֹ֜כֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָבֹ֗א",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַמִּזְבֵּ֛חַ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִגַּ֖שׁ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "מ֣וּם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בּ֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְלֹ֤א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יְחַלֵּל֙",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִקְדָּשַׁ֔י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "כִּ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֲנִ֥י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מְקַדְּשָֽׁם",
+          "morph": "HVprmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "於 是 ， 摩 西 曉 諭 亞 倫 和 亞 倫 的 子 孫 ， 並 以 色 列 眾 人 。",
+      "en": "So Moses spoke these things to Aaron, his sons, and all the Israelites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֣ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "מֹשֶׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "אַהֲרֹ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בָּנָ֑יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וְאֶֽל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּנֵ֖י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    }
+  ]
+}

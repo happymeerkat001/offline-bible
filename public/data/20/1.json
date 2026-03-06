@@ -1,0 +1,1222 @@
+{
+  "book": 20,
+  "chapter": 1,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "以 色 列 王 大 衛 兒 子 所 羅 門 的 箴 言 ：",
+      "en": "The proverbs of Solomon, son of David, king of Israel:",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִ֭שְׁלֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "שְׁלֹמֹ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דָּוִ֑ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶ֝֗לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "要 使 人 曉 得 智 慧 和 訓 誨 ， 分 辨 通 達 的 言 語 ，",
+      "en": "To learn wisdom and moral instruction, to discern wise counsel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לָדַ֣עַת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "חָכְמָ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּמוּסָ֑ר",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "לְ֝הָבִ֗ין",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "אִמְרֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בִינָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "使 人 處 事 領 受 智 慧 、 仁 義 、 公 平 、 正 直 的 訓 誨 ，",
+      "en": "To receive moral instruction in skillful living, with righteousness, justice, and equity.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לָ֭קַחַת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מוּסַ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשְׂכֵּ֑ל",
+          "morph": "HVha"
+        },
+        {
+          "w": "צֶ֥דֶק",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּ֝מִשְׁפָּ֗ט",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וּמֵישָׁרִֽים",
+          "morph": "HC/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "使 愚 人 靈 明 ， 使 少 年 人 有 知 識 和 謀 略 ，",
+      "en": "To impart shrewdness to the morally naive, a discerning plan to the young person.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לָתֵ֣ת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לִפְתָאיִ֣ם",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "עָרְמָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לְ֝נַ֗עַר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "דַּ֣עַת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּמְזִמָּֽה",
+          "morph": "HC/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "使 智 慧 人 聽 見 ， 增 長 學 問 ， 使 聰 明 人 得 著 智 謀",
+      "en": "(Let the wise also hear and gain instruction, and let the discerning acquire guidance!)",
+      "notes": [],
+      "he": [
+        {
+          "w": "יִשְׁמַ֣ע",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "חָ֭כָם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְי֣וֹסֶף",
+          "morph": "HC/Vhi3ms"
+        },
+        {
+          "w": "לֶ֑קַח",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְ֝נָב֗וֹן",
+          "morph": "HC/VNrmsa"
+        },
+        {
+          "w": "תַּחְבֻּל֥וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "יִקְנֶֽה",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "使 人 明 白 箴 言 和 譬 喻 ， 懂 得 智 慧 人 的 言 詞 和 謎 語 。",
+      "en": "To discern the meaning of a proverb and a parable, the sayings of the wise and their riddles.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְהָבִ֣ין",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "מָ֭שָׁל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּמְלִיצָ֑ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "דִּבְרֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "חֲ֝כָמִ֗ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וְחִידֹתָֽם",
+          "morph": "HC/Ncfpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "敬 畏 耶 和 華 是 知 識 的 開 端 ； 愚 妄 人 藐 視 智 慧 和 訓 誨 。",
+      "en": "Fearing the Lord is the beginning of discernment, but fools have despised wisdom and moral instruction.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יִרְאַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְ֭הוָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "רֵאשִׁ֣ית",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "דָּ֑עַת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "חָכְמָ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּ֝מוּסָ֗ר",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אֱוִילִ֥ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "בָּֽזוּ",
+          "morph": "HVqp3cp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "我 兒 ， 要 聽 你 父 親 的 訓 誨 ， 不 可 離 棄 你 母 親 的 法 則 （ 或 譯 ： 指 教 ） ；",
+      "en": "Listen, my child, to the instruction from your father, and do not forsake the teaching from your mother.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׁמַ֣ע",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "בְּ֭נִי",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "מוּסַ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָבִ֑יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וְאַל",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תִּ֝טֹּ֗שׁ",
+          "morph": "HVqj2ms"
+        },
+        {
+          "w": "תּוֹרַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אִמֶּֽךָ",
+          "morph": "HNcfsc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "因 為 這 要 作 你 頭 上 的 華 冠 ， 你 項 上 的 金 鍊 。",
+      "en": "For they will be like an elegant garland on your head, and like pendants around your neck.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "לִוְיַ֤ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "חֵ֓ן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הֵ֬ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "לְרֹאשֶׁ֑ךָ",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "וַ֝עֲנָקִ֗ים",
+          "morph": "HC/Ncmpa"
+        },
+        {
+          "w": "לְגַרְגְּרֹתֶֽיךָ",
+          "morph": "HR/Ncfpc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "我 兒 ， 惡 人 若 引 誘 你 ， 你 不 可 隨 從 。",
+      "en": "My child, if sinners try to entice you, do not consent!",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּנִ֡י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "יְפַתּ֥וּךָ",
+          "morph": "HVpi3mp/Sp2ms"
+        },
+        {
+          "w": "חַ֝טָּאִ֗ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֹּבֵֽא",
+          "morph": "HVqj2ms"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "他 們 若 說 ： 你 與 我 們 同 去 ， 我 們 要 埋 伏 流 人 之 血 ， 要 蹲 伏 害 無 罪 之 人 ；",
+      "en": "If they say, “Come with us! We will lie in wait to shed blood; we will ambush an innocent person capriciously.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "יֹאמְרוּ֮",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "לְכָ֪ה",
+          "morph": "HVqv2ms/Sh"
+        },
+        {
+          "w": "אִ֫תָּ֥נוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "נֶאֶרְבָ֥ה",
+          "morph": "HVqh1cp"
+        },
+        {
+          "w": "לְדָ֑ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "נִצְפְּנָ֖ה",
+          "morph": "HVqh1cp"
+        },
+        {
+          "w": "לְנָקִ֣י",
+          "morph": "HR/Aamsa"
+        },
+        {
+          "w": "חִנָּֽם",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "我 們 好 像 陰 間 ， 把 他 們 活 活 吞 下 ； 他 們 如 同 下 坑 的 人 ， 被 我 們 囫 圇 吞 了 ；",
+      "en": "We will swallow them alive like Sheol, those full of vigor like those going down to the Pit.",
+      "notes": [],
+      "he": [
+        {
+          "w": "נִ֭בְלָעֵם",
+          "morph": "HVqh1cp/Sp3mp"
+        },
+        {
+          "w": "כִּשְׁא֣וֹל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "חַיִּ֑ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וּ֝תְמִימִ֗ים",
+          "morph": "HC/Aampa"
+        },
+        {
+          "w": "כְּי֣וֹרְדֵי",
+          "morph": "HR/Vqrmpc"
+        },
+        {
+          "w": "בֽוֹר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "我 們 必 得 各 樣 寶 物 ， 將 所 擄 來 的 ， 裝 滿 房 屋 ；",
+      "en": "We will seize all kinds of precious wealth; we will fill our houses with plunder.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "ה֣וֹן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יָקָ֣ר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "נִמְצָ֑א",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "נְמַלֵּ֖א",
+          "morph": "HVpi1cp"
+        },
+        {
+          "w": "בָתֵּ֣ינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        },
+        {
+          "w": "שָׁלָֽל",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "你 與 我 們 大 家 同 分 ， 我 們 共 用 一 個 囊 袋 ；",
+      "en": "Join with us! We will all share equally in what we steal.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "גּ֭וֹרָ֣לְךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "תַּפִּ֣יל",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "בְּתוֹכֵ֑נוּ",
+          "morph": "HR/Ncmsc/Sp1cp"
+        },
+        {
+          "w": "כִּ֥יס",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶ֝חָ֗ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "יִהְיֶ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לְכֻלָּֽנוּ",
+          "morph": "HR/Ncmsc/Sp1cp"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "我 兒 ， 不 要 與 他 們 同 行 一 道 ， 禁 止 你 腳 走 他 們 的 路 。",
+      "en": "My child, do not go down their way, withhold yourself from their path;",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּנִ֗י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֵּלֵ֣ךְ",
+          "morph": "HVqj2ms"
+        },
+        {
+          "w": "בְּדֶ֣רֶךְ",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "אִתָּ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "מְנַ֥ע",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "רַ֝גְלְךָ֗",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "מִנְּתִיבָתָֽם",
+          "morph": "HR/Ncbsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "因 為 ， 他 們 的 腳 奔 跑 行 惡 ； 他 們 急 速 流 人 的 血 ，",
+      "en": "for they are eager to inflict harm, and they hasten to shed blood.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "רַ֭גְלֵיהֶם",
+          "morph": "HNcfdc/Sp3mp"
+        },
+        {
+          "w": "לָרַ֣ע",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "יָר֑וּצוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "וִֽ֝ימַהֲר֗וּ",
+          "morph": "HC/Vpi3mp"
+        },
+        {
+          "w": "לִשְׁפָּךְ",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "דָּֽם",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "好 像 飛 鳥 ， 網 羅 設 在 眼 前 仍 不 躲 避 。",
+      "en": "Surely it is futile to spread a net in plain sight of any bird,",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "חִ֭נָּם",
+          "morph": "HD"
+        },
+        {
+          "w": "מְזֹרָ֣ה",
+          "morph": "HVPsfsa"
+        },
+        {
+          "w": "הָרָ֑שֶׁת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "בְּ֝עֵינֵ֗י",
+          "morph": "HR/Ncbdc"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בַּ֥עַל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כָּנָֽף",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "這 些 人 埋 伏 ， 是 為 自 流 己 血 ； 蹲 伏 ， 是 為 自 害 己 命 。",
+      "en": "but these men lie in wait for their own blood; they ambush their own lives!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְ֭הֵם",
+          "morph": "HC/Pp3mp"
+        },
+        {
+          "w": "לְדָמָ֣ם",
+          "morph": "HR/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "יֶאֱרֹ֑בוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "יִ֝צְפְּנ֗וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "לְנַפְשֹׁתָֽם",
+          "morph": "HR/Ncbpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "凡 貪 戀 財 利 的 ， 所 行 之 路 都 是 如 此 ； 這 貪 戀 之 心 乃 奪 去 得 財 者 之 命 。",
+      "en": "Such are the ways of all who gain profit unjustly; it takes away the life of those who obtain it!",
+      "notes": [],
+      "he": [
+        {
+          "w": "כֵּ֗ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "אָ֭רְחוֹת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בֹּ֣צֵֽעַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בָּ֑צַע",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "נֶ֖פֶשׁ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "בְּעָלָ֣יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "יִקָּֽח",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "智 慧 在 街 市 上 呼 喊 ， 在 寬 闊 處 發 聲 ，",
+      "en": "Wisdom calls out in the street, she shouts loudly in the plazas;",
+      "notes": [],
+      "he": [
+        {
+          "w": "חָ֭כְמוֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "בַּח֣וּץ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "תָּרֹ֑נָּה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "בָּ֝רְחֹב֗וֹת",
+          "morph": "HRd/Ncfpa"
+        },
+        {
+          "w": "תִּתֵּ֥ן",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "קוֹלָֽהּ",
+          "morph": "HNcmsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "在 熱 鬧 街 頭 喊 叫 ， 在 城 門 口 ， 在 城 中 發 出 言 語 ，",
+      "en": "at the head of the noisy streets she calls, in the entrances of the gates in the city she utters her words:",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּרֹ֥אשׁ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הֹמִיּ֗וֹת",
+          "morph": "HVqrfpa"
+        },
+        {
+          "w": "תִּ֫קְרָ֥א",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "בְּפִתְחֵ֖י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "שְׁעָרִ֥ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בָּעִ֗יר",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "אֲמָרֶ֥יהָ",
+          "morph": "HNcmpc/Sp3fs"
+        },
+        {
+          "w": "תֹאמֵֽר",
+          "morph": "HVqi3fs"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "說 ： 你 們 愚 昧 人 喜 愛 愚 昧 ， 褻 慢 人 喜 歡 褻 慢 ， 愚 頑 人 恨 惡 知 識 ， 要 到 幾 時 呢 ？",
+      "en": "“How long will you simpletons love naiveté? How long have mockers delighted in mockery? And how long will fools hate knowledge?",
+      "notes": [],
+      "he": [
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "מָתַ֣י",
+          "morph": "HTi"
+        },
+        {
+          "w": "פְּתָיִם֮",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "תְּֽאֵהֲב֫וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "פֶ֥תִי",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְלֵצִ֗ים",
+          "morph": "HC/Aampa"
+        },
+        {
+          "w": "לָ֭צוֹן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "חָמְד֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לָהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "וּ֝כְסִילִ֗ים",
+          "morph": "HC/Aampa"
+        },
+        {
+          "w": "יִשְׂנְאוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "דָֽעַת",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "你 們 當 因 我 的 責 備 回 轉 ； 我 要 將 我 的 靈 澆 灌 你 們 ， 將 我 的 話 指 示 你 們 。",
+      "en": "You should respond to my rebuke. Then I would pour out my thoughts to you; I would make my words known to you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "תָּשׁ֗וּבוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "לְֽת֫וֹכַחְתִּ֥י",
+          "morph": "HR/Ncfsc/Sp1cs"
+        },
+        {
+          "w": "הִנֵּ֤ה",
+          "morph": "HTm"
+        },
+        {
+          "w": "אַבִּ֣יעָה",
+          "morph": "HVhh1cs"
+        },
+        {
+          "w": "לָכֶ֣ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "רוּחִ֑י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "אוֹדִ֖יעָה",
+          "morph": "HVhh1cs"
+        },
+        {
+          "w": "דְבָרַ֣י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "אֶתְכֶֽם",
+          "morph": "HTo/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "我 呼 喚 ， 你 們 不 肯 聽 從 ； 我 伸 手 ， 無 人 理 會 ；",
+      "en": "However, because I called but you refused to listen, because I stretched out my hand but no one was paying attention,",
+      "notes": [],
+      "he": [
+        {
+          "w": "יַ֣עַן",
+          "morph": "HC"
+        },
+        {
+          "w": "קָ֭רָאתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "וַתְּמָאֵ֑נוּ",
+          "morph": "HC/Vpw2mp"
+        },
+        {
+          "w": "נָטִ֥יתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "יָ֝דִ֗י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "וְאֵ֣ין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "מַקְשִֽׁיב",
+          "morph": "HVhrmsa"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "反 輕 棄 我 一 切 的 勸 戒 ， 不 肯 受 我 的 責 備 。",
+      "en": "and you neglected all my advice, and did not comply with my rebuke,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתִּפְרְע֥וּ",
+          "morph": "HC/Vqw2mp"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲצָתִ֑י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "וְ֝תוֹכַחְתִּ֗י",
+          "morph": "HC/Ncfsc/Sp1cs"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֲבִיתֶֽם",
+          "morph": "HVqp2mp"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "你 們 遭 災 難 ， 我 就 發 笑 ； 驚 恐 臨 到 你 們 ， 我 必 嗤 笑 。",
+      "en": "so I myself will laugh when disaster strikes you; I will mock when what you dread comes,",
+      "notes": [],
+      "he": [
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "אֲ֭נִי",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "בְּאֵידְכֶ֣ם",
+          "morph": "HR/Ncmsc/Sp2mp"
+        },
+        {
+          "w": "אֶשְׂחָ֑ק",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "אֶ֝לְעַ֗ג",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "בְּבֹ֣א",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "פַחְדְּכֶֽם",
+          "morph": "HNcmsc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "驚 恐 臨 到 你 們 ， 好 像 狂 風 ； 災 難 來 到 ， 如 同 暴 風 ； 急 難 痛 苦 臨 到 你 們 身 上 。",
+      "en": "when what you dread comes like a whirlwind, and disaster strikes you like a devastating storm, when distressing trouble comes on you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּבֹ֤א",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "כשאוה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "כְשׁוֹאָ֨ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "פַּחְדְּכֶ֗ם",
+          "morph": "HNcmsc/Sp2mp"
+        },
+        {
+          "w": "וְֽ֭אֵידְכֶם",
+          "morph": "HC/Ncmsc/Sp2mp"
+        },
+        {
+          "w": "כְּסוּפָ֣ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "יֶאֱתֶ֑ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בְּבֹ֥א",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "עֲ֝לֵיכֶ֗ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "צָרָ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְצוּקָֽה",
+          "morph": "HC/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "那 時 ， 你 們 必 呼 求 我 ， 我 卻 不 答 應 ， 懇 切 地 尋 找 我 ， 卻 尋 不 見 。",
+      "en": "Then they will call to me, but I will not answer; they will diligently seek me, but they will not find me.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אָ֣ז",
+          "morph": "HD"
+        },
+        {
+          "w": "יִ֭קְרָאֻנְנִי",
+          "morph": "HVqi3mp/Sp1cs"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "אֶֽעֱנֶ֑ה",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "יְ֝שַׁחֲרֻ֗נְנִי",
+          "morph": "HVpi3mp/Sp1cs"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִמְצָאֻֽנְנִי",
+          "morph": "HVqi3mp/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "因 為 ， 你 們 恨 惡 知 識 ， 不 喜 愛 敬 畏 耶 和 華 ，",
+      "en": "Because they hated moral knowledge and did not choose to fear the Lord,",
+      "notes": [],
+      "he": [
+        {
+          "w": "תַּ֭חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "שָׂ֣נְאוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "דָ֑עַת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְיִרְאַ֥ת",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "יְ֝הֹוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "בָחָֽרוּ",
+          "morph": "HVqp3cp"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "不 聽 我 的 勸 戒 ， 藐 視 我 一 切 的 責 備 ，",
+      "en": "they did not comply with my advice; they spurned all my rebuke.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "אָב֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לַעֲצָתִ֑י",
+          "morph": "HR/Ncfsc/Sp1cs"
+        },
+        {
+          "w": "נָ֝אֲצ֗וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "תּוֹכַחְתִּֽי",
+          "morph": "HNcfsc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "所 以 必 吃 自 結 的 果 子 ， 充 滿 自 設 的 計 謀 . 。",
+      "en": "Therefore they will eat from the fruit of their way, and they will be stuffed full of their own counsel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְֽ֭יֹאכְלוּ",
+          "morph": "HC/Vqi3mp"
+        },
+        {
+          "w": "מִפְּרִ֣י",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "דַרְכָּ֑ם",
+          "morph": "HNcbsc/Sp3mp"
+        },
+        {
+          "w": "וּֽמִמֹּעֲצֹ֖תֵיהֶ֣ם",
+          "morph": "HC/R/Ncfpc/Sp3mp"
+        },
+        {
+          "w": "יִשְׂבָּֽעוּ",
+          "morph": "HVqi3mp"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "愚 昧 人 背 道 ， 必 殺 己 身 ； 愚 頑 人 安 逸 ， 必 害 己 命 。",
+      "en": "For the waywardness of the simpletons will kill them, and the careless ease of fools will destroy them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "מְשׁוּבַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "פְּתָיִ֣ם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "תַּֽהַרְגֵ֑ם",
+          "morph": "HVqi3fs/Sp3mp"
+        },
+        {
+          "w": "וְשַׁלְוַ֖ת",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "כְּסִילִ֣ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "תְּאַבְּדֵֽם",
+          "morph": "HVpi3fs/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "惟 有 聽 從 我 的 ， 必 安 然 居 住 ， 得 享 安 靜 ， 不 怕 災 禍 。",
+      "en": "But the one who listens to me will live in security and will be at ease from the dread of harm.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשֹׁמֵ֣עַֽ",
+          "morph": "HC/Vqrmsa"
+        },
+        {
+          "w": "לִ֭י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "יִשְׁכָּן",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בֶּ֑טַח",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְ֝שַׁאֲנַ֗ן",
+          "morph": "HC/Vkq3ms"
+        },
+        {
+          "w": "מִפַּ֥חַד",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "רָעָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    }
+  ]
+}

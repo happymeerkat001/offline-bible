@@ -1,0 +1,806 @@
+{
+  "book": 19,
+  "chapter": 34,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "（ 大 衛 在 亞 比 米 勒 面 前 裝 瘋 ， 被 他 趕 出 去 ， 就 作 這 詩 。 ） 我 要 時 時 稱 頌 耶 和 華 ； 讚 美 他 的 話 必 常 在 我 口 中 。",
+      "en": "By David, when he pretended to be insane before Abimelech, causing the king to send him away. I will praise the Lord at all times; my mouth will continually praise him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְדָוִ֗ד",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בְּשַׁנּוֹת֣וֹ",
+          "morph": "HR/Vpc/Sp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "טַ֭עְמוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "אֲבִימֶ֑לֶךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽ֝יְגָרֲשֵׁ֗הוּ",
+          "morph": "HC/Vpw3ms/Sp3ms"
+        },
+        {
+          "w": "וַיֵּלַֽךְ",
+          "morph": "HC/Vqw3ms"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "我 的 心 必 因 耶 和 華 誇 耀 ； 謙 卑 人 聽 見 就 要 喜 樂 。",
+      "en": "I will boast in the Lord; let the oppressed hear and rejoice.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֲבָרֲכָ֣ה",
+          "morph": "HVph1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עֵ֑ת",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "תָּ֝מִ֗יד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תְּֽהִלָּת֥וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "בְּפִֽי",
+          "morph": "HR/Ncmsc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "你 們 和 我 當 稱 耶 和 華 為 大 ， 一 同 高 舉 他 的 名 。",
+      "en": "Magnify the Lord with me. Let us praise his name together.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בַּ֭יהוָה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "תִּתְהַלֵּ֣ל",
+          "morph": "HVtj3fs"
+        },
+        {
+          "w": "נַפְשִׁ֑י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "יִשְׁמְע֖וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "עֲנָוִ֣ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וְיִשְׂמָֽחוּ",
+          "morph": "HC/Vqi3mp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "我 曾 尋 求 耶 和 華 ， 他 就 應 允 我 ， 救 我 脫 離 了 一 切 的 恐 懼 。",
+      "en": "I sought the Lord’s help and he answered me; he delivered me from all my fears.",
+      "notes": [],
+      "he": [
+        {
+          "w": "גַּדְּל֣וּ",
+          "morph": "HVpv2mp"
+        },
+        {
+          "w": "לַיהוָ֣ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אִתִּ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וּנְרוֹמְמָ֖ה",
+          "morph": "HC/Voh1cp"
+        },
+        {
+          "w": "שְׁמ֣וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "יַחְדָּֽו",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "凡 仰 望 他 的 ， 便 有 光 榮 ； 他 們 的 臉 必 不 蒙 羞 。",
+      "en": "Look to him and be radiant; do not let your faces be ashamed.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דָּרַ֣שְׁתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעָנָ֑נִי",
+          "morph": "HC/Vqp3ms/Sp1cs"
+        },
+        {
+          "w": "וּמִכָּל",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "מְ֝גוּרוֹתַ֗י",
+          "morph": "HNcfpc/Sp1cs"
+        },
+        {
+          "w": "הִצִּילָֽנִי",
+          "morph": "HVhp3ms/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "我 這 困 苦 人 呼 求 ， 耶 和 華 便 垂 聽 ， 救 我 脫 離 一 切 患 難 。",
+      "en": "This oppressed man cried out and the Lord heard; he saved him from all his troubles.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הִבִּ֣יטוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "אֵלָ֣יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְנָהָ֑רוּ",
+          "morph": "HC/Vqp3cp"
+        },
+        {
+          "w": "וּ֝פְנֵיהֶ֗ם",
+          "morph": "HC/Ncbpc/Sp3mp"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "יֶחְפָּֽרוּ",
+          "morph": "HVqj3mp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "耶 和 華 的 使 者 在 敬 畏 他 的 人 四 圍 安 營 ， 搭 救 他 們 。",
+      "en": "The angel of the Lord camps around the Lord’s loyal followers and delivers them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "זֶ֤ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "עָנִ֣י",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "קָ֭רָא",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "וַיהוָ֣ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "שָׁמֵ֑עַ",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "וּמִכָּל",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "צָ֝רוֹתָ֗יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "הוֹשִׁיעֽוֹ",
+          "morph": "HVhp3ms/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "你 們 要 嘗 嘗 主 恩 的 滋 味 ， 便 知 道 他 是 美 善 ； 投 靠 他 的 人 有 福 了 ！",
+      "en": "Taste and see that the Lord is good. How blessed is the one who takes shelter in him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "חֹנֶ֤ה",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "מַלְאַךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֓ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "סָ֘בִ֤יב",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "לִֽירֵאָ֗יו",
+          "morph": "HR/Aampc/Sp3ms"
+        },
+        {
+          "w": "וַֽיְחַלְּצֵֽם",
+          "morph": "HC/Vpw3ms/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "耶 和 華 的 聖 民 哪 ， 你 們 當 敬 畏 他 ， 因 敬 畏 他 的 一 無 所 缺 。",
+      "en": "Fear the Lord, you chosen people of his, for those who fear him lack nothing.",
+      "notes": [],
+      "he": [
+        {
+          "w": "טַעֲמ֣וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "וּ֭רְאוּ",
+          "morph": "HC/Vqv2mp"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "ט֣וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַֽשְׁרֵ֥י",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "הַ֝גֶּ֗בֶר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יֶחֱסֶה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בּֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "少 壯 獅 子 還 缺 食 忍 餓 ， 但 尋 求 耶 和 華 的 甚 麼 好 處 都 不 缺 。",
+      "en": "Even young lions sometimes lack food and are hungry, but those who seek the Lord lack no good thing.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יְר֣אוּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "קְדֹשָׁ֑יו",
+          "morph": "HAampc/Sp3ms"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "אֵ֥ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "מַ֝חְס֗וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לִירֵאָֽיו",
+          "morph": "HR/Aampc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "眾 弟 子 啊 ， 你 們 當 來 聽 我 的 話 ！ 我 要 將 敬 畏 耶 和 華 的 道 教 訓 你 們 。",
+      "en": "Come children. Listen to me. I will teach you what it means to fear the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כְּ֭פִירִים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רָשׁ֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "וְרָעֵ֑בוּ",
+          "morph": "HC/Vqp3cp"
+        },
+        {
+          "w": "וְדֹרְשֵׁ֥י",
+          "morph": "HC/Vqrmpc"
+        },
+        {
+          "w": "יְ֝הוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יַחְסְר֥וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "טֽוֹב",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "有 何 人 喜 好 存 活 ， 愛 慕 長 壽 ， 得 享 美 福 ，",
+      "en": "Do you want to really live? Would you love to live a long, happy life?",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְֽכוּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "בָ֭נִים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "שִׁמְעוּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "לִ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "יִֽרְאַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְ֝הוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲלַמֶּדְכֶֽם",
+          "morph": "HVpi1cs/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "就 要 禁 止 舌 頭 不 出 惡 言 ， 嘴 唇 不 說 詭 詐 的 話 。",
+      "en": "Then make sure you don’t speak evil words or use deceptive speech.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִֽי",
+          "morph": "HTi"
+        },
+        {
+          "w": "הָ֭אִישׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הֶחָפֵ֣ץ",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "חַיִּ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "אֹהֵ֥ב",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "יָ֝מִ֗ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לִרְא֥וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "טֽוֹב",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "要 離 惡 行 善 ， 尋 求 和 睦 ， 一 心 追 趕 。",
+      "en": "Turn away from evil and do what is right. Strive for peace and promote it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "נְצֹ֣ר",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "לְשׁוֹנְךָ֣",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "מֵרָ֑ע",
+          "morph": "HR/Aamsa"
+        },
+        {
+          "w": "וּ֝שְׂפָתֶ֗יךָ",
+          "morph": "HC/Ncfdc/Sp2ms"
+        },
+        {
+          "w": "מִדַּבֵּ֥ר",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "מִרְמָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "耶 和 華 的 眼 目 看 顧 義 人 ； 他 的 耳 朵 聽 他 們 的 呼 求 。",
+      "en": "The Lord pays attention to the godly and hears their cry for help.",
+      "notes": [],
+      "he": [
+        {
+          "w": "ס֣וּר",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "מֵ֭רָע",
+          "morph": "HR/Aamsa"
+        },
+        {
+          "w": "וַעֲשֵׂה",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "ט֑וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "בַּקֵּ֖שׁ",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "שָׁל֣וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְרָדְפֵֽהוּ",
+          "morph": "HC/Vqv2ms/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "耶 和 華 向 行 惡 的 人 變 臉 ， 要 從 世 上 除 滅 他 們 的 名 號 。",
+      "en": "But the Lord opposes evildoers and wipes out all memory of them from the earth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֵינֵ֣י",
+          "morph": "HNcbdc"
+        },
+        {
+          "w": "יְ֭הוָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "צַדִּיקִ֑ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וְ֝אָזְנָ֗יו",
+          "morph": "HC/Ncfdc/Sp3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "שַׁוְעָתָֽם",
+          "morph": "HNcfsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "義 人 呼 求 ， 耶 和 華 聽 見 了 ， 便 救 他 們 脫 離 一 切 患 難 。",
+      "en": "The godly cry out and the Lord hears; he saves them from all their troubles.",
+      "notes": [],
+      "he": [
+        {
+          "w": "פְּנֵ֣י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "יְ֭הוָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּעֹ֣שֵׂי",
+          "morph": "HR/Vqrmpc"
+        },
+        {
+          "w": "רָ֑ע",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "לְהַכְרִ֖ית",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "מֵאֶ֣רֶץ",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "זִכְרָֽם",
+          "morph": "HNcmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "耶 和 華 靠 近 傷 心 的 人 ， 拯 救 靈 性 痛 悔 的 人 。",
+      "en": "The Lord is near the brokenhearted; he delivers those who are discouraged.",
+      "notes": [],
+      "he": [
+        {
+          "w": "צָעֲק֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "וַיהוָ֣ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "שָׁמֵ֑עַ",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "וּמִכָּל",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "צָ֝רוֹתָ֗ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "הִצִּילָֽם",
+          "morph": "HVhp3ms/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "義 人 多 有 苦 難 ， 但 耶 和 華 救 他 脫 離 這 一 切 ，",
+      "en": "The godly face many dangers, but the Lord saves them from each one of them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "קָר֣וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יְ֭הוָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְנִשְׁבְּרֵי",
+          "morph": "HR/VNrmpc"
+        },
+        {
+          "w": "לֵ֑ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְֽאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "דַּכְּאֵי",
+          "morph": "HAampc"
+        },
+        {
+          "w": "ר֥וּחַ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "יוֹשִֽׁיעַ",
+          "morph": "HVhi3ms"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "又 保 全 他 一 身 的 骨 頭 ， 連 一 根 也 不 折 斷 。",
+      "en": "He protects all his bones; not one of them is broken.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רַ֭בּוֹת",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "רָע֣וֹת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "צַדִּ֑יק",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וּ֝מִכֻּלָּ֗ם",
+          "morph": "HC/R/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "יַצִּילֶ֥נּוּ",
+          "morph": "HVhi3ms/Sp3ms"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "惡 必 害 死 惡 人 ； 恨 惡 義 人 的 ， 必 被 定 罪 。",
+      "en": "Evil people self-destruct; those who hate the godly are punished.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שֹׁמֵ֥ר",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַצְמוֹתָ֑יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "אַחַ֥ת",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "מֵ֝הֵ֗נָּה",
+          "morph": "HR/Pp3fp"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "נִשְׁבָּֽרָה",
+          "morph": "HVNp3fs"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "耶 和 華 救 贖 他 僕 人 的 靈 魂 ； 凡 投 靠 他 的 ， 必 不 致 定 罪 。",
+      "en": "The Lord rescues his servants; all who take shelter in him escape punishment.",
+      "notes": [],
+      "he": [
+        {
+          "w": "תְּמוֹתֵ֣ת",
+          "morph": "HVoi3fs"
+        },
+        {
+          "w": "רָשָׁ֣ע",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "רָעָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְשֹׂנְאֵ֖י",
+          "morph": "HC/Vqrmpc"
+        },
+        {
+          "w": "צַדִּ֣יק",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יֶאְשָֽׁמוּ",
+          "morph": "HVqi3mp"
+        }
+      ]
+    }
+  ]
+}

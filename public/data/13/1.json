@@ -1,0 +1,2138 @@
+{
+  "book": 13,
+  "chapter": 1,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "亞 當 生 塞 特 ； 塞 特 生 以 挪 士 ；",
+      "en": "Adam, Seth, Enosh,",
+      "notes": [],
+      "he": [
+        {
+          "w": "אָדָ֥ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "שֵׁ֖ת",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱנֽוֹשׁ",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "以 挪 士 生 該 南 ； 該 南 生 瑪 勒 列 ； 瑪 勒 列 生 雅 列 ；",
+      "en": "Kenan, Mahalalel, Jered,",
+      "notes": [],
+      "he": [
+        {
+          "w": "קֵינָ֥ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "מַהֲלַלְאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "יָֽרֶד",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "雅 列 生 以 諾 ； 以 諾 生 瑪 土 撒 拉 ； 瑪 土 撒 拉 生 拉 麥 ；",
+      "en": "Enoch, Methuselah, Lamech,",
+      "notes": [],
+      "he": [
+        {
+          "w": "חֲנ֥וֹךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "מְתוּשֶׁ֖לַח",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָֽמֶךְ",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "拉 麥 生 挪 亞 ； 挪 亞 生 閃 、 含 、 雅 弗 。",
+      "en": "Noah, Shem, Ham, and Japheth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "נֹ֥חַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "שֵׁ֖ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "חָ֥ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וָיָֽפֶת",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "雅 弗 的 兒 子 是 歌 篾 、 瑪 各 、 瑪 代 、 雅 完 、 土 巴 、 米 設 、 提 拉 。",
+      "en": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יֶ֔פֶת",
+          "morph": "HNp"
+        },
+        {
+          "w": "גֹּ֣מֶר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמָג֔וֹג",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּמָדַ֖י",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְיָוָ֣ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְתֻבָ֑ל",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּמֶ֖שֶׁךְ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְתִירָֽס",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "歌 篾 的 兒 子 是 亞 實 基 拿 、 低 法 ( 創 十 章 三 節 作 利 法 ) 、 陀 迦 瑪 。",
+      "en": "The sons of Gomer: Ashkenaz, Riphath, and Togarmah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבְנֵ֖י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "גֹּ֑מֶר",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַשְׁכֲּנַ֥ז",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְדִיפַ֖ת",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְתוֹגַרְמָֽה",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "雅 完 的 兒 子 是 以 利 沙 、 他 施 、 基 提 、 多 單 ( 有 作 羅 單 的 ) 。",
+      "en": "The sons of Javan: Elishah, Tarshish, the Kittites, and the Rodanites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבְנֵ֥י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "יָוָ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלִישָׁ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְתַרְשִׁ֑ישָׁה",
+          "morph": "HC/Np/Sh"
+        },
+        {
+          "w": "כִּתִּ֖ים",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְרוֹדָנִֽים",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "含 的 兒 子 是 古 實 、 麥 西 、 弗 、 迦 南 。",
+      "en": "The sons of Ham: Cush, Mizraim, Put, and Canaan.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּנֵ֖י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "חָ֑ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "כּ֥וּשׁ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִצְרַ֖יִם",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "פּ֥וּט",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּכְנָֽעַן",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "古 實 的 兒 子 是 西 巴 、 哈 腓 拉 、 撒 弗 他 、 拉 瑪 、 撒 弗 提 迦 。 拉 瑪 的 兒 子 是 示 巴 、 底 但 。",
+      "en": "The sons of Cush: Seba, Havilah, Sabta, Raamah, and Sabteca.The sons of Raamah: Sheba and Dedan.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבְנֵ֣י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "כ֔וּשׁ",
+          "morph": "HNp"
+        },
+        {
+          "w": "סְבָא֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַחֲוִילָ֔ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְסַבְתָּ֥א",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְרַעְמָ֖א",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְסַבְתְּכָ֑א",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּבְנֵ֥י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "רַעְמָ֖א",
+          "morph": "HNp"
+        },
+        {
+          "w": "שְׁבָ֥א",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּדְדָֽן",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "古 實 生 寧 錄 ； 他 為 世 上 英 雄 之 首 。",
+      "en": "Cush was the father of Nimrod, who established himself as a mighty warrior on earth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכ֖וּשׁ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "יָלַ֣ד",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "נִמְר֑וֹד",
+          "morph": "HNp"
+        },
+        {
+          "w": "ה֣וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "הֵחֵ֔ל",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "לִהְי֥וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "גִּבּ֖וֹר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "בָּאָֽרֶץ",
+          "morph": "HRd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "麥 西 生 路 低 人 、 亞 拿 米 人 、 利 哈 比 人 、 拿 弗 土 希 人 、",
+      "en": "Mizraim was the father of the Ludites, Anamites, Lehabites, Naphtuhites,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִצְרַ֡יִם",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "יָלַ֞ד",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "לודיים",
+          "morph": "HNp"
+        },
+        {
+          "w": "לוּדִ֧ים",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "עֲנָמִ֛ים",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "לְהָבִ֖ים",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "נַפְתֻּחִֽים",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "帕 斯 魯 細 人 、 迦 斯 路 希 人 、 迦 斐 託 人 ； 從 迦 斐 託 出 來 的 有 非 利 士 人 。",
+      "en": "Pathrusites, Casluhites (from whom the Philistines descended) , and the Caphtorites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְֽאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "פַּתְרֻסִ֞ים",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כַּסְלֻחִ֗ים",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יָצְא֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מִשָּׁ֛ם",
+          "morph": "HR/D"
+        },
+        {
+          "w": "פְּלִשְׁתִּ֖ים",
+          "morph": "HNgmpa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כַּפְתֹּרִֽים",
+          "morph": "HNgmpa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "迦 南 生 長 子 西 頓 ， 又 生 赫",
+      "en": "Canaan was the father of Sidon—his firstborn—and Heth,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּכְנַ֗עַן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "יָלַ֛ד",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "צִיד֥וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּכֹר֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "חֵֽת",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "和 耶 布 斯 人 、 亞 摩 利 人 、 革 迦 撒 人 、",
+      "en": "as well as the Jebusites, Amorites, Girgashites,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַיְבוּסִי֙",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הָ֣אֱמֹרִ֔י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "וְאֵ֖ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַגִּרְגָּשִֽׁי",
+          "morph": "HTd/Ngmsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "希 未 人 、 亞 基 人 、 西 尼 人 、",
+      "en": "Hivites, Arkites, Sinites,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַחִוִּ֥י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַֽעַרְקִ֖י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַסִּינִֽי",
+          "morph": "HTd/Ngmsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "亞 瓦 底 人 、 洗 瑪 利 人 ， 並 哈 馬 人 。",
+      "en": "Arvadites, Zemarites, and Hamathites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הָאַרְוָדִ֥י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַצְּמָרִ֖י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַֽחֲמָתִֽי",
+          "morph": "HTd/Ngmsa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "閃 的 兒 子 是 以 攔 、 亞 述 、 亞 法 撒 、 路 德 、 亞 蘭 、 烏 斯 、 戶 勒 、 基 帖 、 米 設 ( 創 十23 作 瑪 施 ) 。",
+      "en": "The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram.The sons of Aram: Uz, Hul, Gether, and Meshech.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "שֵׁ֔ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֵילָ֣ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאַשּׁ֔וּר",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְאַרְפַּכְשַׁ֖ד",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְל֣וּד",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וַאֲרָ֑ם",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְע֥וּץ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְח֖וּל",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְגֶ֥תֶר",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וָמֶֽשֶׁךְ",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "亞 法 撒 生 沙 拉 ； 沙 拉 生 希 伯 。",
+      "en": "Arphaxad was the father of Shelah, and Shelah was the father of Eber.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאַרְפַּכְשַׁ֖ד",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "יָלַ֣ד",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שָׁ֑לַח",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשֶׁ֖לַח",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "יָלַ֥ד",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֵֽבֶר",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "希 伯 生 了 兩 個 兒 子 ： 一 個 名 叫 法 勒 ( 就 是 分 的 意 思 ) ， 因 為 那 時 人 就 分 地 居 住 ； 法 勒 的 兄 弟 名 叫 約 坍 。",
+      "en": "Two sons were born to Eber: the first was named Peleg, for during his lifetime the earth was divided; his brother’s name was Joktan.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּלְעֵ֥בֶר",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "יֻלַּ֖ד",
+          "morph": "HVPp3ms"
+        },
+        {
+          "w": "שְׁנֵ֣י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "בָנִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "שֵׁ֣ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאֶחָ֞ד",
+          "morph": "HTd/Acmsa"
+        },
+        {
+          "w": "פֶּ֗לֶג",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "בְיָמָיו֙",
+          "morph": "HR/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "נִפְלְגָ֣ה",
+          "morph": "HVNp3fs"
+        },
+        {
+          "w": "הָאָ֔רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְשֵׁ֥ם",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "אָחִ֖יו",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "יָקְטָֽן",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "約 坍 生 亞 摩 答 、 沙 列 、 哈 薩 瑪 非 、 耶 拉 、",
+      "en": "Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיָקְטָ֣ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "יָלַ֔ד",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אַלְמוֹדָ֖ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "שָׁ֑לֶף",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "חֲצַרְמָ֖וֶת",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "יָֽרַח",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "哈 多 蘭 、 烏 薩 、 德 拉 、",
+      "en": "Hadoram, Uzal, Diklah,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הֲדוֹרָ֥ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אוּזָ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "דִּקְלָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "以 巴 錄 、 亞 比 瑪 利 、 示 巴 、",
+      "en": "Ebal, Abimael, Sheba,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "עֵיבָ֥ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אֲבִימָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "שְׁבָֽא",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "阿 斐 、 哈 腓 拉 、 約 巴 。 這 都 是 約 坍 的 兒 子 。",
+      "en": "Ophir, Havilah, and Jobab. All these were the sons of Joktan.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אוֹפִ֥יר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "חֲוִילָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "יוֹבָ֑ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֵ֖לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יָקְטָֽן",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "閃 生 亞 法 撒 ； 亞 法 撒 生 沙 拉 ；",
+      "en": "Shem, Arphaxad, Shelah,",
+      "notes": [],
+      "he": [
+        {
+          "w": "שֵׁ֥ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַרְפַּכְשַׁ֖ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "שָֽׁלַח",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "沙 拉 生 希 伯 ； 希 伯 生 法 勒 ； 法 勒 生 拉 吳 ；",
+      "en": "Eber, Peleg, Reu,",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֵ֥בֶר",
+          "morph": "HNp"
+        },
+        {
+          "w": "פֶּ֖לֶג",
+          "morph": "HNp"
+        },
+        {
+          "w": "רְעֽוּ",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "拉 吳 生 西 鹿 ； 西 鹿 生 拿 鶴 ； 拿 鶴 生 他 拉 ；",
+      "en": "Serug, Nahor, Terah,",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׂר֥וּג",
+          "morph": "HNp"
+        },
+        {
+          "w": "נָח֖וֹר",
+          "morph": "HNp"
+        },
+        {
+          "w": "תָּֽרַח",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "他 拉 生 亞 伯 蘭 ， 亞 伯 蘭 就 是 亞 伯 拉 罕 。",
+      "en": "Abram (that is, Abraham).",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַבְרָ֖ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "ה֥וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "אַבְרָהָֽם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "亞 伯 拉 罕 的 兒 子 是 以 撒 、 以 實 瑪 利 。",
+      "en": "The sons of Abraham: Isaac and Ishmael.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּנֵי֙",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אַבְרָהָ֔ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "יִצְחָ֖ק",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְיִשְׁמָעֵֽאל",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "以 實 瑪 利 的 兒 子 記 在 下 面 ： 以 實 瑪 利 的 長 子 是 尼 拜 約 ， 其 次 是 基 達 、 押 德 別 、 米 比 衫 、",
+      "en": "These were their descendants:Ishmael’s firstborn son was Nebaioth; the others were Kedar, Adbeel, Mibsam,",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֵ֖לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "תֹּלְדוֹתָ֑ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "בְּכ֤וֹר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׁמָעֵאל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "נְבָי֔וֹת",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְקֵדָ֥ר",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְאַדְבְּאֵ֖ל",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּמִבְשָֽׂם",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "米 施 瑪 、 度 瑪 、 瑪 撒 、 哈 達 、 提 瑪 、",
+      "en": "Mishma, Dumah, Massa, Hadad, Tema,",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִשְׁמָ֣ע",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְדוּמָ֔ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "מַשָּׂ֖א",
+          "morph": "HNp"
+        },
+        {
+          "w": "חֲדַ֥ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְתֵימָֽא",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "伊 突 、 拿 非 施 、 基 底 瑪 。 這 都 是 以 實 瑪 利 的 兒 子 。",
+      "en": "Jetur, Naphish, and Kedemah. These were the sons of Ishmael.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יְט֥וּר",
+          "morph": "HNp"
+        },
+        {
+          "w": "נָפִ֖ישׁ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וָקֵ֑דְמָה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "אֵ֥לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "הֵ֖ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׁמָעֵֽאל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "亞 伯 拉 罕 的 妾 基 土 拉 所 生 的 兒 子 ， 就 是 心 蘭 、 約 珊 、 米 但 、 米 甸 、 伊 施 巴 、 書 亞 。 約 珊 的 兒 子 是 示 巴 、 底 但 。",
+      "en": "The sons to whom Keturah, Abraham’s concubine, gave birth: Zimran, Jokshan, Medan, Midian, Ishbak, Shuah.The sons of Jokshan: Sheba and Dedan.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבְנֵ֨י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "קְטוּרָ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "פִּילֶ֣גֶשׁ",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אַבְרָהָ֗ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "יָלְדָ֞ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "זִמְרָ֧ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְיָקְשָׁ֛ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּמְדָ֥ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּמִדְיָ֖ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְיִשְׁבָּ֣ק",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְשׁ֑וּחַ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּבְנֵ֥י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "יָקְשָׁ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "שְׁבָ֥א",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּדְדָֽן",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "米 甸 的 兒 子 是 以 法 、 以 弗 、 哈 諾 、 亞 比 大 、 以 勒 大 。 這 都 是 基 土 拉 的 子 孫 。",
+      "en": "The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the sons of Keturah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבְנֵ֣י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "מִדְיָ֗ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֵיפָ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וָעֵ֨פֶר֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וַחֲנ֔וֹךְ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וַאֲבִידָ֖ע",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְאֶלְדָּעָ֑ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֵ֖לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "קְטוּרָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "亞 伯 拉 罕 生 以 撒 ； 以 撒 的 兒 子 是 以 掃 和 以 色 列 。",
+      "en": "Abraham was the father of Isaac. The sons of Isaac: Esau and Israel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיּ֥וֹלֶד",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "אַבְרָהָ֖ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יִצְחָ֑ק",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִצְחָ֔ק",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֵשָׂ֖ו",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְיִשְׂרָאֵֽל",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "以 掃 的 兒 子 是 以 利 法 、 流 珥 、 耶 烏 施 、 雅 蘭 、 可 拉 。",
+      "en": "The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּנֵ֖י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עֵשָׂ֑ו",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלִיפַ֛ז",
+          "morph": "HNp"
+        },
+        {
+          "w": "רְעוּאֵ֥ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וִיע֖וּשׁ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְיַעְלָ֥ם",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְקֹֽרַח",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "以 利 法 的 兒 子 是 提 幔 、 阿 抹 、 洗 玻 、 迦 坦 、 基 納 斯 、 亭 納 、 亞 瑪 力 。",
+      "en": "The sons of Eliphaz: Teman, Omar, Zephi, Gatam, Kenaz, and (by Timna) Amalek.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּנֵ֖י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אֱלִיפָ֑ז",
+          "morph": "HNp"
+        },
+        {
+          "w": "תֵּימָ֤ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאוֹמָר֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "צְפִ֣י",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְגַעְתָּ֔ם",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "קְנַ֖ז",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְתִמְנָ֥ע",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וַעֲמָלֵֽק",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "zh": "流 珥 的 兒 子 是 拿 哈 、 謝 拉 、 沙 瑪 、 米 撒 。",
+      "en": "The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּנֵ֖י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "רְעוּאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "נַ֥חַת",
+          "morph": "HNp"
+        },
+        {
+          "w": "זֶ֖רַח",
+          "morph": "HNp"
+        },
+        {
+          "w": "שַׁמָּ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִזָּֽה",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "zh": "西 珥 的 兒 子 是 羅 坍 、 朔 巴 、 祭 便 、 亞 拿 、 底 順 、 以 察 、 底 珊 。",
+      "en": "The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבְנֵ֣י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "שֵׂעִ֔יר",
+          "morph": "HNp"
+        },
+        {
+          "w": "לוֹטָ֥ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשׁוֹבָ֖ל",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְצִבְע֣וֹן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וַֽעֲנָ֑ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְדִישֹׁ֥ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְאֵ֖צֶר",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְדִישָֽׁן",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "zh": "羅 坍 的 兒 子 是 何 利 、 荷 幔 ； 羅 坍 的 妹 子 是 亭 納 。",
+      "en": "The sons of Lotan: Hori and Homam. (Timna was Lotan’s sister.)",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבְנֵ֥י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "לוֹטָ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "חֹרִ֣י",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהוֹמָ֑ם",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וַאֲח֥וֹת",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "לוֹטָ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "תִּמְנָֽע",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "zh": "朔 巴 的 兒 子 是 亞 勒 文 、 瑪 拿 轄 、 以 巴 錄 、 示 非 、 阿 南 。 祭 便 的 兒 子 是 亞 雅 、 亞 拿 。",
+      "en": "The sons of Shobal: Alyan, Manahath, Ebal, Shephi, and Onam.The sons of Zibeon: Aiah and Anah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "שׁוֹבָ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַלְיָ֧ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמָנַ֛חַת",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְעֵיבָ֖ל",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "שְׁפִ֣י",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאוֹנָ֑ם",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּבְנֵ֥י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "צִבְע֖וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַיָּ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַעֲנָֽה",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "zh": "亞 拿 的 兒 子 是 底 順 。 底 順 的 兒 子 是 哈 默 蘭 、 伊 是 班 、 益 蘭 、 基 蘭 。",
+      "en": "The son of Anah: Dishon.The sons of Dishon: Hamran, Eshban, Ithran, and Keran.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עֲנָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "דִּישׁ֑וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּבְנֵ֣י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "דִישׁ֔וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "חַמְרָ֥ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶשְׁבָּ֖ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְיִתְרָ֥ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּכְרָֽן",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "zh": "以 察 的 兒 子 是 辟 罕 、 撒 番 、 亞 干 。 底 珊 的 兒 子 是 烏 斯 、 亞 蘭 。",
+      "en": "The sons of Ezer: Bilhan, Zaavan, Jaakan. The sons of Dishan: Uz and Aran.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּֽנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אֵ֔צֶר",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּלְהָ֥ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְזַעֲוָ֖ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "יַעֲקָ֑ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "דִישׁ֖וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "ע֥וּץ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַאֲרָֽן",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "zh": "以 色 列 人 未 有 君 王 治 理 之 先 ， 在 以 東 地 作 王 的 記 在 下 面 ： 有 比 珥 的 兒 子 比 拉 ， 他 的 京 城 名 叫 亭 哈 巴 。",
+      "en": "These were the kings who reigned in the land of Edom before any king ruled over the Israelites: Bela son of Beor; the name of his city was Dinhabah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֵ֣לֶּה",
+          "morph": "HC/Pdxcp"
+        },
+        {
+          "w": "הַמְּלָכִ֗ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "מָלְכוּ֙",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בְּאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "אֱד֔וֹם",
+          "morph": "HNp"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "מְלָךְ",
+          "morph": "HVqc"
+        },
+        {
+          "w": "מֶ֖לֶךְ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לִבְנֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּ֚לַע",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּע֔וֹר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשֵׁ֥ם",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "עִיר֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "דִּנְהָֽבָה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "zh": "比 拉 死 了 ， 波 斯 拉 人 謝 拉 的 兒 子 約 巴 接 續 他 作 王 。",
+      "en": "When Bela died, Jobab son of Zerah from Bozrah succeeded him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֖מָת",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בָּ֑לַע",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּמְלֹ֣ךְ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "תַּחְתָּ֔יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "יוֹבָ֥ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "זֶ֖רַח",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִבָּצְרָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "zh": "約 巴 死 了 ， 提 幔 地 的 人 戶 珊 接 續 他 作 王 。",
+      "en": "When Jobab died, Husham from the land of the Temanites succeeded him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֖מָת",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יוֹבָ֑ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּמְלֹ֣ךְ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "תַּחְתָּ֔יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "חוּשָׁ֖ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵאֶ֥רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "הַתֵּימָנִֽי",
+          "morph": "HTd/Ngmsa"
+        }
+      ]
+    },
+    {
+      "v": 46,
+      "zh": "戶 珊 死 了 ， 比 達 的 兒 子 哈 達 接 續 他 作 王 。 這 哈 達 就 是 在 摩 押 地 殺 敗 米 甸 人 的 ， 他 的 京 城 名 叫 亞 未 得 。",
+      "en": "When Husham died, Hadad son of Bedad succeeded him. He struck down the Midianites in the plains of Moab; the name of his city was Avith.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֖מָת",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "חוּשָׁ֑ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּמְלֹ֨ךְ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "תַּחְתָּ֜יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "הֲדַ֣ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּדַ֗ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַמַּכֶּ֤ה",
+          "morph": "HTd/Vhrmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִדְיָן֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּשְׂדֵ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מוֹאָ֔ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשֵׁ֥ם",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "עִיר֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "עיות",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֲוִֽית",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 47,
+      "zh": "哈 達 死 了 ， 瑪 士 利 加 人 桑 拉 接 續 他 作 王 。",
+      "en": "When Hadad died, Samlah from Masrekah succeeded him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֖מָת",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הֲדָ֑ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּמְלֹ֣ךְ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "תַּחְתָּ֔יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "שַׂמְלָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִמַּשְׂרֵקָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 48,
+      "zh": "桑 拉 死 了 ， 大 河 邊 的 利 河 伯 人 掃 羅 接 續 他 作 王 。",
+      "en": "When Samlah died, Shaul from Rehoboth on the River succeeded him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֖מָת",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שַׂמְלָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּמְלֹ֣ךְ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "תַּחְתָּ֔יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "שָׁא֖וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵרְחֹב֥וֹת",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הַנָּהָֽר",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 49,
+      "zh": "掃 羅 死 了 ， 亞 革 波 的 兒 子 巴 勒 哈 南 接 續 他 作 王 。",
+      "en": "When Shaul died, Baal Hanan son of Achbor succeeded him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֖מָת",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שָׁא֑וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּמְלֹ֣ךְ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "תַּחְתָּ֔יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "בַּ֥עַל",
+          "morph": "HNp"
+        },
+        {
+          "w": "חָנָ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַכְבּֽוֹר",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 50,
+      "zh": "巴 勒 哈 南 死 了 ， 哈 達 接 續 他 作 王 。 他 的 京 城 名 叫 巴 伊 ， 他 的 妻 子 名 叫 米 希 他 別 ， 是 米 薩 合 的 孫 女 ， 瑪 特 列 的 女 兒 。",
+      "en": "When Baal Hanan died, Hadad succeeded him; the name of his city was Pai. His wife was Mehetabel, daughter of Matred, daughter of Me-Zahab.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֨מָת֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בַּ֣עַל",
+          "morph": "HNp"
+        },
+        {
+          "w": "חָנָ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּמְלֹ֤ךְ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "תַּחְתָּיו֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "הֲדַ֔ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשֵׁ֥ם",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "עִיר֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "פָּ֑עִי",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשֵׁ֨ם",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "אִשְׁתּ֤וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "מְהֵיטַבְאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "מַטְרֵ֔ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּ֖ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "מֵ֥י",
+          "morph": "HNp"
+        },
+        {
+          "w": "זָהָֽב",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 51,
+      "zh": "哈 達 死 了 ， 以 東 人 的 族 長 有 亭 納 族 長 、 亞 勒 瓦 族 長 、 耶 帖 族 長 、",
+      "en": "Hadad died.Tribal Chiefs of EdomThe tribal chiefs of Edom were: Timna, Alvah, Jetheth,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֖מָת",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הֲדָ֑ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּהְיוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אַלּוּפֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אֱד֔וֹם",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַלּ֥וּף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תִּמְנָ֛ע",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַלּ֥וּף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עליה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַֽלְוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַלּ֥וּף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יְתֵֽת",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 52,
+      "zh": "亞 何 利 巴 瑪 族 長 、 以 拉 族 長 、 比 嫩 族 長 、",
+      "en": "Oholibamah, Elah, Pinon,",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַלּ֧וּף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אָהֳלִיבָמָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַלּ֥וּף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֵלָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַלּ֥וּף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "פִּינֹֽן",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 53,
+      "zh": "基 納 斯 族 長 、 提 幔 族 長 、 米 比 薩 族 長 、",
+      "en": "Kenaz, Teman, Mibzar,",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַלּ֥וּף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "קְנַ֛ז",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַלּ֥וּף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תֵּימָ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַלּ֣וּף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִבְצָֽר",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 54,
+      "zh": "瑪 基 疊 族 長 、 以 蘭 族 長 。 這 都 是 以 東 人 的 族 長 。",
+      "en": "Magdiel, and Iram. These were the tribal chiefs of Edom.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַלּ֥וּף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מַגְדִּיאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַלּ֣וּף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עִירָ֑ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֵ֖לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "אַלּוּפֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אֱדֽוֹם",
+          "morph": "HNp"
+        }
+      ]
+    }
+  ]
+}

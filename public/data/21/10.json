@@ -1,0 +1,962 @@
+{
+  "book": 21,
+  "chapter": 10,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "死 蒼 蠅 使 做 香 的 膏 油 發 出 臭 氣 ； 這 樣 ， 一 點 愚 昧 也 能 敗 壞 智 慧 和 尊 榮 。",
+      "en": "One dead fly makes the perfumer’s ointment give off a rancid stench, so a little folly can outweigh much wisdom.",
+      "notes": [],
+      "he": [
+        {
+          "w": "זְב֣וּבֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מָ֔וֶת",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יַבְאִ֥ישׁ",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "יַבִּ֖יעַ",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "שֶׁ֣מֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רוֹקֵ֑חַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "יָקָ֛ר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מֵחָכְמָ֥ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "מִכָּב֖וֹד",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "סִכְל֥וּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "מְעָֽט",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "智 慧 人 的 心 居 右 ； 愚 昧 人 的 心 居 左 。",
+      "en": "A wise person’s good sense protects him, but a fool’s lack of sense leaves him vulnerable.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֵ֤ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "חָכָם֙",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "לִֽימִינ֔וֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "וְלֵ֥ב",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "כְּסִ֖יל",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "לִשְׂמֹאלֽוֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "並 且 愚 昧 人 行 路 顯 出 無 知 ， 對 眾 人 說 ， 他 是 愚 昧 人 。",
+      "en": "Even when a fool walks along the road he lacks sense and shows everyone what a fool he is.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְגַם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "בַּדֶּ֛רֶךְ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "כשהסכל",
+          "morph": "HR/Tr/Td/Ncmsa"
+        },
+        {
+          "w": "כְּשֶׁסָּכָ֥ל",
+          "morph": "HR/Tr/Ncmsa"
+        },
+        {
+          "w": "הֹלֵ֖ךְ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לִבּ֣וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "חָסֵ֑ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "וְאָמַ֥ר",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "לַכֹּ֖ל",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "סָכָ֥ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הֽוּא",
+          "morph": "HPp3ms"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "掌 權 者 的 心 若 向 你 發 怒 ， 不 要 離 開 你 的 本 位 ， 因 為 柔 和 能 免 大 過 。",
+      "en": "If the anger of the ruler flares up against you, do not resign from your position, for a calm response can undo great offenses.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "ר֤וּחַ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הַמּוֹשֵׁל֙",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "תַּעֲלֶ֣ה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "עָלֶ֔יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "מְקוֹמְךָ֖",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַּנַּ֑ח",
+          "morph": "HVhj2ms"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "מַרְפֵּ֔א",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יַנִּ֖יחַ",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "חֲטָאִ֥ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "גְּדוֹלִֽים",
+          "morph": "HAampa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "我 見 日 光 之 下 有 一 件 禍 患 ， 似 乎 出 於 掌 權 的 錯 誤 ，",
+      "en": "I have seen another misfortune on the earth: It is an error a ruler makes.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יֵ֣שׁ",
+          "morph": "HTm"
+        },
+        {
+          "w": "רָעָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "רָאִ֖יתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "תַּ֣חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשָּׁ֑מֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "כִּשְׁגָגָ֕ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "שֶׁיֹּצָ֖א",
+          "morph": "HTr/Vqrfsa"
+        },
+        {
+          "w": "מִלִּפְנֵ֥י",
+          "morph": "HR/R/Ncbpc"
+        },
+        {
+          "w": "הַשַּׁלִּֽיט",
+          "morph": "HTd/Aamsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "就 是 愚 昧 人 立 在 高 位 ； 富 足 人 坐 在 低 位 。",
+      "en": "Fools are placed in many positions of authority, while wealthy men sit in lowly positions.",
+      "notes": [],
+      "he": [
+        {
+          "w": "נִתַּ֣ן",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "הַסֶּ֔כֶל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בַּמְּרוֹמִ֖ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "רַבִּ֑ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וַעֲשִׁירִ֖ים",
+          "morph": "HC/Aampa"
+        },
+        {
+          "w": "בַּשֵּׁ֥פֶל",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "יֵשֵֽׁבוּ",
+          "morph": "HVqi3mp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "我 見 過 僕 人 騎 馬 ， 王 子 像 僕 人 在 地 上 步 行 。",
+      "en": "I have seen slaves on horseback and princes walking on foot like slaves.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רָאִ֥יתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "עֲבָדִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "סוּסִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וְשָׂרִ֛ים",
+          "morph": "HC/Ncmpa"
+        },
+        {
+          "w": "הֹלְכִ֥ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "כַּעֲבָדִ֖ים",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "挖 陷 坑 的 ， 自 己 必 掉 在 其 中 ； 拆 牆 垣 的 ， 必 為 蛇 所 咬 。",
+      "en": "One who digs a pit may fall into it, and one who breaks through a wall may be bitten by a snake.",
+      "notes": [],
+      "he": [
+        {
+          "w": "חֹפֵ֥ר",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "גּוּמָּ֖ץ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בּ֣וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "יִפּ֑וֹל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וּפֹרֵ֥ץ",
+          "morph": "HC/Vqrmsa"
+        },
+        {
+          "w": "גָּדֵ֖ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִשְּׁכֶ֥נּוּ",
+          "morph": "HVqi3ms/Sp3ms"
+        },
+        {
+          "w": "נָחָֽשׁ",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "鑿 開 （ 或 譯 ： 挪 移 ） 石 頭 的 ， 必 受 損 傷 ； 劈 開 木 頭 的 ， 必 遭 危 險 。",
+      "en": "One who quarries stones may be injured by them; one who splits logs may be endangered by them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מַסִּ֣יעַ",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "אֲבָנִ֔ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "יֵעָצֵ֖ב",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "בָּהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "בּוֹקֵ֥עַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "עֵצִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "יִסָּ֥כֶן",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "בָּֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "鐵 器 鈍 了 ， 若 不 將 刃 磨 快 ， 就 必 多 費 氣 力 ； 但 得 智 慧 指 教 ， 便 有 益 處 。",
+      "en": "If an iron axhead is blunt and a workman does not sharpen its edge, he must exert a great deal of effort; so wisdom has the advantage of giving success.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "קֵהָ֣ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "הַבַּרְזֶ֗ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהוּא֙",
+          "morph": "HC/Pp3ms"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "פָנִ֣ים",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "קִלְקַ֔ל",
+          "morph": "HVlp3ms"
+        },
+        {
+          "w": "וַחֲיָלִ֖ים",
+          "morph": "HC/Ncmpa"
+        },
+        {
+          "w": "יְגַבֵּ֑ר",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "וְיִתְר֥וֹן",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הכשיר",
+          "morph": "HVhc"
+        },
+        {
+          "w": "הַכְשֵׁ֖ר",
+          "morph": "HVhc"
+        },
+        {
+          "w": "חָכְמָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "未 行 法 術 以 先 ， 蛇 若 咬 人 ， 後 行 法 術 也 是 無 益 。",
+      "en": "If the snake should bite before it is charmed, the snake charmer is in trouble.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "יִשֹּׁ֥ךְ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "הַנָּחָ֖שׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּלוֹא",
+          "morph": "HR/Tn"
+        },
+        {
+          "w": "לָ֑חַשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאֵ֣ין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִתְר֔וֹן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְבַ֖עַל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַלָּשֽׁוֹן",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "智 慧 人 的 口 說 出 恩 言 ； 愚 昧 人 的 嘴 吞 滅 自 己 。",
+      "en": "The words of a wise person win him favor, but the words of a fool are self-destructive.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דִּבְרֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "פִי",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חָכָ֖ם",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "חֵ֑ן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְשִׂפְת֥וֹת",
+          "morph": "HC/Ncfpc"
+        },
+        {
+          "w": "כְּסִ֖יל",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "תְּבַלְּעֶֽנּוּ",
+          "morph": "HVpi3fs/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "他 口 中 的 言 語 起 頭 是 愚 昧 ； 他 話 的 末 尾 是 奸 惡 的 狂 妄 。",
+      "en": "At the beginning his words are foolish and at the end his talk is wicked madness,",
+      "notes": [],
+      "he": [
+        {
+          "w": "תְּחִלַּ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "דִּבְרֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "פִ֖יהוּ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "סִכְל֑וּת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְאַחֲרִ֣ית",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "פִּ֔יהוּ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "הוֹלֵל֖וּת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "רָעָֽה",
+          "morph": "HAafsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "愚 昧 人 多 有 言 語 ， 人 卻 不 知 將 來 有 甚 麼 事 ； 他 身 後 的 事 誰 能 告 訴 他 呢 ？",
+      "en": "yet a fool keeps on babbling. No one knows what will happen; who can tell him what will happen in the future?",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַסָּכָ֖ל",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "יַרְבֶּ֣ה",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "דְבָרִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יֵדַ֤ע",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "הָאָדָם֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מַה",
+          "morph": "HTi"
+        },
+        {
+          "w": "שֶׁיִּֽהְיֶ֔ה",
+          "morph": "HTr/Vqi3ms"
+        },
+        {
+          "w": "וַאֲשֶׁ֤ר",
+          "morph": "HC/Tr"
+        },
+        {
+          "w": "יִֽהְיֶה֙",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מֵֽאַחֲרָ֔יו",
+          "morph": "HR/R/Sp3ms"
+        },
+        {
+          "w": "מִ֖י",
+          "morph": "HTi"
+        },
+        {
+          "w": "יַגִּ֥יד",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "לֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "凡 愚 昧 人 ， 他 的 勞 碌 使 自 己 困 乏 ， 因 為 連 進 城 的 路 ， 他 也 不 知 道 。",
+      "en": "The toil of a stupid fool wears him out, because he does not even know the way to the city.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֲמַ֥ל",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הַכְּסִילִ֖ים",
+          "morph": "HTd/Aampa"
+        },
+        {
+          "w": "תְּיַגְּעֶ֑נּוּ",
+          "morph": "HVpi3fs/Sp3ms"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָדַ֖ע",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לָלֶ֥כֶת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "עִֽיר",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "邦 國 啊 ， 你 的 王 若 是 孩 童 ， 你 的 群 臣 早 晨 宴 樂 ， 你 就 有 禍 了 ！",
+      "en": "Woe to you, O land, when your king is childish and your princes feast in the morning.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִֽי",
+          "morph": "HTj"
+        },
+        {
+          "w": "לָ֣ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "אֶ֔רֶץ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "שֶׁמַּלְכֵּ֖ךְ",
+          "morph": "HTr/Ncmsc/Sp2fs"
+        },
+        {
+          "w": "נָ֑עַר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְשָׂרַ֖יִךְ",
+          "morph": "HC/Ncmpc/Sp2fs"
+        },
+        {
+          "w": "בַּבֹּ֥קֶר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "יֹאכֵֽלוּ",
+          "morph": "HVqi3mp"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "邦 國 啊 ， 你 的 王 若 是 貴 冑 之 子 ， 你 的 群 臣 按 時 吃 喝 ， 為 要 補 力 ， 不 為 酒 醉 ， 你 就 有 福 了 ！",
+      "en": "Blessed are you, O land, when your king is the son of nobility, and your princes feast at the proper time—with self-control and not in drunkenness.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַשְׁרֵ֣יךְ",
+          "morph": "HNcmpc/Sp2fs"
+        },
+        {
+          "w": "אֶ֔רֶץ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "שֶׁמַּלְכֵּ֖ךְ",
+          "morph": "HTr/Ncmsc/Sp2fs"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חוֹרִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וְשָׂרַ֨יִךְ֙",
+          "morph": "HC/Ncmpc/Sp2fs"
+        },
+        {
+          "w": "בָּעֵ֣ת",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "יֹאכֵ֔לוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "בִּגְבוּרָ֖ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "בַשְּׁתִֽי",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "因 人 懶 惰 ， 房 頂 塌 下 ； 因 人 手 懶 ， 房 屋 滴 漏 。",
+      "en": "Because of laziness the roof caves in, and because of idle hands the house leaks.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בַּעֲצַלְתַּ֖יִם",
+          "morph": "HR/Ncfda"
+        },
+        {
+          "w": "יִמַּ֣ךְ",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "הַמְּקָרֶ֑ה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וּבְשִׁפְל֥וּת",
+          "morph": "HC/R/Ncfsc"
+        },
+        {
+          "w": "יָדַ֖יִם",
+          "morph": "HNcbda"
+        },
+        {
+          "w": "יִדְלֹ֥ף",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "הַבָּֽיִת",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "設 擺 筵 席 是 為 喜 笑 。 酒 能 使 人 快 活 ； 錢 能 叫 萬 事 應 心 。",
+      "en": "Feasts are made for laughter, and wine makes life merry, but money is the answer for everything.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לִשְׂחוֹק֙",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "עֹשִׂ֣ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "לֶ֔חֶם",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וְיַ֖יִן",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "יְשַׂמַּ֣ח",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "חַיִּ֑ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וְהַכֶּ֖סֶף",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "יַעֲנֶ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַכֹּֽל",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "你 不 可 咒 詛 君 王 ， 也 不 可 心 懷 此 念 ； 在 你 臥 房 也 不 可 咒 詛 富 戶 。 因 為 空 中 的 鳥 必 傳 揚 這 聲 音 ， 有 翅 膀 的 也 必 述 說 這 事 。",
+      "en": "Do not curse a king even in your thoughts, and do not curse the rich while in your bedroom; for a bird might report what you are thinking, or some winged creature might repeat your words.",
+      "notes": [],
+      "he": [
+        {
+          "w": "גַּ֣ם",
+          "morph": "HTa"
+        },
+        {
+          "w": "בְּמַדָּֽעֲךָ֗",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "מֶ֚לֶךְ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְּקַלֵּ֔ל",
+          "morph": "HVpj2ms"
+        },
+        {
+          "w": "וּבְחַדְרֵי֙",
+          "morph": "HC/R/Ncmpc"
+        },
+        {
+          "w": "מִשְׁכָּ֣בְךָ֔",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְּקַלֵּ֖ל",
+          "morph": "HVpj2ms"
+        },
+        {
+          "w": "עָשִׁ֑יר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "ע֤וֹף",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׁמַ֨יִם֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "יוֹלִ֣יךְ",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַקּ֔וֹל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וּבַ֥עַל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הכנפים",
+          "morph": "HTd/Ncfda"
+        },
+        {
+          "w": "כְּנָפַ֖יִם",
+          "morph": "HNcfda"
+        },
+        {
+          "w": "יַגֵּ֥יד",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "דָּבָֽר",
+          "morph": "HNcmsa"
+        }
+      ]
+    }
+  ]
+}

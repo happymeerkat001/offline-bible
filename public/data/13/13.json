@@ -1,0 +1,966 @@
+{
+  "book": 13,
+  "chapter": 13,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "大 衛 與 千 夫 長 、 百 夫 長 ， 就 是 一 切 首 領 商 議 。",
+      "en": "David consulted with his military officers, including those who led groups of a thousand and those who led groups of a hundred.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּוָּעַ֣ץ",
+          "morph": "HC/VNw3ms"
+        },
+        {
+          "w": "דָּוִ֗יד",
+          "morph": "HNp"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "שָׂרֵ֧י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָאֲלָפִ֛ים",
+          "morph": "HTd/Acbpa"
+        },
+        {
+          "w": "וְהַמֵּא֖וֹת",
+          "morph": "HC/Td/Acbpa"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "נָגִֽיד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "大 衛 對 以 色 列 全 會 眾 說 ： 你 們 若 以 為 美 ， 見 這 事 是 出 於 耶 和 華 ─ 我 們 的 神 ， 我 們 就 差 遣 人 走 遍 以 色 列 地 ， 見 我 們 未 來 的 弟 兄 ， 又 見 住 在 有 郊 野 之 城 的 祭 司 利 未 人 ， 使 他 們 都 到 這 裡 來 聚 集 。",
+      "en": "David said to the whole Israelite assembly, “If you so desire and the Lord our God approves, let’s spread the word to our brothers who remain in all the regions of Israel, and to the priests and Levites in their cities, so they may join us.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֨אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "דָּוִ֜יד",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְכֹ֣ל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "קְהַ֣ל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֗ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "עֲלֵיכֶ֨ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "ט֜וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֗ינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        },
+        {
+          "w": "נִפְרְצָה֙",
+          "morph": "HVqh1cp"
+        },
+        {
+          "w": "נִשְׁלְחָ֞ה",
+          "morph": "HVqh1cp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "אַחֵ֣ינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        },
+        {
+          "w": "הַנִּשְׁאָרִ֗ים",
+          "morph": "HTd/VNrmpa"
+        },
+        {
+          "w": "בְּכֹל֙",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אַרְצ֣וֹת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעִמָּהֶ֛ם",
+          "morph": "HC/R/Sp3mp"
+        },
+        {
+          "w": "הַכֹּהֲנִ֥ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְהַלְוִיִּ֖ם",
+          "morph": "HC/Td/Ngmpa"
+        },
+        {
+          "w": "בְּעָרֵ֣י",
+          "morph": "HR/Ncfpc"
+        },
+        {
+          "w": "מִגְרְשֵׁיהֶ֑ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "וְיִקָּבְצ֖וּ",
+          "morph": "HC/VNi3mp"
+        },
+        {
+          "w": "אֵלֵֽינוּ",
+          "morph": "HR/Sp1cp"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "我 們 要 把 神 的 約 櫃 運 到 我 們 這 裡 來 ； 因 為 在 掃 羅 年 間 ， 我 們 沒 有 在 約 櫃 前 求 問 　 神 。",
+      "en": "Let’s move the ark of our God back here, for we did not seek his will throughout Saul’s reign.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנָסֵ֛בָּה",
+          "morph": "HC/Vhh1cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲר֥וֹן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אֱלֹהֵ֖ינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        },
+        {
+          "w": "אֵלֵ֑ינוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "דְרַשְׁנֻ֖הוּ",
+          "morph": "HVqp1cp/Sp3ms"
+        },
+        {
+          "w": "בִּימֵ֥י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "שָׁאֽוּל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "全 會 眾 都 說 可 以 如 此 行 ； 這 事 在 眾 民 眼 中 都 看 為 好 。",
+      "en": "The whole assembly agreed to do this, for the proposal seemed right to all the people.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּאמְר֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "כָֽל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַקָּהָ֖ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לַעֲשׂ֣וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "כֵּ֑ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יָשַׁ֥ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "הַדָּבָ֖ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּעֵינֵ֥י",
+          "morph": "HR/Ncbdc"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעָֽם",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "於 是 ， 大 衛 將 以 色 列 人 從 埃 及 的 西 曷 河 直 到 哈 馬 口 都 招 聚 了 來 ， 要 從 基 列 耶 琳 將 神 的 約 櫃 運 來 。",
+      "en": "So David assembled all Israel from the Shihor River in Egypt to Lebo Hamath, to bring the ark of God from Kiriath Jearim.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּקְהֵ֤ל",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "דָּוִיד֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "שִׁיח֥וֹר",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִצְרַ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "לְב֣וֹא",
+          "morph": "HNp"
+        },
+        {
+          "w": "חֲמָ֑ת",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְהָבִיא֙",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲר֣וֹן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הָאֱלֹהִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "מִקִּרְיַ֖ת",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "יְעָרִֽים",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "大 衛 率 領 以 色 列 眾 人 上 到 巴 拉 ， 就 是 屬 猶 大 的 基 列 耶 琳 ， 要 從 那 裡 將 約 櫃 運 來 。 這 約 櫃 就 是 坐 在 二 基 路 伯 上 耶 和 華 神 留 名 的 約 櫃 。",
+      "en": "David and all Israel went up to Baalah (that is, Kiriath Jearim) in Judah to bring up from there the ark of God the Lord, who sits enthroned between the cherubim—the ark that is called by his Name.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּ֨עַל",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "דָּוִ֤יד",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּעֲלָ֔תָה",
+          "morph": "HNp/Sd"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "קִרְיַ֥ת",
+          "morph": "HNp"
+        },
+        {
+          "w": "יְעָרִ֖ים",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לִיהוּדָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לְהַעֲל֣וֹת",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "מִשָּׁ֗ם",
+          "morph": "HR/D"
+        },
+        {
+          "w": "אֵת֩",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲר֨וֹן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הָאֱלֹהִ֧ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "יוֹשֵׁ֥ב",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "הַכְּרוּבִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נִקְרָ֥א",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "שֵֽׁם",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "他 們 將 神 的 約 櫃 從 亞 比 拿 達 的 家 裡 抬 出 來 ， 放 在 新 車 上 。 烏 撒 和 亞 希 約 趕 車 。",
+      "en": "They transported the ark of God on a new cart from the house of Abinadab; Uzzah and Ahio were guiding the cart,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּרְכִּ֜יבוּ",
+          "morph": "HC/Vhw3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲר֤וֹן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הָאֱלֹהִים֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "עֲגָלָ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "חֲדָשָׁ֔ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "מִבֵּ֖ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֲבִינָדָ֑ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעֻזָּ֣א",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְאַחְי֔וֹ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "נֹהֲגִ֖ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "בָּעֲגָלָֽה",
+          "morph": "HRd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "大 衛 和 以 色 列 眾 人 在 神 前 用 琴 、 瑟 、 鑼 、 鼓 、 號 作 樂 ， 極 力 跳 舞 歌 唱 。",
+      "en": "while David and all Israel were energetically celebrating before God, singing and playing various stringed instruments, tambourines, cymbals, and trumpets.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְדָוִ֣יד",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֗ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "מְשַׂחֲקִ֛ים",
+          "morph": "HVprmpa"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "הָאֱלֹהִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עֹ֑ז",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּבְשִׁירִ֤ים",
+          "morph": "HC/R/Ncbpa"
+        },
+        {
+          "w": "וּבְכִנֹּרוֹת֙",
+          "morph": "HC/R/Ncmpa"
+        },
+        {
+          "w": "וּבִנְבָלִ֣ים",
+          "morph": "HC/R/Ncmpa"
+        },
+        {
+          "w": "וּבְתֻפִּ֔ים",
+          "morph": "HC/R/Ncmpa"
+        },
+        {
+          "w": "וּבִמְצִלְתַּ֖יִם",
+          "morph": "HC/R/Ncfda"
+        },
+        {
+          "w": "וּבַחֲצֹצְרֽוֹת",
+          "morph": "HC/R/Ncfpa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "到 了 基 頓 ( 撒 下 六 章 六 節 作 拿 艮 ) 的 禾 場 ； 因 為 牛 失 前 蹄 ( 或 作 驚 跳 ) ， 烏 撒 就 伸 手 扶 住 約 櫃 。",
+      "en": "When they arrived at the threshing floor of Kidon, Uzzah reached out his hand to take hold of the ark because the oxen stumbled.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּבֹ֖אוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "גֹּ֣רֶן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "כִּידֹ֑ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּשְׁלַ֨ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "עֻזָּ֜א",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יָד֗וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "לֶאֱחֹז֙",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָ֣אָר֔וֹן",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "שָֽׁמְט֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "הַבָּקָֽר",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "耶 和 華 向 他 發 怒 ， 因 他 伸 手 扶 住 約 櫃 擊 殺 他 ， 他 就 死 在 神 面 前 。",
+      "en": "The Lord was so furious with Uzzah, he killed him, because he reached out his hand and touched the ark. He died right there before God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּֽחַר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אַ֤ף",
+          "morph": "HTa"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּעֻזָּ֔א",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַיַּכֵּ֕הוּ",
+          "morph": "HC/Vhw3ms/Sp3ms"
+        },
+        {
+          "w": "עַ֛ל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שָׁלַ֥ח",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יָד֖וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָר֑וֹן",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וַיָּ֥מָת",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שָׁ֖ם",
+          "morph": "HD"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "אֱלֹהִֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "大 衛 因 耶 和 華 擊 殺 ( 原 文 作 闖 殺 ) 烏 撒 ， 心 裡 愁 煩 ， 就 稱 那 地 方 為 毗 列 斯 烏 撒 ， 直 到 今 日 。",
+      "en": "David was angry because the Lord attacked Uzzah; so he called that place Perez Uzzah, which remains its name to this very day.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּ֣חַר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לְדָוִ֔יד",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "פָרַ֧ץ",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "פֶּ֖רֶץ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּעֻזָּ֑א",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַיִּקְרָ֞א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לַמָּק֤וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַהוּא֙",
+          "morph": "HTd/Pp3ms"
+        },
+        {
+          "w": "פֶּ֣רֶץ",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֻזָּ֔א",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַ֖ד",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיּ֥וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּֽה",
+          "morph": "HTd/Pdxms"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "那 日 ， 大 衛 懼 怕 神 ， 說 ： 　 神 的 約 櫃 怎 可 運 到 我 這 裡 來 ？",
+      "en": "David was afraid of God that day and said, “How will I ever be able to bring the ark of God up here?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּירָ֤א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "דָוִיד֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָ֣אֱלֹהִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "בַּיּ֥וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַה֖וּא",
+          "morph": "HTd/Pp3ms"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הֵ֚יךְ",
+          "morph": "HTi"
+        },
+        {
+          "w": "אָבִ֣יא",
+          "morph": "HVhi1cs"
+        },
+        {
+          "w": "אֵלַ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "אֵ֖ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲר֥וֹן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הָאֱלֹהִֽים",
+          "morph": "HTd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "於 是 大 衛 不 將 約 櫃 運 進 大 衛 的 城 ， 卻 運 到 迦 特 人 俄 別 以 東 的 家 中 。",
+      "en": "So David did not move the ark to the City of David; he left it in the house of Obed-Edom the Gittite.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלֹֽא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "הֵסִ֨יר",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "דָּוִ֧יד",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָר֛וֹן",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֵלָ֖יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "עִ֣יר",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "דָּוִ֑יד",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיַּטֵּ֕הוּ",
+          "morph": "HC/Vhw3ms/Sp3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּ֥ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֹבֵֽד",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱדֹ֖ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַגִּתִּֽי",
+          "morph": "HTd/Ngmsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "神 的 約 櫃 在 俄 別 以 東 家 中 三 個 月 ， 耶 和 華 賜 福 給 俄 別 以 東 的 家 和 他 一 切 所 有 的 。",
+      "en": "The ark of God remained in Obed-Edom’s house for three months; the Lord blessed Obed-Edom’s family and everything that belonged to him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּשֶׁב֩",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֲר֨וֹן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הָאֱלֹהִ֜ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּ֨ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֹבֵ֥ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱדֹ֛ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּבֵית֖וֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "שְׁלֹשָׁ֣ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "חֳדָשִׁ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וַיְבָ֧רֶךְ",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בֵּ֥ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֹבֵֽד",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱדֹ֖ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    }
+  ]
+}

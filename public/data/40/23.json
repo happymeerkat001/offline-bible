@@ -1,0 +1,3577 @@
+{
+  "book": 40,
+  "chapter": 23,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "那 時 ﹐ 耶 穌 對 眾 人 和 門 徒 講 論 ，",
+      "en": "Then Jesus said to the crowds and to his disciples,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Τότε",
+          "morph": "ADV",
+          "gloss": "Then"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "ἐλάλησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "spoke"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "to the"
+        },
+        {
+          "w": "ὄχλοις",
+          "morph": "N-DPM",
+          "gloss": "crowds"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "to"
+        },
+        {
+          "w": "μαθηταῖς",
+          "morph": "N-DPM",
+          "gloss": "disciples"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "說 ： 文 士 和 法 利 賽 人 坐 在 摩 西 的 位 上 ，",
+      "en": "“The experts in the law and the Pharisees sit on Moses’ seat.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "λέγων",
+          "morph": "V-PAP-NSM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Ἐπὶ",
+          "morph": "PREP",
+          "gloss": "On"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Μωϋσέως",
+          "morph": "N-GSM",
+          "gloss": "Moses’"
+        },
+        {
+          "w": "καθέδρας",
+          "morph": "N-GSF",
+          "gloss": "seat"
+        },
+        {
+          "w": "ἐκάθισαν",
+          "morph": "V-AAI-3P",
+          "gloss": "have sat down"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "γραμματεῖς",
+          "morph": "N-NPM",
+          "gloss": "scribes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "Φαρισαῖοι",
+          "morph": "N-NPM",
+          "gloss": "Pharisees"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "凡 他 們 所 吩 咐 你 們 的 ， 你 們 都 要 謹 守 遵 行 ； 但 不 要 效 法 他 們 的 行 為 ； 因 為 他 們 能 說 ， 不 能 行 。",
+      "en": "Therefore pay attention to what they tell you and do it. But do not do what they do, for they do not practice what they teach.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "πάντα",
+          "morph": "A-APN",
+          "gloss": "All things"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "ὅσα",
+          "morph": "K-APN",
+          "gloss": "how many"
+        },
+        {
+          "w": "ἐὰν",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "εἴπωσιν",
+          "morph": "V-2AAS-3P",
+          "gloss": "they might tell"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "you"
+        },
+        {
+          "w": "ποιήσατε",
+          "morph": "V-AAM-2P",
+          "gloss": "keep"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τηρεῖτε",
+          "morph": "V-PAM-2P",
+          "gloss": "observe"
+        },
+        {
+          "w": "κατὰ",
+          "morph": "PREP",
+          "gloss": "After"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἔργα",
+          "morph": "N-APN",
+          "gloss": "works"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ποιεῖτε",
+          "morph": "V-PAM-2P",
+          "gloss": "do"
+        },
+        {
+          "w": "λέγουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "They speak"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ποιοῦσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "act"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "他 們 把 難 擔 的 重 擔 捆 起 來 ， 擱 在 人 的 肩 上 ， 但 自 己 一 個 指 頭 也 不 肯 動 。",
+      "en": "They tie up heavy loads, hard to carry, and put them on men’s shoulders, but they themselves are not willing even to lift a finger to move them.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "δεσμεύουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "They tie up"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "-"
+        },
+        {
+          "w": "φορτία",
+          "morph": "N-APN",
+          "gloss": "burdens"
+        },
+        {
+          "w": "βαρέα",
+          "morph": "A-APN",
+          "gloss": "heavy"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐπιτιθέασιν",
+          "morph": "V-PAI-3P-ATT",
+          "gloss": "lay [them]"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "on"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "ὤμους",
+          "morph": "N-APM",
+          "gloss": "shoulders"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἀνθρώπων",
+          "morph": "N-GPM",
+          "gloss": "of men"
+        },
+        {
+          "w": "αὐτοὶ",
+          "morph": "P-NPM",
+          "gloss": "themselves"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "with"
+        },
+        {
+          "w": "δακτύλῳ",
+          "morph": "N-DSM",
+          "gloss": "finger"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "θέλουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "are they willing"
+        },
+        {
+          "w": "κινῆσαι",
+          "morph": "V-AAN",
+          "gloss": "to move"
+        },
+        {
+          "w": "αὐτά",
+          "morph": "P-APN",
+          "gloss": "them"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "他 們 一 切 所 做 的 事 都 是 要 叫 人 看 見 ， 所 以 將 佩 戴 的 經 文 做 寬 了 ， 衣 裳 的 繸 子 做 長 了 ，",
+      "en": "They do all their deeds to be seen by people, for they make their phylacteries wide and their tassels long.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "πάντα",
+          "morph": "A-APN",
+          "gloss": "All"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἔργα",
+          "morph": "N-APN",
+          "gloss": "deeds"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "ποιοῦσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "they do"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "in order"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "θεαθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be seen"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἀνθρώποις",
+          "morph": "N-DPM",
+          "gloss": "by men"
+        },
+        {
+          "w": "πλατύνουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "They broaden"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "φυλακτήρια",
+          "morph": "N-APN",
+          "gloss": "phylacteries"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "μεγαλύνουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "enlarge"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "their"
+        },
+        {
+          "w": "κράσπεδα",
+          "morph": "N-APN",
+          "gloss": "tassels"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "喜 愛 筵 席 上 的 首 座 ， 會 堂 裡 的 高 位 ，",
+      "en": "They love the place of honor at banquets and the best seats in the synagogues",
+      "notes": [],
+      "gr": [
+        {
+          "w": "φιλοῦσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "They love"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "πρωτοκλισίαν",
+          "morph": "N-ASF-S",
+          "gloss": "chief place"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "at"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPN",
+          "gloss": "the"
+        },
+        {
+          "w": "δείπνοις",
+          "morph": "N-DPN",
+          "gloss": "banquets"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὰς",
+          "morph": "T-APF",
+          "gloss": "the"
+        },
+        {
+          "w": "πρωτοκαθεδρίας",
+          "morph": "N-APF-S",
+          "gloss": "first seats"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "συναγωγαῖς",
+          "morph": "N-DPF",
+          "gloss": "synagogues"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "又 喜 愛 人 在 街 市 上 問 他 安 ， 稱 呼 他 拉 比 （ 拉 比 就 是 夫 子 ） 。",
+      "en": "and elaborate greetings in the marketplaces and to have people call them ‘Rabbi.’",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀσπασμοὺς",
+          "morph": "N-APM",
+          "gloss": "greetings"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀγοραῖς",
+          "morph": "N-DPF",
+          "gloss": "marketplaces"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "καλεῖσθαι",
+          "morph": "V-PPN",
+          "gloss": "to be called"
+        },
+        {
+          "w": "ὑπὸ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἀνθρώπων",
+          "morph": "N-GPM",
+          "gloss": "men"
+        },
+        {
+          "w": "Ῥαββεί",
+          "morph": "HEB",
+          "gloss": "Rabbi"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "但 你 們 不 要 受 拉 比 的 稱 呼 ， 因 為 只 有 一 位 是 你 們 的 夫 子 ； 你 們 都 是 弟 兄 。",
+      "en": "But you are not to be called ‘Rabbi,’ for you have one Teacher and you are all brothers.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὑμεῖς",
+          "morph": "P-2NP",
+          "gloss": "You"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "κληθῆτε",
+          "morph": "V-APS-2P",
+          "gloss": "shall be called"
+        },
+        {
+          "w": "Ῥαββεί",
+          "morph": "HEB",
+          "gloss": "Rabbi"
+        },
+        {
+          "w": "εἷς",
+          "morph": "A-NSM",
+          "gloss": "One"
+        },
+        {
+          "w": "γάρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "διδάσκαλος",
+          "morph": "N-NSM",
+          "gloss": "Teacher"
+        },
+        {
+          "w": "πάντες",
+          "morph": "A-NPM",
+          "gloss": "all"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ὑμεῖς",
+          "morph": "P-2NP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἀδελφοί",
+          "morph": "N-NPM",
+          "gloss": "brothers"
+        },
+        {
+          "w": "ἐστε",
+          "morph": "V-PAI-2P",
+          "gloss": "are"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "也 不 要 稱 呼 地 上 的 人 為 父 ， 因 為 只 有 一 位 是 你 們 的 父 ， 就 是 在 天 上 的 父 。",
+      "en": "And call no one your ‘father’ on earth, for you have one Father, who is in heaven.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "πατέρα",
+          "morph": "N-ASM",
+          "gloss": "father"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "no [one]"
+        },
+        {
+          "w": "καλέσητε",
+          "morph": "V-AAS-2P",
+          "gloss": "call"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "on"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γῆς",
+          "morph": "N-GSF",
+          "gloss": "earth"
+        },
+        {
+          "w": "εἷς",
+          "morph": "A-NSM",
+          "gloss": "One"
+        },
+        {
+          "w": "γάρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Πατὴρ",
+          "morph": "N-NSM",
+          "gloss": "Father"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "who [is]"
+        },
+        {
+          "w": "οὐράνιος",
+          "morph": "A-NSM",
+          "gloss": "in heaven"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "也 不 要 受 師 尊 的 稱 呼 ， 因 為 只 有 一 位 是 你 們 的 師 尊 ， 就 是 基 督 。",
+      "en": "Nor are you to be called ‘teacher,’ for you have one Teacher, the Christ.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "μηδὲ",
+          "morph": "CONJ-N",
+          "gloss": "Neither"
+        },
+        {
+          "w": "κληθῆτε",
+          "morph": "V-APS-2P",
+          "gloss": "be called"
+        },
+        {
+          "w": "καθηγηταί",
+          "morph": "N-NPM",
+          "gloss": "instructors"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "since"
+        },
+        {
+          "w": "καθηγητὴς",
+          "morph": "N-NSM",
+          "gloss": "[the] instructor"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "εἷς",
+          "morph": "A-NSM",
+          "gloss": "One"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Χριστός",
+          "morph": "N-NSM",
+          "gloss": "Christ"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "你 們 中 間 誰 為 大 ， 誰 就 要 作 你 們 的 用 人 。",
+      "en": "The greatest among you will be your servant.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "μείζων",
+          "morph": "A-NSM-C",
+          "gloss": "the greatest"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "among you"
+        },
+        {
+          "w": "ἔσται",
+          "morph": "V-FDI-3S",
+          "gloss": "will be"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "your"
+        },
+        {
+          "w": "διάκονος",
+          "morph": "N-NSM",
+          "gloss": "servant"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "凡 自 高 的 ， 必 降 為 卑 ； 自 卑 的 ， 必 升 為 高 。",
+      "en": "And whoever exalts himself will be humbled, and whoever humbles himself will be exalted.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ὅστις",
+          "morph": "R-NSM",
+          "gloss": "He who"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ὑψώσει",
+          "morph": "V-FAI-3S",
+          "gloss": "shall exalt"
+        },
+        {
+          "w": "ἑαυτὸν",
+          "morph": "F-3ASM",
+          "gloss": "himself"
+        },
+        {
+          "w": "ταπεινωθήσεται",
+          "morph": "V-FPI-3S",
+          "gloss": "will be humbled"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὅστις",
+          "morph": "R-NSM",
+          "gloss": "whoever"
+        },
+        {
+          "w": "ταπεινώσει",
+          "morph": "V-FAI-3S",
+          "gloss": "shall humble"
+        },
+        {
+          "w": "ἑαυτὸν",
+          "morph": "F-3ASM",
+          "gloss": "himself"
+        },
+        {
+          "w": "ὑψωθήσεται",
+          "morph": "V-FPI-3S",
+          "gloss": "will be exalted"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "你 們 這 假 冒 為 善 的 文 士 和 法 利 賽 人 有 禍 了 ！ 因 為 你 們 正 當 人 前 ， 把 天 國 的 門 關 了 ， 自 己 不 進 去 ， 正 要 進 去 的 人 ， 你 們 也 不 容 他 們 進 去 。 （ 有 古 卷 在 此 有",
+      "en": "“But woe to you, experts in the law and you Pharisees, hypocrites! You keep locking people out of the kingdom of heaven! For you neither enter nor permit those trying to enter to go in.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Οὐαὶ",
+          "morph": "INJ",
+          "gloss": "Woe"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "γραμματεῖς",
+          "morph": "N-VPM",
+          "gloss": "scribes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Φαρισαῖοι",
+          "morph": "N-VPM",
+          "gloss": "Pharisees"
+        },
+        {
+          "w": "ὑποκριταί",
+          "morph": "N-VPM",
+          "gloss": "hypocrites"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "For"
+        },
+        {
+          "w": "κλείετε",
+          "morph": "V-PAI-2P",
+          "gloss": "you shut up"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "βασιλείαν",
+          "morph": "N-ASF",
+          "gloss": "kingdom"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "οὐρανῶν",
+          "morph": "N-GPM",
+          "gloss": "heavens"
+        },
+        {
+          "w": "ἔμπροσθεν",
+          "morph": "PREP",
+          "gloss": "before"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἀνθρώπων",
+          "morph": "N-GPM",
+          "gloss": "men"
+        },
+        {
+          "w": "ὑμεῖς",
+          "morph": "P-2NP",
+          "gloss": "You"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "neither"
+        },
+        {
+          "w": "εἰσέρχεσθε",
+          "morph": "V-PNI-2P",
+          "gloss": "enter"
+        },
+        {
+          "w": "οὐδὲ",
+          "morph": "CONJ-N",
+          "gloss": "nor even"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "those who"
+        },
+        {
+          "w": "εἰσερχομένους",
+          "morph": "V-PNP-APM",
+          "gloss": "are entering"
+        },
+        {
+          "w": "ἀφίετε",
+          "morph": "V-PAI-2P",
+          "gloss": "do you allow"
+        },
+        {
+          "w": "εἰσελθεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to go in"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "你 們 這 假 冒 為 善 的 文 士 和 法 利 賽 人 有 禍 了 ！ 因 為 你 們 侵 吞 寡 婦 的 家 產 ， 假 意 做 很 長 的 禱 告 ， 所 以 要 受 更 重 的 刑 罰 。 ）",
+      "en": "",
+      "notes": [],
+      "gr": []
+    },
+    {
+      "v": 15,
+      "zh": "你 們 這 假 冒 為 善 的 文 士 和 法 利 賽 人 有 禍 了 ！ 因 為 你 們 走 遍 洋 海 陸 地 ， 勾 引 一 個 人 入 教 ， 既 入 了 教 ， 卻 使 他 作 地 獄 之 子 ， 比 你 們 還 加 倍 。",
+      "en": "“Woe to you, experts in the law and you Pharisees, hypocrites! You cross land and sea to make one convert, and when you get one, you make him twice as much a child of hell as yourselves!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Οὐαὶ",
+          "morph": "INJ",
+          "gloss": "Woe"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "γραμματεῖς",
+          "morph": "N-VPM",
+          "gloss": "scribes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Φαρισαῖοι",
+          "morph": "N-VPM",
+          "gloss": "Pharisees"
+        },
+        {
+          "w": "ὑποκριταί",
+          "morph": "N-VPM",
+          "gloss": "hypocrites"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "For"
+        },
+        {
+          "w": "περιάγετε",
+          "morph": "V-PAI-2P",
+          "gloss": "you traverse"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "θάλασσαν",
+          "morph": "N-ASF",
+          "gloss": "sea"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ξηρὰν",
+          "morph": "A-ASF",
+          "gloss": "dry [land]"
+        },
+        {
+          "w": "ποιῆσαι",
+          "morph": "V-AAN",
+          "gloss": "to make"
+        },
+        {
+          "w": "ἕνα",
+          "morph": "A-ASM",
+          "gloss": "one"
+        },
+        {
+          "w": "προσήλυτον",
+          "morph": "N-ASM",
+          "gloss": "convert"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὅταν",
+          "morph": "CONJ",
+          "gloss": "when"
+        },
+        {
+          "w": "γένηται",
+          "morph": "V-2ADS-3S",
+          "gloss": "he has become [so]"
+        },
+        {
+          "w": "ποιεῖτε",
+          "morph": "V-PAI-2P",
+          "gloss": "you make"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "υἱὸν",
+          "morph": "N-ASM",
+          "gloss": "a son"
+        },
+        {
+          "w": "γεέννης",
+          "morph": "N-GSF",
+          "gloss": "of hell"
+        },
+        {
+          "w": "διπλότερον",
+          "morph": "A-ASM-C",
+          "gloss": "twofold more"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "than yourselves"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "你 們 這 瞎 眼 領 路 的 有 禍 了 ！ 你 們 說 ： 凡 指 著 殿 起 誓 的 ， 這 算 不 得 甚 麼 ； 只 是 凡 指 著 殿 中 金 子 起 誓 的 ， 他 就 該 謹 守 。",
+      "en": "“Woe to you, blind guides, who say, ‘Whoever swears by the temple is bound by nothing. But whoever swears by the gold of the temple is bound by the oath.’",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Οὐαὶ",
+          "morph": "INJ",
+          "gloss": "Woe"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "ὁδηγοὶ",
+          "morph": "N-VPM",
+          "gloss": "guides"
+        },
+        {
+          "w": "τυφλοὶ",
+          "morph": "A-VPM",
+          "gloss": "blind"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "those"
+        },
+        {
+          "w": "λέγοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Ὃς",
+          "morph": "R-NSM",
+          "gloss": "Whoever"
+        },
+        {
+          "w": "ἂν",
+          "morph": "PRT",
+          "gloss": "-"
+        },
+        {
+          "w": "ὀμόσῃ",
+          "morph": "V-AAS-3S",
+          "gloss": "shall swear"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ναῷ",
+          "morph": "N-DSM",
+          "gloss": "temple"
+        },
+        {
+          "w": "οὐδέν",
+          "morph": "A-NSN-N",
+          "gloss": "nothing"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "it is"
+        },
+        {
+          "w": "ὃς",
+          "morph": "R-NSM",
+          "gloss": "whoever"
+        },
+        {
+          "w": "δ’",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ἂν",
+          "morph": "PRT",
+          "gloss": "-"
+        },
+        {
+          "w": "ὀμόσῃ",
+          "morph": "V-AAS-3S",
+          "gloss": "shall swear"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "χρυσῷ",
+          "morph": "N-DSM",
+          "gloss": "gold"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "ναοῦ",
+          "morph": "N-GSM",
+          "gloss": "temple"
+        },
+        {
+          "w": "ὀφείλει",
+          "morph": "V-PAI-3S",
+          "gloss": "is bound by his oath"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "你 們 這 無 知 瞎 眼 的 人 哪 ， 甚 麼 是 大 的 ？ 是 金 子 呢 ？ 還 是 叫 金 子 成 聖 的 殿 呢 ？",
+      "en": "Blind fools! Which is greater, the gold or the temple that makes the gold sacred?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "μωροὶ",
+          "morph": "A-VPM",
+          "gloss": "Foolish"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τυφλοί",
+          "morph": "A-VPM",
+          "gloss": "blind"
+        },
+        {
+          "w": "τίς",
+          "morph": "I-NSM",
+          "gloss": "Which"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "μείζων",
+          "morph": "A-NSM-C",
+          "gloss": "greater"
+        },
+        {
+          "w": "ἐστίν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "χρυσὸς",
+          "morph": "N-NSM",
+          "gloss": "gold"
+        },
+        {
+          "w": "ἢ",
+          "morph": "PRT",
+          "gloss": "or"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ναὸς",
+          "morph": "N-NSM",
+          "gloss": "temple"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἁγιάσας",
+          "morph": "V-AAP-NSM",
+          "gloss": "having sanctified"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "χρυσόν",
+          "morph": "N-ASM",
+          "gloss": "gold"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "你 們 又 說 ： 凡 指 著 壇 起 誓 的 ， 這 算 不 得 甚 麼 ； 只 是 凡 指 著 壇 上 禮 物 起 誓 的 ， 他 就 該 謹 守 。",
+      "en": "And, ‘Whoever swears by the altar is bound by nothing. But if anyone swears by the gift on it he is bound by the oath.’",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καί",
+          "morph": "CONJ",
+          "gloss": "And [you say]"
+        },
+        {
+          "w": "Ὃς",
+          "morph": "R-NSM",
+          "gloss": "Whoever"
+        },
+        {
+          "w": "ἂν",
+          "morph": "PRT",
+          "gloss": "-"
+        },
+        {
+          "w": "ὀμόσῃ",
+          "morph": "V-AAS-3S",
+          "gloss": "shall swear"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "the"
+        },
+        {
+          "w": "θυσιαστηρίῳ",
+          "morph": "N-DSN",
+          "gloss": "altar"
+        },
+        {
+          "w": "οὐδέν",
+          "morph": "A-NSN-N",
+          "gloss": "nothing"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "it is"
+        },
+        {
+          "w": "ὃς",
+          "morph": "R-NSM",
+          "gloss": "whoever"
+        },
+        {
+          "w": "δ’",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ἂν",
+          "morph": "PRT",
+          "gloss": "-"
+        },
+        {
+          "w": "ὀμόσῃ",
+          "morph": "V-AAS-3S",
+          "gloss": "shall swear"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "the"
+        },
+        {
+          "w": "δώρῳ",
+          "morph": "N-DSN",
+          "gloss": "gift"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "that [is]"
+        },
+        {
+          "w": "ἐπάνω",
+          "morph": "ADV",
+          "gloss": "upon"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSN",
+          "gloss": "it"
+        },
+        {
+          "w": "ὀφείλει",
+          "morph": "V-PAI-3S",
+          "gloss": "he is bound by his oath"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "你 們 這 瞎 眼 的 人 哪 ， 甚 麼 是 大 的 ？ 是 禮 物 呢 ？ 還 是 叫 禮 物 成 聖 的 壇 呢 ？",
+      "en": "You are blind! For which is greater, the gift or the altar that makes the gift sacred?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τυφλοί",
+          "morph": "A-VPM",
+          "gloss": "You blind men"
+        },
+        {
+          "w": "τί",
+          "morph": "I-NSN",
+          "gloss": "Which"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "μεῖζον",
+          "morph": "A-NSN-C",
+          "gloss": "[is] greater"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "δῶρον",
+          "morph": "N-NSN",
+          "gloss": "gift"
+        },
+        {
+          "w": "ἢ",
+          "morph": "PRT",
+          "gloss": "or"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "θυσιαστήριον",
+          "morph": "N-NSN",
+          "gloss": "altar"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "-"
+        },
+        {
+          "w": "ἁγιάζον",
+          "morph": "V-PAP-NSN",
+          "gloss": "sanctifying"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "δῶρον",
+          "morph": "N-ASN",
+          "gloss": "gift"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "所 以 ， 人 指 著 壇 起 誓 ， 就 是 指 著 壇 和 壇 上 一 切 所 有 的 起 誓 ；",
+      "en": "So whoever swears by the altar swears by it and by everything on it.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "The [one]"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "ὀμόσας",
+          "morph": "V-AAP-NSM",
+          "gloss": "having sworn"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "the"
+        },
+        {
+          "w": "θυσιαστηρίῳ",
+          "morph": "N-DSN",
+          "gloss": "altar"
+        },
+        {
+          "w": "ὀμνύει",
+          "morph": "V-PAI-3S",
+          "gloss": "swears"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSN",
+          "gloss": "it"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "πᾶσι",
+          "morph": "A-DPN",
+          "gloss": "all things"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPN",
+          "gloss": "that [are]"
+        },
+        {
+          "w": "ἐπάνω",
+          "morph": "ADV",
+          "gloss": "upon"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSN",
+          "gloss": "it"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "人 指 著 殿 起 誓 ， 就 是 指 著 殿 和 那 住 在 殿 裡 的 起 誓 ；",
+      "en": "And whoever swears by the temple swears by it and the one who dwells in it.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [one]"
+        },
+        {
+          "w": "ὀμόσας",
+          "morph": "V-AAP-NSM",
+          "gloss": "having sworn"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ναῷ",
+          "morph": "N-DSM",
+          "gloss": "temple"
+        },
+        {
+          "w": "ὀμνύει",
+          "morph": "V-PAI-3S",
+          "gloss": "swears"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "it"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the [One]"
+        },
+        {
+          "w": "κατοικοῦντι",
+          "morph": "V-PAP-DSM",
+          "gloss": "dwelling"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "in it"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "人 指 著 天 起 誓 ， 就 是 指 著 神 的 寶 座 和 那 坐 在 上 面 的 起 誓 。",
+      "en": "And whoever swears by heaven swears by the throne of God and the one who sits on it.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [one]"
+        },
+        {
+          "w": "ὀμόσας",
+          "morph": "V-AAP-NSM",
+          "gloss": "having sworn"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "οὐρανῷ",
+          "morph": "N-DSM",
+          "gloss": "heaven"
+        },
+        {
+          "w": "ὀμνύει",
+          "morph": "V-PAI-3S",
+          "gloss": "swears"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "θρόνῳ",
+          "morph": "N-DSM",
+          "gloss": "throne"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the [One]"
+        },
+        {
+          "w": "καθημένῳ",
+          "morph": "V-PNP-DSM",
+          "gloss": "sitting"
+        },
+        {
+          "w": "ἐπάνω",
+          "morph": "ADV",
+          "gloss": "upon"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "it"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "你 們 這 假 冒 為 善 的 文 士 和 法 利 賽 人 有 禍 了 ！ 因 為 你 們 將 薄 荷 、 茴 香 、 芹 菜 ， 獻 上 十 分 之 一 ， 那 律 法 上 更 重 的 事 ， 就 是 公 義 、 憐 憫 、 信 實 ， 反 倒 不 行 了 。 這 更 重 的 是 你 們 當 行 的 ； 那 也 是 不 可 不 行 的 。",
+      "en": "“Woe to you, experts in the law and you Pharisees, hypocrites! You give a tenth of mint, dill, and cumin, yet you neglect what is more important in the law—justice, mercy, and faithfulness! You should have done these things without neglecting the others.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Οὐαὶ",
+          "morph": "INJ",
+          "gloss": "Woe"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "γραμματεῖς",
+          "morph": "N-VPM",
+          "gloss": "scribes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Φαρισαῖοι",
+          "morph": "N-VPM",
+          "gloss": "Pharisees"
+        },
+        {
+          "w": "ὑποκριταί",
+          "morph": "N-VPM",
+          "gloss": "hypocrites"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "For"
+        },
+        {
+          "w": "ἀποδεκατοῦτε",
+          "morph": "V-PAI-2P",
+          "gloss": "you pay tithes of"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "ἡδύοσμον",
+          "morph": "N-ASN",
+          "gloss": "mint"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "ἄνηθον",
+          "morph": "N-ASN",
+          "gloss": "dill"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "κύμινον",
+          "morph": "N-ASN",
+          "gloss": "cummin"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀφήκατε",
+          "morph": "V-AAI-2P",
+          "gloss": "you have neglected"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "βαρύτερα",
+          "morph": "A-APN-C",
+          "gloss": "weightier [matters]"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "νόμου",
+          "morph": "N-GSM",
+          "gloss": "law"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "-"
+        },
+        {
+          "w": "κρίσιν",
+          "morph": "N-ASF",
+          "gloss": "justice"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "ἔλεος",
+          "morph": "N-ASN",
+          "gloss": "mercy"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "-"
+        },
+        {
+          "w": "πίστιν",
+          "morph": "N-ASF",
+          "gloss": "faithfulness"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-APN",
+          "gloss": "These"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ἔδει",
+          "morph": "V-IAI-3S",
+          "gloss": "it behooved you"
+        },
+        {
+          "w": "ποιῆσαι",
+          "morph": "V-AAN",
+          "gloss": "to do"
+        },
+        {
+          "w": "κἀκεῖνα",
+          "morph": "D-APN-K",
+          "gloss": "those"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἀφεῖναι",
+          "morph": "V-AAN",
+          "gloss": "to be leaving aside"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "你 們 這 瞎 眼 領 路 的 ， 蠓 蟲 你 們 就 濾 出 來 ， 駱 駝 你 們 倒 吞 下 去 。",
+      "en": "Blind guides! You strain out a gnat yet swallow a camel!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁδηγοὶ",
+          "morph": "N-VPM",
+          "gloss": "Guides"
+        },
+        {
+          "w": "τυφλοί",
+          "morph": "A-VPM",
+          "gloss": "blind"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "Those"
+        },
+        {
+          "w": "διϋλίζοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "straining out"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "κώνωπα",
+          "morph": "N-ASM",
+          "gloss": "gnat"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "κάμηλον",
+          "morph": "N-ASF",
+          "gloss": "camel"
+        },
+        {
+          "w": "καταπίνοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "swallowing"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "你 們 這 假 冒 為 善 的 文 士 和 法 利 賽 人 有 禍 了 ！ 因 為 你 們 洗 淨 杯 盤 的 外 面 ， 裡 面 卻 盛 滿 了 勒 索 和 放 蕩 。",
+      "en": "“Woe to you, experts in the law and you Pharisees, hypocrites! You clean the outside of the cup and the dish, but inside they are full of greed and self-indulgence.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Οὐαὶ",
+          "morph": "INJ",
+          "gloss": "Woe"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "γραμματεῖς",
+          "morph": "N-VPM",
+          "gloss": "scribes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Φαρισαῖοι",
+          "morph": "N-VPM",
+          "gloss": "Pharisees"
+        },
+        {
+          "w": "ὑποκριταί",
+          "morph": "N-VPM",
+          "gloss": "hypocrites"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "For"
+        },
+        {
+          "w": "καθαρίζετε",
+          "morph": "V-PAI-2P",
+          "gloss": "you cleanse"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἔξωθεν",
+          "morph": "ADV",
+          "gloss": "outside"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "of the"
+        },
+        {
+          "w": "ποτηρίου",
+          "morph": "N-GSN",
+          "gloss": "cup"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "παροψίδος",
+          "morph": "N-GSF",
+          "gloss": "dish"
+        },
+        {
+          "w": "ἔσωθεν",
+          "morph": "ADV",
+          "gloss": "inside"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "γέμουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "they are full"
+        },
+        {
+          "w": "ἐξ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "ἁρπαγῆς",
+          "morph": "N-GSF",
+          "gloss": "greed"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀκρασίας",
+          "morph": "N-GSF",
+          "gloss": "self-indulgence"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "你 這 瞎 眼 的 法 利 賽 人 ， 先 洗 淨 杯 盤 的 裡 面 ， 好 叫 外 面 也 乾 淨 了 。",
+      "en": "Blind Pharisee! First clean the inside of the cup, so that the outside may become clean too!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Φαρισαῖε",
+          "morph": "N-VSM",
+          "gloss": "Pharisee"
+        },
+        {
+          "w": "τυφλέ",
+          "morph": "A-VSM",
+          "gloss": "blind"
+        },
+        {
+          "w": "καθάρισον",
+          "morph": "V-AAM-2S",
+          "gloss": "Cleanse"
+        },
+        {
+          "w": "πρῶτον",
+          "morph": "ADV-S",
+          "gloss": "first"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐντὸς",
+          "morph": "ADV",
+          "gloss": "inside"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "of the"
+        },
+        {
+          "w": "ποτηρίου",
+          "morph": "N-GSN",
+          "gloss": "cup"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "γένηται",
+          "morph": "V-2ADS-3S",
+          "gloss": "might become"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐκτὸς",
+          "morph": "ADV",
+          "gloss": "outside"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSN",
+          "gloss": "of them"
+        },
+        {
+          "w": "καθαρόν",
+          "morph": "A-NSN",
+          "gloss": "clean"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "你 們 這 假 冒 為 善 的 文 士 和 法 利 賽 人 有 禍 了 ！ 因 為 你 們 好 像 粉 飾 的 墳 墓 ， 外 面 好 看 ， 裡 面 卻 裝 滿 了 死 人 的 骨 頭 和 一 切 的 污 穢 。",
+      "en": "“Woe to you, experts in the law and you Pharisees, hypocrites! You are like whitewashed tombs that look beautiful on the outside but inside are full of the bones of the dead and of everything unclean.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Οὐαὶ",
+          "morph": "INJ",
+          "gloss": "Woe"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "γραμματεῖς",
+          "morph": "N-VPM",
+          "gloss": "scribes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Φαρισαῖοι",
+          "morph": "N-VPM",
+          "gloss": "Pharisees"
+        },
+        {
+          "w": "ὑποκριταί",
+          "morph": "N-VPM",
+          "gloss": "hypocrites"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "For"
+        },
+        {
+          "w": "παρομοιάζετε",
+          "morph": "V-PAI-2P",
+          "gloss": "you are like"
+        },
+        {
+          "w": "τάφοις",
+          "morph": "N-DPM",
+          "gloss": "tombs"
+        },
+        {
+          "w": "κεκονιαμένοις",
+          "morph": "V-RPP-DPM",
+          "gloss": "having been whitewashed"
+        },
+        {
+          "w": "οἵτινες",
+          "morph": "R-NPM",
+          "gloss": "which"
+        },
+        {
+          "w": "ἔξωθεν",
+          "morph": "ADV",
+          "gloss": "outwardly"
+        },
+        {
+          "w": "μὲν",
+          "morph": "PRT",
+          "gloss": "indeed"
+        },
+        {
+          "w": "φαίνονται",
+          "morph": "V-PEI-3P",
+          "gloss": "appear"
+        },
+        {
+          "w": "ὡραῖοι",
+          "morph": "A-NPM",
+          "gloss": "beautiful"
+        },
+        {
+          "w": "ἔσωθεν",
+          "morph": "ADV",
+          "gloss": "Inside"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "γέμουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "they are full"
+        },
+        {
+          "w": "ὀστέων",
+          "morph": "N-GPN",
+          "gloss": "of bones"
+        },
+        {
+          "w": "νεκρῶν",
+          "morph": "A-GPM",
+          "gloss": "of [the] dead"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πάσης",
+          "morph": "A-GSF",
+          "gloss": "of all"
+        },
+        {
+          "w": "ἀκαθαρσίας",
+          "morph": "N-GSF",
+          "gloss": "impurity"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "你 們 也 是 如 此 ， 在 人 前 ， 外 面 顯 出 公 義 來 ， 裡 面 卻 裝 滿 了 假 善 和 不 法 的 事 。",
+      "en": "In the same way, on the outside you look righteous to people, but inside you are full of hypocrisy and lawlessness.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὕτως",
+          "morph": "ADV",
+          "gloss": "Thus"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ὑμεῖς",
+          "morph": "P-2NP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἔξωθεν",
+          "morph": "ADV",
+          "gloss": "outwardly"
+        },
+        {
+          "w": "μὲν",
+          "morph": "PRT",
+          "gloss": "indeed"
+        },
+        {
+          "w": "φαίνεσθε",
+          "morph": "V-PPI-2P",
+          "gloss": "appear"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἀνθρώποις",
+          "morph": "N-DPM",
+          "gloss": "to men"
+        },
+        {
+          "w": "δίκαιοι",
+          "morph": "A-NPM",
+          "gloss": "righteous"
+        },
+        {
+          "w": "ἔσωθεν",
+          "morph": "ADV",
+          "gloss": "inwardly"
+        },
+        {
+          "w": "δέ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ἐστε",
+          "morph": "V-PAI-2P",
+          "gloss": "you are"
+        },
+        {
+          "w": "μεστοὶ",
+          "morph": "A-NPM",
+          "gloss": "full"
+        },
+        {
+          "w": "ὑποκρίσεως",
+          "morph": "N-GSF",
+          "gloss": "of hypocrisy"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀνομίας",
+          "morph": "N-GSF",
+          "gloss": "lawlessness"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "你 們 這 假 冒 為 善 的 文 士 和 法 利 賽 人 有 禍 了 ！ 因 為 你 們 建 造 先 知 的 墳 ， 修 飾 義 人 的 墓 ， 說 ：",
+      "en": "“Woe to you, experts in the law and you Pharisees, hypocrites! You build tombs for the prophets and decorate the graves of the righteous.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Οὐαὶ",
+          "morph": "INJ",
+          "gloss": "Woe"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "γραμματεῖς",
+          "morph": "N-VPM",
+          "gloss": "scribes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Φαρισαῖοι",
+          "morph": "N-VPM",
+          "gloss": "Pharisees"
+        },
+        {
+          "w": "ὑποκριταί",
+          "morph": "N-VPM",
+          "gloss": "hypocrites"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "For"
+        },
+        {
+          "w": "οἰκοδομεῖτε",
+          "morph": "V-PAI-2P",
+          "gloss": "you build"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "τάφους",
+          "morph": "N-APM",
+          "gloss": "tombs"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "προφητῶν",
+          "morph": "N-GPM",
+          "gloss": "prophets"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "κοσμεῖτε",
+          "morph": "V-PAI-2P",
+          "gloss": "adorn"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "μνημεῖα",
+          "morph": "N-APN",
+          "gloss": "monuments"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "δικαίων",
+          "morph": "A-GPM",
+          "gloss": "righteous"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "若 是 我 們 在 我 們 祖 宗 的 時 候 ， 必 不 和 他 們 同 流 先 知 的 血 。",
+      "en": "And you say, ‘If we had lived in the days of our ancestors, we would not have participated with them in shedding the blood of the prophets.’",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "λέγετε",
+          "morph": "V-PAI-2P",
+          "gloss": "you say"
+        },
+        {
+          "w": "Εἰ",
+          "morph": "COND",
+          "gloss": "If"
+        },
+        {
+          "w": "ἤμεθα",
+          "morph": "V-IMI-1P",
+          "gloss": "we had lived"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἡμέραις",
+          "morph": "N-DPF",
+          "gloss": "days"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "πατέρων",
+          "morph": "N-GPM",
+          "gloss": "fathers"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἂν",
+          "morph": "PRT",
+          "gloss": "-"
+        },
+        {
+          "w": "ἤμεθα",
+          "morph": "V-IMI-1P",
+          "gloss": "we would have been"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "with them"
+        },
+        {
+          "w": "κοινωνοὶ",
+          "morph": "N-NPM",
+          "gloss": "partakers"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "the"
+        },
+        {
+          "w": "αἵματι",
+          "morph": "N-DSN",
+          "gloss": "blood"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "προφητῶν",
+          "morph": "N-GPM",
+          "gloss": "prophets"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "這 就 是 你 們 自 己 證 明 是 殺 害 先 知 者 的 子 孫 了 。",
+      "en": "By saying this you testify against yourselves that you are descendants of those who murdered the prophets.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὥστε",
+          "morph": "CONJ",
+          "gloss": "Thus"
+        },
+        {
+          "w": "μαρτυρεῖτε",
+          "morph": "V-PAI-2P",
+          "gloss": "you bear witness"
+        },
+        {
+          "w": "ἑαυτοῖς",
+          "morph": "F-2DPM",
+          "gloss": "to yourselves"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "υἱοί",
+          "morph": "N-NPM",
+          "gloss": "sons"
+        },
+        {
+          "w": "ἐστε",
+          "morph": "V-PAI-2P",
+          "gloss": "you are"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of those"
+        },
+        {
+          "w": "φονευσάντων",
+          "morph": "V-AAP-GPM",
+          "gloss": "having murdered"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "προφήτας",
+          "morph": "N-APM",
+          "gloss": "prophets"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "你 們 去 充 滿 你 們 祖 宗 的 惡 貫 罷 ！",
+      "en": "Fill up then the measure of your ancestors!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ὑμεῖς",
+          "morph": "P-2NP",
+          "gloss": "you"
+        },
+        {
+          "w": "πληρώσατε",
+          "morph": "V-AAM-2P",
+          "gloss": "fill up"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "μέτρον",
+          "morph": "N-ASN",
+          "gloss": "measure"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "πατέρων",
+          "morph": "N-GPM",
+          "gloss": "fathers"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "你 們 這 些 蛇 類 、 毒 蛇 之 種 阿 ， 怎 能 逃 脫 地 獄 ? 的 刑 罰 呢 ？",
+      "en": "You snakes, you offspring of vipers! How will you escape being condemned to hell?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὄφεις",
+          "morph": "N-VPM",
+          "gloss": "Serpents"
+        },
+        {
+          "w": "γεννήματα",
+          "morph": "N-VPN",
+          "gloss": "Offspring"
+        },
+        {
+          "w": "ἐχιδνῶν",
+          "morph": "N-GPF",
+          "gloss": "of vipers"
+        },
+        {
+          "w": "πῶς",
+          "morph": "ADV-I",
+          "gloss": "How"
+        },
+        {
+          "w": "φύγητε",
+          "morph": "V-2AAS-2P",
+          "gloss": "shall you escape"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "κρίσεως",
+          "morph": "N-GSF",
+          "gloss": "sentence"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "γεέννης",
+          "morph": "N-GSF",
+          "gloss": "of hell"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "所 以 我 差 遣 先 知 和 智 慧 人 並 文 士 到 你 們 這 裡 來 ， 有 的 你 們 要 殺 害 ， 要 釘 十 字 架 ； 有 的 你 們 要 在 會 堂 裡 鞭 打 ， 從 這 城 追 逼 到 那 城 ，",
+      "en": "“For this reason I am sending you prophets and wise men and experts in the law, some of whom you will kill and crucify, and some you will flog in your synagogues and pursue from town to town,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "Because of"
+        },
+        {
+          "w": "τοῦτο",
+          "morph": "D-ASN",
+          "gloss": "this"
+        },
+        {
+          "w": "ἰδοὺ",
+          "morph": "V-2AMM-2S",
+          "gloss": "behold"
+        },
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "ἀποστέλλω",
+          "morph": "V-PAI-1S",
+          "gloss": "send"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "προφήτας",
+          "morph": "N-APM",
+          "gloss": "prophets"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "σοφοὺς",
+          "morph": "A-APM",
+          "gloss": "wise [men]"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "γραμματεῖς",
+          "morph": "N-APM",
+          "gloss": "scribes"
+        },
+        {
+          "w": "ἐξ",
+          "morph": "PREP",
+          "gloss": "Some of"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "them"
+        },
+        {
+          "w": "ἀποκτενεῖτε",
+          "morph": "V-FAI-2P",
+          "gloss": "you will kill"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "σταυρώσετε",
+          "morph": "V-FAI-2P",
+          "gloss": "will crucify"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and [some]"
+        },
+        {
+          "w": "ἐξ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "them"
+        },
+        {
+          "w": "μαστιγώσετε",
+          "morph": "V-FAI-2P",
+          "gloss": "you will flog"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "συναγωγαῖς",
+          "morph": "N-DPF",
+          "gloss": "synagogues"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "διώξετε",
+          "morph": "V-FAI-2P",
+          "gloss": "will persecute"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "πόλεως",
+          "morph": "N-GSF",
+          "gloss": "town"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "πόλιν",
+          "morph": "N-ASF",
+          "gloss": "town"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "叫 世 上 所 流 義 人 的 血 都 歸 到 你 們 身 上 ， 從 義 人 亞 伯 的 血 起 ， 直 到 你 們 在 殿 和 壇 中 間 所 殺 的 巴 拉 加 的 兒 子 撒 迦 利 亞 的 血 為 止 。",
+      "en": "so that on you will come all the righteous blood shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Barachiah, whom you murdered between the temple and the altar.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅπως",
+          "morph": "ADV",
+          "gloss": "so that"
+        },
+        {
+          "w": "ἔλθῃ",
+          "morph": "V-2AAS-3S",
+          "gloss": "shall come"
+        },
+        {
+          "w": "ἐφ’",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "πᾶν",
+          "morph": "A-NSN",
+          "gloss": "all [the]"
+        },
+        {
+          "w": "αἷμα",
+          "morph": "N-NSN",
+          "gloss": "blood"
+        },
+        {
+          "w": "δίκαιον",
+          "morph": "A-NSN",
+          "gloss": "righteous"
+        },
+        {
+          "w": "ἐκχυννόμενον",
+          "morph": "V-PPP-NSN",
+          "gloss": "being poured out"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γῆς",
+          "morph": "N-GSF",
+          "gloss": "earth"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "the"
+        },
+        {
+          "w": "αἵματος",
+          "morph": "N-GSN",
+          "gloss": "blood"
+        },
+        {
+          "w": "Ἅβελ",
+          "morph": "N-PRI",
+          "gloss": "of Abel"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "δικαίου",
+          "morph": "A-GSM",
+          "gloss": "righteous"
+        },
+        {
+          "w": "ἕως",
+          "morph": "ADV",
+          "gloss": "to"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "the"
+        },
+        {
+          "w": "αἵματος",
+          "morph": "N-GSN",
+          "gloss": "blood"
+        },
+        {
+          "w": "Ζαχαρίου",
+          "morph": "N-GSM",
+          "gloss": "of Zechariah"
+        },
+        {
+          "w": "υἱοῦ",
+          "morph": "N-GSM",
+          "gloss": "son"
+        },
+        {
+          "w": "Βαραχίου",
+          "morph": "N-GSM",
+          "gloss": "of Berekiah"
+        },
+        {
+          "w": "ὃν",
+          "morph": "R-ASM",
+          "gloss": "whom"
+        },
+        {
+          "w": "ἐφονεύσατε",
+          "morph": "V-AAI-2P",
+          "gloss": "you murdered"
+        },
+        {
+          "w": "μεταξὺ",
+          "morph": "ADV",
+          "gloss": "between"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ναοῦ",
+          "morph": "N-GSM",
+          "gloss": "temple"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "the"
+        },
+        {
+          "w": "θυσιαστηρίου",
+          "morph": "N-GSN",
+          "gloss": "altar"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "我 實 在 告 訴 你 們 ， 這 一 切 的 罪 都 要 歸 到 這 世 代 了 。",
+      "en": "I tell you the truth, this generation will be held responsible for all these things!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀμὴν",
+          "morph": "HEB",
+          "gloss": "Truly"
+        },
+        {
+          "w": "λέγω",
+          "morph": "V-PAI-1S",
+          "gloss": "I say"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "ἥξει",
+          "morph": "V-FAI-3S",
+          "gloss": "will come"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-NPN",
+          "gloss": "these things"
+        },
+        {
+          "w": "πάντα",
+          "morph": "A-NPN",
+          "gloss": "all"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "γενεὰν",
+          "morph": "N-ASF",
+          "gloss": "generation"
+        },
+        {
+          "w": "ταύτην",
+          "morph": "D-ASF",
+          "gloss": "this"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "zh": "耶 路 撒 冷 阿 ， 耶 路 撒 冷 阿 ， 你 常 殺 害 先 知 ， 又 用 石 頭 打 死 那 奉 差 遣 到 你 這 裡 來 的 人 。 我 多 次 願 意 聚 集 你 的 兒 女 ， 好 像 母 雞 把 小 雞 聚 集 在 翅 膀 底 下 ， 只 是 你 們 不 願 意 。",
+      "en": "“O Jerusalem, Jerusalem, you who kill the prophets and stone those who are sent to you! How often I have longed to gather your children together as a hen gathers her chicks under her wings, but you would have none of it!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἰερουσαλὴμ",
+          "morph": "N-PRI",
+          "gloss": "Jerusalem"
+        },
+        {
+          "w": "Ἰερουσαλήμ",
+          "morph": "N-PRI",
+          "gloss": "Jerusalem"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἀποκτείνουσα",
+          "morph": "V-PAP-NSF",
+          "gloss": "killing"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "προφήτας",
+          "morph": "N-APM",
+          "gloss": "prophets"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "λιθοβολοῦσα",
+          "morph": "V-PAP-NSF",
+          "gloss": "stoning"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "those"
+        },
+        {
+          "w": "ἀπεσταλμένους",
+          "morph": "V-RPP-APM",
+          "gloss": "having been sent"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "αὐτήν",
+          "morph": "P-ASF",
+          "gloss": "her"
+        },
+        {
+          "w": "ποσάκις",
+          "morph": "ADV",
+          "gloss": "How often"
+        },
+        {
+          "w": "ἠθέλησα",
+          "morph": "V-AAI-1S",
+          "gloss": "would I"
+        },
+        {
+          "w": "ἐπισυναγαγεῖν",
+          "morph": "V-2AAN",
+          "gloss": "have gathered together"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "τέκνα",
+          "morph": "N-APN",
+          "gloss": "children"
+        },
+        {
+          "w": "σου",
+          "morph": "P-2GS",
+          "gloss": "of you"
+        },
+        {
+          "w": "ὃν",
+          "morph": "R-ASM",
+          "gloss": "in which"
+        },
+        {
+          "w": "τρόπον",
+          "morph": "N-ASM",
+          "gloss": "way"
+        },
+        {
+          "w": "ὄρνις",
+          "morph": "N-NSF",
+          "gloss": "a hen"
+        },
+        {
+          "w": "ἐπισυνάγει",
+          "morph": "V-PAI-3S",
+          "gloss": "gathers together"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "νοσσία",
+          "morph": "N-APN",
+          "gloss": "chicks"
+        },
+        {
+          "w": "αὐτῆς",
+          "morph": "P-GSF",
+          "gloss": "of her"
+        },
+        {
+          "w": "ὑπὸ",
+          "morph": "PREP",
+          "gloss": "under"
+        },
+        {
+          "w": "τὰς",
+          "morph": "T-APF",
+          "gloss": "the"
+        },
+        {
+          "w": "πτέρυγας",
+          "morph": "N-APF",
+          "gloss": "wings"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἠθελήσατε",
+          "morph": "V-AAI-2P",
+          "gloss": "you were willing"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "zh": "看 哪 ， 你 們 的 家 成 為 荒 場 留 給 你 們 。",
+      "en": "Look, your house is left to you desolate!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἰδοὺ",
+          "morph": "V-2AMM-2S",
+          "gloss": "Behold"
+        },
+        {
+          "w": "ἀφίεται",
+          "morph": "V-PPI-3S",
+          "gloss": "is left"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "οἶκος",
+          "morph": "N-NSM",
+          "gloss": "house"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "zh": "我 告 訴 你 們 ， 從 今 以 後 ， 你 們 不 得 再 見 我 ， 直 等 到 你 們 說 ： 奉 主 名 來 的 是 應 當 稱 頌 的 。",
+      "en": "For I tell you, you will not see me from now until you say, ‘Blessed is the one who comes in the name of the Lord!’”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "λέγω",
+          "morph": "V-PAI-1S",
+          "gloss": "I say"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "no"
+        },
+        {
+          "w": "μή",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "με",
+          "morph": "P-1AS",
+          "gloss": "Me"
+        },
+        {
+          "w": "ἴδητε",
+          "morph": "V-2AAS-2P",
+          "gloss": "shall you see"
+        },
+        {
+          "w": "ἀπ’",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "ἄρτι",
+          "morph": "ADV",
+          "gloss": "now"
+        },
+        {
+          "w": "ἕως",
+          "morph": "ADV",
+          "gloss": "until"
+        },
+        {
+          "w": "ἂν",
+          "morph": "PRT",
+          "gloss": "-"
+        },
+        {
+          "w": "εἴπητε",
+          "morph": "V-2AAS-2P",
+          "gloss": "you say"
+        },
+        {
+          "w": "Εὐλογημένος",
+          "morph": "V-RPP-NSM",
+          "gloss": "Blessed [is]"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [One]"
+        },
+        {
+          "w": "ἐρχόμενος",
+          "morph": "V-PNP-NSM",
+          "gloss": "coming"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in [the]"
+        },
+        {
+          "w": "ὀνόματι",
+          "morph": "N-DSN",
+          "gloss": "name"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "of [the] Lord"
+        }
+      ]
+    }
+  ]
+}

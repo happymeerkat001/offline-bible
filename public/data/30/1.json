@@ -1,0 +1,974 @@
+{
+  "book": 30,
+  "chapter": 1,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "當 猶 大 王 烏 西 雅 ， 以 色 列 王 約 阿 施 的 兒 子 耶 羅 波 安 在 位 的 時 候 ， 大 地 震 前 二 年 ， 提 哥 亞 牧 人 中 的 阿 摩 司 得 默 示 論 以 色 列 。",
+      "en": "The following is a record of what Amos prophesied. He was one of the herdsmen from Tekoa. These prophecies about Israel were revealed to him during the time of King Uzziah of Judah and King Jeroboam son of Joash of Israel, two years before the earthquake.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דִּבְרֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עָמ֔וֹס",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הָיָ֥ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בַנֹּקְדִ֖ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "מִתְּק֑וֹעַ",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אֲשֶׁר֩",
+          "morph": "HTr"
+        },
+        {
+          "w": "חָזָ֨ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יִשְׂרָאֵ֜ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּימֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "עֻזִיָּ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶֽלֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּבִימֵ֞י",
+          "morph": "HC/R/Ncmpc"
+        },
+        {
+          "w": "יָרָבְעָ֤ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יוֹאָשׁ֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶ֣לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "שְׁנָתַ֖יִם",
+          "morph": "HNcfda"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "הָרָֽעַשׁ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "他 說 ： 耶 和 華 必 從 錫 安 吼 叫 ， 從 耶 路 撒 冷 發 聲 ； 牧 人 的 草 場 要 悲 哀 ； 迦 密 的 山 頂 要 枯 乾 。",
+      "en": "Amos said: “The Lord comes roaring out of Zion; from Jerusalem he comes bellowing! The shepherds’ pastures wilt; the summit of Carmel withers.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּאמַ֓ר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִצִיּ֣וֹן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "יִשְׁאָ֔ג",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וּמִירוּשָׁלִַ֖ם",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "יִתֵּ֣ן",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "קוֹל֑וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְאָֽבְלוּ֙",
+          "morph": "HC/Vqp3cp"
+        },
+        {
+          "w": "נְא֣וֹת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "הָרֹעִ֔ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "וְיָבֵ֖שׁ",
+          "morph": "HC/Vqp3ms"
+        },
+        {
+          "w": "רֹ֥אשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַכַּרְמֶֽל",
+          "morph": "HTd/Np"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "耶 和 華 如 此 說 ： 大 馬 色 三 番 四 次 地 犯 罪 ， 我 必 不 免 去 他 的 刑 罰 ； 因 為 他 以 打 糧 食 的 鐵 器 打 過 基 列 。",
+      "en": "This is what the Lord says: “Because Damascus has committed three crimes— make that four!—I will not revoke my decree of judgment. They ripped through Gilead like threshing sledges with iron teeth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כֹּ֚ה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁלֹשָׁה֙",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "פִּשְׁעֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "דַמֶּ֔שֶׂק",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אַרְבָּעָ֖ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֲשִׁיבֶ֑נּוּ",
+          "morph": "HVhi1cs/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "דּוּשָׁ֛ם",
+          "morph": "HVqc/Sp3mp"
+        },
+        {
+          "w": "בַּחֲרֻצ֥וֹת",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "הַבַּרְזֶ֖ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַגִּלְעָֽד",
+          "morph": "HTd/Np"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "我 卻 要 降 火 在 哈 薛 的 家 中 ， 燒 滅 便 哈 達 的 宮 殿 。",
+      "en": "So I will set Hazael’s house on fire; fire will consume Ben Hadad’s fortresses.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשִׁלַּ֥חְתִּי",
+          "morph": "HC/Vpq1cs"
+        },
+        {
+          "w": "אֵ֖שׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "בְּבֵ֣ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "חֲזָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָכְלָ֖ה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "אַרְמְנ֥וֹת",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNp"
+        },
+        {
+          "w": "הֲדָֽד",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "我 必 折 斷 大 馬 色 的 門 閂 ， 剪 除 亞 文 平 原 的 居 民 和 伯 伊 甸 掌 權 的 。 亞 蘭 人 必 被 擄 到 吉 珥 。 這 是 耶 和 華 說 的 。",
+      "en": "I will break the bar on the gate of Damascus. I will remove the ruler from Wicked Valley, the one who holds the royal scepter from Beth Eden. The people of Aram will be deported to Kir.” The Lord has spoken!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשָֽׁבַרְתִּי֙",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "בְּרִ֣יחַ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דַּמֶּ֔שֶׂק",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהִכְרַתִּ֤י",
+          "morph": "HC/Vhq1cs"
+        },
+        {
+          "w": "יוֹשֵׁב֙",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "מִבִּקְעַת",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אָ֔וֶן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְתוֹמֵ֥ךְ",
+          "morph": "HC/Vqrmsc"
+        },
+        {
+          "w": "שֵׁ֖בֶט",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִבֵּ֣ית",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "עֶ֑דֶן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְגָל֧וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "עַם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲרָ֛ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "קִ֖ירָה",
+          "morph": "HNp/Sd"
+        },
+        {
+          "w": "אָמַ֥ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "耶 和 華 如 此 說 ： 迦 薩 三 番 四 次 地 犯 罪 ， 我 必 不 免 去 他 的 刑 罰 ； 因 為 他 擄 掠 眾 民 交 給 以 東 。",
+      "en": "This is what the Lord says: “Because Gaza has committed three crimes— make that four!—I will not revoke my decree of judgment. They deported a whole community and sold them to Edom.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כֹּ֚ה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁלֹשָׁה֙",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "פִּשְׁעֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עַזָּ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אַרְבָּעָ֖ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֲשִׁיבֶ֑נּוּ",
+          "morph": "HVhi1cs/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַגְלוֹתָ֛ם",
+          "morph": "HVhc/Sp3mp"
+        },
+        {
+          "w": "גָּל֥וּת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "שְׁלֵמָ֖ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "לְהַסְגִּ֥יר",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "לֶאֱדֽוֹם",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "我 卻 要 降 火 在 迦 薩 的 城 內 ， 燒 滅 其 中 的 宮 殿 。",
+      "en": "So I will set Gaza’s city wall on fire; fire will consume her fortresses.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשִׁלַּ֥חְתִּי",
+          "morph": "HC/Vpq1cs"
+        },
+        {
+          "w": "אֵ֖שׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "בְּחוֹמַ֣ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "עַזָּ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָכְלָ֖ה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "אַרְמְנֹתֶֽיהָ",
+          "morph": "HNcmpc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "我 必 剪 除 亞 實 突 的 居 民 和 亞 實 基 倫 掌 權 的 ， 也 必 反 手 攻 擊 以 革 倫 。 非 利 士 人 所 餘 剩 的 必 都 滅 亡 。 這 是 主 耶 和 華 說 的 。",
+      "en": "I will remove the ruler from Ashdod, the one who holds the royal scepter from Ashkelon. I will strike Ekron with my hand; the rest of the Philistines will also die.” The Sovereign Lord has spoken!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִכְרַתִּ֤י",
+          "morph": "HC/Vhq1cs"
+        },
+        {
+          "w": "יוֹשֵׁב֙",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "מֵֽאַשְׁדּ֔וֹד",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְתוֹמֵ֥ךְ",
+          "morph": "HC/Vqrmsc"
+        },
+        {
+          "w": "שֵׁ֖בֶט",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מֵֽאַשְׁקְל֑וֹן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַהֲשִׁיב֨וֹתִי",
+          "morph": "HC/Vhq1cs"
+        },
+        {
+          "w": "יָדִ֜י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "עֶקְר֗וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָֽבְדוּ֙",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "שְׁאֵרִ֣ית",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "פְּלִשְׁתִּ֔ים",
+          "morph": "HNgmpa"
+        },
+        {
+          "w": "אָמַ֖ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֲדֹנָ֥י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "יְהוִֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "耶 和 華 如 此 說 ： 推 羅 三 番 四 次 地 犯 罪 ， 我 必 不 免 去 他 的 刑 罰 ； 因 為 他 將 眾 民 交 給 以 東 ， 並 不 記 念 弟 兄 的 盟 約 。",
+      "en": "This is what the Lord says: “Because Tyre has committed three crimes— make that four—I will not revoke my decree of judgment. They sold a whole community to Edom; they failed to observe a treaty of brotherhood.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כֹּ֚ה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁלֹשָׁה֙",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "פִּשְׁעֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "צֹ֔ר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אַרְבָּעָ֖ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֲשִׁיבֶ֑נּוּ",
+          "morph": "HVhi1cs/Sp3ms"
+        },
+        {
+          "w": "עַֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַסְגִּירָ֞ם",
+          "morph": "HVhc/Sp3mp"
+        },
+        {
+          "w": "גָּל֤וּת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "שְׁלֵמָה֙",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "לֶאֱד֔וֹם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "זָכְר֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בְּרִ֥ית",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אַחִֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "我 卻 要 降 火 在 推 羅 的 城 內 ， 燒 滅 其 中 的 宮 殿 。",
+      "en": "So I will set fire to Tyre’s city wall; fire will consume her fortresses.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשִׁלַּ֥חְתִּי",
+          "morph": "HC/Vpq1cs"
+        },
+        {
+          "w": "אֵ֖שׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "בְּח֣וֹמַת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "צֹ֑ר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָכְלָ֖ה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "אַרְמְנֹתֶֽיהָ",
+          "morph": "HNcmpc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "耶 和 華 如 此 說 ： 以 東 三 番 四 次 地 犯 罪 ， 我 必 不 免 去 他 的 刑 罰 ； 因 為 他 拿 刀 追 趕 兄 弟 ， 毫 無 憐 憫 ， 發 怒 撕 裂 ， 永 懷 忿 怒 。",
+      "en": "This is what the Lord says: “Because Edom has committed three crimes— make that four—I will not revoke my decree of judgment. He chased his brother with a sword; he wiped out his allies. In his anger he tore them apart without stopping to rest; in his fury he relentlessly attacked them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כֹּ֚ה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁלֹשָׁה֙",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "פִּשְׁעֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אֱד֔וֹם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אַרְבָּעָ֖ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֲשִׁיבֶ֑נּוּ",
+          "morph": "HVhi1cs/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "רָדְפ֨וֹ",
+          "morph": "HVqc/Sp3ms"
+        },
+        {
+          "w": "בַחֶ֤רֶב",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "אָחִיו֙",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְשִׁחֵ֣ת",
+          "morph": "HC/Vpp3ms"
+        },
+        {
+          "w": "רַחֲמָ֔יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וַיִּטְרֹ֤ף",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לָעַד֙",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אַפּ֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְעֶבְרָת֖וֹ",
+          "morph": "HC/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "שְׁמָ֥רָה",
+          "morph": "HVqp3ms/Sp3fs"
+        },
+        {
+          "w": "נֶֽצַח",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "我 卻 要 降 火 在 提 幔 ， 燒 滅 波 斯 拉 的 宮 殿 。",
+      "en": "So I will set Teman on fire; fire will consume Bozrah’s fortresses.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשִׁלַּ֥חְתִּי",
+          "morph": "HC/Vpq1cs"
+        },
+        {
+          "w": "אֵ֖שׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "בְּתֵימָ֑ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְאָכְלָ֖ה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "אַרְמְנ֥וֹת",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בָּצְרָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "耶 和 華 如 此 說 ： 亞 捫 人 三 番 四 次 地 犯 罪 ， 我 必 不 免 去 他 們 的 刑 罰 ； 因 為 他 們 剖 開 基 列 的 孕 婦 ， 擴 張 自 己 的 境 界 。",
+      "en": "This is what the Lord says: “Because the Ammonites have committed three crimes— make that four—I will not revoke my decree of judgment. They ripped open Gilead’s pregnant women so they could expand their territory.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כֹּ֚ה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁלֹשָׁה֙",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "פִּשְׁעֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עַמּ֔וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אַרְבָּעָ֖ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֲשִׁיבֶ֑נּוּ",
+          "morph": "HVhi1cs/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "בִּקְעָם֙",
+          "morph": "HVqc/Sp3mp"
+        },
+        {
+          "w": "הָר֣וֹת",
+          "morph": "HAafpc"
+        },
+        {
+          "w": "הַגִּלְעָ֔ד",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "לְמַ֖עַן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַרְחִ֥יב",
+          "morph": "HVhc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "גְּבוּלָֽם",
+          "morph": "HNcmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "我 卻 要 在 爭 戰 吶 喊 的 日 子 ， 旋 風 狂 暴 的 時 候 ， 點 火 在 拉 巴 的 城 內 ， 燒 滅 其 中 的 宮 殿 。",
+      "en": "So I will set fire to Rabbah’s city wall; fire will consume her fortresses. War cries will be heard on the day of battle; a strong gale will blow on the day of the windstorm.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִצַּ֤תִּי",
+          "morph": "HC/Vhq1cs"
+        },
+        {
+          "w": "אֵשׁ֙",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "בְּחוֹמַ֣ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "רַבָּ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָכְלָ֖ה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "אַרְמְנוֹתֶ֑יהָ",
+          "morph": "HNcmpc/Sp3fs"
+        },
+        {
+          "w": "בִּתְרוּעָה֙",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "בְּי֣וֹם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מִלְחָמָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּסַ֖עַר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "בְּי֥וֹם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "סוּפָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "他 們 的 王 和 首 領 必 一 同 被 擄 去 。 這 是 耶 和 華 說 的 。",
+      "en": "Ammon’s king will be deported; he and his officials will be carried off together.” The Lord has spoken!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָלַ֥ךְ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "מַלְכָּ֖ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "בַּגּוֹלָ֑ה",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "ה֧וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "וְשָׂרָ֛יו",
+          "morph": "HC/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "יַחְדָּ֖ו",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֥ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    }
+  ]
+}

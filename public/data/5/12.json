@@ -1,0 +1,2341 @@
+{
+  "book": 5,
+  "chapter": 12,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "你 們 存 活 於 世 的 日 子 ， 在 耶 和 華 ─ 你 們 列 祖 的 神 所 賜 你 們 為 業 的 地 上 ， 要 謹 守 遵 行 的 律 例 典 章 乃 是 這 些 ：",
+      "en": "These are the statutes and ordinances you must be careful to obey as long as you live in the land the Lord, the God of your ancestors, has given you to possess.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֵ֠לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "הַֽחֻקִּ֣ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְהַמִּשְׁפָּטִים֮",
+          "morph": "HC/Td/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּשְׁמְר֣וּן",
+          "morph": "HVqi2mp/Sn"
+        },
+        {
+          "w": "לַעֲשׂוֹת֒",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בָּאָ֕רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁר֩",
+          "morph": "HTr"
+        },
+        {
+          "w": "נָתַ֨ן",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֧י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אֲבֹתֶ֛יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "לְךָ֖",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "לְרִשְׁתָּ֑הּ",
+          "morph": "HR/Vqc/Sp3fs"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַיָּמִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אַתֶּ֥ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "חַיִּ֖ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאֲדָמָֽה",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 們 要 將 所 趕 出 的 國 民 事 奉 神 的 各 地 方 ， 無 論 是 在 高 山 ， 在 小 山 ， 在 各 青 翠 樹 下 ， 都 毀 壞 了 ；",
+      "en": "You must by all means destroy all the places where the nations you are about to dispossess worship their gods—on the high mountains and hills and under every leafy tree.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַבֵּ֣ד",
+          "morph": "HVpa"
+        },
+        {
+          "w": "תְּ֠אַבְּדוּן",
+          "morph": "HVpi2mp/Sn"
+        },
+        {
+          "w": "אֶֽת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמְּקֹמ֞וֹת",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֧ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עָֽבְדוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "שָׁ֣ם",
+          "morph": "HD"
+        },
+        {
+          "w": "הַגּוֹיִ֗ם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אַתֶּ֛ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "יֹרְשִׁ֥ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "אֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֱלֹהֵיהֶ֑ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הֶהָרִ֤ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָֽרָמִים֙",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַגְּבָע֔וֹת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "וְתַ֖חַת",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֵ֥ץ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "רַעֲנָן",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "也 要 拆 毀 他 們 的 祭 壇 ， 打 碎 他 們 的 柱 像 ， 用 火 焚 燒 他 們 的 木 偶 ， 砍 下 他 們 雕 刻 的 神 像 ， 並 將 其 名 從 那 地 方 除 滅 。",
+      "en": "You must tear down their altars, shatter their sacred pillars, burn up their sacred Asherah poles, and cut down the images of their gods; you must eliminate their very memory from that place.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנִתַּצְתֶּ֣ם",
+          "morph": "HC/Vpq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִזְבּחֹתָ֗ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "וְשִׁבַּרְתֶּם֙",
+          "morph": "HC/Vpq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מַצֵּ֣בֹתָ֔ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "וַאֲשֵֽׁרֵיהֶם֙",
+          "morph": "HC/Np/Sp3mp"
+        },
+        {
+          "w": "תִּשְׂרְפ֣וּן",
+          "morph": "HVqi2mp/Sn"
+        },
+        {
+          "w": "בָּאֵ֔שׁ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "וּפְסִילֵ֥י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "אֱלֹֽהֵיהֶ֖ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "תְּגַדֵּע֑וּן",
+          "morph": "HVpi2mp/Sn"
+        },
+        {
+          "w": "וְאִבַּדְתֶּ֣ם",
+          "morph": "HC/Vpq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שְׁמָ֔ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמָּק֖וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַהֽוּא",
+          "morph": "HTd/Pp3ms"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "你 們 不 可 照 他 們 那 樣 事 奉 耶 和 華 ─ 你 們 的 神 。",
+      "en": "You must not worship the Lord your God the way they worship.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשׂ֣וּן",
+          "morph": "HVqi2mp/Sn"
+        },
+        {
+          "w": "כֵּ֔ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "לַיהוָ֖ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אֱלֹהֵיכֶֽם",
+          "morph": "HNcmpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "但 耶 和 華 ─ 你 們 的 神 從 你 們 各 支 派 中 選 擇 何 處 為 立 他 名 的 居 所 ， 你 們 就 當 往 那 裡 去 求 問 ，",
+      "en": "But you must seek only the place he chooses from all your tribes to establish his name as his place of residence, and you must go there.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֠י",
+          "morph": "HC"
+        },
+        {
+          "w": "אִֽם",
+          "morph": "HC"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמָּק֞וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִבְחַ֨ר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יְהוָ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹֽהֵיכֶם֙",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "מִכָּל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שִׁבְטֵיכֶ֔ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "לָשׂ֥וּם",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שְׁמ֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "שָׁ֑ם",
+          "morph": "HD"
+        },
+        {
+          "w": "לְשִׁכְנ֥וֹ",
+          "morph": "HR/Vqc/Sp3ms"
+        },
+        {
+          "w": "תִדְרְשׁ֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "וּבָ֥אתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "שָֽׁמָּה",
+          "morph": "HD/Sd"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "將 你 們 的 燔 祭 、 平 安 祭 、 十 分 取 一 之 物 ， 和 手 中 的 舉 祭 ， 並 還 願 祭 、 甘 心 祭 ， 以 及 牛 群 羊 群 中 頭 生 的 ， 都 奉 到 那 裡 。",
+      "en": "And there you must take your burnt offerings, your sacrifices, your tithes, the personal offerings you have prepared, your votive offerings, your freewill offerings, and the firstborn of your herds and flocks.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַהֲבֵאתֶ֣ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "שָׁ֗מָּה",
+          "morph": "HD/Sd"
+        },
+        {
+          "w": "עֹלֹֽתֵיכֶם֙",
+          "morph": "HNcfpc/Sp2mp"
+        },
+        {
+          "w": "וְזִבְחֵיכֶ֔ם",
+          "morph": "HC/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "וְאֵת֙",
+          "morph": "HC/To"
+        },
+        {
+          "w": "מַעְשְׂרֹ֣תֵיכֶ֔ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "וְאֵ֖ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "תְּרוּמַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יֶדְכֶ֑ם",
+          "morph": "HNcbsc/Sp2mp"
+        },
+        {
+          "w": "וְנִדְרֵיכֶם֙",
+          "morph": "HC/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "וְנִדְבֹ֣תֵיכֶ֔ם",
+          "morph": "HC/Ncfpc/Sp2mp"
+        },
+        {
+          "w": "וּבְכֹרֹ֥ת",
+          "morph": "HC/Ncbpc"
+        },
+        {
+          "w": "בְּקַרְכֶ֖ם",
+          "morph": "HNcbsc/Sp2mp"
+        },
+        {
+          "w": "וְצֹאנְכֶֽם",
+          "morph": "HC/Ncbsc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "在 那 裡 ， 耶 和 華 ─ 你 們 神 的 面 前 ， 你 們 和 你 們 的 家 屬 都 可 以 吃 ， 並 且 因 你 手 所 辦 的 一 切 事 蒙 耶 和 華 ─ 你 的 　 神 賜 福 ， 就 都 歡 樂 。",
+      "en": "Both you and your families must feast there before the Lord your God and rejoice in all the output of your labor with which he has blessed you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַאֲכַלְתֶּם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "שָׁ֗ם",
+          "morph": "HD"
+        },
+        {
+          "w": "לִפְנֵי֙",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹֽהֵיכֶ֔ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "וּשְׂמַחְתֶּ֗ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "בְּכֹל֙",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מִשְׁלַ֣ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יֶדְכֶ֔ם",
+          "morph": "HNcbsc/Sp2mp"
+        },
+        {
+          "w": "אַתֶּ֖ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "וּבָתֵּיכֶ֑ם",
+          "morph": "HC/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בֵּֽרַכְךָ֖",
+          "morph": "HVpp3ms/Sp2ms"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶֽיךָ",
+          "morph": "HNcmpc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "我 們 今 日 在 這 裡 所 行 的 是 各 人 行 自 己 眼 中 看 為 正 的 事 ， 你 們 將 來 不 可 這 樣 行 ；",
+      "en": "You must not do as we are doing here today, with everyone doing what seems best to him,",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשׂ֔וּן",
+          "morph": "HVqi2mp/Sn"
+        },
+        {
+          "w": "כְּ֠כֹל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֲנַ֧חְנוּ",
+          "morph": "HPp1cp"
+        },
+        {
+          "w": "עֹשִׂ֛ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "פֹּ֖ה",
+          "morph": "HD"
+        },
+        {
+          "w": "הַיּ֑וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אִ֖ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַיָּשָׁ֥ר",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "בְּעֵינָֽיו",
+          "morph": "HR/Ncbdc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "因 為 你 們 還 沒 有 到 耶 和 華 ─ 你 神 所 賜 你 的 安 息 地 ， 所 給 你 的 產 業 。",
+      "en": "for you have not yet come to the final stop and inheritance the Lord your God is giving you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "בָּאתֶ֖ם",
+          "morph": "HVqp2mp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "עָ֑תָּה",
+          "morph": "HD"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמְּנוּחָה֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַֽנַּחֲלָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶ֖יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "נֹתֵ֥ן",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לָֽךְ",
+          "morph": "HR/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "但 你 們 過 了 約 但 河 ， 得 以 住 在 耶 和 華 ─ 你 們 神 使 你 們 承 受 為 業 之 地 ， 又 使 你 們 太 平 ， 不 被 四 圍 的 一 切 仇 敵 擾 亂 ， 安 然 居 住 。",
+      "en": "When you do go across the Jordan River and settle in the land he is granting you as an inheritance and you find relief from all the enemies who surround you, you will live in safety.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַעֲבַרְתֶּם֮",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַיַּרְדֵּן֒",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "וִֽישַׁבְתֶּ֣ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "בָּאָ֔רֶץ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶ֖ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "מַנְחִ֣יל",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "אֶתְכֶ֑ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "וְהֵנִ֨יחַ",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "לָכֶ֧ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מִכָּל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֹיְבֵיכֶ֛ם",
+          "morph": "HVqrmpc/Sp2mp"
+        },
+        {
+          "w": "מִסָּבִ֖יב",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "וִֽישַׁבְתֶּם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "בֶּֽטַח",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "那 時 要 將 我 所 吩 咐 你 們 的 燔 祭 、 平 安 祭 、 十 分 取 一 之 物 ， 和 手 中 的 舉 祭 ， 並 向 耶 和 華 許 願 獻 的 一 切 美 祭 ， 都 奉 到 耶 和 華 ─ 你 們 神 所 選 擇 要 立 為 他 名 的 居 所 。",
+      "en": "Then you must come to the place the Lord your God chooses for his name to reside, bringing everything I am commanding you—your burnt offerings, sacrifices, tithes, the personal offerings you have prepared, and all your choice votive offerings that you devote to him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיָ֣ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַמָּק֗וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִבְחַר֩",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יְהוָ֨ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶ֥ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "בּוֹ֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "לְשַׁכֵּ֤ן",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "שְׁמוֹ֙",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "שָׁ֔ם",
+          "morph": "HD"
+        },
+        {
+          "w": "שָׁ֣מָּה",
+          "morph": "HD/Sd"
+        },
+        {
+          "w": "תָבִ֔יאוּ",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "אֵ֛ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אָנֹכִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מְצַוֶּ֣ה",
+          "morph": "HVprmsa"
+        },
+        {
+          "w": "אֶתְכֶ֑ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "עוֹלֹתֵיכֶ֣ם",
+          "morph": "HNcfpc/Sp2mp"
+        },
+        {
+          "w": "וְזִבְחֵיכֶ֗ם",
+          "morph": "HC/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "מַעְשְׂרֹֽתֵיכֶם֙",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "וּתְרֻמַ֣ת",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "יֶדְכֶ֔ם",
+          "morph": "HNcbsc/Sp2mp"
+        },
+        {
+          "w": "וְכֹל֙",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "מִבְחַ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נִדְרֵיכֶ֔ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּדְּר֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "לַֽיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "你 們 和 兒 女 、 僕 婢 ， 並 住 在 你 們 城 裡 無 分 無 業 的 利 未 人 ， 都 要 在 耶 和 華 ─ 你 們 的 神 面 前 歡 樂 。",
+      "en": "You shall rejoice in the presence of the Lord your God, along with your sons, daughters, male and female servants, and the Levites in your villages (since they have no allotment or inheritance with you).",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּשְׂמַחְתֶּ֗ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "לִפְנֵי֮",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹֽהֵיכֶם֒",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "אַתֶּ֗ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "וּבְנֵיכֶם֙",
+          "morph": "HC/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "וּבְנֹ֣תֵיכֶ֔ם",
+          "morph": "HC/Ncfpc/Sp2mp"
+        },
+        {
+          "w": "וְעַבְדֵיכֶ֖ם",
+          "morph": "HC/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "וְאַמְהֹתֵיכֶ֑ם",
+          "morph": "HC/Ncfpc/Sp2mp"
+        },
+        {
+          "w": "וְהַלֵּוִי֙",
+          "morph": "HC/Td/Ngmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בְּשַֽׁעֲרֵיכֶ֔ם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֵ֥ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "ל֛וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "חֵ֥לֶק",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְנַחֲלָ֖ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "אִתְּכֶֽם",
+          "morph": "HR/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "你 要 謹 慎 ， 不 可 在 你 所 看 中 的 各 處 獻 燔 祭 。",
+      "en": "Make sure you do not offer burnt offerings in any place you wish,",
+      "notes": [],
+      "he": [
+        {
+          "w": "הִשָּׁ֣מֶר",
+          "morph": "HVNv2ms"
+        },
+        {
+          "w": "לְךָ֔",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "פֶּֽן",
+          "morph": "HC"
+        },
+        {
+          "w": "תַּעֲלֶ֖ה",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "עֹלֹתֶ֑יךָ",
+          "morph": "HNcfpc/Sp2ms"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מָק֖וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּרְאֶֽה",
+          "morph": "HVqi2ms"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "惟 獨 耶 和 華 從 你 那 一 支 派 中 所 選 擇 的 地 方 ， 你 就 要 在 那 裡 獻 燔 祭 ， 行 我 一 切 所 吩 咐 你 的 。",
+      "en": "for you may do so only in the place the Lord chooses in one of your tribal areas—there you may do everything I am commanding you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "בַּמָּק֞וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִבְחַ֤ר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּאַחַ֣ד",
+          "morph": "HR/Acmsc"
+        },
+        {
+          "w": "שְׁבָטֶ֔יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "שָׁ֖ם",
+          "morph": "HD"
+        },
+        {
+          "w": "תַּעֲלֶ֣ה",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "עֹלֹתֶ֑יךָ",
+          "morph": "HNcfpc/Sp2ms"
+        },
+        {
+          "w": "וְשָׁ֣ם",
+          "morph": "HC/D"
+        },
+        {
+          "w": "תַּעֲשֶׂ֔ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "כֹּ֛ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אָנֹכִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מְצַוֶּֽךָּ",
+          "morph": "HVprmsc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "然 而 ， 在 你 各 城 裡 都 可 以 照 耶 和 華 ─ 你 神 所 賜 你 的 福 分 ， 隨 心 所 欲 宰 牲 吃 肉 ； 無 論 潔 淨 人 不 潔 淨 人 都 可 以 吃 ， 就 如 吃 羚 羊 與 鹿 一 般 。",
+      "en": "On the other hand, you may slaughter and eat meat as you please when the Lord your God blesses you in all your villages. Both the ritually pure and impure may eat it, whether it is a gazelle or an ibex.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רַק֩",
+          "morph": "HTa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אַוַּ֨ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "נַפְשְׁךָ֜",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "תִּזְבַּ֣ח",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "וְאָכַלְתָּ֣",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "בָשָׂ֗ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כְּבִרְכַּ֨ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "יְהוָ֧ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶ֛יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נָֽתַן",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לְךָ֖",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שְׁעָרֶ֑יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "הַטָּמֵ֤א",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "וְהַטָּהוֹר֙",
+          "morph": "HC/Td/Aamsa"
+        },
+        {
+          "w": "יֹאכְלֶ֔נּוּ",
+          "morph": "HVqi3ms/Sp3ms"
+        },
+        {
+          "w": "כַּצְּבִ֖י",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "וְכָאַיָּֽל",
+          "morph": "HC/Rd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "只 是 不 可 吃 血 ， 要 倒 在 地 上 ， 如 同 倒 水 一 樣 。",
+      "en": "However, you must not eat blood—pour it out on the ground like water.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רַ֥ק",
+          "morph": "HTa"
+        },
+        {
+          "w": "הַדָּ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֹאכֵ֑לוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֥רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "תִּשְׁפְּכֶ֖נּוּ",
+          "morph": "HVqi2ms/Sp3ms"
+        },
+        {
+          "w": "כַּמָּֽיִם",
+          "morph": "HRd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "你 的 五 穀 、 新 酒 ， 和 油 的 十 分 之 一 ， 或 是 牛 群 羊 群 中 頭 生 的 ， 或 是 你 許 願 獻 的 ， 甘 心 獻 的 ， 或 是 手 中 的 舉 祭 ， 都 不 可 在 你 城 裡 吃 。",
+      "en": "You will not be allowed to eat in your villages your tithe of grain, new wine, olive oil, the firstborn of your herd and flock, any votive offerings you have vowed, or your freewill and personal offerings.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תוּכַ֞ל",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "לֶאֱכֹ֣ל",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בִּשְׁעָרֶ֗יךָ",
+          "morph": "HR/Ncmpc/Sp2ms"
+        },
+        {
+          "w": "מַעְשַׂ֤ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דְּגָֽנְךָ֙",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וְתִֽירֹשְׁךָ֣",
+          "morph": "HC/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "וְיִצְהָרֶ֔ךָ",
+          "morph": "HC/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "וּבְכֹרֹ֥ת",
+          "morph": "HC/Ncbpc"
+        },
+        {
+          "w": "בְּקָרְךָ֖",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "וְצֹאנֶ֑ךָ",
+          "morph": "HC/Ncbsc/Sp2ms"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "נְדָרֶ֨יךָ֙",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּדֹּ֔ר",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "וְנִדְבֹתֶ֖יךָ",
+          "morph": "HC/Ncfpc/Sp2ms"
+        },
+        {
+          "w": "וּתְרוּמַ֥ת",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "יָדֶֽךָ",
+          "morph": "HNcbsc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "但 要 在 耶 和 華 ─ 你 的 神 面 前 吃 ， 在 耶 和 華 ─ 你 　 神 所 要 選 擇 的 地 方 ， 你 和 兒 女 、 僕 婢 ， 並 住 在 你 城 裡 的 利 未 人 ， 都 可 以 吃 ； 也 要 因 你 手 所 辦 的 ， 在 耶 和 華 ─ 你 　 神 面 前 歡 樂 。",
+      "en": "Only in the presence of the Lord your God may you eat these, in the place he chooses. This applies to you, your son, your daughter, your male and female servants, and the Levites in your villages. In that place you will rejoice before the Lord your God in all the output of your labor.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֡י",
+          "morph": "HC"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "לִפְנֵי֩",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֨ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶ֜יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "תֹּאכְלֶ֗נּוּ",
+          "morph": "HVqi2ms/Sp3ms"
+        },
+        {
+          "w": "בַּמָּקוֹם֙",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִבְחַ֜ר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶיךָ֮",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "בּוֹ֒",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "אַתָּ֨ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "וּבִנְךָ֤",
+          "morph": "HC/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "וּבִתֶּ֨ךָ֙",
+          "morph": "HC/Ncfsc/Sp2ms"
+        },
+        {
+          "w": "וְעַבְדְּךָ֣",
+          "morph": "HC/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "וַאֲמָתֶ֔ךָ",
+          "morph": "HC/Ncfsc/Sp2ms"
+        },
+        {
+          "w": "וְהַלֵּוִ֖י",
+          "morph": "HC/Td/Ngmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בִּשְׁעָרֶ֑יךָ",
+          "morph": "HR/Ncmpc/Sp2ms"
+        },
+        {
+          "w": "וְשָׂמַחְתָּ֗",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "לִפְנֵי֙",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶ֔יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "בְּכֹ֖ל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מִשְׁלַ֥ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יָדֶֽךָ",
+          "morph": "HNcbsc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "你 要 謹 慎 ， 在 你 所 住 的 地 方 永 不 可 丟 棄 利 未 人 。",
+      "en": "Be careful not to overlook the Levites as long as you live in the land.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הִשָּׁ֣מֶר",
+          "morph": "HVNv2ms"
+        },
+        {
+          "w": "לְךָ֔",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "פֶּֽן",
+          "morph": "HC"
+        },
+        {
+          "w": "תַּעֲזֹ֖ב",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַלֵּוִ֑י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יָמֶ֖יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "אַדְמָתֶֽךָ",
+          "morph": "HNcfsc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "耶 和 華 ─ 你 的 神 照 他 所 應 許 擴 張 你 境 界 的 時 候 ， 你 心 裡 想 要 吃 肉 ， 說 ： 我 要 吃 肉 ， 就 可 以 隨 心 所 欲 地 吃 肉 。",
+      "en": "When the Lord your God extends your borders as he said he would do and you say, “I want to eat meat just as I please,” you may do so as you wish.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יַרְחִיב֩",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "יְהוָ֨ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶ֥יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "אֶֽת",
+          "morph": "HTo"
+        },
+        {
+          "w": "גְּבֽוּלְךָ֮",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "כַּאֲשֶׁ֣ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "דִּבֶּר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "לָךְ֒",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "וְאָמַרְתָּ֙",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֹכְלָ֣ה",
+          "morph": "HVqh1cs"
+        },
+        {
+          "w": "בָשָׂ֔ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "תְאַוֶּ֥ה",
+          "morph": "HVpi3fs"
+        },
+        {
+          "w": "נַפְשְׁךָ֖",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "לֶאֱכֹ֣ל",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בָּשָׂ֑ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אַוַּ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "נַפְשְׁךָ֖",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "תֹּאכַ֥ל",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "בָּשָֽׂר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "耶 和 華 ─ 你 神 所 選 擇 要 立 他 名 的 地 方 若 離 你 太 遠 ， 就 可 以 照 我 所 吩 咐 的 ， 將 耶 和 華 賜 給 你 的 牛 羊 取 些 宰 了 ， 可 以 隨 心 所 欲 在 你 城 裡 吃 。",
+      "en": "If the place he chooses to locate his name is too far for you, you may slaughter any of your herd and flock he has given you just as I have stipulated; you may eat them in your villages just as you wish.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יִרְחַ֨ק",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מִמְּךָ֜",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "הַמָּק֗וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִבְחַ֜ר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶיךָ֮",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "לָשׂ֣וּם",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "שְׁמ֣וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "שָׁם֒",
+          "morph": "HD"
+        },
+        {
+          "w": "וְזָבַחְתָּ֞",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "מִבְּקָרְךָ֣",
+          "morph": "HR/Ncbsc/Sp2ms"
+        },
+        {
+          "w": "וּמִצֹּֽאנְךָ֗",
+          "morph": "HC/R/Ncbsc/Sp2ms"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נָתַ֤ן",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְךָ֔",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "כַּאֲשֶׁ֖ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "צִוִּיתִ֑ךָ",
+          "morph": "HVpp1cs/Sp2ms"
+        },
+        {
+          "w": "וְאָֽכַלְתָּ֙",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "בִּשְׁעָרֶ֔יךָ",
+          "morph": "HR/Ncmpc/Sp2ms"
+        },
+        {
+          "w": "בְּכֹ֖ל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אַוַּ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "נַפְשֶֽׁךָ",
+          "morph": "HNcbsc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "你 吃 那 肉 ， 要 像 吃 羚 羊 與 鹿 一 般 ； 無 論 潔 淨 人 不 潔 淨 人 都 可 以 吃 。",
+      "en": "As you eat the gazelle or ibex, so you may eat these; the ritually impure and pure alike may eat them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַ֗ךְ",
+          "morph": "HTa"
+        },
+        {
+          "w": "כַּאֲשֶׁ֨ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "יֵאָכֵ֤ל",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "אֶֽת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַצְּבִי֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הָ֣אַיָּ֔ל",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "כֵּ֖ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "תֹּאכְלֶ֑נּוּ",
+          "morph": "HVqi2ms/Sp3ms"
+        },
+        {
+          "w": "הַטָּמֵא֙",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "וְהַטָּה֔וֹר",
+          "morph": "HC/Td/Aamsa"
+        },
+        {
+          "w": "יַחְדָּ֖ו",
+          "morph": "HD"
+        },
+        {
+          "w": "יֹאכְלֶֽנּוּ",
+          "morph": "HVqi3ms/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "只 是 你 要 心 意 堅 定 ， 不 可 吃 血 ， 因 為 血 是 生 命 ； 不 可 將 血 （ 原 文 作 生 命 ） 與 肉 同 吃 。",
+      "en": "However, by no means eat the blood, for the blood is life itself—you must not eat the life with the meat.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רַ֣ק",
+          "morph": "HTa"
+        },
+        {
+          "w": "חֲזַ֗ק",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "לְבִלְתִּי֙",
+          "morph": "HR/C"
+        },
+        {
+          "w": "אֲכֹ֣ל",
+          "morph": "HVqc"
+        },
+        {
+          "w": "הַדָּ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "הַדָּ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "ה֣וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "הַנָּ֑פֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תֹאכַ֥ל",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "הַנֶּ֖פֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "הַבָּשָֽׂר",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "不 可 吃 血 ， 要 倒 在 地 上 ， 如 同 倒 水 一 樣 。",
+      "en": "You must not eat it! You must pour it out on the ground like water.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹ֖א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֹּאכְלֶ֑נּוּ",
+          "morph": "HVqi2ms/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֥רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "תִּשְׁפְּכֶ֖נּוּ",
+          "morph": "HVqi2ms/Sp3ms"
+        },
+        {
+          "w": "כַּמָּֽיִם",
+          "morph": "HRd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "不 可 吃 血 。 這 樣 ， 你 行 耶 和 華 眼 中 看 為 正 的 事 ， 你 和 你 的 子 孫 就 可 以 得 福 。",
+      "en": "You must not eat it so that it may go well with you and your children after you; you will be doing what is right in the Lord’s sight.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹ֖א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֹּאכְלֶ֑נּוּ",
+          "morph": "HVqi2ms/Sp3ms"
+        },
+        {
+          "w": "לְמַ֨עַן",
+          "morph": "HR"
+        },
+        {
+          "w": "יִיטַ֤ב",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לְךָ֙",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "וּלְבָנֶ֣יךָ",
+          "morph": "HC/R/Ncmpc/Sp2ms"
+        },
+        {
+          "w": "אַחֲרֶ֔יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "תַעֲשֶׂ֥ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "הַיָּשָׁ֖ר",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "בְּעֵינֵ֥י",
+          "morph": "HR/Ncbdc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "只 是 你 分 別 為 聖 的 物 和 你 的 還 願 祭 要 奉 到 耶 和 華 所 選 擇 的 地 方 去 。",
+      "en": "But the holy things and votive offerings that belong to you, you must pick up and take to the place the Lord will choose.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רַ֧ק",
+          "morph": "HTa"
+        },
+        {
+          "w": "קָֽדָשֶׁ֛יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִהְי֥וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "לְךָ֖",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "וּנְדָרֶ֑יךָ",
+          "morph": "HC/Ncmpc/Sp2ms"
+        },
+        {
+          "w": "תִּשָּׂ֣א",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "וּבָ֔אתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמָּק֖וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִבְחַ֥ר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "你 的 燔 祭 ， 連 肉 帶 血 ， 都 要 獻 在 耶 和 華 ─ 你 神 的 壇 上 。 平 安 祭 的 血 要 倒 在 耶 和 華 ─ 你 　 神 的 壇 上 ； 平 安 祭 的 肉 ， 你 自 己 可 以 吃 。",
+      "en": "You must offer your burnt offerings, both meat and blood, on the altar of the Lord your God; the blood of your other sacrifices you must pour out on his altar while you eat the meat.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָשִׂ֤יתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "עֹלֹתֶ֨יךָ֙",
+          "morph": "HNcfpc/Sp2ms"
+        },
+        {
+          "w": "הַבָּשָׂ֣ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהַדָּ֔ם",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "מִזְבַּ֖ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶ֑יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "וְדַם",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "זְבָחֶ֗יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "יִשָּׁפֵךְ֙",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "מִזְבַּח֙",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶ֔יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "וְהַבָּשָׂ֖ר",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "תֹּאכֵֽל",
+          "morph": "HVqi2ms"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "你 要 謹 守 聽 從 我 所 吩 咐 的 一 切 話 ， 行 耶 和 華 ─ 你 神 眼 中 看 為 善 ， 看 為 正 的 事 。 這 樣 ， 你 和 你 的 子 孫 就 可 以 永 遠 享 福 。",
+      "en": "Pay careful attention to all these things I am commanding you so that it may always go well with you and your children after you when you do what is good and right in the sight of the Lord your God.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׁמֹ֣ר",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "וְשָׁמַעְתָּ֗",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֵ֚ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדְּבָרִ֣ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָאֵ֔לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אָנֹכִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מְצַוֶּ֑ךָּ",
+          "morph": "HVprmsc/Sp2ms"
+        },
+        {
+          "w": "לְמַעַן֩",
+          "morph": "HR"
+        },
+        {
+          "w": "יִיטַ֨ב",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לְךָ֜",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "וּלְבָנֶ֤יךָ",
+          "morph": "HC/R/Ncmpc/Sp2ms"
+        },
+        {
+          "w": "אַחֲרֶ֨יךָ֙",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "עוֹלָ֔ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "תַעֲשֶׂה֙",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "הַטּ֣וֹב",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "וְהַיָּשָׁ֔ר",
+          "morph": "HC/Td/Aamsa"
+        },
+        {
+          "w": "בְּעֵינֵ֖י",
+          "morph": "HR/Ncbdc"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶֽיךָ",
+          "morph": "HNcmpc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "耶 和 華 ─ 你 神 將 你 要 去 趕 出 的 國 民 從 你 面 前 剪 除 ， 你 得 了 他 們 的 地 居 住 ，",
+      "en": "When the Lord your God eliminates the nations from the place where you are headed and you dispossess them, you will settle down in their land.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יַכְרִית֩",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "יְהוָ֨ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֶ֜יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַגּוֹיִ֗ם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אַתָּ֥ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "בָא",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "שָׁ֛מָּה",
+          "morph": "HD/Sd"
+        },
+        {
+          "w": "לָרֶ֥שֶׁת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אוֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "מִפָּנֶ֑יךָ",
+          "morph": "HR/Ncbpc/Sp2ms"
+        },
+        {
+          "w": "וְיָרַשְׁתָּ֣",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֹתָ֔ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "וְיָשַׁבְתָּ֖",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "בְּאַרְצָֽם",
+          "morph": "HR/Ncbsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "那 時 就 要 謹 慎 ， 不 可 在 他 們 除 滅 之 後 隨 從 他 們 的 惡 俗 ， 陷 入 網 羅 ， 也 不 可 訪 問 他 們 的 神 說 ： 這 些 國 民 怎 樣 事 奉 他 們 的 　 神 ， 我 也 要 照 樣 行 。",
+      "en": "After they have been destroyed from your presence, be careful not to be ensnared like they are; do not pursue their gods and say, “How do these nations serve their gods? I will do the same.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "הִשָּׁ֣מֶר",
+          "morph": "HVNv2ms"
+        },
+        {
+          "w": "לְךָ֗",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "פֶּן",
+          "morph": "HC"
+        },
+        {
+          "w": "תִּנָּקֵשׁ֙",
+          "morph": "HVNi2ms"
+        },
+        {
+          "w": "אַחֲרֵיהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אַחֲרֵ֖י",
+          "morph": "HR"
+        },
+        {
+          "w": "הִשָּׁמְדָ֣ם",
+          "morph": "HVNc/Sp3mp"
+        },
+        {
+          "w": "מִפָּנֶ֑יךָ",
+          "morph": "HR/Ncbpc/Sp2ms"
+        },
+        {
+          "w": "וּפֶן",
+          "morph": "HC/C"
+        },
+        {
+          "w": "תִּדְרֹ֨שׁ",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "לֵֽאלֹהֵיהֶ֜ם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "לֵאמֹ֨ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֵיכָ֨ה",
+          "morph": "HTi"
+        },
+        {
+          "w": "יַעַבְד֜וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "הַגּוֹיִ֤ם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָאֵ֨לֶּה֙",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֱלֹ֣הֵיהֶ֔ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "וְאֶעֱשֶׂה",
+          "morph": "HC/Vqi1cs"
+        },
+        {
+          "w": "כֵּ֖ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "אָֽנִי",
+          "morph": "HPp1cs"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "你 不 可 向 耶 和 華 ─ 你 的 神 這 樣 行 ， 因 為 他 們 向 他 們 的 　 神 行 了 耶 和 華 所 憎 嫌 所 恨 惡 的 一 切 事 ， 甚 至 將 自 己 的 兒 女 用 火 焚 燒 ， 獻 與 他 們 的 　 神 。",
+      "en": "You must not worship the Lord your God the way they do! For everything that is abhorrent to him, everything he hates, they have done when worshiping their gods. They even burn up their sons and daughters before their gods!",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַעֲשֶׂ֣ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "כֵ֔ן",
+          "morph": "HD"
+        },
+        {
+          "w": "לַיהוָ֖ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אֱלֹהֶ֑יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "כִּי֩",
+          "morph": "HC"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "תּוֹעֲבַ֨ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְהוָ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שָׂנֵ֗א",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "עָשׂוּ֙",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לֵאלֹ֣הֵיהֶ֔ם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "גַ֤ם",
+          "morph": "HD"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּנֵיהֶם֙",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "בְּנֹ֣תֵיהֶ֔ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "יִשְׂרְפ֥וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "בָאֵ֖שׁ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "לֵֽאלֹהֵיהֶֽם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "凡 我 所 吩 咐 的 ， 你 們 都 要 謹 守 遵 行 ， 不 可 加 添 ， 也 不 可 刪 減 。",
+      "en": "(13:1) You must be careful to do everything I am commanding you. Do not add to it or subtract from it!",
+      "notes": [],
+      "he": []
+    }
+  ]
+}

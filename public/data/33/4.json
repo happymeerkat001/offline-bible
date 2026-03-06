@@ -1,0 +1,942 @@
+{
+  "book": 33,
+  "chapter": 4,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "末 後 的 日 子 ， 耶 和 華 殿 的 山 必 堅 立 ， 超 乎 諸 山 ， 高 舉 過 於 萬 嶺 ； 萬 民 都 要 流 歸 這 山 。",
+      "en": "And in future days the Lord’s Temple Mount will be the most important mountain of all; it will be more prominent than other hills. People will stream to it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיָ֣ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "בְּאַחֲרִ֣ית",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַיָּמִ֗ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "יִ֠הְיֶה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "הַ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בֵּית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "נָכוֹן֙",
+          "morph": "HVNrmsa"
+        },
+        {
+          "w": "בְּרֹ֣אשׁ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הֶהָרִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְנִשָּׂ֥א",
+          "morph": "HC/VNrmsa"
+        },
+        {
+          "w": "ה֖וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "מִגְּבָע֑וֹת",
+          "morph": "HR/Ncfpa"
+        },
+        {
+          "w": "וְנָהֲר֥וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "עָלָ֖יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "עַמִּֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "必 有 許 多 國 的 民 前 往 ， 說 ： 來 吧 ， 我 們 登 耶 和 華 的 山 ， 奔 雅 各 神 的 殿 。 主 必 將 他 的 道 教 訓 我 們 ； 我 們 也 要 行 他 的 路 。 因 為 訓 誨 必 出 於 錫 安 ； 耶 和 華 的 言 語 必 出 於 耶 路 撒 冷 。",
+      "en": "Many nations will come, saying, “Come on! Let’s go up to the Lord’s mountain, to the temple of Jacob’s God, so he can teach us his ways and we can live by his laws.” For instruction will proceed from Zion, the Lord’s message from Jerusalem.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְֽהָלְכ֞וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "גּוֹיִ֣ם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רַבִּ֗ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וְאָֽמְרוּ֙",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "לְכ֣וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "וְנַעֲלֶ֣ה",
+          "morph": "HC/Vqh1cp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בֵּית֙",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֱלֹהֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יַעֲקֹ֔ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְיוֹרֵ֨נוּ֙",
+          "morph": "HC/Vhi3ms/Sp1cp"
+        },
+        {
+          "w": "מִדְּרָכָ֔יו",
+          "morph": "HR/Ncbpc/Sp3ms"
+        },
+        {
+          "w": "וְנֵלְכָ֖ה",
+          "morph": "HC/Vqh1cp"
+        },
+        {
+          "w": "בְּאֹֽרְחֹתָ֑יו",
+          "morph": "HR/Ncbpc/Sp3ms"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "מִצִּיּוֹן֙",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "תֵּצֵ֣א",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "תוֹרָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּדְבַר",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִירוּשָׁלִָֽם",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "他 必 在 多 國 的 民 中 施 行 審 判 ， 為 遠 方 強 盛 的 國 斷 定 是 非 。 他 們 要 將 刀 打 成 犁 頭 ， 把 槍 打 成 鐮 刀 。 這 國 不 舉 刀 攻 擊 那 國 ； 他 們 也 不 再 學 習 戰 事 。",
+      "en": "He will arbitrate between many peoples and settle disputes between many distant nations. They will beat their swords into plowshares and their spears into pruning hooks. Nations will not use weapons against other nations, and they will no longer train for war.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשָׁפַ֗ט",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "בֵּ֚ין",
+          "morph": "HR"
+        },
+        {
+          "w": "עַמִּ֣ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רַבִּ֔ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וְהוֹכִ֛יחַ",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "לְגוֹיִ֥ם",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "עֲצֻמִ֖ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "רָח֑וֹק",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְכִתְּת֨וּ",
+          "morph": "HC/Vpq3cp"
+        },
+        {
+          "w": "חַרְבֹתֵיהֶ֜ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "לְאִתִּ֗ים",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "וַחֲנִיתֹֽתֵיהֶם֙",
+          "morph": "HC/Ncfpc/Sp3mp"
+        },
+        {
+          "w": "לְמַזְמֵר֔וֹת",
+          "morph": "HR/Ncfpa"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִשְׂא֞וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "גּ֤וֹי",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "גּוֹי֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "חֶ֔רֶב",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִלְמְד֥וּן",
+          "morph": "HVqi3mp/Sn"
+        },
+        {
+          "w": "ע֖וֹד",
+          "morph": "HD"
+        },
+        {
+          "w": "מִלְחָמָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "人 人 都 要 坐 在 自 己 葡 萄 樹 下 和 無 花 果 樹 下 ， 無 人 驚 嚇 。 這 是 萬 軍 之 耶 和 華 親 口 說 的 。",
+      "en": "Each will sit under his own grapevine or under his own fig tree without any fear. The Lord of Heaven’s Armies has decreed it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיָשְׁב֗וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תַּ֧חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "גַּפְנ֛וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "וְתַ֥חַת",
+          "morph": "HC/R"
+        },
+        {
+          "w": "תְּאֵנָת֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "וְאֵ֣ין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "מַחֲרִ֑יד",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "פִ֛י",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "צְבָא֖וֹת",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "דִּבֵּֽר",
+          "morph": "HVpp3ms"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "萬 民 各 奉 己 神 的 名 而 行 ； 我 們 卻 永 永 遠 遠 奉 耶 和 華 ─ 我 們 　 神 的 名 而 行 。",
+      "en": "Though all the nations follow their respective gods, we will follow the Lord our God forever.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֚י",
+          "morph": "HC"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָ֣עַמִּ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "יֵלְכ֕וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "אִ֖ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּשֵׁ֣ם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֱלֹהָ֑יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וַאֲנַ֗חְנוּ",
+          "morph": "HC/Pp1cp"
+        },
+        {
+          "w": "נֵלֵ֛ךְ",
+          "morph": "HVqi1cp"
+        },
+        {
+          "w": "בְּשֵׁם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֖ינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        },
+        {
+          "w": "לְעוֹלָ֥ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וָעֶֽד",
+          "morph": "HC/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "耶 和 華 說 ： 到 那 日 ， 我 必 聚 集 瘸 腿 的 ， 招 聚 被 趕 出 的 和 我 所 懲 治 的 。",
+      "en": "“In that day,” says the Lord, “I will gather the lame and assemble the outcasts whom I injured.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בַּיּ֨וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַה֜וּא",
+          "morph": "HTd/Pp3ms"
+        },
+        {
+          "w": "נְאֻם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֹֽסְפָה֙",
+          "morph": "HVqh1cs"
+        },
+        {
+          "w": "הַצֹּ֣לֵעָ֔ה",
+          "morph": "HTd/Vqrfsa"
+        },
+        {
+          "w": "וְהַנִּדָּחָ֖ה",
+          "morph": "HC/Td/VNrfsa"
+        },
+        {
+          "w": "אֲקַבֵּ֑צָה",
+          "morph": "HVph1cs"
+        },
+        {
+          "w": "וַאֲשֶׁ֖ר",
+          "morph": "HC/Tr"
+        },
+        {
+          "w": "הֲרֵעֹֽתִי",
+          "morph": "HVhp1cs"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "我 必 使 瘸 腿 的 為 餘 剩 之 民 ， 使 趕 到 遠 方 的 為 強 盛 之 民 。 耶 和 華 要 在 錫 安 山 作 王 治 理 他 們 ， 從 今 直 到 永 遠 。",
+      "en": "I will transform the lame into the nucleus of a new nation and those far off into a mighty nation. The Lord will reign over them on Mount Zion, from that day forward and forevermore.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשַׂמְתִּ֤י",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַצֹּֽלֵעָה֙",
+          "morph": "HTd/Vqrfsa"
+        },
+        {
+          "w": "לִשְׁאֵרִ֔ית",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וְהַנַּהֲלָאָ֖ה",
+          "morph": "HC/Td/VNsfsa"
+        },
+        {
+          "w": "לְג֣וֹי",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "עָצ֑וּם",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וּמָלַ֨ךְ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "יְהוָ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֲלֵיהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "בְּהַ֣ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "צִיּ֔וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵעַתָּ֖ה",
+          "morph": "HR/D"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "עוֹלָֽם",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "你 這 羊 群 的 高 臺 、 錫 安 城 （ 原 文 是 女 子 ） 的 山 哪 ， ， 從 前 的 權 柄 ─ 就 是 耶 路 撒 冷 民 （ 原 文 是 女 子 ） 的 國 權 ─ 必 歸 與 你 。",
+      "en": "As for you, watchtower for the flock, fortress of Daughter Zion— your former dominion will be restored, the sovereignty that belongs to Daughter Jerusalem.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאַתָּ֣ה",
+          "morph": "HC/Pp2ms"
+        },
+        {
+          "w": "מִגְדַּל",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "עֵ֗דֶר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עֹ֛פֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בַּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "צִיּ֖וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "עָדֶ֣יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "תֵּאתֶ֑ה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "וּבָאָ֗ה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "הַמֶּמְשָׁלָה֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "הָרִ֣אשֹׁנָ֔ה",
+          "morph": "HTd/Aafsa"
+        },
+        {
+          "w": "מַמְלֶ֖כֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "לְבַ֥ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "יְרוּשָׁלִָֽם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "現 在 你 為 何 大 聲 哭 號 呢 ？ 疼 痛 抓 住 你 彷 彿 產 難 的 婦 人 ， 是 因 你 中 間 沒 有 君 王 麼 ？ 你 的 謀 士 滅 亡 了 麼 ？",
+      "en": "Jerusalem, why are you now shouting so loudly? Has your king disappeared? Has your wise leader been destroyed? Is this why pain grips you as if you were a woman in labor?",
+      "notes": [],
+      "he": [
+        {
+          "w": "עַתָּ֕ה",
+          "morph": "HD"
+        },
+        {
+          "w": "לָ֥מָּה",
+          "morph": "HR/Ti"
+        },
+        {
+          "w": "תָרִ֖יעִי",
+          "morph": "HVhi2fs"
+        },
+        {
+          "w": "רֵ֑עַ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הֲמֶ֣לֶךְ",
+          "morph": "HTi/Ncmsa"
+        },
+        {
+          "w": "אֵֽין",
+          "morph": "HTn"
+        },
+        {
+          "w": "בָּ֗ךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "אִֽם",
+          "morph": "HC"
+        },
+        {
+          "w": "יוֹעֲצֵךְ֙",
+          "morph": "HVqrmsc/Sp2fs"
+        },
+        {
+          "w": "אָבָ֔ד",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "הֶחֱזִיקֵ֥ךְ",
+          "morph": "HVhp3ms/Sp2fs"
+        },
+        {
+          "w": "חִ֖יל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כַּיּוֹלֵדָֽה",
+          "morph": "HRd/Vqrfsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "錫 安 的 民 （ 原 文 是 女 子 ） 哪 ， 你 要 疼 痛 劬 勞 ， 彷 彿 產 難 的 婦 人 ； 因 為 你 必 從 城 裡 出 來 ， 住 在 田 野 ， 到 巴 比 倫 去 。 在 那 裡 要 蒙 解 救 ； 在 那 裡 耶 和 華 必 救 贖 你 脫 離 仇 敵 的 手 。",
+      "en": "Twist and strain, Daughter Zion, as if you were in labor! For you will leave the city and live in the open field. You will go to Babylon, but there you will be rescued. There the Lord will deliver you from the power of your enemies.",
+      "notes": [],
+      "he": [
+        {
+          "w": "ח֧וּלִי",
+          "morph": "HVqv2fs"
+        },
+        {
+          "w": "וָגֹ֛חִי",
+          "morph": "HC/Vqv2fs"
+        },
+        {
+          "w": "בַּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "צִיּ֖וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "כַּיּֽוֹלֵדָ֑ה",
+          "morph": "HRd/Vqrfsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "עַתָּה֩",
+          "morph": "HD"
+        },
+        {
+          "w": "תֵצְאִ֨י",
+          "morph": "HVqi2fs"
+        },
+        {
+          "w": "מִקִּרְיָ֜ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וְשָׁכַ֣נְתְּ",
+          "morph": "HC/Vqq2fs"
+        },
+        {
+          "w": "בַּשָּׂדֶ֗ה",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וּבָ֤את",
+          "morph": "HC/Vqq2fs"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "בָּבֶל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "שָׁ֣ם",
+          "morph": "HD"
+        },
+        {
+          "w": "תִּנָּצֵ֔לִי",
+          "morph": "HVNi2fs"
+        },
+        {
+          "w": "שָׁ֚ם",
+          "morph": "HD"
+        },
+        {
+          "w": "יִגְאָלֵ֣ךְ",
+          "morph": "HVqi3ms/Sp2fs"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִכַּ֖ף",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "אֹיְבָֽיִךְ",
+          "morph": "HVqrmpc/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "現 在 有 許 多 國 的 民 聚 集 攻 擊 你 ， 說 ： 願 錫 安 被 玷 污 ！ 願 我 們 親 眼 見 他 遭 報 ！",
+      "en": "Many nations have now assembled against you. They say, “Jerusalem must be desecrated, so we can gloat over Zion!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַתָּ֛ה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "נֶאֶסְפ֥וּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "עָלַ֖יִךְ",
+          "morph": "HR/Sp2fs"
+        },
+        {
+          "w": "גּוֹיִ֣ם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רַבִּ֑ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "הָאֹמְרִ֣ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "תֶּחֱנָ֔ף",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "וְתַ֥חַז",
+          "morph": "HC/Vqj3fs"
+        },
+        {
+          "w": "בְּצִיּ֖וֹן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "עֵינֵֽינוּ",
+          "morph": "HNcbdc/Sp1cp"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "他 們 卻 不 知 道 耶 和 華 的 意 念 ， 也 不 明 白 他 的 籌 劃 。 他 聚 集 他 們 ， 好 像 把 禾 捆 聚 到 禾 場 一 樣 。",
+      "en": "But they do not know what the Lord is planning; they do not understand his strategy. He has gathered them like stalks of grain to be threshed at the threshing floor.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֵ֗מָּה",
+          "morph": "HC/Pp3mp"
+        },
+        {
+          "w": "לֹ֤א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָֽדְעוּ֙",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מַחְשְׁב֣וֹת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "הֵבִ֖ינוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "עֲצָת֑וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "קִבְּצָ֖ם",
+          "morph": "HVpp3ms/Sp3mp"
+        },
+        {
+          "w": "כֶּעָמִ֥יר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "גֹּֽרְנָה",
+          "morph": "HNcbsa/Sd"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "錫 安 的 民 （ 原 文 作 女 子 ） 哪 ， 起 來 踹 穀 罷 ！ 我 必 使 你 的 角 成 為 鐵 ， 使 你 的 蹄 成 為 銅 。 你 必 打 碎 多 國 的 民 ， 將 他 們 的 財 獻 與 耶 和 華 ， 將 他 們 的 貨 獻 與 普 天 下 的 主 。",
+      "en": "“Get up and thresh, Daughter Zion! For I will give you iron horns; I will give you bronze hooves, and you will crush many nations.” You will devote to the Lord the spoils you take from them and dedicate their wealth to the sovereign Ruler of the whole earth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "ק֧וּמִי",
+          "morph": "HVqv2fs"
+        },
+        {
+          "w": "וָד֣וֹשִׁי",
+          "morph": "HC/Vqv2fs"
+        },
+        {
+          "w": "בַת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "צִיּ֗וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "קַרְנֵ֞ךְ",
+          "morph": "HNcbsc/Sp2fs"
+        },
+        {
+          "w": "אָשִׂ֤ים",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "בַּרְזֶל֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּפַרְסֹתַ֨יִךְ֙",
+          "morph": "HC/Ncfpc/Sp2fs"
+        },
+        {
+          "w": "אָשִׂ֣ים",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "נְחוּשָׁ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וַהֲדִקּ֖וֹת",
+          "morph": "HC/Vhq2fs"
+        },
+        {
+          "w": "עַמִּ֣ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רַבִּ֑ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וְהַחֲרַמְתִּ֤י",
+          "morph": "HC/Vhq1cs"
+        },
+        {
+          "w": "לַֽיהוָה֙",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בִּצְעָ֔ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "וְחֵילָ֖ם",
+          "morph": "HC/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "לַאֲד֥וֹן",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    }
+  ]
+}

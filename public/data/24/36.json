@@ -1,0 +1,2734 @@
+{
+  "book": 24,
+  "chapter": 36,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "猶 大 王 約 西 亞 的 兒 子 約 雅 敬 第 四 年 ， 耶 和 華 的 話 臨 到 耶 利 米 說 ：",
+      "en": "The Lord spoke to Jeremiah in the fourth year that Jehoiakim son of Josiah was ruling over Judah:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַֽיְהִי֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בַּשָּׁנָ֣ה",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "הָרְבִיעִ֔ת",
+          "morph": "HTd/Aofsa"
+        },
+        {
+          "w": "לִיהוֹיָקִ֥ים",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יֹאשִׁיָּ֖הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶ֣לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הָיָ֞ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "הַדָּבָ֤ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּה֙",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "יִרְמְיָ֔הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵאֵ֥ת",
+          "morph": "HR/R"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 取 一 書 卷 ， 將 我 對 你 說 攻 擊 以 色 列 和 猶 大 ， 並 各 國 的 一 切 話 ， 從 我 對 你 說 話 的 那 日 ， 就 是 從 約 西 亞 的 日 子 起 直 到 今 日 ， 都 寫 在 其 上 。",
+      "en": "“Get a scroll. Write on it everything I have told you to say about Israel, Judah, and all the other nations since I began to speak to you in the reign of Josiah until now.",
+      "notes": [],
+      "he": [
+        {
+          "w": "קַח",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "לְךָ֮",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "מְגִלַּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "סֵפֶר֒",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְכָתַבְתָּ֣",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֵלֶ֗יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "אֵ֣ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדְּבָרִ֞ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "דִּבַּ֧רְתִּי",
+          "morph": "HVpp1cs"
+        },
+        {
+          "w": "אֵלֶ֛יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יִשְׂרָאֵ֥ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "יְהוּדָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַגּוֹיִ֑ם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "מִיּ֞וֹם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "דִּבַּ֤רְתִּי",
+          "morph": "HVpp1cs"
+        },
+        {
+          "w": "אֵלֶ֨יךָ֙",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "מִימֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יֹאשִׁיָּ֔הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַ֖ד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַיּ֥וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּֽה",
+          "morph": "HTd/Pdxms"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "或 者 猶 大 家 聽 見 我 想 要 降 與 他 們 的 一 切 災 禍 ， 各 人 就 回 頭 ， 離 開 惡 道 ， 我 好 赦 免 他 們 的 罪 孽 和 罪 惡 。",
+      "en": "Perhaps when the people of Judah hear about all the disaster I intend to bring on them, they will all stop doing the evil things they have been doing. If they do, I will forgive their sins and the wicked things they have done.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "אוּלַ֤י",
+          "morph": "HD"
+        },
+        {
+          "w": "יִשְׁמְעוּ֙",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֵ֚ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָ֣רָעָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֛ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אָנֹכִ֥י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "חֹשֵׁ֖ב",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לַעֲשׂ֣וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לָהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "לְמַ֣עַן",
+          "morph": "HR"
+        },
+        {
+          "w": "יָשׁ֗וּבוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "אִ֚ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִדַּרְכּ֣וֹ",
+          "morph": "HR/Ncbsc/Sp3ms"
+        },
+        {
+          "w": "הָרָעָ֔ה",
+          "morph": "HTd/Aafsa"
+        },
+        {
+          "w": "וְסָלַחְתִּ֥י",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "לַעֲוֺנָ֖ם",
+          "morph": "HR/Ncbsc/Sp3mp"
+        },
+        {
+          "w": "וּלְחַטָּאתָֽם",
+          "morph": "HC/R/Ncfsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "所 以 ， 耶 利 米 召 了 尼 利 亞 的 兒 子 巴 錄 來 ； 巴 錄 就 從 耶 利 米 口 中 ， 將 耶 和 華 對 耶 利 米 所 說 的 一 切 話 寫 在 書 卷 上 。",
+      "en": "So Jeremiah summoned Baruch son of Neriah. Then, Baruch wrote down in a scroll all the Lord’s words that he had told to Jeremiah as they came from his mouth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקְרָ֣א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יִרְמְיָ֔הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בָּר֖וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נֵֽרִיָּ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּכְתֹּ֨ב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בָּר֜וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִפִּ֣י",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יִרְמְיָ֗הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֵ֣ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דִּבְרֵ֧י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "דִּבֶּ֥ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "אֵלָ֖יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "מְגִלַּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "סֵֽפֶר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "耶 利 米 吩 咐 巴 錄 說 ： 我 被 拘 管 ， 不 能 進 耶 和 華 的 殿 。",
+      "en": "Then Jeremiah told Baruch, “I am no longer allowed to go into the Lord’s temple.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְצַוֶּ֣ה",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יִרְמְיָ֔הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בָּר֖וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֲנִ֣י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "עָצ֔וּר",
+          "morph": "HVqsmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אוּכַ֔ל",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "לָב֖וֹא",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בֵּ֥ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "所 以 你 要 去 趁 禁 食 的 日 子 ， 在 耶 和 華 殿 中 將 耶 和 華 的 話 ， 就 是 你 從 我 口 中 所 寫 在 書 卷 上 的 話 ， 念 給 百 姓 和 一 切 從 猶 大 城 邑 出 來 的 人 聽 。",
+      "en": "So you go there the next time all the people of Judah come in from their towns to fast in the Lord’s temple. Read out loud where all of them can hear you what I told you the Lord said, which you wrote in the scroll.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבָאתָ֣",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אַתָּ֡ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "וְקָרָ֣אתָ",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "בַמְּגִלָּ֣ה",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "כָּתַֽבְתָּ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "מִפִּי֩",
+          "morph": "HR/Ncmsc/Sp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דִּבְרֵ֨י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוָ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּאָזְנֵ֥י",
+          "morph": "HR/Ncfdc"
+        },
+        {
+          "w": "הָעָ֛ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בֵּ֥ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּי֣וֹם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "צ֑וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְגַ֨ם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "בְּאָזְנֵ֧י",
+          "morph": "HR/Ncfdc"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַבָּאִ֥ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "מֵעָרֵיהֶ֖ם",
+          "morph": "HR/Ncfpc/Sp3mp"
+        },
+        {
+          "w": "תִּקְרָאֵֽם",
+          "morph": "HVqi2ms/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "或 者 他 們 在 耶 和 華 面 前 懇 求 各 人 回 頭 ， 離 開 惡 道 ， 因 為 耶 和 華 向 這 百 姓 所 說 要 發 的 怒 氣 和 忿 怒 是 大 的 。",
+      "en": "Perhaps then they will ask the Lord for mercy and will all stop doing the evil things they have been doing. For the Lord has threatened to bring great anger and wrath against these people.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "אוּלַ֞י",
+          "morph": "HD"
+        },
+        {
+          "w": "תִּפֹּ֤ל",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "תְּחִנָּתָם֙",
+          "morph": "HNcfsc/Sp3mp"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְיָשֻׁ֕בוּ",
+          "morph": "HC/Vqi3mp"
+        },
+        {
+          "w": "אִ֖ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִדַּרְכּ֣וֹ",
+          "morph": "HR/Ncbsc/Sp3ms"
+        },
+        {
+          "w": "הָרָעָ֑ה",
+          "morph": "HTd/Aafsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "גָד֤וֹל",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "הָאַף֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהַ֣חֵמָ֔ה",
+          "morph": "HC/Td/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "דִּבֶּ֥ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָעָ֥ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּֽה",
+          "morph": "HTd/Pdxms"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "尼 利 亞 的 兒 子 巴 錄 就 照 先 知 耶 利 米 一 切 所 吩 咐 的 去 行 ， 在 耶 和 華 的 殿 中 從 書 上 念 耶 和 華 的 話 。",
+      "en": "So Baruch son of Neriah did exactly what the prophet Jeremiah told him to do. He read what the Lord had said from the scroll in the temple of the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּ֗עַשׂ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בָּרוּךְ֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נֵ֣רִיָּ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כְּכֹ֥ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "צִוָּ֖הוּ",
+          "morph": "HVpp3ms/Sp3ms"
+        },
+        {
+          "w": "יִרְמְיָ֣הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַנָּבִ֑יא",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לִקְרֹ֥א",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בַסֵּ֛פֶר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "דִּבְרֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֵּ֥ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהֹוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "猶 大 王 約 西 亞 的 兒 子 約 雅 敬 第 五 年 九 月 ， 耶 路 撒 冷 的 眾 民 和 那 從 猶 大 城 邑 來 到 耶 路 撒 冷 的 眾 民 ， 在 耶 和 華 面 前 宣 告 禁 食 的 日 子 ，",
+      "en": "All the people living in Jerusalem and all the people who came into Jerusalem from the towns of Judah observed a fast before the Lord. The fast took place in the ninth month of the fifth year that Jehoiakim son of Josiah was ruling over Judah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֣י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בַשָּׁנָ֣ה",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "הַ֠חֲמִשִׁית",
+          "morph": "HTd/Aofsa"
+        },
+        {
+          "w": "לִיהוֹיָקִ֨ים",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יֹאשִׁיָּ֤הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶֽלֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּחֹ֣דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַתְּשִׁעִ֔י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "קָרְא֨וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "צ֜וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לִפְנֵ֧י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעָ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בִּירֽוּשָׁלִָ֑ם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הָעָ֗ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַבָּאִ֛ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "מֵעָרֵ֥י",
+          "morph": "HR/Ncfpc"
+        },
+        {
+          "w": "יְהוּדָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּירוּשָׁלִָֽם",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "巴 錄 就 在 耶 和 華 殿 的 上 院 ， 耶 和 華 殿 的 新 門 口 ， 沙 番 的 兒 子 文 士 基 瑪 利 雅 的 屋 內 ， 念 書 上 耶 利 米 的 話 給 眾 民 聽 。",
+      "en": "At that time Baruch went into the temple of the Lord. He stood in the entrance of the room of Gemariah the son of Shaphan who had been the royal secretary. That room was in the upper court near the entrance of the New Gate. There, where all the people could hear him, he read from the scroll what Jeremiah had said.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקְרָ֨א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בָר֥וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּסֵּ֛פֶר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דִּבְרֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִרְמְיָ֖הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּלִשְׁכַּ֡ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "גְּמַרְיָהוּ֩",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שָׁפָ֨ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַסֹּפֵ֜ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בֶּחָצֵ֣ר",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "הָעֶלְי֗וֹן",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "פֶּ֣תַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שַׁ֤עַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בֵּית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "הֶֽחָדָ֔שׁ",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "בְּאָזְנֵ֖י",
+          "morph": "HR/Ncfdc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעָֽם",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "沙 番 的 孫 子 、 基 瑪 利 雅 的 兒 子 米 該 亞 聽 見 書 上 耶 和 華 的 一 切 話 ，",
+      "en": "Micaiah, who was the son of Gemariah and the grandson of Shaphan, heard Baruch read from the scroll everything the Lord had said.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַ֠יִּשְׁמַ֗ע",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מִכָ֨יְהוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "גְּמַרְיָ֧הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שָׁפָ֛ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דִּבְרֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵעַ֥ל",
+          "morph": "HR/R"
+        },
+        {
+          "w": "הַסֵּֽפֶר",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "他 就 下 到 王 宮 ， 進 入 文 士 的 屋 子 。 眾 首 領 ， 就 是 文 士 以 利 沙 瑪 、 示 瑪 雅 的 兒 子 第 萊 雅 、 亞 革 波 的 兒 子 以 利 拿 單 、 沙 番 的 兒 子 基 瑪 利 雅 、 哈 拿 尼 雅 的 兒 子 西 底 家 ， 和 其 餘 的 首 領 都 坐 在 那 裡 。",
+      "en": "He went down to the chamber of the royal secretary in the king’s palace and found all the court officials in session there. Elishama the royal secretary, Delaiah son of Shemaiah, Elnathan son of Achbor, Gemariah son of Shaphan, Zedekiah son of Hananiah, and all the other officials were seated there.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּ֤רֶד",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בֵּית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמֶּ֨לֶךְ֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "לִשְׁכַּ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַסֹּפֵ֔ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהִ֨נֵּה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "שָׁ֔ם",
+          "morph": "HD"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׂרִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "יֽוֹשְׁבִ֑ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "אֱלִישָׁמָ֣ע",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַסֹּפֵ֡ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וּדְלָיָ֣הוּ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שְׁ֠מַעְיָהוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶלְנָתָ֨ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַכְבּ֜וֹר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּגְמַרְיָ֧הוּ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שָׁפָ֛ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְצִדְקִיָּ֥הוּ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חֲנַנְיָ֖הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הַשָּׂרִֽים",
+          "morph": "HTd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "於 是 米 該 亞 對 他 們 述 說 他 所 聽 見 的 一 切 話 ， 就 是 巴 錄 向 百 姓 念 那 書 的 時 候 所 聽 見 的 。",
+      "en": "Micaiah told them everything he had heard Baruch read from the scroll in the hearing of the people.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּגֵּ֤ד",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "לָהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "מִכָ֔יְהוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֵ֥ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדְּבָרִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שָׁמֵ֑עַ",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בִּקְרֹ֥א",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בָר֛וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּסֵּ֖פֶר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בְּאָזְנֵ֥י",
+          "morph": "HR/Ncfdc"
+        },
+        {
+          "w": "הָעָֽם",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "眾 首 領 就 打 發 古 示 的 曾 孫 、 示 利 米 雅 的 孫 子 、 尼 探 雅 的 兒 子 猶 底 到 巴 錄 那 裡 ， 對 他 說 ： 你 將 所 念 給 百 姓 聽 的 書 卷 拿 在 手 中 到 我 們 這 裡 來 。 尼 利 亞 的 兒 子 巴 錄 就 手 拿 書 卷 來 到 他 們 那 裡 。",
+      "en": "All the officials sent Jehudi, who was the son of Nethaniah, the son of Shelemiah, the son of Cushi, to Baruch. They ordered him to tell Baruch, “Come here and bring with you the scroll you read in the hearing of the people.” So Baruch son of Neriah went to them, carrying the scroll in his hand.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁלְח֨וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׂרִ֜ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בָּר֗וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוּדִ֡י",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נְ֠תַנְיָהוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שֶׁלֶמְיָ֣הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כּוּשִׁי֮",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹר֒",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הַמְּגִלָּ֗ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "קָרָ֤אתָ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "בָּהּ֙",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "בְּאָזְנֵ֣י",
+          "morph": "HR/Ncfdc"
+        },
+        {
+          "w": "הָעָ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "קָחֶ֥נָּה",
+          "morph": "HVqv2ms/Sp3fs"
+        },
+        {
+          "w": "בְיָדְךָ֖",
+          "morph": "HR/Ncbsc/Sp2ms"
+        },
+        {
+          "w": "וָלֵ֑ךְ",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "וַ֠יִּקַּח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בָּר֨וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נֵרִיָּ֤הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַמְּגִלָּה֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "בְּיָד֔וֹ",
+          "morph": "HR/Ncbsc/Sp3ms"
+        },
+        {
+          "w": "וַיָּבֹ֖א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֲלֵיהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "他 們 對 他 說 ： 請 你 坐 下 ， 念 給 我 們 聽 。 巴 錄 就 念 給 他 們 聽 。",
+      "en": "They said to him, “Please sit down and read it to us.” So Baruch sat down and read it to them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּאמְר֣וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֵלָ֔יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "שֵׁ֣ב",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "נָ֔א",
+          "morph": "HTe"
+        },
+        {
+          "w": "וּקְרָאֶ֖נָּה",
+          "morph": "HC/Vqv2ms/Sp3fs"
+        },
+        {
+          "w": "בְּאָזְנֵ֑ינוּ",
+          "morph": "HR/Ncfdc/Sp1cp"
+        },
+        {
+          "w": "וַיִּקְרָ֥א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בָר֖וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּאָזְנֵיהֶֽם",
+          "morph": "HR/Ncfdc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "他 們 聽 見 這 一 切 話 就 害 怕 ， 面 面 相 觀 ， 對 巴 錄 說 ： 我 們 必 須 將 這 一 切 話 告 訴 王 。",
+      "en": "When they had heard it all, they expressed their alarm to one another. Then they said to Baruch, “We must certainly give the king a report about everything you have read!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֗י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כְּשָׁמְעָם֙",
+          "morph": "HR/Vqc/Sp3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדְּבָרִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "פָּחֲד֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֵעֵ֑הוּ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וַיֹּֽאמְרוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בָּר֔וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַגֵּ֤יד",
+          "morph": "HVha"
+        },
+        {
+          "w": "נַגִּיד֙",
+          "morph": "HVhi1cp"
+        },
+        {
+          "w": "לַמֶּ֔לֶךְ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֵ֥ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדְּבָרִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָאֵֽלֶּה",
+          "morph": "HTd/Pdxcp"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "他 們 問 巴 錄 說 ： 請 你 告 訴 我 們 ， 你 怎 樣 從 他 口 中 寫 這 一 切 話 呢 ？",
+      "en": "Then they asked Baruch, “How did you come to write all these words? Do they actually come from Jeremiah’s mouth?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶ֨ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "בָּר֔וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "שָׁאֲל֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הַגֶּד",
+          "morph": "HVhv2ms"
+        },
+        {
+          "w": "נָ֣א",
+          "morph": "HTe"
+        },
+        {
+          "w": "לָ֔נוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "אֵ֗יךְ",
+          "morph": "HTi"
+        },
+        {
+          "w": "כָּתַ֛בְתָּ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדְּבָרִ֥ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָאֵ֖לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "מִפִּֽיו",
+          "morph": "HR/Ncmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "巴 錄 回 答 說 ： 他 用 口 向 我 說 這 一 切 話 ， 我 就 用 筆 墨 寫 在 書 上 。",
+      "en": "Baruch answered, “Yes, they came from his own mouth. He dictated all these words to me, and I wrote them down in ink on this scroll.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לָהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "בָּר֔וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִפִּיו֙",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "יִקְרָ֣א",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֵלַ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "אֵ֥ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדְּבָרִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָאֵ֑לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "וַאֲנִ֛י",
+          "morph": "HC/Pp1cs"
+        },
+        {
+          "w": "כֹּתֵ֥ב",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַסֵּ֖פֶר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בַּדְּיֽוֹ",
+          "morph": "HRd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "眾 首 領 對 巴 錄 說 ： 你 和 耶 利 米 要 去 藏 起 來 ， 不 可 叫 人 知 道 你 們 在 哪 裡 。",
+      "en": "Then the officials said to Baruch, “You and Jeremiah must go and hide. You must not let anyone know where you are.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּאמְר֤וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "הַשָּׂרִים֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בָּר֔וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵ֥ךְ",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "הִסָּתֵ֖ר",
+          "morph": "HVNv2ms"
+        },
+        {
+          "w": "אַתָּ֣ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "וְיִרְמְיָ֑הוּ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְאִ֥ישׁ",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "יֵדַ֖ע",
+          "morph": "HVqj3ms"
+        },
+        {
+          "w": "אֵיפֹ֥ה",
+          "morph": "HTi"
+        },
+        {
+          "w": "אַתֶּֽם",
+          "morph": "HPp2mp"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "眾 首 領 進 院 見 王 ， 卻 先 把 書 卷 存 在 文 士 以 利 沙 瑪 的 屋 內 ， 以 後 將 這 一 切 話 說 給 王 聽 。",
+      "en": "The officials put the scroll in the room of Elishama, the royal secretary, for safekeeping. Then they went to the court and reported everything to the king.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּבֹ֤אוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמֶּ֨לֶךְ֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "חָצֵ֔רָה",
+          "morph": "HNcbsa/Sd"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַמְּגִלָּ֣ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הִפְקִ֔דוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "בְּלִשְׁכַּ֖ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "אֱלִישָׁמָ֣ע",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַסֹּפֵ֑ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַיַּגִּ֨ידוּ֙",
+          "morph": "HC/Vhw3mp"
+        },
+        {
+          "w": "בְּאָזְנֵ֣י",
+          "morph": "HR/Ncfdc"
+        },
+        {
+          "w": "הַמֶּ֔לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֵ֖ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדְּבָרִֽים",
+          "morph": "HTd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "王 就 打 發 猶 底 去 拿 這 書 卷 來 ， 他 便 從 文 士 以 利 沙 瑪 的 屋 內 取 來 ， 念 給 王 和 王 左 右 侍 立 的 眾 首 領 聽 。",
+      "en": "The king sent Jehudi to get the scroll. He went and got it from the room of Elishama, the royal secretary. Then he himself read it to the king and all the officials who were standing around him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁלַ֨ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הַמֶּ֜לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוּדִ֗י",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָקַ֨חַת֙",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַמְּגִלָּ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וַיִּ֨קָּחֶ֔הָ",
+          "morph": "HC/Vqw3ms/Sp3fs"
+        },
+        {
+          "w": "מִלִּשְׁכַּ֖ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "אֱלִישָׁמָ֣ע",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַסֹּפֵ֑ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַיִּקְרָאֶ֤הָ",
+          "morph": "HC/Vqw3ms/Sp3fs"
+        },
+        {
+          "w": "יְהוּדִי֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּאָזְנֵ֣י",
+          "morph": "HR/Ncfdc"
+        },
+        {
+          "w": "הַמֶּ֔לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וּבְאָזְנֵי֙",
+          "morph": "HC/R/Ncfdc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׂרִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָעֹמְדִ֖ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "מֵעַ֥ל",
+          "morph": "HR/R"
+        },
+        {
+          "w": "הַמֶּֽלֶךְ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "那 時 正 是 九 月 ， 王 坐 在 過 冬 的 房 屋 裡 ， 王 的 前 面 火 盆 中 有 燒 著 的 火 。",
+      "en": "Since it was the ninth month of the year, the king was sitting in his winter quarters. A fire was burning in the firepot in front of him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַמֶּ֗לֶךְ",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "יוֹשֵׁב֙",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַחֹ֔רֶף",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בַּחֹ֖דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַתְּשִׁיעִ֑י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הָאָ֖ח",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְפָנָ֥יו",
+          "morph": "HR/Ncbpc/Sp3ms"
+        },
+        {
+          "w": "מְבֹעָֽרֶת",
+          "morph": "HVPsfsa"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "猶 底 念 了 三 四 篇 （ 或 譯 ： 行 ） ， 王 就 用 文 士 的 刀 將 書 卷 割 破 ， 扔 在 火 盆 中 ， 直 到 全 卷 在 火 中 燒 盡 了 。",
+      "en": "As soon as Jehudi had read three or four columns of the scroll, the king would cut them off with a penknife and throw them on the fire in the firepot. He kept doing so until the whole scroll was burned up in the fire.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֣י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כִּקְר֣וֹא",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "יְהוּדִ֗י",
+          "morph": "HNp"
+        },
+        {
+          "w": "שָׁלֹ֣שׁ",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "דְּלָתוֹת֮",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "וְאַרְבָּעָה֒",
+          "morph": "HC/Acmsa"
+        },
+        {
+          "w": "יִֽקְרָעֶ֨הָ֙",
+          "morph": "HVqi3ms/Sp3fs"
+        },
+        {
+          "w": "בְּתַ֣עַר",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "הַסֹּפֵ֔ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהַשְׁלֵ֕ךְ",
+          "morph": "HC/Vha"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאֵ֖שׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֑ח",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "תֹּם֙",
+          "morph": "HVqc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמְּגִלָּ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאֵ֖שׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָֽח",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "王 和 聽 見 這 一 切 話 的 臣 僕 都 不 懼 怕 ， 也 不 撕 裂 衣 服 。",
+      "en": "Neither he nor any of his attendants showed any alarm when they heard all that had been read. Nor did they tear their clothes to show any grief or sorrow.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "פָחֲד֔וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "קָרְע֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בִּגְדֵיהֶ֑ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "הַמֶּ֨לֶךְ֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "עֲבָדָ֔יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "הַשֹּׁ֣מְעִ֔ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "אֵ֥ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדְּבָרִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָאֵֽלֶּה",
+          "morph": "HTd/Pdxcp"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "以 利 拿 單 和 第 萊 雅 ， 並 基 瑪 利 雅 懇 求 王 不 要 燒 這 書 卷 ， 他 卻 不 聽 。",
+      "en": "The king did not even listen to Elnathan, Delaiah, and Gemariah, who had urged him not to burn the scroll.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְגַם֩",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "אֶלְנָתָ֨ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּדְלָיָ֤הוּ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּגְמַרְיָ֨הוּ֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הִפְגִּ֣עוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "בַמֶּ֔לֶךְ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "לְבִלְתִּ֥י",
+          "morph": "HR/C"
+        },
+        {
+          "w": "שְׂרֹ֖ף",
+          "morph": "HVqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַמְּגִלָּ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "שָׁמַ֖ע",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֲלֵיהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "王 就 吩 咐 哈 米 勒 的 兒 子 （ 或 譯 ： 王 的 兒 子 ） 耶 拉 篾 和 亞 斯 列 的 兒 子 西 萊 雅 ， 並 亞 伯 疊 的 兒 子 示 利 米 雅 ， 去 捉 拿 文 士 巴 錄 和 先 知 耶 利 米 。 耶 和 華 卻 將 他 們 隱 藏 。",
+      "en": "He also ordered Jerahmeel, who was one of the royal princes, Seraiah son of Azriel, and Shelemiah son of Abdeel to arrest the scribe Baruch and the prophet Jeremiah. However, the Lord hid them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְצַוֶּ֣ה",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "הַ֠מֶּלֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְרַחְמְאֵ֨ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמֶּ֜לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "שְׂרָיָ֣הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַזְרִיאֵ֗ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "שֶֽׁלֶמְיָ֨הוּ֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּֽן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַבְדְּאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָקַ֨חַת֙",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בָּר֣וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַסֹּפֵ֔ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֵ֖ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "יִרְמְיָ֣הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַנָּבִ֑יא",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַיַּסְתִּרֵ֖ם",
+          "morph": "HC/Vhw3ms/Sp3mp"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "王 燒 了 書 卷 （ 其 上 有 巴 錄 從 耶 利 米 口 中 所 寫 的 話 ） 以 後 ， 耶 和 華 的 話 臨 到 耶 利 米 說 ：",
+      "en": "The Lord’s message came to Jeremiah after the king had burned the scroll with the words Baruch had written down at Jeremiah’s dictation.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֥י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "דְבַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "יִרְמְיָ֑הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַחֲרֵ֣י",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׂרֹ֣ף",
+          "morph": "HVqc"
+        },
+        {
+          "w": "הַמֶּ֗לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַמְּגִלָּה֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַדְּבָרִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "כָּתַ֥ב",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בָּר֛וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִפִּ֥י",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יִרְמְיָ֖הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "你 再 取 一 卷 ， 將 猶 大 王 約 雅 敬 所 燒 第 一 卷 上 的 一 切 話 寫 在 其 上 。",
+      "en": "“Get another scroll and write on it everything that was written on the original scroll that King Jehoiakim of Judah burned.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שׁ֥וּב",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "קַח",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "לְךָ֖",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "מְגִלָּ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אַחֶ֑רֶת",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "וּכְתֹ֣ב",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "עָלֶ֗יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "אֵ֤ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדְּבָרִים֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָרִ֣אשֹׁנִ֔ים",
+          "morph": "HTd/Aampa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הָי֗וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמְּגִלָּה֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הָרִ֣אשֹׁנָ֔ה",
+          "morph": "HTd/Aafsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שָׂרַ֖ף",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוֹיָקִ֥ים",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶֽלֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "論 到 猶 大 王 約 雅 敬 你 要 說 ， 耶 和 華 如 此 說 ： 你 燒 了 書 卷 ， 說 ： 你 為 甚 麼 在 其 上 寫 著 ， 說 巴 比 倫 王 必 要 來 毀 滅 這 地 ， 使 這 地 上 絕 了 人 民 牲 畜 呢 ？",
+      "en": "Tell King Jehoiakim of Judah, ‘The Lord says, “You burned the scroll. You asked Jeremiah, ‘How dare you write in this scroll that the king of Babylon will certainly come and destroy this land and wipe out all the people and animals on it?’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "יְהוֹיָקִ֤ים",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶֽלֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "תֹּאמַ֔ר",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "כֹּ֖ה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַ֠תָּה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "שָׂרַ֜פְתָּ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַמְּגִלָּ֤ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "הַזֹּאת֙",
+          "morph": "HTd/Pdxfs"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מַדּוּעַ֩",
+          "morph": "HTi"
+        },
+        {
+          "w": "כָּתַ֨בְתָּ",
+          "morph": "HVqp2ms"
+        },
+        {
+          "w": "עָלֶ֜יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "לֵאמֹ֗ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בֹּֽא",
+          "morph": "HVqa"
+        },
+        {
+          "w": "יָב֤וֹא",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מֶֽלֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּבֶל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהִשְׁחִית֙",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֣רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "הַזֹּ֔את",
+          "morph": "HTd/Pdxfs"
+        },
+        {
+          "w": "וְהִשְׁבִּ֥ית",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "מִמֶּ֖נָּה",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "אָדָ֥ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּבְהֵמָֽה",
+          "morph": "HC/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "所 以 耶 和 華 論 到 猶 大 王 約 雅 敬 說 ： 他 後 裔 中 必 沒 有 人 坐 在 大 衛 的 寶 座 上 ； 他 的 屍 首 必 被 拋 棄 ， 白 日 受 炎 熱 ， 黑 夜 受 寒 霜 。",
+      "en": "So the Lord says concerning King Jehoiakim of Judah, “None of his line will occupy the throne of David. His dead body will be thrown out to be exposed to scorching heat by day and frost by night.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לָכֵ֞ן",
+          "morph": "HR/D"
+        },
+        {
+          "w": "כֹּֽה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהֽוֹיָקִים֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶ֣לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִֽהְיֶה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לּ֥וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "יוֹשֵׁ֖ב",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כִּסֵּ֣א",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דָוִ֑ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְנִבְלָתוֹ֙",
+          "morph": "HC/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "תִּֽהְיֶ֣ה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "מֻשְׁלֶ֔כֶת",
+          "morph": "HVHsfsa"
+        },
+        {
+          "w": "לַחֹ֥רֶב",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בַּיּ֖וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְלַקֶּ֥רַח",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "בַּלָּֽיְלָה",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "我 必 因 他 和 他 後 裔 ， 並 他 臣 僕 的 罪 孽 刑 罰 他 們 。 我 要 使 我 所 說 的 一 切 災 禍 臨 到 他 們 和 耶 路 撒 冷 的 居 民 ， 並 猶 大 人 ； 只 是 他 們 不 聽 。",
+      "en": "I will punish him and his descendants and the officials who serve him for the wicked things they have done. I will bring on them, the citizens of Jerusalem and the people of Judah, all the disaster that I told them about and that they ignored.”’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּפָקַדְתִּ֨י",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "עָלָ֧יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "זַרְע֛וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "עֲבָדָ֖יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עֲוֺנָ֑ם",
+          "morph": "HNcbsc/Sp3mp"
+        },
+        {
+          "w": "וְהֵבֵאתִ֣י",
+          "morph": "HC/Vhq1cs"
+        },
+        {
+          "w": "עֲ֠לֵיהֶם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "יֹשְׁבֵ֨י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "יְרוּשָׁלִַ֜ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֵ֧ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָרָעָ֛ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "דִּבַּ֥רְתִּי",
+          "morph": "HVpp1cs"
+        },
+        {
+          "w": "אֲלֵיהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "שָׁמֵֽעוּ",
+          "morph": "HVqp3cp"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "於 是 ， 耶 利 米 又 取 一 書 卷 交 給 尼 利 亞 的 兒 子 文 士 巴 錄 ， 他 就 從 耶 利 米 的 口 中 寫 了 猶 大 王 約 雅 敬 所 燒 前 卷 上 的 一 切 話 ， 另 外 又 添 了 許 多 相 彷 的 話 。",
+      "en": "Then Jeremiah got another scroll and gave it to the scribe Baruch son of Neriah. As Jeremiah dictated, Baruch wrote on this scroll everything that had been on the scroll that King Jehoiakim of Judah burned in the fire. They also added on this scroll several other messages of the same kind.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיִרְמְיָ֜הוּ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "לָקַ֣ח",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "מְגִלָּ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אַחֶ֗רֶת",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "וַֽיִּתְּנָהּ֮",
+          "morph": "HC/Vqw3ms/Sp3fs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בָּר֣וּךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נֵרִיָּהוּ֮",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַסֹּפֵר֒",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַיִּכְתֹּ֤ב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "עָלֶ֨יהָ֙",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "מִפִּ֣י",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יִרְמְיָ֔הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֵ֚ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דִּבְרֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַסֵּ֔פֶר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שָׂרַ֛ף",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוֹיָקִ֥ים",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶֽלֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בָּאֵ֑שׁ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "וְע֨וֹד",
+          "morph": "HC/D"
+        },
+        {
+          "w": "נוֹסַ֧ף",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "עֲלֵיהֶ֛ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "דְּבָרִ֥ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רַבִּ֖ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "כָּהֵֽמָּה",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    }
+  ]
+}

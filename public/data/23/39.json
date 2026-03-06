@@ -1,0 +1,658 @@
+{
+  "book": 23,
+  "chapter": 39,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "那 時 ， 巴 比 倫 王 巴 拉 但 的 兒 子 米 羅 達 巴 拉 但 聽 見 希 西 家 病 而 痊 愈 ， 就 送 書 信 和 禮 物 給 他 。",
+      "en": "At that time Merodach Baladan son of Baladan, king of Babylon, sent letters and a gift to Hezekiah, for he heard that Hezekiah had been ill and had recovered.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בָּעֵ֣ת",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "הַהִ֡וא",
+          "morph": "HTd/Pp3fs"
+        },
+        {
+          "w": "שָׁלַ֡ח",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "מְרֹדַ֣ךְ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּ֠לְאֲדָן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּֽן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בַּלְאֲדָ֧ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶֽלֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּבֶ֛ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "סְפָרִ֥ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וּמִנְחָ֖ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "חִזְקִיָּ֑הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּשְׁמַ֕ע",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "חָלָ֖ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "וַֽיֶּחֱזָֽק",
+          "morph": "HC/Vqw3ms"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "希 西 家 喜 歡 見 使 者 ， 就 把 自 己 寶 庫 的 金 子 、 銀 子 、 香 料 、 貴 重 的 膏 油 ， 和 他 武 庫 的 一 切 軍 器 ， 並 所 有 的 財 寶 都 給 他 們 看 ； 他 家 中 和 全 國 之 內 ， 希 西 家 沒 有 一 樣 不 給 他 們 看 的 。",
+      "en": "Hezekiah welcomed them and showed them his storehouse with its silver, gold, spices, and high-quality olive oil, as well as his whole armory and everything in his treasuries. Hezekiah showed them everything in his palace and in his whole kingdom.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׂמַ֣ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "עֲלֵיהֶם֮",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "חִזְקִיָּהוּ֒",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיַּרְאֵ֣ם",
+          "morph": "HC/Vhw3ms/Sp3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נכתה",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "נְכֹת֡וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַכֶּסֶף֩",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַזָּהָ֨ב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַבְּשָׂמִ֜ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְאֵ֣ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַשֶּׁ֣מֶן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַטּ֗וֹב",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "וְאֵת֙",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כֵּלָ֔יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וְאֵ֛ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נִמְצָ֖א",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "בְּאֹֽצְרֹתָ֑יו",
+          "morph": "HR/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "הָיָ֣ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "דָבָ֗ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲ֠שֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "הֶרְאָ֧ם",
+          "morph": "HVhp3ms/Sp3mp"
+        },
+        {
+          "w": "חִזְקִיָּ֛הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּבֵית֖וֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "וּבְכָל",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "מֶמְשַׁלְתּֽוֹ",
+          "morph": "HNcbsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "於 是 先 知 以 賽 亞 來 見 希 西 家 王 ， 問 他 說 ： 這 些 人 說 甚 麼 ？ 他 們 從 哪 裡 來 見 你 ？ 希 西 家 說 ： 他 們 從 遠 方 的 巴 比 倫 來 見 我 。",
+      "en": "Isaiah the prophet visited King Hezekiah and asked him, “What did these men say? Where do they come from?” Hezekiah replied, “They come from the distant land of Babylon.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּבֹא֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְשַׁעְיָ֣הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַנָּבִ֔יא",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמֶּ֖לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "חִזְקִיָּ֑הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיֹּ֨אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלָ֜יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "מָ֥ה",
+          "morph": "HTi"
+        },
+        {
+          "w": "אָמְר֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "הָאֲנָשִׁ֣ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָאֵ֗לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "וּמֵאַ֨יִן֙",
+          "morph": "HC/R/Ti"
+        },
+        {
+          "w": "יָבֹ֣אוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "אֵלֶ֔יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "וַיֹּ֨אמֶר֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "חִזְקִיָּ֔הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵאֶ֧רֶץ",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "רְחוֹקָ֛ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "בָּ֥אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אֵלַ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "מִבָּבֶֽל",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "以 賽 亞 說 ： 他 們 在 你 家 裡 看 見 了 甚 麼 ？ 希 西 家 說 ： 凡 我 家 中 所 有 的 ， 他 們 都 看 見 了 ； 我 財 寶 中 沒 有 一 樣 不 給 他 們 看 的 。",
+      "en": "Isaiah asked, “What have they seen in your palace?” Hezekiah replied, “They have seen everything in my palace. I showed them everything in my treasuries.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֕אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מָ֥ה",
+          "morph": "HTi"
+        },
+        {
+          "w": "רָא֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בְּבֵיתֶ֑ךָ",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "חִזְקִיָּ֗הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֵ֣ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בְּבֵיתִי֙",
+          "morph": "HR/Ncmsc/Sp1cs"
+        },
+        {
+          "w": "רָא֔וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "הָיָ֥ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "דָבָ֛ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "הִרְאִיתִ֖ים",
+          "morph": "HVhp1cs/Sp3mp"
+        },
+        {
+          "w": "בְּאוֹצְרֹתָֽי",
+          "morph": "HR/Ncmpc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "以 賽 亞 對 希 西 家 說 ： 你 要 聽 萬 軍 之 耶 和 華 的 話 ：",
+      "en": "Isaiah said to Hezekiah, “Listen to the message of the Lord of Heaven’s Armies:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֥אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְשַׁעְיָ֖הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "חִזְקִיָּ֑הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "שְׁמַ֖ע",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "דְּבַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "צְבָאֽוֹת",
+          "morph": "HNcbpa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "日 子 必 到 ， 凡 你 家 裡 所 有 的 ， 並 你 列 祖 積 蓄 到 如 今 的 ， 都 要 被 擄 到 巴 比 倫 去 ， 不 留 下 一 樣 ； 這 是 耶 和 華 說 的 。",
+      "en": "‘Look, a time is coming when everything in your palace and the things your ancestors have accumulated to this day will be carried away to Babylon; nothing will be left,’ says the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הִנֵּה֮",
+          "morph": "HTm"
+        },
+        {
+          "w": "יָמִ֣ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בָּאִים֒",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "וְנִשָּׂ֣א",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בְּבֵיתֶ֗ךָ",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "וַאֲשֶׁ֨ר",
+          "morph": "HC/Tr"
+        },
+        {
+          "w": "אָצְר֧וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אֲבֹתֶ֛יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיּ֥וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֖ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "בָּבֶ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִוָּתֵ֥ר",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "דָּבָ֖ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אָמַ֥ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "並 且 從 你 本 身 所 生 的 眾 子 ， 其 中 必 有 被 擄 去 、 在 巴 比 倫 王 宮 裡 當 太 監 的 。",
+      "en": "‘Some of your very own descendants whom you father will be taken away and will be made eunuchs in the palace of the king of Babylon.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִבָּנֶ֜יךָ",
+          "morph": "HC/R/Ncmpc/Sp2ms"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יֵצְא֧וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "מִמְּךָ֛",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תּוֹלִ֖יד",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "יִקָּ֑חוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "וְהָיוּ֙",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "סָרִיסִ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בְּהֵיכַ֖ל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מֶ֥לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּבֶֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "希 西 家 對 以 賽 亞 說 ： 你 所 說 耶 和 華 的 話 甚 好 ， 因 為 在 我 的 年 日 中 必 有 太 平 和 穩 固 的 景 況 。",
+      "en": "Hezekiah said to Isaiah, “The Lord’s message that you have announced is appropriate.” Then he thought, “For there will be peace and stability during my lifetime.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "חִזְקִיָּ֨הוּ֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְשַׁעְיָ֔הוּ",
+          "morph": "HNp"
+        },
+        {
+          "w": "ט֥וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "דְּבַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "דִּבַּ֑רְתָּ",
+          "morph": "HVpp2ms"
+        },
+        {
+          "w": "וַיֹּ֕אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "יִהְיֶ֛ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "שָׁל֥וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וֶאֱמֶ֖ת",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "בְּיָמָֽי",
+          "morph": "HR/Ncmpc/Sp1cs"
+        }
+      ]
+    }
+  ]
+}

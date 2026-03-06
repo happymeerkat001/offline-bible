@@ -1,0 +1,1454 @@
+{
+  "book": 4,
+  "chapter": 34,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 曉 諭 摩 西 說 ：",
+      "en": "Then the Lord spoke to Moses:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 吩 咐 以 色 列 人 說 ： 你 們 到 了 迦 南 地 ， 就 是 歸 你 們 為 業 的 迦 南 四 境 之 地 ，",
+      "en": "“Give these instructions to the Israelites, and tell them: ‘When you enter Canaan, the land that has been assigned to you as an inheritance, the land of Canaan with its borders,",
+      "notes": [],
+      "he": [
+        {
+          "w": "צַ֞ו",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּנֵ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָמַרְתָּ֣",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֲלֵהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "אַתֶּ֥ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "בָּאִ֖ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֣רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "כְּנָ֑עַן",
+          "morph": "HNp"
+        },
+        {
+          "w": "זֹ֣את",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "הָאָ֗רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּפֹּ֤ל",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "לָכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "בְּֽנַחֲלָ֔ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "כְּנַ֖עַן",
+          "morph": "HNp"
+        },
+        {
+          "w": "לִגְבֻלֹתֶֽיהָ",
+          "morph": "HR/Ncfpc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "南 角 要 從 尋 的 曠 野 ， 貼 著 以 東 的 邊 界 ； 南 界 要 從 鹽 海 東 頭 起 ，",
+      "en": "your southern border will extend from the wilderness of Zin along the Edomite border, and your southern border will run eastward to the extremity of the Salt Sea,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיָ֨ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "לָכֶ֧ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "פְּאַת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "נֶ֛גֶב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִמִּדְבַּר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "צִ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְדֵ֣י",
+          "morph": "HNcbdc"
+        },
+        {
+          "w": "אֱד֑וֹם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהָיָ֤ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "לָכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "גְּב֣וּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נֶ֔גֶב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִקְצֵ֥ה",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "יָם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמֶּ֖לַח",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "קֵֽדְמָה",
+          "morph": "HNcmsa/Sd"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "繞 到 亞 克 拉 濱 坡 的 南 邊 ， 接 連 到 尋 ， 直 通 到 加 低 斯 巴 尼 亞 的 南 邊 ， 又 通 到 哈 薩 亞 達 ， 接 連 到 押 們 ，",
+      "en": "and then the border will turn from the south to the Scorpion Ascent, continue to Zin, and then its direction will be from the south to Kadesh Barnea. Then it will go to Hazar Addar and pass over to Azmon.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנָסַ֣ב",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "לָכֶם֩",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "הַגְּב֨וּל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִנֶּ֜גֶב",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לְמַעֲלֵ֤ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עַקְרַבִּים֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעָ֣בַר",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "צִ֔נָה",
+          "morph": "HNp/Sd"
+        },
+        {
+          "w": "והיה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "וְהָיוּ֙",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "תּֽוֹצְאֹתָ֔יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "מִנֶּ֖גֶב",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לְקָדֵ֣שׁ",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בַּרְנֵ֑עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְיָצָ֥א",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "חֲצַר",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַדָּ֖ר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעָבַ֥ר",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "עַצְמֹֽנָה",
+          "morph": "HNp/Sd"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "從 押 們 轉 到 埃 及 小 河 ， 直 通 到 海 為 止 。",
+      "en": "There the border will turn from Azmon to the Stream of Egypt, and then its direction is to the sea.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנָסַ֧ב",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "הַגְּב֛וּל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מֵעַצְמ֖וֹן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "נַ֣חְלָה",
+          "morph": "HNcmsc/Sh"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהָי֥וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "תוֹצְאֹתָ֖יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "הַיָּֽמָּה",
+          "morph": "HTd/Ncmsa/Sd"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "西 邊 要 以 大 海 為 界 ； 這 就 是 你 們 的 西 界 。",
+      "en": "“‘And for a western border you will have the Great Sea. This will be your western border.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּגְב֣וּל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "יָ֔ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְהָיָ֥ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "לָכֶ֛ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "הַיָּ֥ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַגָּד֖וֹל",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "וּגְב֑וּל",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "זֶֽה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "יִהְיֶ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "גְּב֥וּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יָֽם",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "北 界 要 從 大 海 起 ， 畫 到 何 珥 山 ，",
+      "en": "“‘And this will be your northern border: From the Great Sea you will draw a line to Mount Hor;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְזֶֽה",
+          "morph": "HC/Pdxms"
+        },
+        {
+          "w": "יִהְיֶ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "גְּב֣וּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "צָפ֑וֹן",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיָּם֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַגָּדֹ֔ל",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "תְּתָא֥וּ",
+          "morph": "HVpi2mp"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "הֹ֥ר",
+          "morph": "HNp"
+        },
+        {
+          "w": "הָהָֽר",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "從 何 珥 山 劃 到 哈 馬 口 ， 通 到 西 達 達 ，",
+      "en": "from Mount Hor you will draw a line to Lebo Hamath, and the direction of the border will be to Zedad.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מֵהֹ֣ר",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הָהָ֔ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "תְּתָא֖וּ",
+          "morph": "HVpi2mp"
+        },
+        {
+          "w": "לְבֹ֣א",
+          "morph": "HNp"
+        },
+        {
+          "w": "חֲמָ֑ת",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהָי֛וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "תּוֹצְאֹ֥ת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "הַגְּבֻ֖ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "צְדָֽדָה",
+          "morph": "HNp/Sd"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "又 通 到 西 斐 崙 ， 直 到 哈 薩 以 難 。 這 要 作 你 們 的 北 界 。",
+      "en": "The border will continue to Ziphron, and its direction will be to Hazar Enan. This will be your northern border.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיָצָ֤א",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַגְּבֻל֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "זִפְרֹ֔נָה",
+          "morph": "HNp/Sd"
+        },
+        {
+          "w": "וְהָי֥וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "תוֹצְאֹתָ֖יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "חֲצַ֣ר",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֵינָ֑ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "זֶֽה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "יִהְיֶ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "גְּב֥וּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "צָפֽוֹן",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "你 們 要 從 哈 薩 以 難 劃 到 示 番 為 東 界 。",
+      "en": "“‘For your eastern border you will draw a line from Hazar Enan to Shepham.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִתְאַוִּיתֶ֥ם",
+          "morph": "HC/Vtq2mp"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לִגְב֣וּל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "קֵ֑דְמָה",
+          "morph": "HNcmsa/Sd"
+        },
+        {
+          "w": "מֵחֲצַ֥ר",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "עֵינָ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "שְׁפָֽמָה",
+          "morph": "HNp/Sd"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "這 界 要 從 示 番 下 到 亞 延 東 邊 的 利 比 拉 ， 又 要 達 到 基 尼 烈 湖 的 東 邊 。",
+      "en": "The border will run down from Shepham to Riblah, on the east side of Ain, and the border will descend and reach the eastern side of the Sea of Kinnereth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיָרַ֨ד",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַגְּבֻ֧ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִשְּׁפָ֛ם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הָרִבְלָ֖ה",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "מִקֶּ֣דֶם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לָעָ֑יִן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְיָרַ֣ד",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַגְּב֔וּל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וּמָחָ֛ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כֶּ֥תֶף",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יָם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כִּנֶּ֖רֶת",
+          "morph": "HNp"
+        },
+        {
+          "w": "קֵֽדְמָה",
+          "morph": "HNcmsa/Sd"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "這 界 要 下 到 約 但 河 ， 通 到 鹽 海 為 止 。 這 四 圍 的 邊 界 以 內 ， 要 作 你 們 的 地 。",
+      "en": "Then the border will continue down the Jordan River and its direction will be to the Salt Sea. This will be your land by its borders that surround it.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיָרַ֤ד",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַגְּבוּל֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַיַּרְדֵּ֔נָה",
+          "morph": "HTd/Np/Sd"
+        },
+        {
+          "w": "וְהָי֥וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "תוֹצְאֹתָ֖יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "יָ֣ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמֶּ֑לַח",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "זֹאת֩",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "תִּהְיֶ֨ה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "לָכֶ֥ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "הָאָ֛רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "לִגְבֻלֹתֶ֖יהָ",
+          "morph": "HR/Ncfpc/Sp3fs"
+        },
+        {
+          "w": "סָבִֽיב",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "摩 西 吩 咐 以 色 列 人 說 ： 這 地 就 是 耶 和 華 吩 咐 拈 鬮 給 九 個 半 支 派 承 受 為 業 的 ；",
+      "en": "Then Moses commanded the Israelites: “This is the land that you will inherit by lot, which the Lord has commanded to be given to the nine-and-a-half tribes,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְצַ֣ו",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "מֹשֶׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "זֹ֣את",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "הָאָ֗רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תִּתְנַחֲל֤וּ",
+          "morph": "HVti2mp"
+        },
+        {
+          "w": "אֹתָהּ֙",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "בְּגוֹרָ֔ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר֙",
+          "morph": "HTr"
+        },
+        {
+          "w": "צִוָּ֣ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָתֵ֛ת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לְתִשְׁעַ֥ת",
+          "morph": "HR/Acmsc"
+        },
+        {
+          "w": "הַמַּטּ֖וֹת",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וַחֲצִ֥י",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הַמַּטֶּֽה",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "因 為 流 便 支 派 和 迦 得 支 派 按 著 宗 族 受 了 產 業 ， 瑪 拿 西 半 個 支 派 也 受 了 產 業 。",
+      "en": "because the tribe of the Reubenites by their families, the tribe of the Gadites by their families, and the half-tribe of Manasseh have received their inheritance.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "לָקְח֞וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מַטֵּ֨ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְנֵ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָראוּבֵנִי֙",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "לְבֵ֣ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֲבֹתָ֔ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "וּמַטֵּ֥ה",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַגָּדִ֖י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "לְבֵ֣ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֲבֹתָ֑ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "וַחֲצִי֙",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "מַטֵּ֣ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְנַשֶּׁ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָקְח֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "נַחֲלָתָֽם",
+          "morph": "HNcfsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "這 兩 個 半 支 派 已 經 在 耶 利 哥 對 面 、 約 但 河 東 、 向 日 出 之 地 受 了 產 業 。",
+      "en": "The two-and-a-half tribes have received their inheritance on this side of the Jordan, east of Jericho, toward the sunrise.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׁנֵ֥י",
+          "morph": "HAcmdc"
+        },
+        {
+          "w": "הַמַּטּ֖וֹת",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וַחֲצִ֣י",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הַמַּטֶּ֑ה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לָקְח֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "נַחֲלָתָ֗ם",
+          "morph": "HNcfsc/Sp3mp"
+        },
+        {
+          "w": "מֵעֵ֛בֶר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לְיַרְדֵּ֥ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "יְרֵח֖וֹ",
+          "morph": "HNp"
+        },
+        {
+          "w": "קֵ֥דְמָה",
+          "morph": "HNcmsa/Sd"
+        },
+        {
+          "w": "מִזְרָֽחָה",
+          "morph": "HNcmsa/Sd"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "耶 和 華 曉 諭 摩 西 說 ：",
+      "en": "The Lord said to Moses:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "要 給 你 們 分 地 為 業 之 人 的 名 字 是 祭 司 以 利 亞 撒 和 嫩 的 兒 子 約 書 亞 。",
+      "en": "“These are the names of the men who are to allocate the land to you as an inheritance: Eleazar the priest and Joshua son of Nun.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֵ֚לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "שְׁמ֣וֹת",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָֽאֲנָשִׁ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִנְחֲל֥וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֶלְעָזָר֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַכֹּהֵ֔ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וִיהוֹשֻׁ֖עַ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בִּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נֽוּן",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "又 要 從 每 支 派 中 選 一 個 首 領 幫 助 他 們 。",
+      "en": "You must take one leader from every tribe to assist in allocating the land as an inheritance.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנָשִׂ֥יא",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אֶחָ֛ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "נָשִׂ֥יא",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶחָ֖ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "מִמַּטֶּ֑ה",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "תִּקְח֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "לִנְחֹ֥ל",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "這 些 人 的 名 字 ： 猶 大 支 派 有 耶 孚 尼 的 兒 子 迦 勒 。",
+      "en": "These are the names of the men: from the tribe of Judah, Caleb son of Jephunneh;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֵ֖לֶּה",
+          "morph": "HC/Pdxcp"
+        },
+        {
+          "w": "שְׁמ֣וֹת",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָאֲנָשִׁ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "לְמַטֵּ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְהוּדָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כָּלֵ֖ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְפֻנֶּֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "西 緬 支 派 有 亞 米 忽 的 兒 子 示 母 利 。",
+      "en": "from the tribe of the Simeonites, Shemuel son of Ammihud;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּלְמַטֵּה֙",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "שִׁמְע֔וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "שְׁמוּאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַמִּיהֽוּד",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "便 雅 憫 支 派 有 基 斯 倫 的 兒 子 以 利 達 。",
+      "en": "from the tribe of Benjamin, Elidad son of Kislon;",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַטֵּ֣ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "בִנְיָמִ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלִידָ֖ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כִּסְלֽוֹן",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "但 支 派 有 一 個 首 領 ， 約 利 的 兒 子 布 基 。",
+      "en": "and from the tribe of the Danites, a leader, Bukki son of Jogli.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּלְמַטֵּ֥ה",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "בְנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "דָ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "נָשִׂ֑יא",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בֻּקִּ֖י",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יָגְלִֽי",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "約 瑟 的 子 孫 瑪 拿 西 支 派 有 一 個 首 領 ， 以 弗 的 兒 子 漢 聶 。",
+      "en": "From the Josephites, Hanniel son of Ephod, a leader from the tribe of Manasseh;",
+      "notes": [],
+      "he": [
+        {
+          "w": "לִבְנֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יוֹסֵ֔ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְמַטֵּ֥ה",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מְנַשֶּׁ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "נָשִׂ֑יא",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "חַנִּיאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֵפֹֽד",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "以 法 蓮 支 派 有 一 個 首 領 ， 拾 弗 但 的 兒 子 基 母 利 。",
+      "en": "from the tribe of the Ephraimites, a leader, Kemuel son of Shiphtan;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּלְמַטֵּ֥ה",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אֶפְרַ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "נָשִׂ֑יא",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "קְמוּאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שִׁפְטָֽן",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "西 布 倫 支 派 有 一 個 首 領 ， 帕 納 的 兒 子 以 利 撒 番 。",
+      "en": "from the tribe of the Zebulunites, a leader, Elizaphan son of Parnach;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּלְמַטֵּ֥ה",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "זְבוּלֻ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "נָשִׂ֑יא",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֱלִיצָפָ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פַּרְנָֽךְ",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "以 薩 迦 支 派 有 一 個 首 領 ， 阿 散 的 兒 子 帕 鐵 。",
+      "en": "from the tribe of the Issacharites, a leader, Paltiel son of Azzan;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּלְמַטֵּ֥ה",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשָׂשכָ֖ר",
+          "morph": "HNp"
+        },
+        {
+          "w": "נָשִׂ֑יא",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "פַּלְטִיאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַזָּֽן",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "亞 設 支 派 有 一 個 首 領 ， 示 羅 米 的 兒 子 亞 希 忽 。",
+      "en": "from the tribe of the Asherites, a leader, Ahihud son of Shelomi;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּלְמַטֵּ֥ה",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "בְנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אָשֵׁ֖ר",
+          "morph": "HNp"
+        },
+        {
+          "w": "נָשִׂ֑יא",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲחִיה֖וּד",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שְׁלֹמִֽי",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "拿 弗 他 利 支 派 有 一 個 首 領 ， 亞 米 忽 的 兒 子 比 大 黑 。",
+      "en": "and from the tribe of the Naphtalites, a leader, Pedahel son of Ammihud.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּלְמַטֵּ֥ה",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "נַפְתָּלִ֖י",
+          "morph": "HNp"
+        },
+        {
+          "w": "נָשִׂ֑יא",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "פְּדַהְאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַמִּיהֽוּד",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "這 些 人 就 是 耶 和 華 所 吩 咐 、 在 迦 南 地 把 產 業 分 給 以 色 列 人 的 。",
+      "en": "These are the ones whom the Lord commanded to divide up the inheritance among the Israelites in the land of Canaan.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֵ֕לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "אֲשֶׁ֖ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "צִוָּ֣ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְנַחֵ֥ל",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּאֶ֥רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "כְּנָֽעַן",
+          "morph": "HNp"
+        }
+      ]
+    }
+  ]
+}

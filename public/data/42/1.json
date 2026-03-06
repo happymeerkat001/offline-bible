@@ -1,0 +1,6571 @@
+{
+  "book": 42,
+  "chapter": 1,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "提 阿 非 羅 大 人 哪 ， 有 好 些 人 提 筆 作 書 ， 述 說 在 我 們 中 間 所 成 就 的 事 ， 是 照 傳 道 的 人 從 起 初 親 眼 看 見 又 傳 給 我 們 的 。",
+      "en": "Now many have undertaken to compile an account of the things that have been fulfilled among us,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἐπειδήπερ",
+          "morph": "CONJ",
+          "gloss": "Inasmuch as"
+        },
+        {
+          "w": "πολλοὶ",
+          "morph": "A-NPM",
+          "gloss": "many"
+        },
+        {
+          "w": "ἐπεχείρησαν",
+          "morph": "V-AAI-3P",
+          "gloss": "have undertaken"
+        },
+        {
+          "w": "ἀνατάξασθαι",
+          "morph": "V-ADN",
+          "gloss": "to draw up"
+        },
+        {
+          "w": "διήγησιν",
+          "morph": "N-ASF",
+          "gloss": "a narration"
+        },
+        {
+          "w": "περὶ",
+          "morph": "PREP",
+          "gloss": "concerning"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPN",
+          "gloss": "the"
+        },
+        {
+          "w": "πεπληροφορημένων",
+          "morph": "V-RPP-GPN",
+          "gloss": "having been accomplished"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "among"
+        },
+        {
+          "w": "ἡμῖν",
+          "morph": "P-1DP",
+          "gloss": "us"
+        },
+        {
+          "w": "πραγμάτων",
+          "morph": "N-GPN",
+          "gloss": "things"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "a",
+      "en": "like the accounts passed on to us by those who were eyewitnesses and servants of the word from the beginning.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καθὼς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "παρέδοσαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "delivered [them]"
+        },
+        {
+          "w": "ἡμῖν",
+          "morph": "P-1DP",
+          "gloss": "to us"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "those"
+        },
+        {
+          "w": "ἀπ’",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "ἀρχῆς",
+          "morph": "N-GSF",
+          "gloss": "[the] beginning"
+        },
+        {
+          "w": "αὐτόπται",
+          "morph": "N-NPM",
+          "gloss": "eyewitnesses"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὑπηρέται",
+          "morph": "N-NPM",
+          "gloss": "servants"
+        },
+        {
+          "w": "γενόμενοι",
+          "morph": "V-2ADP-NPM",
+          "gloss": "having been"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "λόγου",
+          "morph": "N-GSM",
+          "gloss": "word"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "這 些 事 我 既 從 起 頭 都 詳 細 考 察 了 ， 就 定 意 要 按 著 次 序 寫 給 你 ，",
+      "en": "So it seemed good to me as well, because I have followed all things carefully from the beginning, to write an orderly account for you, most excellent Theophilus,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἔδοξε",
+          "morph": "V-AAI-3S",
+          "gloss": "it seemed good"
+        },
+        {
+          "w": "κἀμοὶ",
+          "morph": "P-1DS-K",
+          "gloss": "also to me"
+        },
+        {
+          "w": "παρηκολουθηκότι",
+          "morph": "V-RAP-DSM",
+          "gloss": "having been acquainted"
+        },
+        {
+          "w": "ἄνωθεν",
+          "morph": "ADV",
+          "gloss": "from the first"
+        },
+        {
+          "w": "πᾶσιν",
+          "morph": "A-DPN",
+          "gloss": "with all things"
+        },
+        {
+          "w": "ἀκριβῶς",
+          "morph": "ADV",
+          "gloss": "carefully"
+        },
+        {
+          "w": "καθεξῆς",
+          "morph": "ADV",
+          "gloss": "with method"
+        },
+        {
+          "w": "σοι",
+          "morph": "P-2DS",
+          "gloss": "to you"
+        },
+        {
+          "w": "γράψαι",
+          "morph": "V-AAN",
+          "gloss": "to write"
+        },
+        {
+          "w": "κράτιστε",
+          "morph": "A-VSM-S",
+          "gloss": "most excellent"
+        },
+        {
+          "w": "Θεόφιλε",
+          "morph": "N-VSM",
+          "gloss": "Theophilus"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "使 你 知 道 所 學 之 道 都 是 確 實 的 。",
+      "en": "so that you may know for certain the things you were taught.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "so that"
+        },
+        {
+          "w": "ἐπιγνῷς",
+          "morph": "V-2AAS-2S",
+          "gloss": "you may know"
+        },
+        {
+          "w": "περὶ",
+          "morph": "PREP",
+          "gloss": "concerning"
+        },
+        {
+          "w": "ὧν",
+          "morph": "R-GPM",
+          "gloss": "which"
+        },
+        {
+          "w": "κατηχήθης",
+          "morph": "V-API-2S",
+          "gloss": "you were instructed"
+        },
+        {
+          "w": "λόγων",
+          "morph": "N-GPM",
+          "gloss": "[of the] things"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀσφάλειαν",
+          "morph": "N-ASF",
+          "gloss": "certainty"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "當 猶 太 王 希 律 的 時 候 ， 亞 比 雅 班 裡 有 一 個 祭 司 ， 名 叫 撒 迦 利 亞 ； 他 妻 子 是 亞 倫 的 後 人 ， 名 叫 以 利 沙 伯 。",
+      "en": "During the reign of Herod king of Judea, there lived a priest named Zechariah who belonged to the priestly division of Abijah, and he had a wife named Elizabeth, who was a descendant of Aaron.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἐγένετο",
+          "morph": "V-2ADI-3S",
+          "gloss": "There was"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἡμέραις",
+          "morph": "N-DPF",
+          "gloss": "days"
+        },
+        {
+          "w": "Ἠρῴδου",
+          "morph": "N-GSM",
+          "gloss": "of Herod"
+        },
+        {
+          "w": "βασιλέως",
+          "morph": "N-GSM",
+          "gloss": "king"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰουδαίας",
+          "morph": "N-GSF",
+          "gloss": "of Judea"
+        },
+        {
+          "w": "ἱερεύς",
+          "morph": "N-NSM",
+          "gloss": "a priest"
+        },
+        {
+          "w": "τις",
+          "morph": "X-NSM",
+          "gloss": "certain"
+        },
+        {
+          "w": "ὀνόματι",
+          "morph": "N-DSN",
+          "gloss": "named"
+        },
+        {
+          "w": "Ζαχαρίας",
+          "morph": "N-NSM",
+          "gloss": "Zechariah"
+        },
+        {
+          "w": "ἐξ",
+          "morph": "PREP",
+          "gloss": "of [the]"
+        },
+        {
+          "w": "ἐφημερίας",
+          "morph": "N-GSF",
+          "gloss": "division"
+        },
+        {
+          "w": "Ἀβιά",
+          "morph": "N-PRI",
+          "gloss": "of Abijah"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "γυνὴ",
+          "morph": "N-NSF",
+          "gloss": "wife"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPF",
+          "gloss": "the"
+        },
+        {
+          "w": "θυγατέρων",
+          "morph": "N-GPF",
+          "gloss": "daughters"
+        },
+        {
+          "w": "Ἀαρών",
+          "morph": "N-PRI",
+          "gloss": "of Aaron"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὄνομα",
+          "morph": "N-NSN",
+          "gloss": "name"
+        },
+        {
+          "w": "αὐτῆς",
+          "morph": "P-GSF",
+          "gloss": "of her"
+        },
+        {
+          "w": "Ἐλεισάβετ",
+          "morph": "N-PRI",
+          "gloss": "Elizabeth"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "他 們 二 人 在 神 面 前 都 是 義 人 ， 遵 行 主 的 一 切 誡 命 禮 儀 ， 沒 有 可 指 摘 的 ，",
+      "en": "They were both righteous in the sight of God, following all the commandments and ordinances of the Lord blamelessly.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἦσαν",
+          "morph": "V-IAI-3P",
+          "gloss": "They were"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "δίκαιοι",
+          "morph": "A-NPM",
+          "gloss": "righteous"
+        },
+        {
+          "w": "ἀμφότεροι",
+          "morph": "A-NPM",
+          "gloss": "both"
+        },
+        {
+          "w": "ἐναντίον",
+          "morph": "PREP",
+          "gloss": "before"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God"
+        },
+        {
+          "w": "πορευόμενοι",
+          "morph": "V-PNP-NPM",
+          "gloss": "walking"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "πάσαις",
+          "morph": "A-DPF",
+          "gloss": "all"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐντολαῖς",
+          "morph": "N-DPF",
+          "gloss": "commandments"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "δικαιώμασιν",
+          "morph": "N-DPN",
+          "gloss": "ordinances"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "Lord"
+        },
+        {
+          "w": "ἄμεμπτοι",
+          "morph": "A-NPM",
+          "gloss": "blameless"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "只 是 沒 有 孩 子 ； 因 為 以 利 沙 伯 不 生 育 ， 兩 個 人 又 年 紀 老 邁 了 。",
+      "en": "But they did not have a child because Elizabeth was barren, and they were both very old.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "no"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "there was"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "τέκνον",
+          "morph": "N-NSN",
+          "gloss": "child"
+        },
+        {
+          "w": "καθότι",
+          "morph": "CONJ",
+          "gloss": "inasmuch as"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "was"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἐλεισάβετ",
+          "morph": "N-PRI",
+          "gloss": "Elizabeth"
+        },
+        {
+          "w": "στεῖρα",
+          "morph": "N-NSF",
+          "gloss": "barren"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀμφότεροι",
+          "morph": "A-NPM",
+          "gloss": "both"
+        },
+        {
+          "w": "προβεβηκότες",
+          "morph": "V-RAP-NPM",
+          "gloss": "advanced"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἡμέραις",
+          "morph": "N-DPF",
+          "gloss": "years"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "ἦσαν",
+          "morph": "V-IAI-3P",
+          "gloss": "were"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "撒 迦 利 亞 按 班 次 在 神 面 前 供 祭 司 的 職 分 ，",
+      "en": "Now while Zechariah was serving as priest before God when his division was on duty,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἐγένετο",
+          "morph": "V-2ADI-3S",
+          "gloss": "It came to pass"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἱερατεύειν",
+          "morph": "V-PAN",
+          "gloss": "fulfilling the priestly service"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "of him"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "τάξει",
+          "morph": "N-DSF",
+          "gloss": "order"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "ἐφημερίας",
+          "morph": "N-GSF",
+          "gloss": "division"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "ἔναντι",
+          "morph": "PREP",
+          "gloss": "before"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "照 祭 司 的 規 矩 掣 籤 ， 得 進 主 殿 燒 香 。",
+      "en": "he was chosen by lot, according to the custom of the priesthood, to enter the Holy Place of the Lord and burn incense.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "κατὰ",
+          "morph": "PREP",
+          "gloss": "according to"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἔθος",
+          "morph": "N-ASN",
+          "gloss": "custom"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "ἱερατείας",
+          "morph": "N-GSF",
+          "gloss": "priesthood"
+        },
+        {
+          "w": "ἔλαχε",
+          "morph": "V-2AAI-3S",
+          "gloss": "it fell to him by lot"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "-"
+        },
+        {
+          "w": "θυμιᾶσαι",
+          "morph": "V-AAN",
+          "gloss": "to burn incense"
+        },
+        {
+          "w": "εἰσελθὼν",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having entered"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "ναὸν",
+          "morph": "N-ASM",
+          "gloss": "temple"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "Lord"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "燒 香 的 時 候 ， 眾 百 姓 在 外 面 禱 告 。",
+      "en": "Now the whole crowd of people were praying outside at the hour of the incense offering.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "πᾶν",
+          "morph": "A-NSN",
+          "gloss": "all"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "πλῆθος",
+          "morph": "N-NSN",
+          "gloss": "multitude"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "were"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "λαοῦ",
+          "morph": "N-GSM",
+          "gloss": "people"
+        },
+        {
+          "w": "προσευχόμενον",
+          "morph": "V-PNP-NSN",
+          "gloss": "praying"
+        },
+        {
+          "w": "ἔξω",
+          "morph": "ADV",
+          "gloss": "outside"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "at the"
+        },
+        {
+          "w": "ὥρᾳ",
+          "morph": "N-DSF",
+          "gloss": "hour"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "of the"
+        },
+        {
+          "w": "θυμιάματος",
+          "morph": "N-GSN",
+          "gloss": "incense"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "有 主 的 使 者 站 在 香 壇 的 右 邊 ， 向 他 顯 現 。",
+      "en": "An angel of the Lord, standing on the right side of the altar of incense, appeared to him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὤφθη",
+          "morph": "V-API-3S",
+          "gloss": "Appeared"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "ἄγγελος",
+          "morph": "N-NSM",
+          "gloss": "an angel"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "of [the] Lord"
+        },
+        {
+          "w": "ἑστὼς",
+          "morph": "V-RAP-NSM",
+          "gloss": "standing"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "at"
+        },
+        {
+          "w": "δεξιῶν",
+          "morph": "A-GPN",
+          "gloss": "[the] right"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "of the"
+        },
+        {
+          "w": "θυσιαστηρίου",
+          "morph": "N-GSN",
+          "gloss": "altar"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "of the"
+        },
+        {
+          "w": "θυμιάματος",
+          "morph": "N-GSN",
+          "gloss": "incense"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "撒 迦 利 亞 看 見 ， 就 驚 慌 害 怕 。",
+      "en": "And Zechariah, visibly shaken when he saw the angel, was seized with fear.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἐταράχθη",
+          "morph": "V-API-3S",
+          "gloss": "was troubled"
+        },
+        {
+          "w": "Ζαχαρίας",
+          "morph": "N-NSM",
+          "gloss": "Zechariah"
+        },
+        {
+          "w": "ἰδών",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having seen [him]"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "φόβος",
+          "morph": "N-NSM",
+          "gloss": "fear"
+        },
+        {
+          "w": "ἐπέπεσεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "fell"
+        },
+        {
+          "w": "ἐπ’",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "天 使 對 他 說 ： 撒 迦 利 亞 ， 不 要 害 怕 ， 因 為 你 的 祈 禱 已 經 被 聽 見 了 。 你 的 妻 子 以 利 沙 伯 要 給 你 生 一 個 兒 子 ， 你 要 給 他 起 名 叫 約 翰 。",
+      "en": "But the angel said to him, “Do not be afraid, Zechariah, for your prayer has been heard, and your wife Elizabeth will bear you a son; you will name him John.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "Said"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἄγγελος",
+          "morph": "N-NSM",
+          "gloss": "angel"
+        },
+        {
+          "w": "Μὴ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "φοβοῦ",
+          "morph": "V-PNM-2S",
+          "gloss": "fear"
+        },
+        {
+          "w": "Ζαχαρία",
+          "morph": "N-VSM",
+          "gloss": "Zechariah"
+        },
+        {
+          "w": "διότι",
+          "morph": "CONJ",
+          "gloss": "because"
+        },
+        {
+          "w": "εἰσηκούσθη",
+          "morph": "V-API-3S",
+          "gloss": "has been heard"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "δέησίς",
+          "morph": "N-NSF",
+          "gloss": "prayer"
+        },
+        {
+          "w": "σου",
+          "morph": "P-2GS",
+          "gloss": "of you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γυνή",
+          "morph": "N-NSF",
+          "gloss": "wife"
+        },
+        {
+          "w": "σου",
+          "morph": "P-2GS",
+          "gloss": "of You"
+        },
+        {
+          "w": "Ἐλεισάβετ",
+          "morph": "N-PRI",
+          "gloss": "Elizabeth"
+        },
+        {
+          "w": "γεννήσει",
+          "morph": "V-FAI-3S",
+          "gloss": "will bear"
+        },
+        {
+          "w": "υἱόν",
+          "morph": "N-ASM",
+          "gloss": "a son"
+        },
+        {
+          "w": "σοι",
+          "morph": "P-2DS",
+          "gloss": "to you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "καλέσεις",
+          "morph": "V-FAI-2S",
+          "gloss": "you shall call"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὄνομα",
+          "morph": "N-ASN",
+          "gloss": "name"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "Ἰωάνην",
+          "morph": "N-ASM",
+          "gloss": "John"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "你 必 歡 喜 快 樂 ； 有 許 多 人 因 他 出 世 ， 也 必 喜 樂 。",
+      "en": "Joy and gladness will come to you, and many will rejoice at his birth,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἔσται",
+          "morph": "V-FDI-3S",
+          "gloss": "he will be"
+        },
+        {
+          "w": "χαρά",
+          "morph": "N-NSF",
+          "gloss": "joy"
+        },
+        {
+          "w": "σοι",
+          "morph": "P-2DS",
+          "gloss": "to you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀγαλλίασις",
+          "morph": "N-NSF",
+          "gloss": "gladness"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πολλοὶ",
+          "morph": "A-NPM",
+          "gloss": "many"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "at"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γενέσει",
+          "morph": "N-DSF",
+          "gloss": "birth"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "χαρήσονται",
+          "morph": "V-2FOI-3P",
+          "gloss": "will rejoice"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "他 在 主 面 前 將 要 為 大 ， 淡 酒 濃 酒 都 不 喝 ， 從 母 腹 裡 就 被 聖 靈 充 滿 了 。",
+      "en": "for he will be great in the sight of the Lord. He must never drink wine or strong drink, and he will be filled with the Holy Spirit, even before his birth.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἔσται",
+          "morph": "V-FDI-3S",
+          "gloss": "He will be"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "μέγας",
+          "morph": "A-NSM",
+          "gloss": "great"
+        },
+        {
+          "w": "ἐνώπιον",
+          "morph": "PREP",
+          "gloss": "before"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "Lord"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οἶνον",
+          "morph": "N-ASM",
+          "gloss": "wine"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "σίκερα",
+          "morph": "N-OI",
+          "gloss": "strong drink"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "no"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "πίῃ",
+          "morph": "V-2AAS-3S",
+          "gloss": "shall he drink"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Πνεύματος",
+          "morph": "N-GSN",
+          "gloss": "[of the] Spirit"
+        },
+        {
+          "w": "Ἁγίου",
+          "morph": "A-GSN",
+          "gloss": "Holy"
+        },
+        {
+          "w": "πλησθήσεται",
+          "morph": "V-FPI-3S",
+          "gloss": "he will be filled"
+        },
+        {
+          "w": "ἔτι",
+          "morph": "ADV",
+          "gloss": "even"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "κοιλίας",
+          "morph": "N-GSF",
+          "gloss": "[the] womb"
+        },
+        {
+          "w": "μητρὸς",
+          "morph": "N-GSF",
+          "gloss": "of [the] mother"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "他 要 使 許 多 以 色 列 人 回 轉 ， 歸 於 主 ─ 他 們 的 神 。",
+      "en": "He will turn many of the people of Israel to the Lord their God.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "πολλοὺς",
+          "morph": "A-APM",
+          "gloss": "many"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "υἱῶν",
+          "morph": "N-GPM",
+          "gloss": "sons"
+        },
+        {
+          "w": "Ἰσραὴλ",
+          "morph": "N-PRI",
+          "gloss": "of Israel"
+        },
+        {
+          "w": "ἐπιστρέψει",
+          "morph": "V-FAI-3S",
+          "gloss": "he will turn"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "Κύριον",
+          "morph": "N-ASM",
+          "gloss": "[the] Lord"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "Θεὸν",
+          "morph": "N-ASM",
+          "gloss": "God"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "他 必 有 以 利 亞 的 心 志 能 力 ， 行 在 主 的 前 面 ， 叫 為 父 的 心 轉 向 兒 女 ， 叫 悖 逆 的 人 轉 從 義 人 的 智 慧 ， 又 為 主 預 備 合 用 的 百 姓 。",
+      "en": "And he will go as forerunner before the Lord in the spirit and power of Elijah, to turn the hearts of the fathers back to their children and the disobedient to the wisdom of the just, to make ready for the Lord a people prepared for him.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "αὐτὸς",
+          "morph": "P-NSM",
+          "gloss": "he"
+        },
+        {
+          "w": "προελεύσεται",
+          "morph": "V-FDI-3S",
+          "gloss": "will go forth"
+        },
+        {
+          "w": "ἐνώπιον",
+          "morph": "PREP",
+          "gloss": "before"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "πνεύματι",
+          "morph": "N-DSN",
+          "gloss": "[the] spirit"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "δυνάμει",
+          "morph": "N-DSF",
+          "gloss": "power"
+        },
+        {
+          "w": "Ἠλεία",
+          "morph": "N-GSM",
+          "gloss": "of Elijah"
+        },
+        {
+          "w": "ἐπιστρέψαι",
+          "morph": "V-AAN",
+          "gloss": "to turn"
+        },
+        {
+          "w": "καρδίας",
+          "morph": "N-APF",
+          "gloss": "[the] hearts"
+        },
+        {
+          "w": "πατέρων",
+          "morph": "N-GPM",
+          "gloss": "of [the] fathers"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τέκνα",
+          "morph": "N-APN",
+          "gloss": "[the] children"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀπειθεῖς",
+          "morph": "A-APM",
+          "gloss": "[the] disobedient"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "φρονήσει",
+          "morph": "N-DSF",
+          "gloss": "[the] wisdom"
+        },
+        {
+          "w": "δικαίων",
+          "morph": "A-GPM",
+          "gloss": "of [the] righteous"
+        },
+        {
+          "w": "ἑτοιμάσαι",
+          "morph": "V-AAN",
+          "gloss": "to make ready"
+        },
+        {
+          "w": "Κυρίῳ",
+          "morph": "N-DSM",
+          "gloss": "for [the] Lord"
+        },
+        {
+          "w": "λαὸν",
+          "morph": "N-ASM",
+          "gloss": "a people"
+        },
+        {
+          "w": "κατεσκευασμένον",
+          "morph": "V-RPP-ASM",
+          "gloss": "prepared"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "撒 迦 利 亞 對 天 使 說 ： 我 憑 著 甚 麼 可 知 道 這 事 呢 ？ 我 已 經 老 了 ， 我 的 妻 子 也 年 紀 老 邁 了 。",
+      "en": "Zechariah said to the angel, “How can I be sure of this? For I am an old man, and my wife is old as well.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "Ζαχαρίας",
+          "morph": "N-NSM",
+          "gloss": "Zechariah"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἄγγελον",
+          "morph": "N-ASM",
+          "gloss": "angel"
+        },
+        {
+          "w": "Κατὰ",
+          "morph": "PREP",
+          "gloss": "By"
+        },
+        {
+          "w": "τί",
+          "morph": "I-ASN",
+          "gloss": "what"
+        },
+        {
+          "w": "γνώσομαι",
+          "morph": "V-FDI-1S",
+          "gloss": "will I know"
+        },
+        {
+          "w": "τοῦτο",
+          "morph": "D-ASN",
+          "gloss": "this"
+        },
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "γάρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "εἰμι",
+          "morph": "V-PAI-1S",
+          "gloss": "am"
+        },
+        {
+          "w": "πρεσβύτης",
+          "morph": "N-NSM",
+          "gloss": "an old man"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γυνή",
+          "morph": "N-NSF",
+          "gloss": "wife"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "προβεβηκυῖα",
+          "morph": "V-RAP-NSF",
+          "gloss": "is advanced"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἡμέραις",
+          "morph": "N-DPF",
+          "gloss": "years"
+        },
+        {
+          "w": "αὐτῆς",
+          "morph": "P-GSF",
+          "gloss": "of her"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "天 使 回 答 說 ： 我 是 站 在 神 面 前 的 加 百 列 ， 奉 差 而 來 對 你 說 話 ， 將 這 好 信 息 報 給 你 。",
+      "en": "The angel answered him, “I am Gabriel, who stands in the presence of God, and I was sent to speak to you and to bring you this good news.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἀποκριθεὶς",
+          "morph": "V-AOP-NSM",
+          "gloss": "answering"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἄγγελος",
+          "morph": "N-NSM",
+          "gloss": "angel"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "Ἐγώ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "εἰμι",
+          "morph": "V-PAI-1S",
+          "gloss": "am"
+        },
+        {
+          "w": "Γαβριὴλ",
+          "morph": "N-PRI",
+          "gloss": "Gabriel"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [one]"
+        },
+        {
+          "w": "παρεστηκὼς",
+          "morph": "V-RAP-NSM",
+          "gloss": "standing"
+        },
+        {
+          "w": "ἐνώπιον",
+          "morph": "PREP",
+          "gloss": "before"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀπεστάλην",
+          "morph": "V-2API-1S",
+          "gloss": "I was sent"
+        },
+        {
+          "w": "λαλῆσαι",
+          "morph": "V-AAN",
+          "gloss": "to speak"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "σὲ",
+          "morph": "P-2AS",
+          "gloss": "you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εὐαγγελίσασθαί",
+          "morph": "V-AMN",
+          "gloss": "to bring glad tidings"
+        },
+        {
+          "w": "σοι",
+          "morph": "P-2DS",
+          "gloss": "to you"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-APN",
+          "gloss": "these"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "到 了 時 候 ， 這 話 必 然 應 驗 ； 只 因 你 不 信 ， 你 必 啞 吧 ， 不 能 說 話 ， 直 到 這 事 成 就 的 日 子 。",
+      "en": "And now because you did not believe my words, which will be fulfilled in their time, you will be silent, unable to speak, until the day these things take place.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἰδοὺ",
+          "morph": "V-2AMM-2S",
+          "gloss": "behold"
+        },
+        {
+          "w": "ἔσῃ",
+          "morph": "V-FDI-2S",
+          "gloss": "you will be"
+        },
+        {
+          "w": "σιωπῶν",
+          "morph": "V-PAP-NSM",
+          "gloss": "silent"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "δυνάμενος",
+          "morph": "V-PNP-NSM",
+          "gloss": "able"
+        },
+        {
+          "w": "λαλῆσαι",
+          "morph": "V-AAN",
+          "gloss": "to speak"
+        },
+        {
+          "w": "ἄχρι",
+          "morph": "ADV",
+          "gloss": "until"
+        },
+        {
+          "w": "ἧς",
+          "morph": "R-GSF",
+          "gloss": "that"
+        },
+        {
+          "w": "ἡμέρας",
+          "morph": "N-GSF",
+          "gloss": "day"
+        },
+        {
+          "w": "γένηται",
+          "morph": "V-2ADS-3S",
+          "gloss": "shall take place"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-NPN",
+          "gloss": "these things"
+        },
+        {
+          "w": "ἀνθ’",
+          "morph": "PREP",
+          "gloss": "in return for"
+        },
+        {
+          "w": "ὧν",
+          "morph": "R-GPM",
+          "gloss": "that"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἐπίστευσας",
+          "morph": "V-AAI-2S",
+          "gloss": "you did believe"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "the"
+        },
+        {
+          "w": "λόγοις",
+          "morph": "N-DPM",
+          "gloss": "words"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "οἵτινες",
+          "morph": "R-NPM",
+          "gloss": "which"
+        },
+        {
+          "w": "πληρωθήσονται",
+          "morph": "V-FPI-3P",
+          "gloss": "will be fulfilled"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "καιρὸν",
+          "morph": "N-ASM",
+          "gloss": "season"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "百 姓 等 候 撒 迦 利 亞 ， 詫 異 他 許 久 在 殿 裡 。",
+      "en": "Now the people were waiting for Zechariah, and they began to wonder why he was delayed in the Holy Place.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "were"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "λαὸς",
+          "morph": "N-NSM",
+          "gloss": "people"
+        },
+        {
+          "w": "προσδοκῶν",
+          "morph": "V-PAP-NSM",
+          "gloss": "expecting"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ζαχαρίαν",
+          "morph": "N-ASM",
+          "gloss": "Zechariah"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐθαύμαζον",
+          "morph": "V-IAI-3P",
+          "gloss": "they were wondering"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "at"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "the"
+        },
+        {
+          "w": "χρονίζειν",
+          "morph": "V-PAN",
+          "gloss": "delaying"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ναῷ",
+          "morph": "N-DSM",
+          "gloss": "temple"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "of him"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "及 至 他 出 來 ， 不 能 和 他 們 說 話 ， 他 們 就 知 道 他 在 殿 裡 見 了 異 象 ； 因 為 他 直 向 他 們 打 手 式 ， 竟 成 了 啞 吧 。",
+      "en": "When he came out, he was not able to speak to them. They realized that he had seen a vision in the Holy Place because he was making signs to them and remained unable to speak.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐξελθὼν",
+          "morph": "V-2AAP-NSM",
+          "gloss": "Having come out"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἐδύνατο",
+          "morph": "V-INI-3S",
+          "gloss": "he was able"
+        },
+        {
+          "w": "λαλῆσαι",
+          "morph": "V-AAN",
+          "gloss": "to speak"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐπέγνωσαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "they recognized"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ὀπτασίαν",
+          "morph": "N-ASF",
+          "gloss": "a vision"
+        },
+        {
+          "w": "ἑώρακεν",
+          "morph": "V-RAI-3S-ATT",
+          "gloss": "he had seen"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ναῷ",
+          "morph": "N-DSM",
+          "gloss": "temple"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "αὐτὸς",
+          "morph": "P-NSM",
+          "gloss": "he"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "was"
+        },
+        {
+          "w": "διανεύων",
+          "morph": "V-PAP-NSM",
+          "gloss": "making signs"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "διέμενεν",
+          "morph": "V-IAI-3S",
+          "gloss": "remained"
+        },
+        {
+          "w": "κωφός",
+          "morph": "A-NSM",
+          "gloss": "mute"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "他 供 職 的 日 子 已 滿 ， 就 回 家 去 了 。",
+      "en": "When his time of service was over, he went to his home.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἐγένετο",
+          "morph": "V-2ADI-3S",
+          "gloss": "it came to pass"
+        },
+        {
+          "w": "ὡς",
+          "morph": "ADV",
+          "gloss": "when"
+        },
+        {
+          "w": "ἐπλήσθησαν",
+          "morph": "V-API-3P",
+          "gloss": "were fulfilled"
+        },
+        {
+          "w": "αἱ",
+          "morph": "T-NPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἡμέραι",
+          "morph": "N-NPF",
+          "gloss": "days"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "λειτουργίας",
+          "morph": "N-GSF",
+          "gloss": "service"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "ἀπῆλθεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "he departed"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "οἶκον",
+          "morph": "N-ASM",
+          "gloss": "home"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "這 些 日 子 以 後 ， 他 的 妻 子 以 利 沙 伯 懷 了 孕 ， 就 隱 藏 了 五 個 月 ，",
+      "en": "After some time his wife Elizabeth became pregnant, and for five months she kept herself in seclusion. She said,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Μετὰ",
+          "morph": "PREP",
+          "gloss": "After"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ταύτας",
+          "morph": "D-APF",
+          "gloss": "these"
+        },
+        {
+          "w": "τὰς",
+          "morph": "T-APF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἡμέρας",
+          "morph": "N-APF",
+          "gloss": "days"
+        },
+        {
+          "w": "συνέλαβεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "conceived"
+        },
+        {
+          "w": "Ἐλεισάβετ",
+          "morph": "N-PRI",
+          "gloss": "Elizabeth"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γυνὴ",
+          "morph": "N-NSF",
+          "gloss": "wife"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "περιέκρυβεν",
+          "morph": "V-IAI-3S",
+          "gloss": "hid"
+        },
+        {
+          "w": "ἑαυτὴν",
+          "morph": "F-3ASF",
+          "gloss": "herself"
+        },
+        {
+          "w": "μῆνας",
+          "morph": "N-APM",
+          "gloss": "months"
+        },
+        {
+          "w": "πέντε",
+          "morph": "A-NUI",
+          "gloss": "five"
+        },
+        {
+          "w": "λέγουσα",
+          "morph": "V-PAP-NSF",
+          "gloss": "saying"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "說 ： 主 在 眷 顧 我 的 日 子 ， 這 樣 看 待 我 ， 要 把 我 在 人 間 的 羞 恥 除 掉 。",
+      "en": "“This is what the Lord has done for me at the time when he has been gracious to me, to take away my disgrace among people.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "-"
+        },
+        {
+          "w": "Οὕτως",
+          "morph": "ADV",
+          "gloss": "Thus"
+        },
+        {
+          "w": "μοι",
+          "morph": "P-1DS",
+          "gloss": "to me"
+        },
+        {
+          "w": "πεποίηκεν",
+          "morph": "V-RAI-3S",
+          "gloss": "has done"
+        },
+        {
+          "w": "Κύριος",
+          "morph": "N-NSM",
+          "gloss": "the Lord"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἡμέραις",
+          "morph": "N-DPF",
+          "gloss": "[the] days"
+        },
+        {
+          "w": "αἷς",
+          "morph": "R-DPF",
+          "gloss": "in which"
+        },
+        {
+          "w": "ἐπεῖδεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "He looked upon [me]"
+        },
+        {
+          "w": "ἀφελεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to take away"
+        },
+        {
+          "w": "ὄνειδός",
+          "morph": "N-ASN",
+          "gloss": "[the] disgrace"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "among"
+        },
+        {
+          "w": "ἀνθρώποις",
+          "morph": "N-DPM",
+          "gloss": "men"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "到 了 第 六 個 月 ， 天 使 加 百 列 奉 神 的 差 遣 往 加 利 利 的 一 座 城 去 ， 這 城 名 叫 拿 撒 勒 ，",
+      "en": "In the sixth month of Elizabeth’s pregnancy, the angel Gabriel was sent by God to a town of Galilee called Nazareth,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἐν",
+          "morph": "PREP",
+          "gloss": "In"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "μηνὶ",
+          "morph": "N-DSM",
+          "gloss": "month"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἕκτῳ",
+          "morph": "A-DSM",
+          "gloss": "sixth"
+        },
+        {
+          "w": "ἀπεστάλη",
+          "morph": "V-2API-3S",
+          "gloss": "was sent"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἄγγελος",
+          "morph": "N-NSM",
+          "gloss": "angel"
+        },
+        {
+          "w": "Γαβριὴλ",
+          "morph": "N-PRI",
+          "gloss": "Gabriel"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "πόλιν",
+          "morph": "N-ASF",
+          "gloss": "a city"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Γαλιλαίας",
+          "morph": "N-GSF",
+          "gloss": "of Galilee"
+        },
+        {
+          "w": "ᾗ",
+          "morph": "R-DSF",
+          "gloss": "whose"
+        },
+        {
+          "w": "ὄνομα",
+          "morph": "N-NSN",
+          "gloss": "name [was]"
+        },
+        {
+          "w": "Ναζαρὲθ",
+          "morph": "N-PRI",
+          "gloss": "Nazareth"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "到 一 個 童 女 那 裡 ， 是 已 經 許 配 大 衛 家 的 一 個 人 ， 名 叫 約 瑟 。 童 女 的 名 字 叫 馬 利 亞 ；",
+      "en": "to a virgin engaged to a man whose name was Joseph, a descendant of David, and the virgin’s name was Mary.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "παρθένον",
+          "morph": "N-ASF",
+          "gloss": "a virgin"
+        },
+        {
+          "w": "ἐμνηστευμένην",
+          "morph": "V-RPP-ASF",
+          "gloss": "betrothed"
+        },
+        {
+          "w": "ἀνδρὶ",
+          "morph": "N-DSM",
+          "gloss": "to a man"
+        },
+        {
+          "w": "ᾧ",
+          "morph": "R-DSM",
+          "gloss": "whose"
+        },
+        {
+          "w": "ὄνομα",
+          "morph": "N-NSN",
+          "gloss": "name [was]"
+        },
+        {
+          "w": "Ἰωσὴφ",
+          "morph": "N-PRI",
+          "gloss": "Joseph"
+        },
+        {
+          "w": "ἐξ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "οἴκου",
+          "morph": "N-GSM",
+          "gloss": "[the] house"
+        },
+        {
+          "w": "Δαυείδ",
+          "morph": "N-PRI",
+          "gloss": "of David"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὄνομα",
+          "morph": "N-NSN",
+          "gloss": "name"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "παρθένου",
+          "morph": "N-GSF",
+          "gloss": "virgin"
+        },
+        {
+          "w": "Μαριάμ",
+          "morph": "N-PRI",
+          "gloss": "[was] Mary"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "天 使 進 去 ， 對 他 說 ： 蒙 大 恩 的 女 子 ， 我 問 你 安 ， 主 和 你 同 在 了 ！",
+      "en": "The angel came to her and said, “Greetings, favored one, the Lord is with you!”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἰσελθὼν",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having come"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "αὐτὴν",
+          "morph": "P-ASF",
+          "gloss": "her"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "he said"
+        },
+        {
+          "w": "Χαῖρε",
+          "morph": "V-PAM-2S",
+          "gloss": "Greetings"
+        },
+        {
+          "w": "κεχαριτωμένη",
+          "morph": "V-RPP-NSF",
+          "gloss": "[you] favored with grace"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "The"
+        },
+        {
+          "w": "Κύριος",
+          "morph": "N-NSM",
+          "gloss": "Lord [is]"
+        },
+        {
+          "w": "μετὰ",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "σοῦ",
+          "morph": "P-2GS",
+          "gloss": "you"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "馬 利 亞 因 這 話 就 很 驚 慌 ， 又 反 復 思 想 這 樣 問 安 是 甚 麼 意 思 。",
+      "en": "But she was greatly troubled by his words and began to wonder about the meaning of this greeting.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "at"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "λόγῳ",
+          "morph": "N-DSM",
+          "gloss": "statement"
+        },
+        {
+          "w": "διεταράχθη",
+          "morph": "V-API-3S",
+          "gloss": "she was troubled"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "διελογίζετο",
+          "morph": "V-INI-3S",
+          "gloss": "was pondering"
+        },
+        {
+          "w": "ποταπὸς",
+          "morph": "A-NSM",
+          "gloss": "what kind"
+        },
+        {
+          "w": "εἴη",
+          "morph": "V-PAO-3S",
+          "gloss": "might be"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀσπασμὸς",
+          "morph": "N-NSM",
+          "gloss": "salutation"
+        },
+        {
+          "w": "οὗτος",
+          "morph": "D-NSM",
+          "gloss": "this"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "天 使 對 他 說 ： 馬 利 亞 ， 不 要 怕 ！ 你 在 神 面 前 已 經 蒙 恩 了 。",
+      "en": "So the angel said to her, “Do not be afraid, Mary, for you have found favor with God!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἄγγελος",
+          "morph": "N-NSM",
+          "gloss": "angel"
+        },
+        {
+          "w": "αὐτῇ",
+          "morph": "P-DSF",
+          "gloss": "to her"
+        },
+        {
+          "w": "Μὴ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "φοβοῦ",
+          "morph": "V-PNM-2S",
+          "gloss": "fear"
+        },
+        {
+          "w": "Μαριάμ",
+          "morph": "N-PRI",
+          "gloss": "Mary"
+        },
+        {
+          "w": "εὗρες",
+          "morph": "V-2AAI-2S",
+          "gloss": "you have found"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "χάριν",
+          "morph": "N-ASF",
+          "gloss": "favor"
+        },
+        {
+          "w": "παρὰ",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεῷ",
+          "morph": "N-DSM",
+          "gloss": "God"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "你 要 懷 孕 生 子 ， 可 以 給 他 起 名 叫 耶 穌 。",
+      "en": "Listen: You will become pregnant and give birth to a son, and you will name him Jesus.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἰδοὺ",
+          "morph": "V-2AMM-2S",
+          "gloss": "behold"
+        },
+        {
+          "w": "συλλήμψῃ",
+          "morph": "V-FDI-2S",
+          "gloss": "you will conceive"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "γαστρὶ",
+          "morph": "N-DSF",
+          "gloss": "womb"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τέξῃ",
+          "morph": "V-FDI-2S",
+          "gloss": "will bring forth"
+        },
+        {
+          "w": "υἱόν",
+          "morph": "N-ASM",
+          "gloss": "a son"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "καλέσεις",
+          "morph": "V-FAI-2S",
+          "gloss": "you shall call"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὄνομα",
+          "morph": "N-ASN",
+          "gloss": "name"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "Ἰησοῦν",
+          "morph": "N-ASM",
+          "gloss": "Jesus"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "他 要 為 大 ， 稱 為 至 高 者 的 兒 子 ； 主 神 要 把 他 祖 大 衛 的 位 給 他 。",
+      "en": "He will be great and will be called the Son of the Most High, and the Lord God will give him the throne of his father David.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὗτος",
+          "morph": "D-NSM",
+          "gloss": "He"
+        },
+        {
+          "w": "ἔσται",
+          "morph": "V-FDI-3S",
+          "gloss": "will be"
+        },
+        {
+          "w": "μέγας",
+          "morph": "A-NSM",
+          "gloss": "great"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Υἱὸς",
+          "morph": "N-NSM",
+          "gloss": "Son"
+        },
+        {
+          "w": "Ὑψίστου",
+          "morph": "A-GSM-S",
+          "gloss": "of [the] Most High"
+        },
+        {
+          "w": "κληθήσεται",
+          "morph": "V-FPI-3S",
+          "gloss": "He will be called"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "δώσει",
+          "morph": "V-FAI-3S",
+          "gloss": "will give"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "Κύριος",
+          "morph": "N-NSM",
+          "gloss": "[the] Lord"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "θρόνον",
+          "morph": "N-ASM",
+          "gloss": "throne"
+        },
+        {
+          "w": "Δαυεὶδ",
+          "morph": "N-PRI",
+          "gloss": "of David"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "πατρὸς",
+          "morph": "N-GSM",
+          "gloss": "father"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "他 要 作 雅 各 家 的 王 ， 直 到 永 遠 ； 他 的 國 也 沒 有 窮 盡 。",
+      "en": "He will reign over the house of Jacob forever, and his kingdom will never end.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "βασιλεύσει",
+          "morph": "V-FAI-3S",
+          "gloss": "He will reign"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "over"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "οἶκον",
+          "morph": "N-ASM",
+          "gloss": "house"
+        },
+        {
+          "w": "Ἰακὼβ",
+          "morph": "N-PRI",
+          "gloss": "of Jacob"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "αἰῶνας",
+          "morph": "N-APM",
+          "gloss": "ages"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "βασιλείας",
+          "morph": "N-GSF",
+          "gloss": "kingdom"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἔσται",
+          "morph": "V-FDI-3S",
+          "gloss": "there will be"
+        },
+        {
+          "w": "τέλος",
+          "morph": "N-NSN",
+          "gloss": "an end"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "馬 利 亞 對 天 使 說 ： 我 沒 有 出 嫁 ， 怎 麼 有 這 事 呢 ？",
+      "en": "Mary said to the angel, “How will this be, since I have not been intimate with a man?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "Said"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "Μαριὰμ",
+          "morph": "N-PRI",
+          "gloss": "Mary"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἄγγελον",
+          "morph": "N-ASM",
+          "gloss": "angel"
+        },
+        {
+          "w": "Πῶς",
+          "morph": "ADV-I",
+          "gloss": "How"
+        },
+        {
+          "w": "ἔσται",
+          "morph": "V-FDI-3S",
+          "gloss": "will be"
+        },
+        {
+          "w": "τοῦτο",
+          "morph": "D-NSN",
+          "gloss": "this"
+        },
+        {
+          "w": "ἐπεὶ",
+          "morph": "CONJ",
+          "gloss": "since"
+        },
+        {
+          "w": "ἄνδρα",
+          "morph": "N-ASM",
+          "gloss": "a man"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "γινώσκω",
+          "morph": "V-PAI-1S",
+          "gloss": "I know"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "天 使 回 答 說 ： 聖 靈 要 臨 到 你 身 上 ， 至 高 者 的 能 力 要 蔭 庇 你 ， 因 此 所 要 生 的 聖 者 必 稱 為 神 的 兒 子 （ 或 作 ： 所 要 生 的 ， 必 稱 為 聖 ， 稱 為 神 的 兒 子 ） 。",
+      "en": "The angel replied, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you. Therefore the child to be born will be holy; he will be called the Son of God.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἀποκριθεὶς",
+          "morph": "V-AOP-NSM",
+          "gloss": "answering"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἄγγελος",
+          "morph": "N-NSM",
+          "gloss": "angel"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "αὐτῇ",
+          "morph": "P-DSF",
+          "gloss": "to her"
+        },
+        {
+          "w": "Πνεῦμα",
+          "morph": "N-NSN",
+          "gloss": "[the] Spirit"
+        },
+        {
+          "w": "Ἅγιον",
+          "morph": "A-NSN",
+          "gloss": "Holy"
+        },
+        {
+          "w": "ἐπελεύσεται",
+          "morph": "V-FDI-3S",
+          "gloss": "will come"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "σέ",
+          "morph": "P-2AS",
+          "gloss": "you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "δύναμις",
+          "morph": "N-NSF",
+          "gloss": "power"
+        },
+        {
+          "w": "Ὑψίστου",
+          "morph": "A-GSM-S",
+          "gloss": "of [the] Most High"
+        },
+        {
+          "w": "ἐπισκιάσει",
+          "morph": "V-FAI-3S",
+          "gloss": "will overshadow"
+        },
+        {
+          "w": "σοι",
+          "morph": "P-2DS",
+          "gloss": "you"
+        },
+        {
+          "w": "διὸ",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "γεννώμενον",
+          "morph": "V-PPP-NSN",
+          "gloss": "being born"
+        },
+        {
+          "w": "ἅγιον",
+          "morph": "A-NSN",
+          "gloss": "Holy [One]"
+        },
+        {
+          "w": "κληθήσεται",
+          "morph": "V-FPI-3S",
+          "gloss": "will be called"
+        },
+        {
+          "w": "Υἱὸς",
+          "morph": "N-NSM",
+          "gloss": "[the] Son"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "況 且 你 的 親 戚 以 利 沙 伯 ， 在 年 老 的 時 候 也 懷 了 男 胎 ， 就 是 那 素 來 稱 為 不 生 育 的 ， 現 在 有 孕 六 個 月 了 。",
+      "en": "“And look, your relative Elizabeth has also become pregnant with a son in her old age—although she was called barren, she is now in her sixth month!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἰδοὺ",
+          "morph": "V-2AMM-2S",
+          "gloss": "behold"
+        },
+        {
+          "w": "Ἐλεισάβετ",
+          "morph": "N-PRI",
+          "gloss": "Elizabeth"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "συγγενίς",
+          "morph": "N-NSF",
+          "gloss": "relative"
+        },
+        {
+          "w": "σου",
+          "morph": "P-2GS",
+          "gloss": "of you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "αὐτὴ",
+          "morph": "P-NSF",
+          "gloss": "she"
+        },
+        {
+          "w": "συνείληφεν",
+          "morph": "V-2RAI-3S",
+          "gloss": "has conceived"
+        },
+        {
+          "w": "υἱὸν",
+          "morph": "N-ASM",
+          "gloss": "a son"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "γήρει",
+          "morph": "N-DSN",
+          "gloss": "old age"
+        },
+        {
+          "w": "αὐτῆς",
+          "morph": "P-GSF",
+          "gloss": "her"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οὗτος",
+          "morph": "D-NSM",
+          "gloss": "this"
+        },
+        {
+          "w": "μὴν",
+          "morph": "N-NSM",
+          "gloss": "month"
+        },
+        {
+          "w": "ἕκτος",
+          "morph": "A-NSM",
+          "gloss": "[the] sixth"
+        },
+        {
+          "w": "ἐστὶν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "αὐτῇ",
+          "morph": "P-DSF",
+          "gloss": "to her"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "who"
+        },
+        {
+          "w": "καλουμένῃ",
+          "morph": "V-PPP-DSF",
+          "gloss": "[was] called"
+        },
+        {
+          "w": "στείρᾳ",
+          "morph": "N-DSF",
+          "gloss": "barren"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "zh": "因 為 ， 出 於 神 的 話 ， 沒 有 一 句 不 帶 能 力 的 。",
+      "en": "For nothing will be impossible with God.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "For"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἀδυνατήσει",
+          "morph": "V-FAI-3S",
+          "gloss": "will be impossible"
+        },
+        {
+          "w": "παρὰ",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God"
+        },
+        {
+          "w": "πᾶν",
+          "morph": "A-NSN",
+          "gloss": "every"
+        },
+        {
+          "w": "ῥῆμα",
+          "morph": "N-NSN",
+          "gloss": "thing"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "zh": "馬 利 亞 說 ： 我 是 主 的 使 女 ， 情 願 照 你 的 話 成 就 在 我 身 上 。 天 使 就 離 開 他 去 了 。",
+      "en": "So Mary said, “Yes, I am a servant of the Lord; let this happen to me according to your word.” Then the angel departed from her.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "Said"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "Μαριάμ",
+          "morph": "N-PRI",
+          "gloss": "Mary"
+        },
+        {
+          "w": "Ἰδοὺ",
+          "morph": "V-2AMM-2S",
+          "gloss": "Behold"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "δούλη",
+          "morph": "N-NSF",
+          "gloss": "handmaid"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "of [the] Lord"
+        },
+        {
+          "w": "γένοιτό",
+          "morph": "V-2ADO-3S",
+          "gloss": "May it happen"
+        },
+        {
+          "w": "μοι",
+          "morph": "P-1DS",
+          "gloss": "to me"
+        },
+        {
+          "w": "κατὰ",
+          "morph": "PREP",
+          "gloss": "according to"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "ῥῆμά",
+          "morph": "N-ASN",
+          "gloss": "word"
+        },
+        {
+          "w": "σου",
+          "morph": "P-2GS",
+          "gloss": "of you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἀπῆλθεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "departed"
+        },
+        {
+          "w": "ἀπ’",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "αὐτῆς",
+          "morph": "P-GSF",
+          "gloss": "her"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἄγγελος",
+          "morph": "N-NSM",
+          "gloss": "angel"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "zh": "那 時 候 ， 馬 利 亞 起 身 ， 急 忙 往 山 地 裡 去 ， 來 到 猶 大 的 一 座 城 ；",
+      "en": "In those days Mary got up and went hurriedly into the hill country, to a town of Judah,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἀναστᾶσα",
+          "morph": "V-2AAP-NSF",
+          "gloss": "Having risen up"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "Μαριὰμ",
+          "morph": "N-PRI",
+          "gloss": "Mary"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἡμέραις",
+          "morph": "N-DPF",
+          "gloss": "days"
+        },
+        {
+          "w": "ταύταις",
+          "morph": "D-DPF",
+          "gloss": "this"
+        },
+        {
+          "w": "ἐπορεύθη",
+          "morph": "V-AOI-3S",
+          "gloss": "she went"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀρεινὴν",
+          "morph": "A-ASF",
+          "gloss": "hill country"
+        },
+        {
+          "w": "μετὰ",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "σπουδῆς",
+          "morph": "N-GSF",
+          "gloss": "haste"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "πόλιν",
+          "morph": "N-ASF",
+          "gloss": "a town"
+        },
+        {
+          "w": "Ἰούδα",
+          "morph": "N-GSM",
+          "gloss": "of Judah"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "zh": "進 了 撒 迦 利 亞 的 家 ， 問 以 利 沙 伯 安 。",
+      "en": "and entered Zechariah’s house and greeted Elizabeth.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἰσῆλθεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "she entered"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "οἶκον",
+          "morph": "N-ASM",
+          "gloss": "house"
+        },
+        {
+          "w": "Ζαχαρίου",
+          "morph": "N-GSM",
+          "gloss": "of Zechariah"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἠσπάσατο",
+          "morph": "V-ADI-3S",
+          "gloss": "greeted"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἐλεισάβετ",
+          "morph": "N-PRI",
+          "gloss": "Elizabeth"
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "zh": "以 利 沙 伯 一 聽 馬 利 亞 問 安 ， 所 懷 的 胎 就 在 腹 裡 跳 動 。 以 利 沙 伯 且 被 聖 靈 充 滿 ，",
+      "en": "When Elizabeth heard Mary’s greeting, the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἐγένετο",
+          "morph": "V-2ADI-3S",
+          "gloss": "it came to pass"
+        },
+        {
+          "w": "ὡς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "ἤκουσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "heard"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀσπασμὸν",
+          "morph": "N-ASM",
+          "gloss": "greeting"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Μαρίας",
+          "morph": "N-GSF",
+          "gloss": "of Mary"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἐλεισάβετ",
+          "morph": "N-PRI",
+          "gloss": "Elizabeth"
+        },
+        {
+          "w": "ἐσκίρτησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "leaped"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "βρέφος",
+          "morph": "N-NSN",
+          "gloss": "baby"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "κοιλίᾳ",
+          "morph": "N-DSF",
+          "gloss": "womb"
+        },
+        {
+          "w": "αὐτῆς",
+          "morph": "P-GSF",
+          "gloss": "of her"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐπλήσθη",
+          "morph": "V-API-3S",
+          "gloss": "was filled"
+        },
+        {
+          "w": "Πνεύματος",
+          "morph": "N-GSN",
+          "gloss": "with [the] Spirit"
+        },
+        {
+          "w": "Ἁγίου",
+          "morph": "A-GSN",
+          "gloss": "Holy"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἐλεισάβετ",
+          "morph": "N-PRI",
+          "gloss": "Elizabeth"
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "zh": "高 聲 喊 著 說 ： 你 在 婦 女 中 是 有 福 的 ！ 你 所 懷 的 胎 也 是 有 福 的 ！",
+      "en": "She exclaimed with a loud voice, “Blessed are you among women, and blessed is the child in your womb!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀνεφώνησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "she cried out"
+        },
+        {
+          "w": "κραυγῇ",
+          "morph": "N-DSF",
+          "gloss": "in a voice"
+        },
+        {
+          "w": "μεγάλῃ",
+          "morph": "A-DSF",
+          "gloss": "loud"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "Εὐλογημένη",
+          "morph": "V-RPP-NSF",
+          "gloss": "Blessed are"
+        },
+        {
+          "w": "σὺ",
+          "morph": "P-2NS",
+          "gloss": "you"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "among"
+        },
+        {
+          "w": "γυναιξίν",
+          "morph": "N-DPF",
+          "gloss": "women"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εὐλογημένος",
+          "morph": "V-RPP-NSM",
+          "gloss": "blessed is"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "καρπὸς",
+          "morph": "N-NSM",
+          "gloss": "fruit"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "κοιλίας",
+          "morph": "N-GSF",
+          "gloss": "womb"
+        },
+        {
+          "w": "σου",
+          "morph": "P-2GS",
+          "gloss": "of you"
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "zh": "我 主 的 母 到 我 這 裡 來 ， 這 是 從 那 裡 得 的 呢 ？",
+      "en": "And who am I that the mother of my Lord should come and visit me?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "πόθεν",
+          "morph": "ADV-I",
+          "gloss": "from where"
+        },
+        {
+          "w": "μοι",
+          "morph": "P-1DS",
+          "gloss": "to me"
+        },
+        {
+          "w": "τοῦτο",
+          "morph": "D-NSN",
+          "gloss": "this"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἔλθῃ",
+          "morph": "V-2AAS-3S",
+          "gloss": "should come"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "μήτηρ",
+          "morph": "N-NSF",
+          "gloss": "mother"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "Lord"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "ἐμέ",
+          "morph": "P-1AS",
+          "gloss": "me"
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "zh": "因 為 你 問 安 的 聲 音 一 入 我 耳 ， 我 腹 裡 的 胎 就 歡 喜 跳 動 。",
+      "en": "For the instant the sound of your greeting reached my ears, the baby in my womb leaped for joy.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἰδοὺ",
+          "morph": "V-2AMM-2S",
+          "gloss": "Behold"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ὡς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "ἐγένετο",
+          "morph": "V-2ADI-3S",
+          "gloss": "came"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "φωνὴ",
+          "morph": "N-NSF",
+          "gloss": "voice"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "ἀσπασμοῦ",
+          "morph": "N-GSM",
+          "gloss": "greeting"
+        },
+        {
+          "w": "σου",
+          "morph": "P-2GS",
+          "gloss": "of you"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὦτά",
+          "morph": "N-APN",
+          "gloss": "ears"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "ἐσκίρτησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "leaped"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἀγαλλιάσει",
+          "morph": "N-DSF",
+          "gloss": "exultation"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "βρέφος",
+          "morph": "N-NSN",
+          "gloss": "baby"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "κοιλίᾳ",
+          "morph": "N-DSF",
+          "gloss": "womb"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "zh": "這 相 信 的 女 子 是 有 福 的 ！ 因 為 主 對 他 所 說 的 話 都 要 應 驗 。",
+      "en": "And blessed is she who believed that what was spoken to her by the Lord would be fulfilled.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "μακαρία",
+          "morph": "A-NSF",
+          "gloss": "blessed [is]"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the [one]"
+        },
+        {
+          "w": "πιστεύσασα",
+          "morph": "V-AAP-NSF",
+          "gloss": "having believed"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἔσται",
+          "morph": "V-FDI-3S",
+          "gloss": "there will be"
+        },
+        {
+          "w": "τελείωσις",
+          "morph": "N-NSF",
+          "gloss": "a fulfillment"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPN",
+          "gloss": "to the things"
+        },
+        {
+          "w": "λελαλημένοις",
+          "morph": "V-RPP-DPN",
+          "gloss": "spoken"
+        },
+        {
+          "w": "αὐτῇ",
+          "morph": "P-DSF",
+          "gloss": "to her"
+        },
+        {
+          "w": "παρὰ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "[the] Lord"
+        }
+      ]
+    },
+    {
+      "v": 46,
+      "zh": "馬 利 亞 說 ： 我 心 尊 主 為 大 ；",
+      "en": "And Mary said, “My soul exalts the Lord,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "Μαριάμ",
+          "morph": "N-PRI",
+          "gloss": "Mary"
+        },
+        {
+          "w": "Μεγαλύνει",
+          "morph": "V-PAI-3S",
+          "gloss": "Magnifies"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ψυχή",
+          "morph": "N-NSF",
+          "gloss": "soul"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of Me"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "Κύριον",
+          "morph": "N-ASM",
+          "gloss": "Lord"
+        }
+      ]
+    },
+    {
+      "v": 47,
+      "zh": "我 靈 以 神 我 的 救 主 為 樂 ；",
+      "en": "and my spirit has begun to rejoice in God my Savior,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἠγαλλίασεν",
+          "morph": "V-AAI-3S",
+          "gloss": "rejoices"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "πνεῦμά",
+          "morph": "N-NSN",
+          "gloss": "spirit"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεῷ",
+          "morph": "N-DSM",
+          "gloss": "God"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Σωτῆρί",
+          "morph": "N-DSM",
+          "gloss": "Savior"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        }
+      ]
+    },
+    {
+      "v": 48,
+      "zh": "因 為 他 顧 念 他 使 女 的 卑 微 ； 從 今 以 後 ， 萬 代 要 稱 我 有 福 。",
+      "en": "because he has looked upon the humble state of his servant. For from now on all generations will call me blessed,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "For"
+        },
+        {
+          "w": "ἐπέβλεψεν",
+          "morph": "V-AAI-3S",
+          "gloss": "He has looked"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ταπείνωσιν",
+          "morph": "N-ASF",
+          "gloss": "humiliation"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "δούλης",
+          "morph": "N-GSF",
+          "gloss": "handmaiden"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "ἰδοὺ",
+          "morph": "V-2AMM-2S",
+          "gloss": "Behold"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "νῦν",
+          "morph": "ADV",
+          "gloss": "henceforth"
+        },
+        {
+          "w": "μακαριοῦσίν",
+          "morph": "V-FAI-3P-ATT",
+          "gloss": "will count blessed"
+        },
+        {
+          "w": "με",
+          "morph": "P-1AS",
+          "gloss": "me"
+        },
+        {
+          "w": "πᾶσαι",
+          "morph": "A-NPF",
+          "gloss": "all"
+        },
+        {
+          "w": "αἱ",
+          "morph": "T-NPF",
+          "gloss": "the"
+        },
+        {
+          "w": "γενεαί",
+          "morph": "N-NPF",
+          "gloss": "generations"
+        }
+      ]
+    },
+    {
+      "v": 49,
+      "zh": "那 有 權 能 的 ， 為 我 成 就 了 大 事 ； 他 的 名 為 聖 。",
+      "en": "because he who is mighty has done great things for me, and holy is his name;",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "For"
+        },
+        {
+          "w": "ἐποίησέν",
+          "morph": "V-AAI-3S",
+          "gloss": "has done"
+        },
+        {
+          "w": "μοι",
+          "morph": "P-1DS",
+          "gloss": "to me"
+        },
+        {
+          "w": "μεγάλα",
+          "morph": "A-APN",
+          "gloss": "great things"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "δυνατός",
+          "morph": "A-NSM",
+          "gloss": "Mighty One"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἅγιον",
+          "morph": "A-ASN",
+          "gloss": "holy [is]"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὄνομα",
+          "morph": "N-NSN",
+          "gloss": "name"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 50,
+      "zh": "他 憐 憫 敬 畏 他 的 人 ， 直 到 世 世 代 代 。",
+      "en": "from generation to generation he is merciful to those who fear him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἔλεος",
+          "morph": "N-NSN",
+          "gloss": "mercy"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "[is] to"
+        },
+        {
+          "w": "γενεὰς",
+          "morph": "N-APF",
+          "gloss": "generations"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "γενεὰς",
+          "morph": "N-APF",
+          "gloss": "generations"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "to those"
+        },
+        {
+          "w": "φοβουμένοις",
+          "morph": "V-PNP-DPM",
+          "gloss": "fearing"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        }
+      ]
+    },
+    {
+      "v": 51,
+      "zh": "他 用 膀 臂 施 展 大 能 ； 那 狂 傲 的 人 正 心 裡 妄 想 就 被 他 趕 散 了 。",
+      "en": "He has demonstrated power with his arm; he has scattered those whose pride wells up from the sheer arrogance of their hearts.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἐποίησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "He has shown"
+        },
+        {
+          "w": "κράτος",
+          "morph": "N-ASN",
+          "gloss": "strength"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "βραχίονι",
+          "morph": "N-DSM",
+          "gloss": "the arm"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "διεσκόρπισεν",
+          "morph": "V-AAI-3S",
+          "gloss": "He has scattered"
+        },
+        {
+          "w": "ὑπερηφάνους",
+          "morph": "A-APM",
+          "gloss": "[the] proud"
+        },
+        {
+          "w": "διανοίᾳ",
+          "morph": "N-DSF",
+          "gloss": "in [the] thought"
+        },
+        {
+          "w": "καρδίας",
+          "morph": "N-GSF",
+          "gloss": "of heart"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        }
+      ]
+    },
+    {
+      "v": 52,
+      "zh": "他 叫 有 權 柄 的 失 位 ， 叫 卑 賤 的 升 高 ；",
+      "en": "He has brought down the mighty from their thrones, and has lifted up those of lowly position;",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καθεῖλεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "He has brought down"
+        },
+        {
+          "w": "δυνάστας",
+          "morph": "N-APM",
+          "gloss": "rulers"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "θρόνων",
+          "morph": "N-GPM",
+          "gloss": "thrones"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὕψωσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "exalted"
+        },
+        {
+          "w": "ταπεινούς",
+          "morph": "A-APM",
+          "gloss": "[the] humble"
+        }
+      ]
+    },
+    {
+      "v": 53,
+      "zh": "叫 飢 餓 的 得 飽 美 食 ， 叫 富 足 的 空 手 回 去 。",
+      "en": "he has filled the hungry with good things, and has sent the rich away empty.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "πεινῶντας",
+          "morph": "V-PAP-APM",
+          "gloss": "[Those] hungering"
+        },
+        {
+          "w": "ἐνέπλησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "He has filled"
+        },
+        {
+          "w": "ἀγαθῶν",
+          "morph": "A-GPM",
+          "gloss": "with good things"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πλουτοῦντας",
+          "morph": "V-PAP-APM",
+          "gloss": "[those] being rich"
+        },
+        {
+          "w": "ἐξαπέστειλεν",
+          "morph": "V-AAI-3S",
+          "gloss": "He has sent away"
+        },
+        {
+          "w": "κενούς",
+          "morph": "A-APM",
+          "gloss": "empty"
+        }
+      ]
+    },
+    {
+      "v": 54,
+      "zh": "他 扶 助 了 他 的 僕 人 以 色 列 ，",
+      "en": "He has helped his servant Israel, remembering his mercy,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀντελάβετο",
+          "morph": "V-2ADI-3S",
+          "gloss": "He has helped"
+        },
+        {
+          "w": "Ἰσραὴλ",
+          "morph": "N-PRI",
+          "gloss": "Israel"
+        },
+        {
+          "w": "παιδὸς",
+          "morph": "N-GSM",
+          "gloss": "[the] servant"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "μνησθῆναι",
+          "morph": "V-APN",
+          "gloss": "remembering"
+        },
+        {
+          "w": "ἐλέους",
+          "morph": "N-GSN",
+          "gloss": "mercy"
+        }
+      ]
+    },
+    {
+      "v": 55,
+      "zh": "為 要 記 念 亞 伯 拉 罕 和 他 的 後 裔 ， 施 憐 憫 直 到 永 遠 ， 正 如 從 前 對 我 們 列 祖 所 說 的 話 。",
+      "en": "as he promised to our ancestors, to Abraham and to his descendants forever.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καθὼς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "ἐλάλησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "He spoke"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "πατέρας",
+          "morph": "N-APM",
+          "gloss": "fathers"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀβραὰμ",
+          "morph": "N-PRI",
+          "gloss": "to Abraham"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "to the"
+        },
+        {
+          "w": "σπέρματι",
+          "morph": "N-DSN",
+          "gloss": "descendants"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "αἰῶνα",
+          "morph": "N-ASM",
+          "gloss": "age"
+        }
+      ]
+    },
+    {
+      "v": 56,
+      "zh": "馬 利 亞 和 以 利 沙 伯 同 住 ， 約 有 三 個 月 ， 就 回 家 去 了 。",
+      "en": "So Mary stayed with Elizabeth about three months and then returned to her home.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἔμεινεν",
+          "morph": "V-AAI-3S",
+          "gloss": "Dwelt"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "Μαριὰμ",
+          "morph": "N-PRI",
+          "gloss": "Mary"
+        },
+        {
+          "w": "σὺν",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "αὐτῇ",
+          "morph": "P-DSF",
+          "gloss": "her"
+        },
+        {
+          "w": "ὡς",
+          "morph": "ADV",
+          "gloss": "about"
+        },
+        {
+          "w": "μῆνας",
+          "morph": "N-APM",
+          "gloss": "months"
+        },
+        {
+          "w": "τρεῖς",
+          "morph": "A-APM",
+          "gloss": "three"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὑπέστρεψεν",
+          "morph": "V-AAI-3S",
+          "gloss": "returned"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "οἶκον",
+          "morph": "N-ASM",
+          "gloss": "home"
+        },
+        {
+          "w": "αὐτῆς",
+          "morph": "P-GSF",
+          "gloss": "of her"
+        }
+      ]
+    },
+    {
+      "v": 57,
+      "zh": "以 利 沙 伯 的 產 期 到 了 ， 就 生 了 一 個 兒 子 。",
+      "en": "Now the time came for Elizabeth to have her baby, and she gave birth to a son.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Τῇ",
+          "morph": "T-DSF",
+          "gloss": "To"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "Ἐλεισάβετ",
+          "morph": "N-PRI",
+          "gloss": "Elizabeth"
+        },
+        {
+          "w": "ἐπλήσθη",
+          "morph": "V-API-3S",
+          "gloss": "was fulfilled"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "χρόνος",
+          "morph": "N-NSM",
+          "gloss": "time"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "-"
+        },
+        {
+          "w": "τεκεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to give birth"
+        },
+        {
+          "w": "αὐτήν",
+          "morph": "P-ASF",
+          "gloss": "for her"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐγέννησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "she bore"
+        },
+        {
+          "w": "υἱόν",
+          "morph": "N-ASM",
+          "gloss": "a son"
+        }
+      ]
+    },
+    {
+      "v": 58,
+      "zh": "鄰 里 親 族 聽 見 主 向 他 大 施 憐 憫 ， 就 和 他 一 同 歡 樂 。",
+      "en": "Her neighbors and relatives heard that the Lord had shown great mercy to her, and they rejoiced with her.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἤκουσαν",
+          "morph": "V-AAI-3P",
+          "gloss": "heard"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "περίοικοι",
+          "morph": "A-NPM",
+          "gloss": "neighbors"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "-"
+        },
+        {
+          "w": "συγγενεῖς",
+          "morph": "A-NPM",
+          "gloss": "relatives"
+        },
+        {
+          "w": "αὐτῆς",
+          "morph": "P-GSF",
+          "gloss": "of her"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἐμεγάλυνεν",
+          "morph": "V-IAI-3S",
+          "gloss": "was magnifying"
+        },
+        {
+          "w": "Κύριος",
+          "morph": "N-NSM",
+          "gloss": "[the] Lord"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἔλεος",
+          "morph": "N-ASN",
+          "gloss": "mercy"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "μετ’",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "αὐτῆς",
+          "morph": "P-GSF",
+          "gloss": "her"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "συνέχαιρον",
+          "morph": "V-IAI-3P",
+          "gloss": "they were rejoicing with"
+        },
+        {
+          "w": "αὐτῇ",
+          "morph": "P-DSF",
+          "gloss": "her"
+        }
+      ]
+    },
+    {
+      "v": 59,
+      "zh": "到 了 第 八 日 ， 他 們 來 要 給 孩 子 行 割 禮 ， 並 要 照 他 父 親 的 名 字 叫 他 撒 迦 利 亞 。",
+      "en": "On the eighth day they came to circumcise the child, and they wanted to name him Zechariah after his father.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἐγένετο",
+          "morph": "V-2ADI-3S",
+          "gloss": "it came to pass"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "on"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἡμέρᾳ",
+          "morph": "N-DSF",
+          "gloss": "day"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀγδόῃ",
+          "morph": "A-DSF",
+          "gloss": "eighth"
+        },
+        {
+          "w": "ἦλθον",
+          "morph": "V-2AAI-3P",
+          "gloss": "they came"
+        },
+        {
+          "w": "περιτεμεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to circumcise"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "παιδίον",
+          "morph": "N-ASN",
+          "gloss": "child"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐκάλουν",
+          "morph": "V-IAI-3P",
+          "gloss": "were calling"
+        },
+        {
+          "w": "αὐτὸ",
+          "morph": "P-ASN",
+          "gloss": "it"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "after"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀνόματι",
+          "morph": "N-DSN",
+          "gloss": "name"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "πατρὸς",
+          "morph": "N-GSM",
+          "gloss": "father"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "Ζαχαρίαν",
+          "morph": "N-ASM",
+          "gloss": "Zechariah"
+        }
+      ]
+    },
+    {
+      "v": 60,
+      "zh": "他 母 親 說 ： 不 可 ！ 要 叫 他 約 翰 。",
+      "en": "But his mother replied, “No! He must be named John.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἀποκριθεῖσα",
+          "morph": "V-AOP-NSF",
+          "gloss": "answering"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "μήτηρ",
+          "morph": "N-NSF",
+          "gloss": "mother"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "Οὐχί",
+          "morph": "PRT-N",
+          "gloss": "No"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "κληθήσεται",
+          "morph": "V-FPI-3S",
+          "gloss": "he will be called"
+        },
+        {
+          "w": "Ἰωάνης",
+          "morph": "N-NSM",
+          "gloss": "John"
+        }
+      ]
+    },
+    {
+      "v": 61,
+      "zh": "他 們 說 ： 你 親 族 中 沒 有 叫 這 名 字 的 。",
+      "en": "They said to her, “But none of your relatives bears this name.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἶπαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "they said"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "αὐτὴν",
+          "morph": "P-ASF",
+          "gloss": "her"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "-"
+        },
+        {
+          "w": "Οὐδείς",
+          "morph": "A-NSM-N",
+          "gloss": "No one"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "among"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "συγγενείας",
+          "morph": "N-GSF",
+          "gloss": "relatives"
+        },
+        {
+          "w": "σου",
+          "morph": "P-2GS",
+          "gloss": "of you"
+        },
+        {
+          "w": "ὃς",
+          "morph": "R-NSM",
+          "gloss": "who"
+        },
+        {
+          "w": "καλεῖται",
+          "morph": "V-PPI-3S",
+          "gloss": "is called"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀνόματι",
+          "morph": "N-DSN",
+          "gloss": "name"
+        },
+        {
+          "w": "τούτῳ",
+          "morph": "D-DSN",
+          "gloss": "by this"
+        }
+      ]
+    },
+    {
+      "v": 62,
+      "zh": "他 們 就 向 他 父 親 打 手 式 ， 問 他 要 叫 這 孩 子 甚 麼 名 字 。",
+      "en": "So they made signs to the baby’s father, inquiring what he wanted to name his son.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐνένευον",
+          "morph": "V-IAI-3P",
+          "gloss": "They were making signs"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "to the"
+        },
+        {
+          "w": "πατρὶ",
+          "morph": "N-DSM",
+          "gloss": "father"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "τί",
+          "morph": "I-ASN",
+          "gloss": "what"
+        },
+        {
+          "w": "ἂν",
+          "morph": "PRT",
+          "gloss": "-"
+        },
+        {
+          "w": "θέλοι",
+          "morph": "V-PAO-3S",
+          "gloss": "he might wish"
+        },
+        {
+          "w": "καλεῖσθαι",
+          "morph": "V-PPN",
+          "gloss": "to be called"
+        },
+        {
+          "w": "αὐτό",
+          "morph": "P-ASN",
+          "gloss": "him"
+        }
+      ]
+    },
+    {
+      "v": 63,
+      "zh": "他 要 了 一 塊 寫 字 的 板 ， 就 寫 上 ， 說 ： 他 的 名 字 是 約 翰 。 他 們 便 都 希 奇 。",
+      "en": "He asked for a writing tablet and wrote, “His name is John.” And they were all amazed.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "αἰτήσας",
+          "morph": "V-AAP-NSM",
+          "gloss": "having asked for"
+        },
+        {
+          "w": "πινακίδιον",
+          "morph": "N-ASN",
+          "gloss": "a writing tablet"
+        },
+        {
+          "w": "ἔγραψεν",
+          "morph": "V-AAI-3S",
+          "gloss": "he wrote"
+        },
+        {
+          "w": "λέγων",
+          "morph": "V-PAP-NSM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Ἰωάνης",
+          "morph": "N-NSM",
+          "gloss": "John"
+        },
+        {
+          "w": "ἐστὶν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ὄνομα",
+          "morph": "N-NSN",
+          "gloss": "[the] name"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἐθαύμασαν",
+          "morph": "V-AAI-3P",
+          "gloss": "they marveled"
+        },
+        {
+          "w": "πάντες",
+          "morph": "A-NPM",
+          "gloss": "all"
+        }
+      ]
+    },
+    {
+      "v": 64,
+      "zh": "撒 迦 利 亞 的 口 立 時 開 了 ， 舌 頭 也 舒 展 了 ， 就 說 出 話 來 ， 稱 頌 神 。",
+      "en": "Immediately Zechariah’s mouth was opened and his tongue released, and he spoke, blessing God.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀνεῴχθη",
+          "morph": "V-API-3S",
+          "gloss": "Was opened"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "στόμα",
+          "morph": "N-NSN",
+          "gloss": "mouth"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "παραχρῆμα",
+          "morph": "ADV",
+          "gloss": "immediately"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γλῶσσα",
+          "morph": "N-NSF",
+          "gloss": "tongue"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐλάλει",
+          "morph": "V-IAI-3S",
+          "gloss": "he was speaking"
+        },
+        {
+          "w": "εὐλογῶν",
+          "morph": "V-PAP-NSM",
+          "gloss": "blessing"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεόν",
+          "morph": "N-ASM",
+          "gloss": "God"
+        }
+      ]
+    },
+    {
+      "v": 65,
+      "zh": "周 圍 居 住 的 人 都 懼 怕 ； 這 一 切 的 事 就 傳 遍 了 猶 太 的 山 地 。",
+      "en": "All their neighbors were filled with fear, and throughout the entire hill country of Judea all these things were talked about.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἐγένετο",
+          "morph": "V-2ADI-3S",
+          "gloss": "came"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "πάντας",
+          "morph": "A-APM",
+          "gloss": "all"
+        },
+        {
+          "w": "φόβος",
+          "morph": "N-NSM",
+          "gloss": "fear"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "those"
+        },
+        {
+          "w": "περιοικοῦντας",
+          "morph": "V-PAP-APM",
+          "gloss": "dwelling around"
+        },
+        {
+          "w": "αὐτούς",
+          "morph": "P-APM",
+          "gloss": "them"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ὅλῃ",
+          "morph": "A-DSF",
+          "gloss": "all"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀρεινῇ",
+          "morph": "A-DSF",
+          "gloss": "hill country"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰουδαίας",
+          "morph": "N-GSF",
+          "gloss": "of Judea"
+        },
+        {
+          "w": "διελαλεῖτο",
+          "morph": "V-IPI-3S",
+          "gloss": "were being talked about"
+        },
+        {
+          "w": "πάντα",
+          "morph": "A-NPN",
+          "gloss": "all"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-NPN",
+          "gloss": "the things"
+        },
+        {
+          "w": "ῥήματα",
+          "morph": "N-NPN",
+          "gloss": "words"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-NPN",
+          "gloss": "these"
+        }
+      ]
+    },
+    {
+      "v": 66,
+      "zh": "凡 聽 見 的 人 都 將 這 事 放 在 心 裡 ， 說 ： 這 個 孩 子 將 來 怎 麼 樣 呢 ？ 因 為 有 主 與 他 同 在 。",
+      "en": "All who heard these things kept them in their hearts, saying, “What then will this child be?” For the Lord’s hand was indeed with him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἔθεντο",
+          "morph": "V-2AMI-3P",
+          "gloss": "laid [them] up"
+        },
+        {
+          "w": "πάντες",
+          "morph": "A-NPM",
+          "gloss": "all"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "those"
+        },
+        {
+          "w": "ἀκούσαντες",
+          "morph": "V-AAP-NPM",
+          "gloss": "having heard"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "καρδίᾳ",
+          "morph": "N-DSF",
+          "gloss": "heart"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "λέγοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Τί",
+          "morph": "I-NSN",
+          "gloss": "What"
+        },
+        {
+          "w": "ἄρα",
+          "morph": "PRT-I",
+          "gloss": "then"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "παιδίον",
+          "morph": "N-NSN",
+          "gloss": "child"
+        },
+        {
+          "w": "τοῦτο",
+          "morph": "D-NSN",
+          "gloss": "this"
+        },
+        {
+          "w": "ἔσται",
+          "morph": "V-FDI-3S",
+          "gloss": "will be"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "χεὶρ",
+          "morph": "N-NSF",
+          "gloss": "[the] hand"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "of [the] Lord"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "was"
+        },
+        {
+          "w": "μετ’",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "him"
+        }
+      ]
+    },
+    {
+      "v": 67,
+      "zh": "他 父 親 撒 迦 利 亞 被 聖 靈 充 滿 了 ， 就 預 言 說 ：",
+      "en": "Then his father Zechariah was filled with the Holy Spirit and prophesied,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "Ζαχαρίας",
+          "morph": "N-NSM",
+          "gloss": "Zechariah"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "πατὴρ",
+          "morph": "N-NSM",
+          "gloss": "father"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "ἐπλήσθη",
+          "morph": "V-API-3S",
+          "gloss": "was filled"
+        },
+        {
+          "w": "Πνεύματος",
+          "morph": "N-GSN",
+          "gloss": "with [the] Spirit"
+        },
+        {
+          "w": "Ἁγίου",
+          "morph": "A-GSN",
+          "gloss": "Holy"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐπροφήτευσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "prophesied"
+        },
+        {
+          "w": "λέγων",
+          "morph": "V-PAP-NSM",
+          "gloss": "saying"
+        }
+      ]
+    },
+    {
+      "v": 68,
+      "zh": "主 ─ 以 色 列 的 神 是 應 當 稱 頌 的 ！ 因 他 眷 顧 他 的 百 姓 ， 為 他 們 施 行 救 贖 ，",
+      "en": "“Blessed be the Lord God of Israel, because he has come to help and has redeemed his people.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Εὐλογητὸς",
+          "morph": "A-NSM",
+          "gloss": "Blessed be"
+        },
+        {
+          "w": "Κύριος",
+          "morph": "N-NSM",
+          "gloss": "[the] Lord"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰσραήλ",
+          "morph": "N-PRI",
+          "gloss": "of Israel"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "because"
+        },
+        {
+          "w": "ἐπεσκέψατο",
+          "morph": "V-ADI-3S",
+          "gloss": "He has visited"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐποίησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "has performed"
+        },
+        {
+          "w": "λύτρωσιν",
+          "morph": "N-ASF",
+          "gloss": "redemption"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "[on] the"
+        },
+        {
+          "w": "λαῷ",
+          "morph": "N-DSM",
+          "gloss": "people"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 69,
+      "zh": "在 他 僕 人 大 衛 家 中 ， 為 我 們 興 起 了 拯 救 的 角 ，",
+      "en": "For he has raised up a horn of salvation for us in the house of his servant David,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἤγειρεν",
+          "morph": "V-AAI-3S",
+          "gloss": "has raised up"
+        },
+        {
+          "w": "κέρας",
+          "morph": "N-ASN",
+          "gloss": "a horn"
+        },
+        {
+          "w": "σωτηρίας",
+          "morph": "N-GSF",
+          "gloss": "of salvation"
+        },
+        {
+          "w": "ἡμῖν",
+          "morph": "P-1DP",
+          "gloss": "for us"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "οἴκῳ",
+          "morph": "N-DSM",
+          "gloss": "[the] house"
+        },
+        {
+          "w": "Δαυεὶδ",
+          "morph": "N-PRI",
+          "gloss": "of David"
+        },
+        {
+          "w": "παιδὸς",
+          "morph": "N-GSM",
+          "gloss": "of [the] servant"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 70,
+      "zh": "正 如 主 藉 著 從 創 世 以 來 聖 先 知 的 口 所 說 的 話 ，",
+      "en": "as he spoke through the mouth of his holy prophets from long ago,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καθὼς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "ἐλάλησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "He spoke"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "στόματος",
+          "morph": "N-GSN",
+          "gloss": "[the] mouth"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "ἁγίων",
+          "morph": "A-GPM",
+          "gloss": "holy"
+        },
+        {
+          "w": "ἀπ’",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "αἰῶνος",
+          "morph": "N-GSM",
+          "gloss": "old"
+        },
+        {
+          "w": "προφητῶν",
+          "morph": "N-GPM",
+          "gloss": "prophets"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 71,
+      "zh": "拯 救 我 們 脫 離 仇 敵 和 一 切 恨 我 們 之 人 的 手 ，",
+      "en": "that we should be saved from our enemies and from the hand of all who hate us.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "σωτηρίαν",
+          "morph": "N-ASF",
+          "gloss": "salvation"
+        },
+        {
+          "w": "ἐξ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "ἐχθρῶν",
+          "morph": "A-GPM",
+          "gloss": "[the] enemies"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "χειρὸς",
+          "morph": "N-GSF",
+          "gloss": "[the] hand"
+        },
+        {
+          "w": "πάντων",
+          "morph": "A-GPM",
+          "gloss": "of all"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "those"
+        },
+        {
+          "w": "μισούντων",
+          "morph": "V-PAP-GPM",
+          "gloss": "hating"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        }
+      ]
+    },
+    {
+      "v": 72,
+      "zh": "向 我 們 列 祖 施 憐 憫 ， 記 念 他 的 聖 約 ─",
+      "en": "He has done this to show mercy to our ancestors, and to remember his holy covenant—",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ποιῆσαι",
+          "morph": "V-AAN",
+          "gloss": "to fulfill"
+        },
+        {
+          "w": "ἔλεος",
+          "morph": "N-ASN",
+          "gloss": "mercy"
+        },
+        {
+          "w": "μετὰ",
+          "morph": "PREP",
+          "gloss": "toward"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "the"
+        },
+        {
+          "w": "πατέρων",
+          "morph": "N-GPM",
+          "gloss": "fathers"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "μνησθῆναι",
+          "morph": "V-APN",
+          "gloss": "to remember"
+        },
+        {
+          "w": "διαθήκης",
+          "morph": "N-GSF",
+          "gloss": "[the] covenant"
+        },
+        {
+          "w": "ἁγίας",
+          "morph": "A-GSF",
+          "gloss": "holy"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 73,
+      "zh": "就 是 他 對 我 們 祖 宗 亞 伯 拉 罕 所 起 的 誓 ─",
+      "en": "the oath that he swore to our ancestor Abraham. This oath grants",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅρκον",
+          "morph": "N-ASM",
+          "gloss": "[the] oath"
+        },
+        {
+          "w": "ὃν",
+          "morph": "R-ASM",
+          "gloss": "that"
+        },
+        {
+          "w": "ὤμοσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "He swore"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "Ἀβραὰμ",
+          "morph": "N-PRI",
+          "gloss": "Abraham"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "πατέρα",
+          "morph": "N-ASM",
+          "gloss": "father"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "-"
+        },
+        {
+          "w": "δοῦναι",
+          "morph": "V-2AAN",
+          "gloss": "to grant"
+        },
+        {
+          "w": "ἡμῖν",
+          "morph": "P-1DP",
+          "gloss": "us"
+        }
+      ]
+    },
+    {
+      "v": 74,
+      "zh": "叫 我 們 既 從 仇 敵 手 中 被 救 出 來 ，",
+      "en": "that we, being rescued from the hand of our enemies, may serve him without fear,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀφόβως",
+          "morph": "ADV",
+          "gloss": "without fear"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "χειρὸς",
+          "morph": "N-GSF",
+          "gloss": "[the] hand"
+        },
+        {
+          "w": "ἐχθρῶν",
+          "morph": "A-GPM",
+          "gloss": "of our enemies"
+        },
+        {
+          "w": "ῥυσθέντας",
+          "morph": "V-APP-APM",
+          "gloss": "having been saved"
+        },
+        {
+          "w": "λατρεύειν",
+          "morph": "V-PAN",
+          "gloss": "to serve"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        }
+      ]
+    },
+    {
+      "v": 75,
+      "zh": "就 可 以 終 身 在 他 面 前 ， 坦 然 無 懼 的 用 聖 潔 、 公 義 事 奉 他 。",
+      "en": "in holiness and righteousness before him for as long as we live.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ὁσιότητι",
+          "morph": "N-DSF",
+          "gloss": "holiness"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "δικαιοσύνῃ",
+          "morph": "N-DSF",
+          "gloss": "righteousness"
+        },
+        {
+          "w": "ἐνώπιον",
+          "morph": "PREP",
+          "gloss": "before"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "πάσαις",
+          "morph": "A-DPF",
+          "gloss": "all"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἡμέραις",
+          "morph": "N-DPF",
+          "gloss": "days"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of our life"
+        }
+      ]
+    },
+    {
+      "v": 76,
+      "zh": "孩 子 阿 ！ 你 要 稱 為 至 高 者 的 先 知 ； 因 為 你 要 行 在 主 的 前 面 ， 預 備 他 的 道 路 ，",
+      "en": "And you, child, will be called the prophet of the Most High. For you will go before the Lord to prepare his ways,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "σὺ",
+          "morph": "P-2NS",
+          "gloss": "you"
+        },
+        {
+          "w": "δέ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "παιδίον",
+          "morph": "N-VSN",
+          "gloss": "child"
+        },
+        {
+          "w": "προφήτης",
+          "morph": "N-NSM",
+          "gloss": "prophet"
+        },
+        {
+          "w": "Ὑψίστου",
+          "morph": "A-GSM-S",
+          "gloss": "of [the] Most High"
+        },
+        {
+          "w": "κληθήσῃ",
+          "morph": "V-FPI-2S",
+          "gloss": "will be called"
+        },
+        {
+          "w": "προπορεύσῃ",
+          "morph": "V-FDI-2S",
+          "gloss": "you will go"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἐνώπιον",
+          "morph": "PREP",
+          "gloss": "before"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "the Lord"
+        },
+        {
+          "w": "ἑτοιμάσαι",
+          "morph": "V-AAN",
+          "gloss": "to prepare"
+        },
+        {
+          "w": "ὁδοὺς",
+          "morph": "N-APF",
+          "gloss": "ways"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 77,
+      "zh": "叫 他 的 百 姓 因 罪 得 赦 ， 就 知 道 救 恩 。",
+      "en": "to give his people knowledge of salvation through the forgiveness of their sins.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "-"
+        },
+        {
+          "w": "δοῦναι",
+          "morph": "V-2AAN",
+          "gloss": "to give"
+        },
+        {
+          "w": "γνῶσιν",
+          "morph": "N-ASF",
+          "gloss": "knowledge"
+        },
+        {
+          "w": "σωτηρίας",
+          "morph": "N-GSF",
+          "gloss": "of salvation"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "to"
+        },
+        {
+          "w": "λαῷ",
+          "morph": "N-DSM",
+          "gloss": "people"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἀφέσει",
+          "morph": "N-DSF",
+          "gloss": "forgiveness"
+        },
+        {
+          "w": "ἁμαρτιῶν",
+          "morph": "N-GPF",
+          "gloss": "of [the] sins"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        }
+      ]
+    },
+    {
+      "v": 78,
+      "zh": "因 我 們 神 憐 憫 的 心 腸 ， 叫 清 晨 的 日 光 從 高 天 臨 到 我 們 ，",
+      "en": "Because of our God’s tender mercy, the dawn will break upon us from on high",
+      "notes": [],
+      "gr": [
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "σπλάγχνα",
+          "morph": "N-APN",
+          "gloss": "[the] affections"
+        },
+        {
+          "w": "ἐλέους",
+          "morph": "N-GSN",
+          "gloss": "of compassion"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "οἷς",
+          "morph": "R-DPN",
+          "gloss": "which"
+        },
+        {
+          "w": "ἐπισκέψεται",
+          "morph": "V-FDI-3S",
+          "gloss": "will visit"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "ἀνατολὴ",
+          "morph": "N-NSF",
+          "gloss": "[the] Sunrise"
+        },
+        {
+          "w": "ἐξ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "ὕψους",
+          "morph": "N-GSN",
+          "gloss": "on high"
+        }
+      ]
+    },
+    {
+      "v": 79,
+      "zh": "要 照 亮 坐 在 黑 暗 中 死 蔭 裡 的 人 ， 把 我 們 的 腳 引 到 平 安 的 路 上 。",
+      "en": "to give light to those who sit in darkness and in the shadow of death, to guide our feet into the way of peace.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐπιφᾶναι",
+          "morph": "V-AAN",
+          "gloss": "to shine upon"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "those"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "σκότει",
+          "morph": "N-DSN",
+          "gloss": "darkness"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "σκιᾷ",
+          "morph": "N-DSF",
+          "gloss": "in [the] shadow"
+        },
+        {
+          "w": "θανάτου",
+          "morph": "N-GSM",
+          "gloss": "of death"
+        },
+        {
+          "w": "καθημένοις",
+          "morph": "V-PNP-DPM",
+          "gloss": "sitting"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "-"
+        },
+        {
+          "w": "κατευθῦναι",
+          "morph": "V-AAN",
+          "gloss": "to direct"
+        },
+        {
+          "w": "τοὺς",
+          "morph": "T-APM",
+          "gloss": "the"
+        },
+        {
+          "w": "πόδας",
+          "morph": "N-APM",
+          "gloss": "feet"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "ὁδὸν",
+          "morph": "N-ASF",
+          "gloss": "[the] way"
+        },
+        {
+          "w": "εἰρήνης",
+          "morph": "N-GSF",
+          "gloss": "of peace"
+        }
+      ]
+    },
+    {
+      "v": 80,
+      "zh": "那 孩 子 漸 漸 長 大 ， 心 靈 強 健 ， 住 在 曠 野 ， 直 到 他 顯 明 在 以 色 列 人 面 前 的 日 子 。",
+      "en": "And the child kept growing and becoming strong in spirit, and he was in the wilderness until the day he was revealed to Israel.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Τὸ",
+          "morph": "T-NSN",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "παιδίον",
+          "morph": "N-NSN",
+          "gloss": "the child"
+        },
+        {
+          "w": "ηὔξανεν",
+          "morph": "V-IAI-3S",
+          "gloss": "continued to grow"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐκραταιοῦτο",
+          "morph": "V-IPI-3S",
+          "gloss": "was strengthened"
+        },
+        {
+          "w": "πνεύματι",
+          "morph": "N-DSN",
+          "gloss": "in spirit"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "he was"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐρήμοις",
+          "morph": "A-DPF",
+          "gloss": "deserted places"
+        },
+        {
+          "w": "ἕως",
+          "morph": "ADV",
+          "gloss": "until"
+        },
+        {
+          "w": "ἡμέρας",
+          "morph": "N-GSF",
+          "gloss": "[the] day"
+        },
+        {
+          "w": "ἀναδείξεως",
+          "morph": "N-GSF",
+          "gloss": "of appearance"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰσραήλ",
+          "morph": "N-PRI",
+          "gloss": "Israel"
+        }
+      ]
+    }
+  ]
+}

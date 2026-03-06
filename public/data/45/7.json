@@ -1,0 +1,2546 @@
+{
+  "book": 45,
+  "chapter": 7,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "弟 兄 們 ， 我 現 在 對 明 白 律 法 的 人 說 ， 你 們 豈 不 曉 得 律 法 管 人 是 在 活 著 的 時 候 麼 ？",
+      "en": "Or do you not know, brothers and sisters (for I am speaking to those who know the law), that the law is lord over a person as long as he lives?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἢ",
+          "morph": "PRT",
+          "gloss": "Or"
+        },
+        {
+          "w": "ἀγνοεῖτε",
+          "morph": "V-PAI-2P",
+          "gloss": "are you ignorant"
+        },
+        {
+          "w": "ἀδελφοί",
+          "morph": "N-VPM",
+          "gloss": "brothers"
+        },
+        {
+          "w": "γινώσκουσιν",
+          "morph": "V-PAP-DPM",
+          "gloss": "to those knowing"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "νόμον",
+          "morph": "N-ASM",
+          "gloss": "law"
+        },
+        {
+          "w": "λαλῶ",
+          "morph": "V-PAI-1S",
+          "gloss": "I speak"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "νόμος",
+          "morph": "N-NSM",
+          "gloss": "law"
+        },
+        {
+          "w": "κυριεύει",
+          "morph": "V-PAI-3S",
+          "gloss": "rules over"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀνθρώπου",
+          "morph": "N-GSM",
+          "gloss": "man"
+        },
+        {
+          "w": "ἐφ’",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "ὅσον",
+          "morph": "K-ASM",
+          "gloss": "as long as"
+        },
+        {
+          "w": "χρόνον",
+          "morph": "N-ASM",
+          "gloss": "[the] time"
+        },
+        {
+          "w": "ζῇ",
+          "morph": "V-PAI-3S",
+          "gloss": "he is alive"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "就 如 女 人 有 了 丈 夫 ， 丈 夫 還 活 著 ， 就 被 律 法 約 束 ； 丈 夫 若 死 了 ， 就 脫 離 了 丈 夫 的 律 法 。",
+      "en": "For a married woman is bound by law to her husband as long as he lives, but if her husband dies, she is released from the law of the marriage.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "The"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ὕπανδρος",
+          "morph": "A-NSF",
+          "gloss": "married"
+        },
+        {
+          "w": "γυνὴ",
+          "morph": "N-NSF",
+          "gloss": "woman"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "to the"
+        },
+        {
+          "w": "ζῶντι",
+          "morph": "V-PAP-DSM",
+          "gloss": "living"
+        },
+        {
+          "w": "ἀνδρὶ",
+          "morph": "N-DSM",
+          "gloss": "husband"
+        },
+        {
+          "w": "δέδεται",
+          "morph": "V-RPI-3S",
+          "gloss": "is bound"
+        },
+        {
+          "w": "νόμῳ",
+          "morph": "N-DSM",
+          "gloss": "by law"
+        },
+        {
+          "w": "ἐὰν",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ἀποθάνῃ",
+          "morph": "V-2AAS-3S",
+          "gloss": "should die"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀνήρ",
+          "morph": "N-NSM",
+          "gloss": "husband"
+        },
+        {
+          "w": "κατήργηται",
+          "morph": "V-RPI-3S",
+          "gloss": "she is cleared"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "νόμου",
+          "morph": "N-GSM",
+          "gloss": "law"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "ἀνδρός",
+          "morph": "N-GSM",
+          "gloss": "husband"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "所 以 丈 夫 活 著 ， 他 若 歸 於 別 人 ， 便 叫 淫 婦 ； 丈 夫 若 死 了 ， 他 就 脫 離 了 丈 夫 的 律 法 ， 雖 然 歸 於 別 人 ， 也 不 是 淫 婦 。",
+      "en": "So then, if she is joined to another man while her husband is alive, she will be called an adulteress. But if her husband dies, she is free from that law, and if she is joined to another man, she is not an adulteress.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἄρα",
+          "morph": "PRT",
+          "gloss": "Then"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "ζῶντος",
+          "morph": "V-PAP-GSM",
+          "gloss": "being alive"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀνδρὸς",
+          "morph": "N-GSM",
+          "gloss": "husband"
+        },
+        {
+          "w": "μοιχαλὶς",
+          "morph": "N-NSF",
+          "gloss": "an adulteress"
+        },
+        {
+          "w": "χρηματίσει",
+          "morph": "V-FAI-3S",
+          "gloss": "she will be called"
+        },
+        {
+          "w": "ἐὰν",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "γένηται",
+          "morph": "V-2ADS-3S",
+          "gloss": "she is"
+        },
+        {
+          "w": "ἀνδρὶ",
+          "morph": "N-DSM",
+          "gloss": "to man"
+        },
+        {
+          "w": "ἑτέρῳ",
+          "morph": "A-DSM",
+          "gloss": "another"
+        },
+        {
+          "w": "ἐὰν",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ἀποθάνῃ",
+          "morph": "V-2AAS-3S",
+          "gloss": "should die"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀνήρ",
+          "morph": "N-NSM",
+          "gloss": "husband"
+        },
+        {
+          "w": "ἐλευθέρα",
+          "morph": "A-NSF",
+          "gloss": "free"
+        },
+        {
+          "w": "ἐστὶν",
+          "morph": "V-PAI-3S",
+          "gloss": "she is"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "νόμου",
+          "morph": "N-GSM",
+          "gloss": "law"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "[so as for]"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "εἶναι",
+          "morph": "V-PAN",
+          "gloss": "to be"
+        },
+        {
+          "w": "αὐτὴν",
+          "morph": "P-ASF",
+          "gloss": "her"
+        },
+        {
+          "w": "μοιχαλίδα",
+          "morph": "N-ASF",
+          "gloss": "an adulteress"
+        },
+        {
+          "w": "γενομένην",
+          "morph": "V-2ADP-ASF",
+          "gloss": "having been"
+        },
+        {
+          "w": "ἀνδρὶ",
+          "morph": "N-DSM",
+          "gloss": "to man"
+        },
+        {
+          "w": "ἑτέρῳ",
+          "morph": "A-DSM",
+          "gloss": "another"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "我 的 弟 兄 們 ， 這 樣 說 來 ， 你 們 藉 著 基 督 的 身 體 ， 在 律 法 上 也 是 死 了 ， 叫 你 們 歸 於 別 人 ， 就 是 歸 於 那 從 死 裡 復 活 的 ， 叫 我 們 結 果 子 給 神 。",
+      "en": "So, my brothers and sisters, you also died to the law through the body of Christ, so that you could be joined to another, to the one who was raised from the dead, to bear fruit to God.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὥστε",
+          "morph": "CONJ",
+          "gloss": "Likewise"
+        },
+        {
+          "w": "ἀδελφοί",
+          "morph": "N-VPM",
+          "gloss": "brothers"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ὑμεῖς",
+          "morph": "P-2NP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἐθανατώθητε",
+          "morph": "V-API-2P",
+          "gloss": "have been put to death"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "to the"
+        },
+        {
+          "w": "νόμῳ",
+          "morph": "N-DSM",
+          "gloss": "law"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "the"
+        },
+        {
+          "w": "σώματος",
+          "morph": "N-GSN",
+          "gloss": "body"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Χριστοῦ",
+          "morph": "N-GSM",
+          "gloss": "of Christ"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "γενέσθαι",
+          "morph": "V-2ADN",
+          "gloss": "to belong"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἑτέρῳ",
+          "morph": "A-DSM",
+          "gloss": "to another"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "to the [One]"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "out from"
+        },
+        {
+          "w": "νεκρῶν",
+          "morph": "A-GPM",
+          "gloss": "[the] dead"
+        },
+        {
+          "w": "ἐγερθέντι",
+          "morph": "V-APP-DSM",
+          "gloss": "having been raised"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "so that"
+        },
+        {
+          "w": "καρποφορήσωμεν",
+          "morph": "V-AAS-1P",
+          "gloss": "we should bear fruit"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεῷ",
+          "morph": "N-DSM",
+          "gloss": "to God"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "因 為 我 們 屬 肉 體 的 時 候 ， 那 因 律 法 而 生 的 惡 慾 就 在 我 們 肢 體 中 發 動 ， 以 致 結 成 死 亡 的 果 子 。",
+      "en": "For when we were in the flesh, the sinful desires, aroused by the law, were active in the members of our body to bear fruit for death.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὅτε",
+          "morph": "ADV",
+          "gloss": "While"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἦμεν",
+          "morph": "V-IAI-1P",
+          "gloss": "we were"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "σαρκί",
+          "morph": "N-DSF",
+          "gloss": "flesh"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-NPN",
+          "gloss": "the"
+        },
+        {
+          "w": "παθήματα",
+          "morph": "N-NPN",
+          "gloss": "passions"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἁμαρτιῶν",
+          "morph": "N-GPF",
+          "gloss": "of sins"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-NPN",
+          "gloss": "that [were]"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "νόμου",
+          "morph": "N-GSM",
+          "gloss": "law"
+        },
+        {
+          "w": "ἐνηργεῖτο",
+          "morph": "V-IMI-3S",
+          "gloss": "were at work"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPN",
+          "gloss": "the"
+        },
+        {
+          "w": "μέλεσιν",
+          "morph": "N-DPN",
+          "gloss": "members"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "καρποφορῆσαι",
+          "morph": "V-AAN",
+          "gloss": "bringing forth of fruit"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "θανάτῳ",
+          "morph": "N-DSM",
+          "gloss": "to death"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "但 我 們 既 然 在 捆 我 們 的 律 法 上 死 了 ， 現 今 就 脫 離 了 律 法 ， 叫 我 們 服 事 主 ， 要 按 著 心 靈 （ 心 靈 ： 或 作 聖 靈 ） 的 新 樣 ， 不 按 著 儀 文 的 舊 樣 。",
+      "en": "But now we have been released from the law, because we have died to what controlled us, so that we may serve in the new life of the Spirit and not under the old written code.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "νυνὶ",
+          "morph": "ADV",
+          "gloss": "Now"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "κατηργήθημεν",
+          "morph": "V-API-1P",
+          "gloss": "we have been released"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "νόμου",
+          "morph": "N-GSM",
+          "gloss": "law"
+        },
+        {
+          "w": "ἀποθανόντες",
+          "morph": "V-2AAP-NPM",
+          "gloss": "having died"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "ᾧ",
+          "morph": "R-DSM",
+          "gloss": "that which"
+        },
+        {
+          "w": "κατειχόμεθα",
+          "morph": "V-IPI-1P",
+          "gloss": "we were bound"
+        },
+        {
+          "w": "ὥστε",
+          "morph": "CONJ",
+          "gloss": "in order for"
+        },
+        {
+          "w": "δουλεύειν",
+          "morph": "V-PAN",
+          "gloss": "to serve"
+        },
+        {
+          "w": "ἡμᾶς",
+          "morph": "P-1AP",
+          "gloss": "us"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "καινότητι",
+          "morph": "N-DSF",
+          "gloss": "newness"
+        },
+        {
+          "w": "πνεύματος",
+          "morph": "N-GSN",
+          "gloss": "of [the] Spirit"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "παλαιότητι",
+          "morph": "N-DSF",
+          "gloss": "in oldness"
+        },
+        {
+          "w": "γράμματος",
+          "morph": "N-GSN",
+          "gloss": "of [the] letter"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "這 樣 ， 我 們 可 說 甚 麼 呢 ？ 律 法 是 罪 麼 ？ 斷 乎 不 是 ！ 只 是 非 因 律 法 ， 我 就 不 知 何 為 罪 。 非 律 法 說 不 可 起 貪 心 ， 我 就 不 知 何 為 貪 心 。",
+      "en": "What shall we say then? Is the law sin? Absolutely not! Certainly, I would not have known sin except through the law. For indeed I would not have known what it means to desire something belonging to someone else if the law had not said, “Do not covet.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Τί",
+          "morph": "I-ASN",
+          "gloss": "What"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ἐροῦμεν",
+          "morph": "V-FAI-1P",
+          "gloss": "shall we say"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "[Is] the"
+        },
+        {
+          "w": "νόμος",
+          "morph": "N-NSM",
+          "gloss": "law"
+        },
+        {
+          "w": "ἁμαρτία",
+          "morph": "N-NSF",
+          "gloss": "sin"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "Never"
+        },
+        {
+          "w": "γένοιτο",
+          "morph": "V-2ADO-3S",
+          "gloss": "may it be"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "But"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἁμαρτίαν",
+          "morph": "N-ASF",
+          "gloss": "sin"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἔγνων",
+          "morph": "V-2AAI-1S",
+          "gloss": "I have known"
+        },
+        {
+          "w": "εἰ",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "νόμου",
+          "morph": "N-GSM",
+          "gloss": "law"
+        },
+        {
+          "w": "τήν",
+          "morph": "T-ASF",
+          "gloss": "-"
+        },
+        {
+          "w": "τε",
+          "morph": "PRT",
+          "gloss": "then"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἐπιθυμίαν",
+          "morph": "N-ASF",
+          "gloss": "covetousness"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ᾔδειν",
+          "morph": "V-2LAI-1S",
+          "gloss": "I had been conscious of"
+        },
+        {
+          "w": "εἰ",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "νόμος",
+          "morph": "N-NSM",
+          "gloss": "law"
+        },
+        {
+          "w": "ἔλεγεν",
+          "morph": "V-IAI-3S",
+          "gloss": "had said"
+        },
+        {
+          "w": "Οὐκ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "ἐπιθυμήσεις",
+          "morph": "V-FAI-2S",
+          "gloss": "you shall covet"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "然 而 罪 趁 著 機 會 ， 就 藉 著 誡 命 叫 諸 般 的 貪 心 在 我 裡 頭 發 動 ； 因 為 沒 有 律 法 ， 罪 是 死 的 。",
+      "en": "But sin, seizing the opportunity through the commandment, produced in me all kinds of wrong desires. For apart from the law, sin is dead.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀφορμὴν",
+          "morph": "N-ASF",
+          "gloss": "An occasion"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "λαβοῦσα",
+          "morph": "V-2AAP-NSF",
+          "gloss": "having taken"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἁμαρτία",
+          "morph": "N-NSF",
+          "gloss": "sin"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐντολῆς",
+          "morph": "N-GSF",
+          "gloss": "commandment"
+        },
+        {
+          "w": "κατειργάσατο",
+          "morph": "V-ADI-3S",
+          "gloss": "it produced"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἐμοὶ",
+          "morph": "P-1DS",
+          "gloss": "me"
+        },
+        {
+          "w": "πᾶσαν",
+          "morph": "A-ASF",
+          "gloss": "all"
+        },
+        {
+          "w": "ἐπιθυμίαν",
+          "morph": "N-ASF",
+          "gloss": "covetousness"
+        },
+        {
+          "w": "χωρὶς",
+          "morph": "ADV",
+          "gloss": "apart from"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "νόμου",
+          "morph": "N-GSM",
+          "gloss": "[the] Law"
+        },
+        {
+          "w": "ἁμαρτία",
+          "morph": "N-NSF",
+          "gloss": "sin"
+        },
+        {
+          "w": "νεκρά",
+          "morph": "A-NSF",
+          "gloss": "[is] dead"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "我 以 前 沒 有 律 法 是 活 著 的 ； 但 是 誡 命 來 到 ， 罪 又 活 了 ， 我 就 死 了 。",
+      "en": "And I was once alive apart from the law, but with the coming of the commandment, sin became alive",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ἔζων",
+          "morph": "V-IAI-1S",
+          "gloss": "was alive"
+        },
+        {
+          "w": "χωρὶς",
+          "morph": "ADV",
+          "gloss": "apart from"
+        },
+        {
+          "w": "νόμου",
+          "morph": "N-GSM",
+          "gloss": "law"
+        },
+        {
+          "w": "ποτέ",
+          "morph": "PRT",
+          "gloss": "once"
+        },
+        {
+          "w": "ἐλθούσης",
+          "morph": "V-2AAP-GSF",
+          "gloss": "having come"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐντολῆς",
+          "morph": "N-GSF",
+          "gloss": "commandment"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἁμαρτία",
+          "morph": "N-NSF",
+          "gloss": "sin"
+        },
+        {
+          "w": "ἀνέζησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "revived"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "那 本 來 叫 人 活 的 誡 命 ， 反 倒 叫 我 死 ；",
+      "en": "and I died. So I found that the very commandment that was intended to bring life brought death!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ἀπέθανον",
+          "morph": "V-2AAI-1S",
+          "gloss": "died"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εὑρέθη",
+          "morph": "V-API-3S",
+          "gloss": "proved to be"
+        },
+        {
+          "w": "μοι",
+          "morph": "P-1DS",
+          "gloss": "me"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐντολὴ",
+          "morph": "N-NSF",
+          "gloss": "commandment"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "that [was]"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "ζωὴν",
+          "morph": "N-ASF",
+          "gloss": "life"
+        },
+        {
+          "w": "αὕτη",
+          "morph": "D-NSF",
+          "gloss": "this"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "θάνατον",
+          "morph": "N-ASM",
+          "gloss": "death"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "因 為 罪 趁 著 機 會 ， 就 藉 著 誡 命 引 誘 我 ， 並 且 殺 了 我 。",
+      "en": "For sin, seizing the opportunity through the commandment, deceived me and through it I died.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "The"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἁμαρτία",
+          "morph": "N-NSF",
+          "gloss": "sin"
+        },
+        {
+          "w": "ἀφορμὴν",
+          "morph": "N-ASF",
+          "gloss": "an occasion"
+        },
+        {
+          "w": "λαβοῦσα",
+          "morph": "V-2AAP-NSF",
+          "gloss": "having taken"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐντολῆς",
+          "morph": "N-GSF",
+          "gloss": "commandment"
+        },
+        {
+          "w": "ἐξηπάτησέν",
+          "morph": "V-AAI-3S",
+          "gloss": "deceived"
+        },
+        {
+          "w": "με",
+          "morph": "P-1AS",
+          "gloss": "me"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "δι’",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "αὐτῆς",
+          "morph": "P-GSF",
+          "gloss": "it"
+        },
+        {
+          "w": "ἀπέκτεινεν",
+          "morph": "V-AAI-3S",
+          "gloss": "put [me] to death"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "這 樣 看 來 ， 律 法 是 聖 潔 的 ， 誡 命 也 是 聖 潔 、 公 義 、 良 善 的 。",
+      "en": "So then, the law is holy, and the commandment is holy, righteous, and good.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὥστε",
+          "morph": "CONJ",
+          "gloss": "So"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "μὲν",
+          "morph": "PRT",
+          "gloss": "indeed"
+        },
+        {
+          "w": "νόμος",
+          "morph": "N-NSM",
+          "gloss": "the law [is]"
+        },
+        {
+          "w": "ἅγιος",
+          "morph": "A-NSM",
+          "gloss": "holy"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐντολὴ",
+          "morph": "N-NSF",
+          "gloss": "commandment [is]"
+        },
+        {
+          "w": "ἁγία",
+          "morph": "A-NSF",
+          "gloss": "holy"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "δικαία",
+          "morph": "A-NSF",
+          "gloss": "righteous"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀγαθή",
+          "morph": "A-NSF",
+          "gloss": "good"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "既 然 如 此 ， 那 良 善 的 是 叫 我 死 麼 ？ 斷 乎 不 是 ！ 叫 我 死 的 乃 是 罪 。 但 罪 藉 著 那 良 善 的 叫 我 死 ， 就 顯 出 真 是 罪 ， 叫 罪 因 著 誡 命 更 顯 出 是 惡 極 了 。",
+      "en": "Did that which is good, then, become death to me? Absolutely not! But sin, so that it would be shown to be sin, produced death in me through what is good, so that through the commandment sin would become utterly sinful.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Τὸ",
+          "morph": "T-NSN",
+          "gloss": "That which"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ἀγαθὸν",
+          "morph": "A-NSN",
+          "gloss": "[is] good"
+        },
+        {
+          "w": "ἐμοὶ",
+          "morph": "P-1DS",
+          "gloss": "to me"
+        },
+        {
+          "w": "ἐγένετο",
+          "morph": "V-2ADI-3S",
+          "gloss": "has become"
+        },
+        {
+          "w": "θάνατος",
+          "morph": "N-NSM",
+          "gloss": "death"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "Never"
+        },
+        {
+          "w": "γένοιτο",
+          "morph": "V-2ADO-3S",
+          "gloss": "may it be"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "But"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἁμαρτία",
+          "morph": "N-NSF",
+          "gloss": "sin"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "in order that"
+        },
+        {
+          "w": "φανῇ",
+          "morph": "V-2APS-3S",
+          "gloss": "it might be shown to be"
+        },
+        {
+          "w": "ἁμαρτία",
+          "morph": "N-NSF",
+          "gloss": "sin"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "that which [is]"
+        },
+        {
+          "w": "ἀγαθοῦ",
+          "morph": "A-GSN",
+          "gloss": "good"
+        },
+        {
+          "w": "μοι",
+          "morph": "P-1DS",
+          "gloss": "to me"
+        },
+        {
+          "w": "κατεργαζομένη",
+          "morph": "V-PNP-NSF",
+          "gloss": "is working out"
+        },
+        {
+          "w": "θάνατον",
+          "morph": "N-ASM",
+          "gloss": "death"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "so that"
+        },
+        {
+          "w": "γένηται",
+          "morph": "V-2ADS-3S",
+          "gloss": "might become"
+        },
+        {
+          "w": "καθ’",
+          "morph": "PREP",
+          "gloss": "beyond"
+        },
+        {
+          "w": "ὑπερβολὴν",
+          "morph": "N-ASF",
+          "gloss": "excess"
+        },
+        {
+          "w": "ἁμαρτωλὸς",
+          "morph": "A-NSF",
+          "gloss": "sinful"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἁμαρτία",
+          "morph": "N-NSF",
+          "gloss": "sin"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐντολῆς",
+          "morph": "N-GSF",
+          "gloss": "commandment"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "我 們 原 曉 得 律 法 是 屬 乎 靈 的 ， 但 我 是 屬 乎 肉 體 的 ， 是 已 經 賣 給 罪 了 。",
+      "en": "For we know that the law is spiritual—but I am unspiritual, sold into slavery to sin.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οἴδαμεν",
+          "morph": "V-RAI-1P",
+          "gloss": "We know"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "νόμος",
+          "morph": "N-NSM",
+          "gloss": "[the] Law"
+        },
+        {
+          "w": "πνευματικός",
+          "morph": "A-NSM",
+          "gloss": "spiritual"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "σάρκινός",
+          "morph": "A-NSM",
+          "gloss": "fleshly"
+        },
+        {
+          "w": "εἰμι",
+          "morph": "V-PAI-1S",
+          "gloss": "am"
+        },
+        {
+          "w": "πεπραμένος",
+          "morph": "V-RPP-NSM",
+          "gloss": "having been sold"
+        },
+        {
+          "w": "ὑπὸ",
+          "morph": "PREP",
+          "gloss": "under"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἁμαρτίαν",
+          "morph": "N-ASF",
+          "gloss": "sin"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "因 為 我 所 做 的 ， 我 自 己 不 明 白 ； 我 所 願 意 的 ， 我 並 不 做 ； 我 所 恨 惡 的 ， 我 倒 去 做 。",
+      "en": "For I don’t understand what I am doing. For I do not do what I want—instead, I do what I hate.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὃ",
+          "morph": "R-ASN",
+          "gloss": "What"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "κατεργάζομαι",
+          "morph": "V-PNI-1S",
+          "gloss": "I do"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "γινώσκω",
+          "morph": "V-PAI-1S",
+          "gloss": "I understand"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ὃ",
+          "morph": "R-ASN",
+          "gloss": "what"
+        },
+        {
+          "w": "θέλω",
+          "morph": "V-PAI-1S",
+          "gloss": "I want"
+        },
+        {
+          "w": "τοῦτο",
+          "morph": "D-ASN",
+          "gloss": "this"
+        },
+        {
+          "w": "πράσσω",
+          "morph": "V-PAI-1S",
+          "gloss": "I do"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ὃ",
+          "morph": "R-ASN",
+          "gloss": "what"
+        },
+        {
+          "w": "μισῶ",
+          "morph": "V-PAI-1S",
+          "gloss": "I hate"
+        },
+        {
+          "w": "τοῦτο",
+          "morph": "D-ASN",
+          "gloss": "this"
+        },
+        {
+          "w": "ποιῶ",
+          "morph": "V-PAI-1S",
+          "gloss": "I do"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "若 我 所 做 的 ， 是 我 所 不 願 意 的 ， 我 就 應 承 律 法 是 善 的 。",
+      "en": "But if I do what I don’t want, I agree that the law is good.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἰ",
+          "morph": "COND",
+          "gloss": "If"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ὃ",
+          "morph": "R-ASN",
+          "gloss": "that which"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "θέλω",
+          "morph": "V-PAI-1S",
+          "gloss": "I do want"
+        },
+        {
+          "w": "τοῦτο",
+          "morph": "D-ASN",
+          "gloss": "this"
+        },
+        {
+          "w": "ποιῶ",
+          "morph": "V-PAI-1S",
+          "gloss": "I do"
+        },
+        {
+          "w": "σύνφημι",
+          "morph": "V-PAI-1S",
+          "gloss": "I consent"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "to the"
+        },
+        {
+          "w": "νόμῳ",
+          "morph": "N-DSM",
+          "gloss": "law"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that [it is]"
+        },
+        {
+          "w": "καλός",
+          "morph": "A-NSM",
+          "gloss": "good"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "既 是 這 樣 ， 就 不 是 我 做 的 ， 乃 是 住 在 我 裡 頭 的 罪 做 的 。",
+      "en": "But now it is no longer me doing it, but sin that lives in me.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "νυνὶ",
+          "morph": "ADV",
+          "gloss": "In that case"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "οὐκέτι",
+          "morph": "ADV-N",
+          "gloss": "no longer"
+        },
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "κατεργάζομαι",
+          "morph": "V-PNI-1S",
+          "gloss": "am doing"
+        },
+        {
+          "w": "αὐτὸ",
+          "morph": "P-ASN",
+          "gloss": "it"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐνοικοῦσα",
+          "morph": "V-PAP-NSF",
+          "gloss": "dwelling"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἐμοὶ",
+          "morph": "P-1DS",
+          "gloss": "me"
+        },
+        {
+          "w": "ἁμαρτία",
+          "morph": "N-NSF",
+          "gloss": "sin"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "我 也 知 道 在 我 裡 頭 ， 就 是 我 肉 體 之 中 ， 沒 有 良 善 。 因 為 ， 立 志 為 善 由 得 我 ， 只 是 行 出 來 由 不 得 我 。",
+      "en": "For I know that nothing good lives in me, that is, in my flesh. For I want to do the good, but I cannot do it.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οἶδα",
+          "morph": "V-RAI-1S",
+          "gloss": "I know"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "nothing"
+        },
+        {
+          "w": "οἰκεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "there dwells"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἐμοί",
+          "morph": "P-1DS",
+          "gloss": "me"
+        },
+        {
+          "w": "τοῦτ’",
+          "morph": "D-NSN",
+          "gloss": "that"
+        },
+        {
+          "w": "ἔστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "σαρκί",
+          "morph": "N-DSF",
+          "gloss": "flesh"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "ἀγαθόν",
+          "morph": "A-NSN",
+          "gloss": "good"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "-"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "θέλειν",
+          "morph": "V-PAN",
+          "gloss": "to will"
+        },
+        {
+          "w": "παράκειταί",
+          "morph": "V-PNI-3S",
+          "gloss": "is present with"
+        },
+        {
+          "w": "μοι",
+          "morph": "P-1DS",
+          "gloss": "me"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "κατεργάζεσθαι",
+          "morph": "V-PNN",
+          "gloss": "to do"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "καλὸν",
+          "morph": "A-ASN",
+          "gloss": "good"
+        },
+        {
+          "w": "οὔ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "故 此 ， 我 所 願 意 的 善 ， 我 反 不 做 ； 我 所 不 願 意 的 惡 ， 我 倒 去 做 。",
+      "en": "For I do not do the good I want, but I do the very evil I do not want!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ὃ",
+          "morph": "R-ASN",
+          "gloss": "that"
+        },
+        {
+          "w": "θέλω",
+          "morph": "V-PAI-1S",
+          "gloss": "I desire"
+        },
+        {
+          "w": "ποιῶ",
+          "morph": "V-PAI-1S",
+          "gloss": "I do"
+        },
+        {
+          "w": "ἀγαθόν",
+          "morph": "A-ASN",
+          "gloss": "good"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ὃ",
+          "morph": "R-ASN",
+          "gloss": "that"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "θέλω",
+          "morph": "V-PAI-1S",
+          "gloss": "I do want"
+        },
+        {
+          "w": "κακὸν",
+          "morph": "A-ASN",
+          "gloss": "evil"
+        },
+        {
+          "w": "τοῦτο",
+          "morph": "D-ASN",
+          "gloss": "this"
+        },
+        {
+          "w": "πράσσω",
+          "morph": "V-PAI-1S",
+          "gloss": "I practice"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "若 我 去 做 所 不 願 意 做 的 ， 就 不 是 我 做 的 ， 乃 是 住 在 我 裡 頭 的 罪 做 的 。",
+      "en": "Now if I do what I do not want, it is no longer me doing it but sin that lives in me.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἰ",
+          "morph": "COND",
+          "gloss": "If"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ὃ",
+          "morph": "R-ASN",
+          "gloss": "what"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "θέλω",
+          "morph": "V-PAI-1S",
+          "gloss": "I do want"
+        },
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "τοῦτο",
+          "morph": "D-ASN",
+          "gloss": "this"
+        },
+        {
+          "w": "ποιῶ",
+          "morph": "V-PAI-1S",
+          "gloss": "do"
+        },
+        {
+          "w": "οὐκέτι",
+          "morph": "ADV-N",
+          "gloss": "[it is] no longer"
+        },
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "κατεργάζομαι",
+          "morph": "V-PNI-1S",
+          "gloss": "who do"
+        },
+        {
+          "w": "αὐτὸ",
+          "morph": "P-ASN",
+          "gloss": "it"
+        },
+        {
+          "w": "ἀλλὰ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "οἰκοῦσα",
+          "morph": "V-PAP-NSF",
+          "gloss": "dwelling"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἐμοὶ",
+          "morph": "P-1DS",
+          "gloss": "me"
+        },
+        {
+          "w": "ἁμαρτία",
+          "morph": "N-NSF",
+          "gloss": "sin"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "我 覺 得 有 個 律 ， 就 是 我 願 意 為 善 的 時 候 ， 便 有 惡 與 我 同 在 。",
+      "en": "So, I find the law that when I want to do good, evil is present with me.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εὑρίσκω",
+          "morph": "V-PAI-1S",
+          "gloss": "I find"
+        },
+        {
+          "w": "ἄρα",
+          "morph": "PRT",
+          "gloss": "so"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "νόμον",
+          "morph": "N-ASM",
+          "gloss": "principle"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "that"
+        },
+        {
+          "w": "θέλοντι",
+          "morph": "V-PAP-DSM",
+          "gloss": "desiring"
+        },
+        {
+          "w": "ἐμοὶ",
+          "morph": "P-1DS",
+          "gloss": "me"
+        },
+        {
+          "w": "ποιεῖν",
+          "morph": "V-PAN",
+          "gloss": "to do"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "καλὸν",
+          "morph": "A-ASN",
+          "gloss": "good"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἐμοὶ",
+          "morph": "P-1DS",
+          "gloss": "me"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "-"
+        },
+        {
+          "w": "κακὸν",
+          "morph": "A-NSN",
+          "gloss": "evil"
+        },
+        {
+          "w": "παράκειται",
+          "morph": "V-PNI-3S",
+          "gloss": "is present with"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "因 為 按 著 我 裡 面 的 意 思 （ 原 文 是 人 ） ， 我 是 喜 歡 神 的 律 ；",
+      "en": "For I delight in the law of God in my inner being.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "συνήδομαι",
+          "morph": "V-PNI-1S",
+          "gloss": "I delight"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "in the"
+        },
+        {
+          "w": "νόμῳ",
+          "morph": "N-DSM",
+          "gloss": "law"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "κατὰ",
+          "morph": "PREP",
+          "gloss": "according to"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἔσω",
+          "morph": "ADV",
+          "gloss": "inward"
+        },
+        {
+          "w": "ἄνθρωπον",
+          "morph": "N-ASM",
+          "gloss": "man"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "但 我 覺 得 肢 體 中 另 有 個 律 和 我 心 中 的 律 交 戰 ， 把 我 擄 去 ， 叫 我 附 從 那 肢 體 中 犯 罪 的 律 。",
+      "en": "But I see a different law in my members waging war against the law of my mind and making me captive to the law of sin that is in my members.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "βλέπω",
+          "morph": "V-PAI-1S",
+          "gloss": "I see"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ἕτερον",
+          "morph": "A-ASM",
+          "gloss": "another"
+        },
+        {
+          "w": "νόμον",
+          "morph": "N-ASM",
+          "gloss": "law"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPN",
+          "gloss": "the"
+        },
+        {
+          "w": "μέλεσίν",
+          "morph": "N-DPN",
+          "gloss": "members"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "ἀντιστρατευόμενον",
+          "morph": "V-PNP-ASM",
+          "gloss": "warring against"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "νόμῳ",
+          "morph": "N-DSM",
+          "gloss": "law"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "νοός",
+          "morph": "N-GSM",
+          "gloss": "mind"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "αἰχμαλωτίζοντά",
+          "morph": "V-PAP-ASM",
+          "gloss": "making captive"
+        },
+        {
+          "w": "με",
+          "morph": "P-1AS",
+          "gloss": "me"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "νόμῳ",
+          "morph": "N-DSM",
+          "gloss": "law"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἁμαρτίας",
+          "morph": "N-GSF",
+          "gloss": "of sin"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "ὄντι",
+          "morph": "V-PAP-DSM",
+          "gloss": "being"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPN",
+          "gloss": "the"
+        },
+        {
+          "w": "μέλεσίν",
+          "morph": "N-DPN",
+          "gloss": "members"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "我 真 是 苦 阿 ！ 誰 能 救 我 脫 離 這 取 死 的 身 體 呢 ？",
+      "en": "Wretched man that I am! Who will rescue me from this body of death?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ταλαίπωρος",
+          "morph": "A-NSM",
+          "gloss": "O wretched"
+        },
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I am"
+        },
+        {
+          "w": "ἄνθρωπος",
+          "morph": "N-NSM",
+          "gloss": "man"
+        },
+        {
+          "w": "τίς",
+          "morph": "I-NSM",
+          "gloss": "Who"
+        },
+        {
+          "w": "με",
+          "morph": "P-1AS",
+          "gloss": "me"
+        },
+        {
+          "w": "ῥύσεται",
+          "morph": "V-FDI-3S",
+          "gloss": "will deliver"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "out of"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "the"
+        },
+        {
+          "w": "σώματος",
+          "morph": "N-GSN",
+          "gloss": "body"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "θανάτου",
+          "morph": "N-GSM",
+          "gloss": "of death"
+        },
+        {
+          "w": "τούτου",
+          "morph": "D-GSM",
+          "gloss": "this"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "感 謝 神 ， 靠 著 我 們 的 主 耶 穌 基 督 就 能 脫 離 了 。 這 樣 看 來 ， 我 以 內 心 順 服 神 的 律 ， 我 肉 體 卻 順 服 罪 的 律 了 。",
+      "en": "Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "χάρις",
+          "morph": "N-NSF",
+          "gloss": "Thanks [be]"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "to"
+        },
+        {
+          "w": "Θεῷ",
+          "morph": "N-DSM",
+          "gloss": "God"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "Ἰησοῦ",
+          "morph": "N-GSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "Χριστοῦ",
+          "morph": "N-GSM",
+          "gloss": "Christ"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "Lord"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "ἄρα",
+          "morph": "PRT",
+          "gloss": "Then"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "so"
+        },
+        {
+          "w": "αὐτὸς",
+          "morph": "P-NSM",
+          "gloss": "myself"
+        },
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "with the"
+        },
+        {
+          "w": "μὲν",
+          "morph": "PRT",
+          "gloss": "indeed"
+        },
+        {
+          "w": "νοῒ",
+          "morph": "N-DSM",
+          "gloss": "mind"
+        },
+        {
+          "w": "δουλεύω",
+          "morph": "V-PAI-1S",
+          "gloss": "serve"
+        },
+        {
+          "w": "νόμῳ",
+          "morph": "N-DSM",
+          "gloss": "law"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God’s"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "but [with]"
+        },
+        {
+          "w": "σαρκὶ",
+          "morph": "N-DSF",
+          "gloss": "the flesh"
+        },
+        {
+          "w": "νόμῳ",
+          "morph": "N-DSM",
+          "gloss": "[the] law"
+        },
+        {
+          "w": "ἁμαρτίας",
+          "morph": "N-GSF",
+          "gloss": "of sin"
+        }
+      ]
+    }
+  ]
+}

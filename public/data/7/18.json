@@ -1,0 +1,2446 @@
+{
+  "book": 7,
+  "chapter": 18,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "那 時 ， 以 色 列 中 沒 有 王 。 但 支 派 的 人 仍 是 尋 地 居 住 ； 因 為 到 那 日 子 ， 他 們 還 沒 有 在 以 色 列 支 派 中 得 地 為 業 。",
+      "en": "In those days Israel had no king. And in those days the Danite tribe was looking for a place to settle because at that time they did not yet have a place to call their own among the tribes of Israel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בַּיָּמִ֣ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "הָהֵ֔ם",
+          "morph": "HTd/Pp3mp"
+        },
+        {
+          "w": "אֵ֥ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "מֶ֖לֶךְ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּיִשְׂרָאֵ֑ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וּבַיָּמִ֣ים",
+          "morph": "HC/Rd/Ncmpa"
+        },
+        {
+          "w": "הָהֵ֗ם",
+          "morph": "HTd/Pp3mp"
+        },
+        {
+          "w": "שֵׁ֣בֶט",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדָּנִ֞י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "מְבַקֶּשׁ",
+          "morph": "HVprmsa"
+        },
+        {
+          "w": "ל֤וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "נַֽחֲלָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לָשֶׁ֔בֶת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "כִּי֩",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "נָ֨פְלָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "לּ֜וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיּ֥וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַה֛וּא",
+          "morph": "HTd/Pp3ms"
+        },
+        {
+          "w": "בְּתוֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שִׁבְטֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּנַחֲלָֽה",
+          "morph": "HR/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "但 人 從 瑣 拉 和 以 實 陶 打 發 本 族 中 的 五 個 勇 士 ， 去 仔 細 窺 探 那 地 ， 吩 咐 他 們 說 ： 你 們 去 窺 探 那 地 。 他 們 來 到 以 法 蓮 山 地 ， 進 了 米 迦 的 住 宅 ， 就 在 那 裡 住 宿 。",
+      "en": "The Danites sent out from their whole tribe five representatives, capable men from Zorah and Eshtaol, to spy out the land and explore it. They said to them, “Go, explore the land.” They came to the Ephraimite hill country and spent the night at Micah’s house.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁלְח֣וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "דָ֣ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִֽמִּשְׁפַּחְתָּ֡ם",
+          "morph": "HR/Ncfsc/Sp3mp"
+        },
+        {
+          "w": "חֲמִשָּׁ֣ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "אֲנָשִׁ֣ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מִקְצוֹתָם֩",
+          "morph": "HR/Ncbpc/Sp3mp"
+        },
+        {
+          "w": "אֲנָשִׁ֨ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בְּנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "חַ֜יִל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִצָּרְעָ֣ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וּמֵֽאֶשְׁתָּאֹ֗ל",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "לְרַגֵּ֤ל",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֨רֶץ֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וּלְחָקְרָ֔הּ",
+          "morph": "HC/R/Vqc/Sp3fs"
+        },
+        {
+          "w": "וַיֹּאמְר֣וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֲלֵהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "לְכ֖וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "חִקְר֣וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וַיָּבֹ֤אוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "הַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֶפְרַ֨יִם֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִיכָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיָּלִ֖ינוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שָֽׁם",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "他 們 臨 近 米 迦 的 住 宅 ， 聽 出 那 少 年 利 未 人 的 口 音 來 ， 就 進 去 問 他 說 ： 誰 領 你 到 這 裡 來 ？ 你 在 這 裡 做 甚 麼 ？ 你 在 這 裡 得 甚 麼 ？",
+      "en": "As they approached Micah’s house, they recognized the accent of the young Levite. So they stopped there and said to him, “Who brought you here? What are you doing in this place? What is your business here?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "הֵ֚מָּה",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִיכָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהֵ֣מָּה",
+          "morph": "HC/Pp3mp"
+        },
+        {
+          "w": "הִכִּ֔ירוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "ק֥וֹל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַנַּ֖עַר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַלֵּוִ֑י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "וַיָּס֣וּרוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שָׁ֗ם",
+          "morph": "HD"
+        },
+        {
+          "w": "וַיֹּ֤אמְרוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "לוֹ֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "מִֽי",
+          "morph": "HTi"
+        },
+        {
+          "w": "הֱבִיאֲךָ֣",
+          "morph": "HVhp3ms/Sp2ms"
+        },
+        {
+          "w": "הֲלֹ֔ם",
+          "morph": "HD"
+        },
+        {
+          "w": "וּמָֽה",
+          "morph": "HC/Ti"
+        },
+        {
+          "w": "אַתָּ֥ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "עֹשֶׂ֛ה",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בָּזֶ֖ה",
+          "morph": "HR/Pdxms"
+        },
+        {
+          "w": "וּמַה",
+          "morph": "HC/Ti"
+        },
+        {
+          "w": "לְּךָ֥",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "פֹֽה",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "他 回 答 說 ： 米 迦 待 我 如 此 如 此 ， 請 我 作 祭 司 。",
+      "en": "He told them what Micah had done for him, saying, “He hired me, and I became his priest.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֲלֵהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כָּזֹ֣ה",
+          "morph": "HR/Pdxfs"
+        },
+        {
+          "w": "וְכָזֶ֔ה",
+          "morph": "HC/R/Pdxms"
+        },
+        {
+          "w": "עָ֥שָׂה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לִ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "מִיכָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּשְׂכְּרֵ֕נִי",
+          "morph": "HC/Vqw3ms/Sp1cs"
+        },
+        {
+          "w": "וָאֱהִי",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "ל֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "לְכֹהֵֽן",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "他 們 對 他 說 ： 請 你 求 問 神 ， 使 我 們 知 道 所 行 的 道 路 通 達 不 通 達 。",
+      "en": "They said to him, “Seek a divine oracle for us, so we can know if we will be successful on our mission.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֥אמְרוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "ל֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "שְׁאַל",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "נָ֣א",
+          "morph": "HTe"
+        },
+        {
+          "w": "בֵאלֹהִ֑ים",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "וְנֵ֣דְעָ֔ה",
+          "morph": "HC/Vqh1cp"
+        },
+        {
+          "w": "הֲתַצְלִ֣יחַ",
+          "morph": "HTi/Vhi3fs"
+        },
+        {
+          "w": "דַּרְכֵּ֔נוּ",
+          "morph": "HNcbsc/Sp1cp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֲנַ֖חְנוּ",
+          "morph": "HPp1cp"
+        },
+        {
+          "w": "הֹלְכִ֥ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "עָלֶֽיהָ",
+          "morph": "HR/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "祭 司 對 他 們 說 ： 你 們 可 以 平 平 安 安 地 去 ， 你 們 所 行 的 道 路 是 在 耶 和 華 面 前 的 。",
+      "en": "The priest said to them, “Go with confidence. The Lord will be with you on your mission.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֧אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לָהֶ֛ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "הַכֹּהֵ֖ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְכ֣וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "לְשָׁל֑וֹם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "נֹ֣כַח",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "דַּרְכְּכֶ֖ם",
+          "morph": "HNcbsc/Sp2mp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תֵּֽלְכוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "בָֽהּ",
+          "morph": "HR/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "五 人 就 走 了 ， 來 到 拉 億 ， 見 那 裡 的 民 安 居 無 慮 ， 如 同 西 頓 人 安 居 一 樣 。 在 那 地 沒 有 人 掌 權 擾 亂 他 們 ； 他 們 離 西 頓 人 也 遠 ， 與 別 人 沒 有 來 往 。",
+      "en": "So the five men journeyed on and arrived in Laish. They noticed that the people there were living securely, like the Sidonians do, undisturbed and unsuspecting. No conqueror was troubling them in any way. They lived far from the Sidonians and had no dealings with anyone.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּלְכוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "חֲמֵ֣שֶׁת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "הָאֲנָשִׁ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וַיָּבֹ֖אוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "לָ֑יְשָׁה",
+          "morph": "HNp/Sd"
+        },
+        {
+          "w": "וַיִּרְא֣וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעָ֣ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בְּקִרְבָּ֣הּ",
+          "morph": "HR/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "יוֹשֶֽׁבֶת",
+          "morph": "HVqrfsa"
+        },
+        {
+          "w": "לָ֠בֶטַח",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "כְּמִשְׁפַּ֨ט",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "צִדֹנִ֜ים",
+          "morph": "HNgmpa"
+        },
+        {
+          "w": "שֹׁקֵ֣ט",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "וּבֹטֵ֗חַ",
+          "morph": "HC/Vqrmsa"
+        },
+        {
+          "w": "וְאֵין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "מַכְלִ֨ים",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "דָּבָ֤ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בָּאָ֨רֶץ֙",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "יוֹרֵ֣שׁ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "עֶ֔צֶר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּרְחֹקִ֥ים",
+          "morph": "HC/Aampa"
+        },
+        {
+          "w": "הֵ֨מָּה֙",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "מִצִּ֣דֹנִ֔ים",
+          "morph": "HR/Ngmpa"
+        },
+        {
+          "w": "וְדָבָ֥ר",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אֵין",
+          "morph": "HTn"
+        },
+        {
+          "w": "לָהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "אָדָֽם",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "五 人 回 到 瑣 拉 和 以 實 陶 ， 見 他 們 的 弟 兄 ； 弟 兄 問 他 們 說 ： 你 們 有 甚 麼 話 ？",
+      "en": "When the Danites returned to their tribe in Zorah and Eshtaol, their kinsmen asked them, “How did it go?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּבֹ֨אוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲחֵיהֶ֔ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "צָרְעָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶשְׁתָּאֹ֑ל",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וַיֹּאמְר֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "לָהֶ֛ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אֲחֵיהֶ֖ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "מָ֥ה",
+          "morph": "HTi"
+        },
+        {
+          "w": "אַתֶּֽם",
+          "morph": "HPp2mp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "他 們 回 答 說 ： 起 來 ， 我 們 上 去 攻 擊 他 們 罷 ！ 我 們 已 經 窺 探 那 地 ， 見 那 地 甚 好 。 你 們 為 何 靜 坐 不 動 呢 ？ 要 急 速 前 往 得 那 地 為 業 ， 不 可 遲 延 。",
+      "en": "They said, “Come on, let’s attack them, for we saw their land and it is very good. You seem lethargic, but don’t hesitate to invade and conquer the land.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּאמְר֗וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "ק֚וּמָה",
+          "morph": "HVqv2ms/Sh"
+        },
+        {
+          "w": "וְנַעֲלֶ֣ה",
+          "morph": "HC/Vqh1cp"
+        },
+        {
+          "w": "עֲלֵיהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "רָאִ֨ינוּ֙",
+          "morph": "HVqp1cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֔רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְהִנֵּ֥ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "טוֹבָ֖ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "מְאֹ֑ד",
+          "morph": "HD"
+        },
+        {
+          "w": "וְאַתֶּ֣ם",
+          "morph": "HC/Pp2mp"
+        },
+        {
+          "w": "מַחְשִׁ֔ים",
+          "morph": "HVhrmpa"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֵּעָ֣צְל֔וּ",
+          "morph": "HVNj2mp"
+        },
+        {
+          "w": "לָלֶ֥כֶת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לָבֹ֖א",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לָרֶ֥שֶׁת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "你 們 到 了 那 裡 ， 必 看 見 安 居 無 慮 的 民 ， 地 也 寬 闊 。 □ 神 已 將 那 地 交 在 你 們 手 中 ； 那 地 百 物 俱 全 ， 一 無 所 缺 。",
+      "en": "When you invade, you will encounter unsuspecting people. The land is wide! God is handing it over to you—a place that lacks nothing on earth!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "כְּבֹאֲכֶ֞ם",
+          "morph": "HR/Vqc/Sp2mp"
+        },
+        {
+          "w": "תָּבֹ֣אוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "עַ֣ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בֹּטֵ֗חַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "וְהָאָ֨רֶץ֙",
+          "morph": "HC/Td/Ncbsa"
+        },
+        {
+          "w": "רַחֲבַ֣ת",
+          "morph": "HAafsc"
+        },
+        {
+          "w": "יָדַ֔יִם",
+          "morph": "HNcbda"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "נְתָנָ֥הּ",
+          "morph": "HVqp3ms/Sp3fs"
+        },
+        {
+          "w": "אֱלֹהִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בְּיֶדְכֶ֑ם",
+          "morph": "HR/Ncbsc/Sp2mp"
+        },
+        {
+          "w": "מָקוֹם֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֵֽין",
+          "morph": "HTn"
+        },
+        {
+          "w": "שָׁ֣ם",
+          "morph": "HD"
+        },
+        {
+          "w": "מַחְס֔וֹר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דָּבָ֖ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בָּאָֽרֶץ",
+          "morph": "HRd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "於 是 但 族 中 的 六 百 人 ， 各 帶 兵 器 ， 從 瑣 拉 和 以 實 陶 前 往 ，",
+      "en": "So 600 Danites, fully armed, set out from Zorah and Eshtaol.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֤וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִשָּׁם֙",
+          "morph": "HR/D"
+        },
+        {
+          "w": "מִמִּשְׁפַּ֣חַת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַדָּנִ֔י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "מִצָּרְעָ֖ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וּמֵאֶשְׁתָּאֹ֑ל",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "שֵֽׁשׁ",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "מֵא֣וֹת",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "אִ֔ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "חָג֖וּר",
+          "morph": "HVqsmsa"
+        },
+        {
+          "w": "כְּלֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מִלְחָמָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "上 到 猶 大 的 基 列 耶 琳 ， 在 基 列 耶 琳 後 邊 安 營 。 因 此 那 地 方 名 叫 瑪 哈 尼 但 ， 直 到 今 日 。",
+      "en": "They went up and camped in Kiriath Jearim in Judah. (To this day that place is called Camp of Dan. It is west of Kiriath Jearim.)",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַֽיַּעֲל֗וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וַֽיַּחֲנ֛וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּקִרְיַ֥ת",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "יְעָרִ֖ים",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּֽיהוּדָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כֵּ֡ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "קָרְאוּ֩",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לַמָּק֨וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַה֜וּא",
+          "morph": "HTd/Pp3ms"
+        },
+        {
+          "w": "מַחֲנֵה",
+          "morph": "HNp"
+        },
+        {
+          "w": "דָ֗ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַ֚ד",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיּ֣וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֔ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "הִנֵּ֕ה",
+          "morph": "HTm"
+        },
+        {
+          "w": "אַחֲרֵ֖י",
+          "morph": "HR"
+        },
+        {
+          "w": "קִרְיַ֥ת",
+          "morph": "HNp"
+        },
+        {
+          "w": "יְעָרִֽים",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "他 們 從 那 裡 往 以 法 蓮 山 地 去 ， 來 到 米 迦 的 住 宅 。",
+      "en": "From there they traveled through the Ephraimite hill country and arrived at Micah’s house.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּעַבְר֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִשָּׁ֖ם",
+          "morph": "HR/D"
+        },
+        {
+          "w": "הַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֶפְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיָּבֹ֖אוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּ֥ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִיכָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "從 前 窺 探 拉 億 地 的 五 個 人 對 他 們 的 弟 兄 說 ： 這 宅 子 裡 有 以 弗 得 和 家 中 的 神 像 ， 並 雕 刻 的 像 與 鑄 成 的 像 ， 你 們 知 道 麼 ？ 現 在 你 們 要 想 一 想 當 怎 樣 行 。",
+      "en": "The five men who had gone to spy out the land of Laish said to their kinsmen, “Do you realize that inside these houses are an ephod, some personal idols, a carved image, and a metal image? Decide now what you want to do.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַֽיַּעֲנ֞וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "חֲמֵ֣שֶׁת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "הָאֲנָשִׁ֗ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הַהֹלְכִים֮",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "לְרַגֵּל֮",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֣רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "לַיִשׁ֒",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיֹּֽאמְרוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲחֵיהֶ֔ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "הַיְדַעְתֶּ֗ם",
+          "morph": "HTi/Vqp2mp"
+        },
+        {
+          "w": "כִּ֠י",
+          "morph": "HC"
+        },
+        {
+          "w": "יֵ֣שׁ",
+          "morph": "HTm"
+        },
+        {
+          "w": "בַּבָּתִּ֤ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "הָאֵ֨לֶּה֙",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "אֵפ֣וֹד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּתְרָפִ֔ים",
+          "morph": "HC/Ncmpa"
+        },
+        {
+          "w": "וּפֶ֖סֶל",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וּמַסֵּכָ֑ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "וְעַתָּ֖ה",
+          "morph": "HC/D"
+        },
+        {
+          "w": "דְּע֥וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "מַֽה",
+          "morph": "HTi"
+        },
+        {
+          "w": "תַּעֲשֽׂוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "五 人 就 進 入 米 迦 的 住 宅 ， 到 了 那 少 年 利 未 人 的 房 內 問 他 好 。",
+      "en": "They stopped there, went inside the young Levite’s house (which belonged to Micah), and asked him how he was doing.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּס֣וּרוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שָׁ֔מָּה",
+          "morph": "HD/Sd"
+        },
+        {
+          "w": "וַיָּבֹ֛אוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּֽית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַנַּ֥עַר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַלֵּוִ֖י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִיכָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּשְׁאֲלוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "ל֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "לְשָׁלֽוֹם",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "那 六 百 但 人 各 帶 兵 器 ， 站 在 門 口 。",
+      "en": "Meanwhile the 600 Danites, fully armed, stood at the entrance to the gate.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשֵׁשׁ",
+          "morph": "HC/Acfsa"
+        },
+        {
+          "w": "מֵא֣וֹת",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "אִ֗ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "חֲגוּרִים֙",
+          "morph": "HVqsmpa"
+        },
+        {
+          "w": "כְּלֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מִלְחַמְתָּ֔ם",
+          "morph": "HNcfsc/Sp3mp"
+        },
+        {
+          "w": "נִצָּבִ֖ים",
+          "morph": "HVNrmpa"
+        },
+        {
+          "w": "פֶּ֣תַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׁ֑עַר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֖ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "מִבְּנֵי",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "דָֽן",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "窺 探 地 的 五 個 人 走 進 去 ， 將 雕 刻 的 像 、 以 弗 得 、 家 中 的 神 像 ， 並 鑄 成 的 像 ， 都 拿 了 去 。 祭 司 和 帶 兵 器 的 六 百 人 ， 一 同 站 在 門 口 。",
+      "en": "The five men who had gone to spy out the land broke in and stole the carved image, the ephod, the personal idols, and the metal image, while the priest was standing at the entrance to the gate with the 600 fully armed men.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַֽיַּעֲל֞וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "חֲמֵ֣שֶׁת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "הָאֲנָשִׁ֗ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הַהֹלְכִים֮",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "לְרַגֵּ֣ל",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָרֶץ֒",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "בָּ֣אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "שָׁ֔מָּה",
+          "morph": "HD/Sd"
+        },
+        {
+          "w": "לָקְח֗וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַפֶּ֨סֶל֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הָ֣אֵפ֔וֹד",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַתְּרָפִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַמַּסֵּכָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְהַכֹּהֵ֗ן",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "נִצָּב֙",
+          "morph": "HVNrmsa"
+        },
+        {
+          "w": "פֶּ֣תַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשַּׁ֔עַר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְשֵׁשׁ",
+          "morph": "HC/Acfsa"
+        },
+        {
+          "w": "מֵא֣וֹת",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "הָאִ֔ישׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הֶחָג֖וּר",
+          "morph": "HTd/Vqsmsa"
+        },
+        {
+          "w": "כְּלֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַמִּלְחָמָֽה",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "那 五 個 人 進 入 米 迦 的 住 宅 ， 拿 出 雕 刻 的 像 、 以 弗 得 、 家 中 的 神 像 ， 並 鑄 成 的 像 ， 祭 司 就 問 他 們 說 ： 你 們 做 甚 麼 呢 ？",
+      "en": "When these men broke into Micah’s house and stole the carved image, the ephod, the personal idols, and the metal image, the priest said to them, “What are you doing?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֵ֗לֶּה",
+          "morph": "HC/Pdxcp"
+        },
+        {
+          "w": "בָּ֚אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִיכָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּקְחוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "פֶּ֣סֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאֵפ֔וֹד",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַתְּרָפִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַמַּסֵּכָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֲלֵיהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "הַכֹּהֵ֔ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מָ֥ה",
+          "morph": "HTi"
+        },
+        {
+          "w": "אַתֶּ֖ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "עֹשִֽׂים",
+          "morph": "HVqrmpa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "他 們 回 答 說 ： 不 要 作 聲 ， 用 手 摀 口 ， 跟 我 們 去 罷 ！ 我 們 必 以 你 為 父 、 為 祭 司 。 你 作 一 家 的 祭 司 好 呢 ？ 還 是 作 以 色 列 一 族 一 支 派 的 祭 司 好 呢 ？",
+      "en": "They said to him, “Shut up! Put your hand over your mouth and come with us! You can be our adviser and priest. Wouldn’t it be better to be a priest for a whole Israelite tribe than for just one man’s family?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּאמְרוּ֩",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "ל֨וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "הַחֲרֵ֜שׁ",
+          "morph": "HVhv2ms"
+        },
+        {
+          "w": "שִֽׂים",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "יָדְךָ֤",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "פִּ֨יךָ֙",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וְלֵ֣ךְ",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "עִמָּ֔נוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "וֶֽהְיֵה",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "לָ֖נוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "לְאָ֣ב",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וּלְכֹהֵ֑ן",
+          "morph": "HC/R/Ncmsa"
+        },
+        {
+          "w": "הֲט֣וֹב",
+          "morph": "HTi/Aamsa"
+        },
+        {
+          "w": "הֱיוֹתְךָ֣",
+          "morph": "HVqc/Sp2ms"
+        },
+        {
+          "w": "כֹהֵ֗ן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְבֵית֙",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶחָ֔ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "א֚וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "הֱיוֹתְךָ֣",
+          "morph": "HVqc/Sp2ms"
+        },
+        {
+          "w": "כֹהֵ֔ן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְשֵׁ֥בֶט",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וּלְמִשְׁפָּחָ֖ה",
+          "morph": "HC/R/Ncfsa"
+        },
+        {
+          "w": "בְּיִשְׂרָאֵֽל",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "祭 司 心 裡 喜 悅 ， 便 拿 著 以 弗 得 和 家 中 的 神 像 ， 並 雕 刻 的 像 ， 進 入 他 們 中 間 。",
+      "en": "The priest was happy. He took the ephod, the personal idols, and the carved image and joined the group.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּיטַב֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לֵ֣ב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַכֹּהֵ֔ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַיִּקַּח֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָ֣אֵפ֔וֹד",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַתְּרָפִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַפָּ֑סֶל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַיָּבֹ֖א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בְּקֶ֥רֶב",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָעָֽם",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "他 們 就 轉 身 離 開 那 裡 ， 妻 子 、 兒 女 、 牲 畜 、 財 物 都 在 前 頭 。",
+      "en": "They turned and went on their way, but they walked behind the children, the cattle, and their possessions.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּפְנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וַיֵּלֵ֑כוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וַיָּשִׂ֨ימוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַטַּ֧ף",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַמִּקְנֶ֛ה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַכְּבוּדָּ֖ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "לִפְנֵיהֶֽם",
+          "morph": "HR/Ncbpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "離 米 迦 的 住 宅 已 遠 ， 米 迦 的 近 鄰 都 聚 集 來 ， 追 趕 但 人 ，",
+      "en": "After they had gone a good distance from Micah’s house, Micah’s neighbors gathered together and caught up with the Danites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הֵ֥מָּה",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "הִרְחִ֖יקוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "מִבֵּ֣ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מִיכָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהָאֲנָשִׁ֗ים",
+          "morph": "HC/Td/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בַּבָּתִּים֙",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁר֙",
+          "morph": "HTr"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִיכָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "נִֽזְעֲק֔וּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "וַיַּדְבִּ֖יקוּ",
+          "morph": "HC/Vhw3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "דָֽן",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "呼 叫 但 人 。 但 人 回 頭 問 米 迦 說 ： 你 聚 集 這 許 多 人 來 做 甚 麼 呢 ？",
+      "en": "When they called out to the Danites, the Danites turned around and said to Micah, “Why have you gathered together?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַֽיִּקְרְאוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "דָ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיַּסֵּ֖בּוּ",
+          "morph": "HC/Vhw3mp"
+        },
+        {
+          "w": "פְּנֵיהֶ֑ם",
+          "morph": "HNcbpc/Sp3mp"
+        },
+        {
+          "w": "וַיֹּאמְר֣וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "לְמִיכָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "מַה",
+          "morph": "HTi"
+        },
+        {
+          "w": "לְּךָ֖",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "נִזְעָֽקְתָּ",
+          "morph": "HVNp2ms"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "米 迦 說 ： 你 們 將 我 所 做 的 神 像 和 祭 司 都 帶 了 去 ， 我 還 有 所 剩 的 麼 ？ 怎 麼 還 問 我 說 做 甚 麼 呢 ？",
+      "en": "He said, “You stole my gods that I made, as well as this priest, and then went away. What do I have left? How can you have the audacity to say to me, ‘What do you want?’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֡אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֱלֹהַי֩",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עָשִׂ֨יתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "לְקַחְתֶּ֧ם",
+          "morph": "HVqp2mp"
+        },
+        {
+          "w": "וְֽאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַכֹּהֵ֛ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַתֵּלְכ֖וּ",
+          "morph": "HC/Vqw2mp"
+        },
+        {
+          "w": "וּמַה",
+          "morph": "HC/Ti"
+        },
+        {
+          "w": "לִּ֣י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "ע֑וֹד",
+          "morph": "HD"
+        },
+        {
+          "w": "וּמַה",
+          "morph": "HC/Ti"
+        },
+        {
+          "w": "זֶּ֛ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "תֹּאמְר֥וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "אֵלַ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "מַה",
+          "morph": "HTi"
+        },
+        {
+          "w": "לָּֽךְ",
+          "morph": "HR/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "但 人 對 米 迦 說 ： 你 不 要 使 我 們 聽 見 你 的 聲 音 ， 恐 怕 有 性 暴 的 人 攻 擊 你 ， 以 致 你 和 你 的 全 家 盡 都 喪 命 。",
+      "en": "The Danites said to him, “Don’t say another word to us, or some very angry men will attack you, and you and your family will die.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּאמְר֤וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֵלָיו֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "בְּנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "דָ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַּשְׁמַ֥ע",
+          "morph": "HVhj2ms"
+        },
+        {
+          "w": "קוֹלְךָ֖",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "עִמָּ֑נוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "פֶּֽן",
+          "morph": "HC"
+        },
+        {
+          "w": "יִפְגְּע֣וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "בָכֶ֗ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "אֲנָשִׁים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מָ֣רֵי",
+          "morph": "HAampc"
+        },
+        {
+          "w": "נֶ֔פֶשׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וְאָסַפְתָּ֥ה",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "נַפְשְׁךָ֖",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "וְנֶ֥פֶשׁ",
+          "morph": "HC/Ncbsc"
+        },
+        {
+          "w": "בֵּיתֶֽךָ",
+          "morph": "HNcmsc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "但 人 還 是 走 他 們 的 路 。 米 迦 見 他 們 的 勢 力 比 自 己 強 盛 ， 就 轉 身 回 家 去 了 。",
+      "en": "The Danites went on their way; when Micah realized they were too strong to resist, he turned around and went home.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּלְכ֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "דָ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְדַרְכָּ֑ם",
+          "morph": "HR/Ncbsc/Sp3mp"
+        },
+        {
+          "w": "וַיַּ֣רְא",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מִיכָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "חֲזָקִ֥ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "הֵ֨מָּה֙",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "מִמֶּ֔נּוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "וַיִּ֖פֶן",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "וַיָּ֥שָׁב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בֵּיתֽוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "但 人 將 米 迦 所 做 的 神 像 和 他 的 祭 司 都 帶 到 拉 億 ， 見 安 居 無 慮 的 民 ， 就 用 刀 殺 了 那 民 ， 又 放 火 燒 了 那 城 ，",
+      "en": "Now the Danites took what Micah had made, as well as his priest, and came to Laish, where the people were undisturbed and unsuspecting. They struck them down with the sword and burned the city.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֵ֨מָּה",
+          "morph": "HC/Pp3mp"
+        },
+        {
+          "w": "לָקְח֜וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אֵ֧ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עָשָׂ֣ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "מִיכָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְֽאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַכֹּהֵן֮",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הָיָה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לוֹ֒",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וַיָּבֹ֣אוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "לַ֗יִשׁ",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "עַם֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "שֹׁקֵ֣ט",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "וּבֹטֵ֔חַ",
+          "morph": "HC/Vqrmsa"
+        },
+        {
+          "w": "וַיַּכּ֥וּ",
+          "morph": "HC/Vhw3mp"
+        },
+        {
+          "w": "אוֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "לְפִי",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "חָ֑רֶב",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הָעִ֖יר",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "שָׂרְפ֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בָאֵֽשׁ",
+          "morph": "HRd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "並 無 人 搭 救 ； 因 為 離 西 頓 遠 ， 他 們 又 與 別 人 沒 有 來 往 。 城 在 平 原 ， 那 平 原 靠 近 伯 利 合 。 但 人 又 在 那 裡 修 城 居 住 ，",
+      "en": "No one came to the rescue because the city was far from Sidon and they had no dealings with anyone. The city was in a valley near Beth Rehob. The Danites rebuilt the city and occupied it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֵ֨ין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "מַצִּ֜יל",
+          "morph": "HVhrmsa"
+        },
+        {
+          "w": "כִּ֧י",
+          "morph": "HC"
+        },
+        {
+          "w": "רְֽחוֹקָה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "הִ֣יא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "מִצִּיד֗וֹן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְדָבָ֤ר",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אֵין",
+          "morph": "HTn"
+        },
+        {
+          "w": "לָהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "אָדָ֔ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְהִ֕יא",
+          "morph": "HC/Pp3fs"
+        },
+        {
+          "w": "בָּעֵ֖מֶק",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לְבֵית",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "רְח֑וֹב",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּבְנ֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעִ֖יר",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וַיֵּ֥שְׁבוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בָֽהּ",
+          "morph": "HR/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "照 著 他 們 始 祖 以 色 列 之 子 但 的 名 字 ， 給 那 城 起 名 叫 但 ； 原 先 那 城 名 叫 拉 億 。",
+      "en": "They named it Dan after their ancestor, who was one of Israel’s sons. But the city’s name used to be Laish.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקְרְא֤וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שֵׁם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעִיר֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "דָּ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּשֵׁם֙",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "דָּ֣ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲבִיהֶ֔ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יוּלַּ֖ד",
+          "morph": "HVPi3ms"
+        },
+        {
+          "w": "לְיִשְׂרָאֵ֑ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְאוּלָ֛ם",
+          "morph": "HC/D"
+        },
+        {
+          "w": "לַ֥יִשׁ",
+          "morph": "HNp"
+        },
+        {
+          "w": "שֵׁם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעִ֖יר",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "לָרִאשֹׁנָֽה",
+          "morph": "HRd/Aafsa"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "但 人 就 為 自 己 設 立 那 雕 刻 的 像 。 摩 西 的 孫 子 、 革 舜 的 兒 子 約 拿 單 ， 和 他 的 子 孫 作 但 支 派 的 祭 司 ， 直 到 那 地 遭 擄 掠 的 日 子 。",
+      "en": "The Danites worshiped the carved image. Jonathan, descendant of Gershom, son of Moses, and his descendants served as priests for the tribe of Dan until the time of the exile.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּקִ֧ימוּ",
+          "morph": "HC/Vhw3mp"
+        },
+        {
+          "w": "לָהֶ֛ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "בְּנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "דָ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַפָּ֑סֶל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וִ֠יהוֹנָתָן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "גֵּרְשֹׁ֨ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְנַשֶּׁ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "ה֣וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "וּבָנָ֗יו",
+          "morph": "HC/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "הָי֤וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "כֹהֲנִים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לְשֵׁ֣בֶט",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַדָּנִ֔י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "י֖וֹם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "גְּל֥וֹת",
+          "morph": "HVqc"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "神 的 殿 在 示 羅 多 少 日 子 ， 但 人 為 自 己 設 立 米 迦 所 雕 刻 的 像 也 在 但 多 少 日 子 。",
+      "en": "They worshiped Micah’s carved image the whole time God’s authorized shrine was in Shiloh.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּשִׂ֣ימוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "לָהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "פֶּ֥סֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִיכָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עָשָׂ֑ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְמֵ֛י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הֱי֥וֹת",
+          "morph": "HVqc"
+        },
+        {
+          "w": "בֵּית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאֱלֹהִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "בְּשִׁלֹֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    }
+  ]
+}

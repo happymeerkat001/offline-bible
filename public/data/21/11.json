@@ -1,0 +1,658 @@
+{
+  "book": 21,
+  "chapter": 11,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "當 將 你 的 糧 食 撒 在 水 面 ， 因 為 日 久 必 能 得 著 。",
+      "en": "Send your grain overseas, for after many days you will get a return.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שַׁלַּ֥ח",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "לַחְמְךָ֖",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "פְּנֵ֣י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הַמָּ֑יִם",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "בְרֹ֥ב",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "הַיָּמִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "תִּמְצָאֶֽנּוּ",
+          "morph": "HVqi2ms/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 要 分 給 七 人 ， 或 分 給 八 人 ， 因 為 你 不 知 道 將 來 有 甚 麼 災 禍 臨 到 地 上 。",
+      "en": "Divide your merchandise among seven or even eight investments, for you do not know what calamity may happen on earth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "תֶּן",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "חֵ֥לֶק",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְשִׁבְעָ֖ה",
+          "morph": "HR/Acmsa"
+        },
+        {
+          "w": "וְגַ֣ם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "לִשְׁמוֹנָ֑ה",
+          "morph": "HR/Acmsa"
+        },
+        {
+          "w": "כִּ֚י",
+          "morph": "HC"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֵדַ֔ע",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "מַה",
+          "morph": "HTi"
+        },
+        {
+          "w": "יִּהְיֶ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "רָעָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָֽרֶץ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "雲 若 滿 了 雨 ， 就 必 傾 倒 在 地 上 。 樹 若 向 南 倒 ， 或 向 北 倒 ， 樹 倒 在 何 處 ， 就 存 在 何 處 。",
+      "en": "If the clouds are full of rain, they will empty themselves on the earth, and whether a tree falls to the south or to the north, the tree will lie wherever it falls.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "יִמָּלְא֨וּ",
+          "morph": "HVNi3mp"
+        },
+        {
+          "w": "הֶעָבִ֥ים",
+          "morph": "HTd/Ncbpa"
+        },
+        {
+          "w": "גֶּ֨שֶׁם֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֣רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "יָרִ֔יקוּ",
+          "morph": "HVhi3mp"
+        },
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "יִפּ֥וֹל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "עֵ֛ץ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בַּדָּר֖וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְאִ֣ם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "בַּצָּפ֑וֹן",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "מְק֛וֹם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שֶׁיִּפּ֥וֹל",
+          "morph": "HTr/Vqi3ms"
+        },
+        {
+          "w": "הָעֵ֖ץ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "שָׁ֥ם",
+          "morph": "HD"
+        },
+        {
+          "w": "יְהֽוּא",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "看 風 的 ， 必 不 撒 種 ； 望 雲 的 ， 必 不 收 割 。",
+      "en": "He who watches the wind will not sow, and he who observes the clouds will not reap.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שֹׁמֵ֥ר",
+          "morph": "HVqrmsc"
+        },
+        {
+          "w": "ר֖וּחַ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִזְרָ֑ע",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְרֹאֶ֥ה",
+          "morph": "HC/Vqrmsa"
+        },
+        {
+          "w": "בֶעָבִ֖ים",
+          "morph": "HRd/Ncbpa"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִקְצֽוֹר",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "風 從 何 道 來 ， 骨 頭 在 懷 孕 婦 人 的 胎 中 如 何 長 成 ， 你 尚 且 不 得 知 道 ； 這 樣 ， 行 萬 事 之 神 的 作 為 ， 你 更 不 得 知 道 。",
+      "en": "Just as you do not know the path of the wind or how the bones form in the womb of a pregnant woman, so you do not know the work of God who makes everything.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כַּאֲשֶׁ֨ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "אֵֽינְךָ֤",
+          "morph": "HTn/Sp2ms"
+        },
+        {
+          "w": "יוֹדֵ֨עַ֙",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "מַה",
+          "morph": "HTi"
+        },
+        {
+          "w": "דֶּ֣רֶךְ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הָר֔וּחַ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "כַּעֲצָמִ֖ים",
+          "morph": "HR/Ncfpa"
+        },
+        {
+          "w": "בְּבֶ֣טֶן",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַמְּלֵאָ֑ה",
+          "morph": "HTd/Aafsa"
+        },
+        {
+          "w": "כָּ֗כָה",
+          "morph": "HD"
+        },
+        {
+          "w": "לֹ֤א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֵדַע֙",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מַעֲשֵׂ֣ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָֽאֱלֹהִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יַעֲשֶׂ֖ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַכֹּֽל",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "早 晨 要 撒 你 的 種 ， 晚 上 也 不 要 歇 你 的 手 ， 因 為 你 不 知 道 哪 一 樣 發 旺 ； 或 是 早 撒 的 ， 或 是 晚 撒 的 ， 或 是 兩 樣 都 好 。",
+      "en": "Sow your seed in the morning, and do not stop working until the evening; for you do not know which activity will succeed— whether this one or that one, or whether both will prosper equally.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בַּבֹּ֨קֶר֙",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "זְרַ֣ע",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "זַרְעֶ֔ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וְלָעֶ֖רֶב",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַּנַּ֣ח",
+          "morph": "HVhj2ms"
+        },
+        {
+          "w": "יָדֶ֑ךָ",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "כִּי֩",
+          "morph": "HC"
+        },
+        {
+          "w": "אֵֽינְךָ֨",
+          "morph": "HTn/Sp2ms"
+        },
+        {
+          "w": "יוֹדֵ֜ע",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אֵ֣י",
+          "morph": "HTi"
+        },
+        {
+          "w": "זֶ֤ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "יִכְשָׁר֙",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "הֲזֶ֣ה",
+          "morph": "HTi/Pdxms"
+        },
+        {
+          "w": "אוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "זֶ֔ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "שְׁנֵיהֶ֥ם",
+          "morph": "HAcmdc/Sp3mp"
+        },
+        {
+          "w": "כְּאֶחָ֖ד",
+          "morph": "HR/Acmsa"
+        },
+        {
+          "w": "טוֹבִֽים",
+          "morph": "HAampa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "光 本 是 佳 美 的 ， 眼 見 日 光 也 是 可 悅 的 。",
+      "en": "Light is sweet, and it is pleasant for a person to see the sun.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמָת֖וֹק",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "הָא֑וֹר",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְט֥וֹב",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "לַֽעֵינַ֖יִם",
+          "morph": "HRd/Ncbda"
+        },
+        {
+          "w": "לִרְא֥וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַשָּֽׁמֶשׁ",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "人 活 多 年 ， 就 當 快 樂 多 年 ； 然 而 也 當 想 到 黑 暗 的 日 子 。 因 為 這 日 子 必 多 ， 所 要 來 的 都 是 虛 空 。",
+      "en": "So, if a man lives many years, let him rejoice in them all, but let him remember that the days of darkness will be many—all that is about to come is obscure.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "שָׁנִ֥ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "הַרְבֵּ֛ה",
+          "morph": "HVha"
+        },
+        {
+          "w": "יִחְיֶ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "הָאָדָ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּכֻלָּ֣ם",
+          "morph": "HR/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "יִשְׂמָ֑ח",
+          "morph": "HVqj3ms"
+        },
+        {
+          "w": "וְיִזְכֹּר֙",
+          "morph": "HC/Vqj3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְמֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַחֹ֔שֶׁךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "הַרְבֵּ֥ה",
+          "morph": "HVha"
+        },
+        {
+          "w": "יִהְי֖וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "שֶׁבָּ֥א",
+          "morph": "HTr/Vqp3ms"
+        },
+        {
+          "w": "הָֽבֶל",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "少 年 人 哪 ， 你 在 幼 年 時 當 快 樂 。 在 幼 年 的 日 子 ， 使 你 的 心 歡 暢 ， 行 你 心 所 願 行 的 ， 看 你 眼 所 愛 看 的 ； 卻 要 知 道 ， 為 這 一 切 的 事 ， 神 必 審 問 你 。",
+      "en": "Rejoice, young man, while you are young, and let your heart cheer you in the days of your youth. Follow the impulses of your heart and the desires of your eyes, but know that God will judge your motives and actions.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׂמַ֧ח",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "בָּח֣וּר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּיַלְדוּתֶ֗יךָ",
+          "morph": "HR/Ncfpc/Sp2ms"
+        },
+        {
+          "w": "וִֽיטִֽיבְךָ֤",
+          "morph": "HC/Vhj3ms/Sp2ms"
+        },
+        {
+          "w": "לִבְּךָ֙",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "בִּימֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "בְחוּרוֹתֶ֔ךָ",
+          "morph": "HNcbpc/Sp2ms"
+        },
+        {
+          "w": "וְהַלֵּךְ֙",
+          "morph": "HC/Vpv2ms"
+        },
+        {
+          "w": "בְּדַרְכֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "לִבְּךָ֔",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וּבְמַרְאֵ֖י",
+          "morph": "HC/R/Ncmpc"
+        },
+        {
+          "w": "עֵינֶ֑יךָ",
+          "morph": "HNcbdc/Sp2ms"
+        },
+        {
+          "w": "וְדָ֕ע",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "כִּ֧י",
+          "morph": "HC"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֵ֛לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "יְבִֽיאֲךָ֥",
+          "morph": "HVhi3ms/Sp2ms"
+        },
+        {
+          "w": "הָאֱלֹהִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "בַּמִּשְׁפָּֽט",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "所 以 ， 你 當 從 心 中 除 掉 愁 煩 ， 從 肉 體 克 去 邪 惡 ； 因 為 一 生 的 開 端 和 幼 年 之 時 ， 都 是 虛 空 的 。",
+      "en": "Banish emotional stress from your mind and put away pain from your body; for youth and the prime of life are fleeting.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָסֵ֥ר",
+          "morph": "HC/Vhv2ms"
+        },
+        {
+          "w": "כַּ֨עַס֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִלִּבֶּ֔ךָ",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "וְהַעֲבֵ֥ר",
+          "morph": "HC/Vhv2ms"
+        },
+        {
+          "w": "רָעָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מִבְּשָׂרֶ֑ךָ",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "הַיַּלְד֥וּת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְהַֽשַּׁחֲר֖וּת",
+          "morph": "HC/Td/Ncfsa"
+        },
+        {
+          "w": "הָֽבֶל",
+          "morph": "HNcmsa"
+        }
+      ]
+    }
+  ]
+}

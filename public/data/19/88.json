@@ -1,0 +1,694 @@
+{
+  "book": 19,
+  "chapter": 88,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "（ 可 拉 後 裔 的 詩 歌 ， 就 是 以 斯 拉 人 希 幔 的 訓 誨 詩 ， 交 與 伶 長 。 調 用 麻 哈 拉 利 暗 俄 。 ） 耶 和 華 ─ 拯 救 我 的 神 啊 ， 我 晝 夜 在 你 面 前 呼 籲 。",
+      "en": "A song, a psalm written by the Korahites, for the music director, according to the machalath-leannoth style; a well-written song by Heman the Ezrahite. O Lord God who delivers me, by day I cry out and at night I pray before you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שִׁ֥יר",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "מִזְמ֗וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לִבְנֵ֫י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "קֹ֥רַח",
+          "morph": "HNp"
+        },
+        {
+          "w": "לַמְנַצֵּ֣חַ",
+          "morph": "HRd/Vprmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "מָחֲלַ֣ת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לְעַנּ֑וֹת",
+          "morph": "HC/Vpa"
+        },
+        {
+          "w": "מַ֝שְׂכִּ֗יל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְהֵימָ֥ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הָאֶזְרָחִֽי",
+          "morph": "HTd/Ngmsa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "願 我 的 禱 告 達 到 你 面 前 ； 求 你 側 耳 聽 我 的 呼 求 ！",
+      "en": "Listen to my prayer. Pay attention to my cry for help.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יְ֭הוָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְשׁוּעָתִ֑י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "יוֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "צָעַ֖קְתִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "בַלַּ֣יְלָה",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "נֶגְדֶּֽךָ",
+          "morph": "HR/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "因 為 我 心 裡 滿 了 患 難 ； 我 的 性 命 臨 近 陰 間 。",
+      "en": "For my life is filled with troubles, and I am ready to enter Sheol.",
+      "notes": [],
+      "he": [
+        {
+          "w": "תָּב֣וֹא",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "לְ֭פָנֶיךָ",
+          "morph": "HR/Ncbpc/Sp2ms"
+        },
+        {
+          "w": "תְּפִלָּתִ֑י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "הַטֵּֽה",
+          "morph": "HVhv2ms"
+        },
+        {
+          "w": "אָ֝זְנְךָ֗",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "לְרִנָּתִֽי",
+          "morph": "HR/Ncfsc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "我 算 和 下 坑 的 人 同 列 ， 如 同 無 力 （ 或 譯 ： 沒 有 幫 助 ） 的 人 一 樣 。",
+      "en": "They treat me like those who descend into the grave. I am like a helpless man,",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "שָֽׂבְעָ֣ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "בְרָע֣וֹת",
+          "morph": "HR/Ncfpa"
+        },
+        {
+          "w": "נַפְשִׁ֑י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "וְחַיַּ֗י",
+          "morph": "HC/Ncmpc/Sp1cs"
+        },
+        {
+          "w": "לִשְׁא֥וֹל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הִגִּֽיעוּ",
+          "morph": "HVhp3cp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "我 被 丟 在 死 人 中 ， 好 像 被 殺 的 人 躺 在 墳 墓 裡 。 他 們 是 你 不 再 記 念 的 ， 與 你 隔 絕 了 。",
+      "en": "adrift among the dead, like corpses lying in the grave whom you remember no more and who are cut off from your power.",
+      "notes": [],
+      "he": [
+        {
+          "w": "נֶ֭חְשַׁבְתִּי",
+          "morph": "HVNp1cs"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "י֣וֹרְדֵי",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "ב֑וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הָ֝יִ֗יתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "כְּגֶ֣בֶר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֵֽין",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֱיָֽל",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "你 把 我 放 在 極 深 的 坑 裡 ， 在 黑 暗 地 方 ， 在 深 處 。",
+      "en": "You place me in the lowest regions of the Pit, in the dark places, in the watery depths.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בַּמֵּתִ֗ים",
+          "morph": "HRd/Vqrmpa"
+        },
+        {
+          "w": "חָ֫פְשִׁ֥י",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "כְּמ֤וֹ",
+          "morph": "HR"
+        },
+        {
+          "w": "חֲלָלִ֨ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "שֹׁ֥כְבֵי",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "קֶ֗בֶר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "זְכַרְתָּ֣ם",
+          "morph": "HVqp2ms/Sp3mp"
+        },
+        {
+          "w": "ע֑וֹד",
+          "morph": "HD"
+        },
+        {
+          "w": "וְ֝הֵ֗מָּה",
+          "morph": "HC/Pp3mp"
+        },
+        {
+          "w": "מִיָּדְךָ֥",
+          "morph": "HR/Ncbsc/Sp2ms"
+        },
+        {
+          "w": "נִגְזָֽרוּ",
+          "morph": "HVNp3cp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "你 的 忿 怒 重 壓 我 身 ； 你 用 一 切 的 波 浪 困 住 我 。 （ 細 拉 ）",
+      "en": "Your anger bears down on me, and you overwhelm me with all your waves. (Selah)",
+      "notes": [],
+      "he": [
+        {
+          "w": "שַׁ֭תַּנִי",
+          "morph": "HVqp2ms/Sp1cs"
+        },
+        {
+          "w": "בְּב֣וֹר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "תַּחְתִּיּ֑וֹת",
+          "morph": "HAafpa"
+        },
+        {
+          "w": "בְּ֝מַחֲשַׁכִּ֗ים",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "בִּמְצֹלֽוֹת",
+          "morph": "HR/Ncfpa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "你 把 我 所 認 識 的 隔 在 遠 處 ， 使 我 為 他 們 所 憎 惡 ； 我 被 拘 困 ， 不 得 出 來 。",
+      "en": "You cause those who know me to keep their distance; you make me an appalling sight to them. I am trapped and cannot get free.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עָ֭לַי",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "סָמְכָ֣ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "חֲמָתֶ֑ךָ",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "מִ֝שְׁבָּרֶ֗יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "עִנִּ֥יתָ",
+          "morph": "HVpp2ms"
+        },
+        {
+          "w": "סֶּֽלָה",
+          "morph": "HTj"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "我 的 眼 睛 因 困 苦 而 乾 癟 。 耶 和 華 啊 ， 我 天 天 求 告 你 ， 向 你 舉 手 。",
+      "en": "My eyes grow weak because of oppression. I call out to you, O Lord, all day long; I spread out my hands in prayer to you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הִרְחַ֥קְתָּ",
+          "morph": "HVhp2ms"
+        },
+        {
+          "w": "מְיֻדָּעַ֗י",
+          "morph": "HVPsmpc/Sp1cs"
+        },
+        {
+          "w": "מִ֫מֶּ֥נִּי",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "שַׁתַּ֣נִי",
+          "morph": "HVqp2ms/Sp1cs"
+        },
+        {
+          "w": "תוֹעֵב֣וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "לָ֑מוֹ",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כָּ֝לֻ֗א",
+          "morph": "HVqsmsa"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "אֵצֵֽא",
+          "morph": "HVqi1cs"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "你 豈 要 行 奇 事 給 死 人 看 麼 ？ 難 道 陰 魂 還 能 起 來 稱 讚 你 麼 ？ （ 細 拉 ）",
+      "en": "Do you accomplish amazing things for the dead? Do the departed spirits rise up and give you thanks? (Selah)",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֵינִ֥י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "דָאֲבָ֗ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "מִנִּ֫י",
+          "morph": "HR"
+        },
+        {
+          "w": "עֹ֥נִי",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "קְרָאתִ֣יךָ",
+          "morph": "HVqp1cs/Sp2ms"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "י֑וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "שִׁטַּ֖חְתִּי",
+          "morph": "HVpp1cs"
+        },
+        {
+          "w": "אֵלֶ֣יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "כַפָּֽי",
+          "morph": "HNcfdc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "豈 能 在 墳 墓 裡 述 說 你 的 慈 愛 麼 ？ 豈 能 在 滅 亡 中 述 說 你 的 信 實 麼 ？",
+      "en": "Is your loyal love proclaimed in the grave, or your faithfulness in the place of the dead?",
+      "notes": [],
+      "he": [
+        {
+          "w": "הֲלַמֵּתִ֥ים",
+          "morph": "HTi/Rd/Vqrmpa"
+        },
+        {
+          "w": "תַּעֲשֶׂה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "פֶּ֑לֶא",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "רְ֝פָאִ֗ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "יָק֤וּמוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "יוֹד֬וּךָ",
+          "morph": "HVhi3mp/Sp2ms"
+        },
+        {
+          "w": "סֶּֽלָה",
+          "morph": "HTj"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "你 的 奇 事 豈 能 在 幽 暗 裡 被 知 道 麼 ？ 你 的 公 義 豈 能 在 忘 記 之 地 被 知 道 麼 ？",
+      "en": "Are your amazing deeds experienced in the dark region, or your deliverance in the land of oblivion?",
+      "notes": [],
+      "he": [
+        {
+          "w": "הַיְסֻפַּ֣ר",
+          "morph": "HTi/VPi3ms"
+        },
+        {
+          "w": "בַּקֶּ֣בֶר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "חַסְדֶּ֑ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "אֱ֝מֽוּנָתְךָ֗",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "בָּאֲבַדּֽוֹן",
+          "morph": "HRd/Np"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "耶 和 華 啊 ， 我 呼 求 你 ； 我 早 晨 的 禱 告 要 達 到 你 面 前 。",
+      "en": "As for me, I cry out to you, O Lord; in the morning my prayer confronts you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הֲיִוָּדַ֣ע",
+          "morph": "HTi/VNi3ms"
+        },
+        {
+          "w": "בַּחֹ֣שֶׁךְ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "פִּלְאֶ֑ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וְ֝צִדְקָתְךָ֗",
+          "morph": "HC/Ncfsc/Sp2ms"
+        },
+        {
+          "w": "בְּאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "נְשִׁיָּֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "耶 和 華 啊 ， 你 為 何 丟 棄 我 ？ 為 何 掩 面 不 顧 我 ？",
+      "en": "O Lord, why do you reject me, and pay no attention to me?",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַאֲנִ֤י",
+          "morph": "HC/Pp1cs"
+        },
+        {
+          "w": "אֵלֶ֣יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "שִׁוַּ֑עְתִּי",
+          "morph": "HVpp1cs"
+        },
+        {
+          "w": "וּ֝בַבֹּ֗קֶר",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "תְּֽפִלָּתִ֥י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "תְקַדְּמֶֽךָּ",
+          "morph": "HVpi3fs/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "我 自 幼 受 苦 ， 幾 乎 死 亡 ； 我 受 你 的 驚 恐 ， 甚 至 慌 張 。",
+      "en": "I am oppressed and have been on the verge of death since my youth. I have been subjected to your horrors and am numb with pain.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לָמָ֣ה",
+          "morph": "HR/Ti"
+        },
+        {
+          "w": "יְ֭הוָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "תִּזְנַ֣ח",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "נַפְשִׁ֑י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "תַּסְתִּ֖יר",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "פָּנֶ֣יךָ",
+          "morph": "HNcbpc/Sp2ms"
+        },
+        {
+          "w": "מִמֶּֽנִּי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "你 的 烈 怒 漫 過 我 身 ； 你 的 驚 嚇 把 我 剪 除 。",
+      "en": "Your anger overwhelms me; your terrors destroy me.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עָ֘נִ֤י",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "אֲנִ֣י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "וְגֹוֵ֣עַ",
+          "morph": "HC/Vqrmsa"
+        },
+        {
+          "w": "מִנֹּ֑עַר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "נָשָׂ֖אתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אֵמֶ֣יךָ",
+          "morph": "HNcfpc/Sp2ms"
+        },
+        {
+          "w": "אָפֽוּנָה",
+          "morph": "HVqh1cs"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "這 些 終 日 如 水 環 繞 我 ， 一 齊 都 來 圍 困 我 。",
+      "en": "They surround me like water all day long; they join forces and encircle me.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עָ֭לַי",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "עָבְר֣וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "חֲרוֹנֶ֑יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "בִּ֝עוּתֶ֗יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "צִמְּתוּתֻֽנִי",
+          "morph": "HVlp3cp/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "你 把 我 的 良 朋 密 友 隔 在 遠 處 ， 使 我 所 認 識 的 人 進 入 黑 暗 裡 。",
+      "en": "You cause my friends and neighbors to keep their distance; those who know me leave me alone in the darkness.",
+      "notes": [],
+      "he": [
+        {
+          "w": "סַבּ֣וּנִי",
+          "morph": "HVqp3cp/Sp1cs"
+        },
+        {
+          "w": "כַ֭מַּיִם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַיּ֑וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הִקִּ֖יפוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "עָלַ֣י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "יָֽחַד",
+          "morph": "HNcmsa"
+        }
+      ]
+    }
+  ]
+}

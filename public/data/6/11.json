@@ -1,0 +1,1826 @@
+{
+  "book": 6,
+  "chapter": 11,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "夏 瑣 王 耶 賓 聽 見 這 事 ， 就 打 發 人 去 見 瑪 頓 王 約 巴 、 伸 崙 王 、 押 煞 王 ，",
+      "en": "When King Jabin of Hazor heard the news about Israel’s victories, he organized a coalition, including King Jobab of Madon, the king of Shimron, the king of Acshaph,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֕י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כִּשְׁמֹ֖עַ",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "יָבִ֣ין",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶֽלֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חָצ֑וֹר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּשְׁלַ֗ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יוֹבָב֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֶ֣לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מָד֔וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "מֶ֥לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שִׁמְר֖וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "מֶ֥לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אַכְשָֽׁף",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "與 北 方 山 地 、 基 尼 烈 南 邊 的 亞 拉 巴 高 原 ， 並 西 邊 多 珥 山 岡 的 諸 王 ；",
+      "en": "and the northern kings who ruled in the hill country, in the rift valley south of Kinnereth, in the foothills, and on the heights of Dor to the west.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְֽאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַמְּלָכִ֞ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "מִצְּפ֗וֹן",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "בָּהָ֧ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וּבָעֲרָבָ֛ה",
+          "morph": "HC/Rd/Ncfsa"
+        },
+        {
+          "w": "נֶ֥גֶב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כִּֽנֲר֖וֹת",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּבַשְּׁפֵלָ֑ה",
+          "morph": "HC/Rd/Ncfsa"
+        },
+        {
+          "w": "וּבְנָפ֥וֹת",
+          "morph": "HC/R/Ncfpc"
+        },
+        {
+          "w": "דּ֖וֹר",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִיָּֽם",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "又 去 見 東 方 和 西 方 的 迦 南 人 ， 與 山 地 的 亞 摩 利 人 、 赫 人 、 比 利 洗 人 、 耶 布 斯 人 ， 並 黑 門 山 根 米 斯 巴 地 的 希 未 人 。",
+      "en": "Canaanites came from the east and west; Amorites, Hittites, Perizzites, and Jebusites from the hill country; and Hivites from below Hermon in the area of Mizpah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הַֽכְּנַעֲנִי֙",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "מִמִּזְרָ֣ח",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וּמִיָּ֔ם",
+          "morph": "HC/R/Ncmsa"
+        },
+        {
+          "w": "וְהָאֱמֹרִ֧י",
+          "morph": "HC/Td/Ngmsa"
+        },
+        {
+          "w": "וְהַחִתִּ֛י",
+          "morph": "HC/Td/Ngmsa"
+        },
+        {
+          "w": "וְהַפְּרִזִּ֥י",
+          "morph": "HC/Td/Ngmsa"
+        },
+        {
+          "w": "וְהַיְבוּסִ֖י",
+          "morph": "HC/Td/Ngmsa"
+        },
+        {
+          "w": "בָּהָ֑ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְהַֽחִוִּי֙",
+          "morph": "HC/Td/Ngmsa"
+        },
+        {
+          "w": "תַּ֣חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "חֶרְמ֔וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּאֶ֖רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "הַמִּצְפָּֽה",
+          "morph": "HTd/Np"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "這 些 王 和 他 們 的 眾 軍 都 出 來 ， 人 數 多 如 海 邊 的 沙 ， 並 有 許 多 馬 匹 車 輛 。",
+      "en": "These kings came out with their armies; they were as numerous as the sand on the seashore and had a large number of horses and chariots.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּצְא֣וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "הֵ֗ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "מַֽחֲנֵיהֶם֙",
+          "morph": "HNcbpc/Sp3mp"
+        },
+        {
+          "w": "עִמָּ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "עַם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "רָ֕ב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "כַּח֛וֹל",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׂפַת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַיָּ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לָרֹ֑ב",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "וְס֥וּס",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וָרֶ֖כֶב",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "רַב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מְאֹֽד",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "這 諸 王 會 合 ， 來 到 米 倫 水 邊 ， 一 同 安 營 ， 要 與 以 色 列 人 爭 戰 。",
+      "en": "All these kings gathered and joined forces at the Waters of Merom to fight Israel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּוָּ֣עֲד֔וּ",
+          "morph": "HC/VNw3mp"
+        },
+        {
+          "w": "כֹּ֖ל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמְּלָכִ֣ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָאֵ֑לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "וַיָּבֹ֜אוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "וַיַּחֲנ֤וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "יַחְדָּו֙",
+          "morph": "HD"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מֵר֔וֹם",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְהִלָּחֵ֖ם",
+          "morph": "HR/VNc"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "耶 和 華 對 約 書 亞 說 ： 你 不 要 因 他 們 懼 怕 。 明 日 這 時 ， 我 必 將 他 們 交 付 以 色 列 人 全 然 殺 了 。 你 要 砍 斷 他 們 馬 的 蹄 筋 ， 用 火 焚 燒 他 們 的 車 輛 。",
+      "en": "The Lord told Joshua, “Don’t be afraid of them, for about this time tomorrow I will cause all of them to lie dead before Israel. You must hamstring their horses and burn their chariots.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֨אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוֹשֻׁעַ֮",
+          "morph": "HNp"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּירָ֣א",
+          "morph": "HVqj2ms"
+        },
+        {
+          "w": "מִפְּנֵיהֶם֒",
+          "morph": "HR/Ncbpc/Sp3mp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "מָחָ֞ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כָּעֵ֣ת",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "הַזֹּ֗את",
+          "morph": "HTd/Pdxfs"
+        },
+        {
+          "w": "אָנֹכִ֞י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "נֹתֵ֧ן",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כֻּלָּ֛ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "חֲלָלִ֖ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "סוּסֵיהֶ֣ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "תְּעַקֵּ֔ר",
+          "morph": "HVpi2ms"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "מַרְכְּבֹתֵיהֶ֖ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "תִּשְׂרֹ֥ף",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "בָּאֵֽשׁ",
+          "morph": "HRd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "於 是 約 書 亞 率 領 一 切 兵 丁 ， 在 米 倫 水 邊 突 然 向 前 攻 打 他 們 。",
+      "en": "Joshua and his whole army caught them by surprise at the Waters of Merom and attacked them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּבֹ֣א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁ֡עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "עַם֩",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמִּלְחָמָ֨ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "עִמּ֧וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "עֲלֵיהֶ֛ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מֵר֖וֹם",
+          "morph": "HNp"
+        },
+        {
+          "w": "פִּתְאֹ֑ם",
+          "morph": "HD"
+        },
+        {
+          "w": "וַֽיִּפְּל֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בָּהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "耶 和 華 將 他 們 交 在 以 色 列 人 手 裡 ， 以 色 列 人 就 擊 殺 他 們 ， 追 趕 他 們 到 西 頓 大 城 ， 到 米 斯 利 弗 瑪 音 ， 直 到 東 邊 米 斯 巴 的 平 原 ， 將 他 們 擊 殺 ， 沒 有 留 下 一 個 。",
+      "en": "The Lord handed them over to Israel, and they struck them down and chased them all the way to Greater Sidon, Misrephoth Maim, and the Mizpah Valley to the east. They struck them down until no survivors remained.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּתְּנֵ֨ם",
+          "morph": "HC/Vqw3ms/Sp3mp"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּיַֽד",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֮",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיַּכּוּם֒",
+          "morph": "HC/Vhw3mp/Sp3mp"
+        },
+        {
+          "w": "וַֽיִּרְדְּפ֞וּם",
+          "morph": "HC/Vqw3mp/Sp3mp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "צִיד֣וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "רַבָּ֗ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "וְעַד֙",
+          "morph": "HC/R"
+        },
+        {
+          "w": "מִשְׂרְפ֣וֹת",
+          "morph": "HNp"
+        },
+        {
+          "w": "מַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בִּקְעַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "מִצְפֶּ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִזְרָ֑חָה",
+          "morph": "HNcmsa/Sd"
+        },
+        {
+          "w": "וַיַּכֻּ֕ם",
+          "morph": "HC/Vhw3mp/Sp3mp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "בִּלְתִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "הִשְׁאִֽיר",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "לָהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "שָׂרִֽיד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "約 書 亞 就 照 耶 和 華 所 吩 咐 他 的 去 行 ， 砍 斷 他 們 馬 的 蹄 筋 ， 用 火 焚 燒 他 們 的 車 輛 。",
+      "en": "Joshua did to them as the Lord had commanded him; he hamstrung their horses and burned their chariots.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּ֤עַשׂ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לָהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "יְהוֹשֻׁ֔עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֥ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "אָֽמַר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "ל֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "סוּסֵיהֶ֣ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "עִקֵּ֔ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "מַרְכְּבֹתֵיהֶ֖ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "שָׂרַ֥ף",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בָּאֵֽשׁ",
+          "morph": "HRd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "當 時 ， 約 書 亞 轉 回 奪 了 夏 瑣 ， 用 刀 擊 殺 夏 瑣 王 。 （ 素 來 夏 瑣 在 這 諸 國 中 是 為 首 的 。 ）",
+      "en": "At that time Joshua turned, captured Hazor, and struck down its king with the sword, for Hazor was at that time the leader of all these kingdoms.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֨שָׁב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁ֜עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בָּעֵ֤ת",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "הַהִיא֙",
+          "morph": "HTd/Pp3fs"
+        },
+        {
+          "w": "וַיִּלְכֹּ֣ד",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "חָצ֔וֹר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "מַלְכָּ֖הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "הִכָּ֣ה",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "בֶחָ֑רֶב",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "חָצ֣וֹר",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְפָנִ֔ים",
+          "morph": "HR/Ncbpa"
+        },
+        {
+          "w": "הִ֕יא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "רֹ֖אשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמַּמְלָכ֥וֹת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָאֵֽלֶּה",
+          "morph": "HTd/Pdxcp"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "以 色 列 人 用 刀 擊 殺 城 中 的 人 口 ， 將 他 們 盡 行 殺 滅 ； 凡 有 氣 息 的 沒 有 留 下 一 個 。 約 書 亞 又 用 火 焚 燒 夏 瑣 。",
+      "en": "They annihilated everyone who lived there with the sword—no one who breathed remained—and burned Hazor.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַ֠יַּכּוּ",
+          "morph": "HC/Vhw3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַנֶּ֨פֶשׁ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בָּ֤הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "לְפִי",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "חֶ֨רֶב֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "הַֽחֲרֵ֔ם",
+          "morph": "HVha"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "נוֹתַ֖ר",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נְשָׁמָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "חָצ֖וֹר",
+          "morph": "HNp"
+        },
+        {
+          "w": "שָׂרַ֥ף",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בָּאֵֽשׁ",
+          "morph": "HRd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "約 書 亞 奪 了 這 些 王 的 一 切 城 邑 ， 擒 獲 其 中 的 諸 王 ， 用 刀 擊 殺 他 們 ， 將 他 們 盡 行 殺 滅 ， 正 如 耶 和 華 僕 人 摩 西 所 吩 咐 的 。",
+      "en": "Joshua captured all these royal cities and all their kings and annihilated them with the sword, as Moses the Lord’s servant had commanded.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְֽאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עָרֵ֣י",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "הַמְּלָכִֽים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָ֠אֵלֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "וְֽאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מַלְכֵיהֶ֞ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "לָכַ֧ד",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁ֛עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיַּכֵּ֥ם",
+          "morph": "HC/Vhw3ms/Sp3mp"
+        },
+        {
+          "w": "לְפִי",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "חֶ֖רֶב",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "הֶחֱרִ֣ים",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "אוֹתָ֑ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֣ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "צִוָּ֔ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "מֹשֶׁ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֶ֥בֶד",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "至 於 造 在 山 岡 上 的 城 ， 除 了 夏 瑣 以 外 ， 以 色 列 人 都 沒 有 焚 燒 。 約 書 亞 只 將 夏 瑣 焚 燒 了 。",
+      "en": "But Israel did not burn any of the cities located on mounds except for Hazor; it was the only one Joshua burned.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רַ֣ק",
+          "morph": "HTa"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הֶעָרִ֗ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָעֹֽמְדוֹת֙",
+          "morph": "HTd/Vqrfpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "תִּלָּ֔ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "שְׂרָפָ֖ם",
+          "morph": "HVqp3ms/Sp3mp"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "זוּלָתִ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "חָצ֥וֹר",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְבַדָּ֖הּ",
+          "morph": "HR/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "שָׂרַ֥ף",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוֹשֻֽׁעַ",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "那 些 城 邑 所 有 的 財 物 和 牲 畜 ， 以 色 列 人 都 取 為 自 己 的 掠 物 ； 惟 有 一 切 人 口 都 用 刀 擊 殺 ， 直 到 殺 盡 ； 凡 有 氣 息 的 沒 有 留 下 一 個 。",
+      "en": "The Israelites plundered all the goods of these cities and the cattle, but they totally destroyed all the people and allowed no one who breathed to live.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְ֠כֹל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "שְׁלַ֞ל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הֶעָרִ֤ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָאֵ֨לֶּה֙",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "וְהַבְּהֵמָ֔ה",
+          "morph": "HC/Td/Ncfsa"
+        },
+        {
+          "w": "בָּזְז֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לָהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "רַ֣ק",
+          "morph": "HTa"
+        },
+        {
+          "w": "אֶֽת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאָדָ֞ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הִכּ֣וּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "לְפִי",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "חֶ֗רֶב",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "הִשְׁמִדָם֙",
+          "morph": "HVhc/Sp3mp"
+        },
+        {
+          "w": "אוֹתָ֔ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "הִשְׁאִ֖ירוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נְשָׁמָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "耶 和 華 怎 樣 吩 咐 他 僕 人 摩 西 ， 摩 西 就 照 樣 吩 咐 約 書 亞 ， 約 書 亞 也 照 樣 行 。 凡 耶 和 華 所 吩 咐 摩 西 的 ， 約 書 亞 沒 有 一 件 懈 怠 不 行 的 。",
+      "en": "Moses the Lord’s servant passed on the Lord’s commands to Joshua, and Joshua did as he was told. He did not ignore any of the commands the Lord had given Moses.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כַּאֲשֶׁ֨ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "צִוָּ֤ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֹשֶׁ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַבְדּ֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "כֵּן",
+          "morph": "HTm"
+        },
+        {
+          "w": "צִוָּ֥ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "מֹשֶׁ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוֹשֻׁ֑עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְכֵן֙",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "עָשָׂ֣ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁ֔עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "הֵסִ֣יר",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "דָּבָ֔ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִכֹּ֛ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "צִוָּ֥ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֹשֶֽׁה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "約 書 亞 奪 了 那 全 地 ， 就 是 山 地 、 一 帶 南 地 、 歌 珊 全 地 、 高 原 、 亞 拉 巴 、 以 色 列 的 山 地 ， 和 山 下 的 高 原 。",
+      "en": "Joshua conquered the whole land, including the hill country, all the Negev, all the land of Goshen, the foothills, the rift valley, the hill country of Israel and its foothills,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקַּ֨ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁ֜עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאָ֣רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "הַזֹּ֗את",
+          "morph": "HTd/Pdxfs"
+        },
+        {
+          "w": "הָהָ֤ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַנֶּ֨גֶב֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֵת֙",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הַגֹּ֔שֶׁן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַשְּׁפֵלָ֖ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הָעֲרָבָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַ֥ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּשְׁפֵלָתֹֽה",
+          "morph": "HC/Ncfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "從 上 西 珥 的 哈 拉 山 ， 直 到 黑 門 山 下 利 巴 嫩 平 原 的 巴 力 迦 得 ， 並 且 擒 獲 那 些 地 的 諸 王 ， 將 他 們 殺 死 。",
+      "en": "from Mount Halak up to Seir, as far as Baal Gad in the Lebanon Valley below Mount Hermon. He captured all their kings and executed them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הָהָ֤ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הֶֽחָלָק֙",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "הָעוֹלֶ֣ה",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "שֵׂעִ֔יר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בַּ֤עַל",
+          "morph": "HNp"
+        },
+        {
+          "w": "גָּד֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּבִקְעַ֣ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַלְּבָנ֔וֹן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "תַּ֖חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "הַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חֶרְמ֑וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֵ֤ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מַלְכֵיהֶם֙",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "לָכַ֔ד",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "וַיַּכֵּ֖ם",
+          "morph": "HC/Vhw3ms/Sp3mp"
+        },
+        {
+          "w": "וַיְמִיתֵֽם",
+          "morph": "HC/Vhw3ms/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "約 書 亞 和 這 諸 王 爭 戰 了 許 多 年 日 。",
+      "en": "Joshua campaigned against these kings for quite some time.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יָמִ֣ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רַבִּ֗ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "עָשָׂ֧ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁ֛עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמְּלָכִ֥ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָאֵ֖לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "מִלְחָמָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "除 了 基 遍 的 希 未 人 之 外 ， 沒 有 一 城 與 以 色 列 人 講 和 的 ， 都 是 以 色 列 人 爭 戰 奪 來 的 。",
+      "en": "No city made peace with the Israelites (except the Hivites living in Gibeon); they had to conquer all of them,",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "הָיְתָ֣ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "עִ֗יר",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הִשְׁלִ֨ימָה֙",
+          "morph": "HVhp3fs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּלְתִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "הַחִוִּ֖י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "יֹשְׁבֵ֣י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "גִבְע֑וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַכֹּ֖ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לָקְח֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בַמִּלְחָמָֽה",
+          "morph": "HRd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "因 為 耶 和 華 的 意 思 是 要 使 他 們 心 裡 剛 硬 ， 來 與 以 色 列 人 爭 戰 ， 好 叫 他 們 盡 被 殺 滅 ， 不 蒙 憐 憫 ， 正 如 耶 和 華 所 吩 咐 摩 西 的 。",
+      "en": "for the Lord determined to make them obstinate so they would attack Israel. He wanted Israel to annihilate them without mercy, as he had instructed Moses.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "מֵאֵ֣ת",
+          "morph": "HR/R"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הָיְתָ֡ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "לְחַזֵּ֣ק",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "לִבָּם֩",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "לִקְרַ֨את",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הַמִּלְחָמָ֤ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HR"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְמַ֣עַן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַֽחֲרִימָ֔ם",
+          "morph": "HVhc/Sp3mp"
+        },
+        {
+          "w": "לְבִלְתִּ֥י",
+          "morph": "HR/C"
+        },
+        {
+          "w": "הֱיוֹת",
+          "morph": "HVqc"
+        },
+        {
+          "w": "לָהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "תְּחִנָּ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "כִּ֚י",
+          "morph": "HC"
+        },
+        {
+          "w": "לְמַ֣עַן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשְׁמִידָ֔ם",
+          "morph": "HVhc/Sp3mp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֛ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "צִוָּ֥ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֹשֶֽׁה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "當 時 約 書 亞 來 到 ， 將 住 山 地 、 希 伯 崙 、 底 璧 、 亞 拿 伯 、 猶 大 山 地 、 以 色 列 山 地 所 有 的 亞 衲 族 人 剪 除 了 。 約 書 亞 將 他 們 和 他 們 的 城 邑 盡 都 毀 滅 。",
+      "en": "At that time Joshua attacked and eliminated the Anakites from the hill country—from Hebron, Debir, Anab, and all the hill country of Judah and Israel. Joshua annihilated them and their cities.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּבֹ֨א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁ֜עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בָּעֵ֣ת",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "הַהִ֗יא",
+          "morph": "HTd/Pp3fs"
+        },
+        {
+          "w": "וַיַּכְרֵ֤ת",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָֽעֲנָקִים֙",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הָהָ֤ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "חֶבְרוֹן֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "דְּבִ֣ר",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "עֲנָ֔ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִכֹּל֙",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "הַ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִכֹּ֖ל",
+          "morph": "HC/R/Ncmsc"
+        },
+        {
+          "w": "הַ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "עָרֵיהֶ֖ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "הֶחֱרִימָ֥ם",
+          "morph": "HVhp3ms/Sp3mp"
+        },
+        {
+          "w": "יְהוֹשֻֽׁעַ",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "在 以 色 列 人 的 地 沒 有 留 下 一 個 亞 衲 族 人 ， 只 在 迦 薩 、 迦 特 ， 和 亞 實 突 有 留 下 的 。",
+      "en": "No Anakites were left in Israelite territory, though some remained in Gaza, Gath, and Ashdod.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "נוֹתַ֣ר",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "עֲנָקִ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בְּאֶ֖רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "רַ֗ק",
+          "morph": "HTa"
+        },
+        {
+          "w": "בְּעַזָּ֛ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בְּגַ֥ת",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וּבְאַשְׁדּ֖וֹד",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "נִשְׁאָֽרוּ",
+          "morph": "HVNp3cp"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "這 樣 ， 約 書 亞 照 著 耶 和 華 所 吩 咐 摩 西 的 一 切 話 奪 了 那 全 地 ， 就 按 著 以 色 列 支 派 的 宗 族 將 地 分 給 他 們 為 業 。 於 是 國 中 太 平 ， 沒 有 爭 戰 了 。",
+      "en": "Joshua conquered the whole land, just as the Lord had promised Moses, and he assigned Israel their tribal portions. Then the land was free of war.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקַּ֨ח",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁ֜עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאָ֗רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "כְּ֠כֹל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "דִּבֶּ֣ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָה֮",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁה֒",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּתְּנָהּ֩",
+          "morph": "HC/Vqw3ms/Sp3fs"
+        },
+        {
+          "w": "יְהוֹשֻׁ֨עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְנַחֲלָ֧ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "לְיִשְׂרָאֵ֛ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "כְּמַחְלְקֹתָ֖ם",
+          "morph": "HR/Ncfpc/Sp3mp"
+        },
+        {
+          "w": "לְשִׁבְטֵיהֶ֑ם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "וְהָאָ֥רֶץ",
+          "morph": "HC/Td/Ncbsa"
+        },
+        {
+          "w": "שָׁקְטָ֖ה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "מִמִּלְחָמָֽה",
+          "morph": "HR/Ncfsa"
+        }
+      ]
+    }
+  ]
+}

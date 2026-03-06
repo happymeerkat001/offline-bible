@@ -1,0 +1,770 @@
+{
+  "book": 33,
+  "chapter": 3,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "我 說 ： 雅 各 的 首 領 ， 以 色 列 家 的 官 長 啊 ， 你 們 要 聽 ！ 你 們 不 當 知 道 公 平 麼 ？",
+      "en": "I said, “Listen, you leaders of Jacob, you rulers of the nation of Israel! You ought to know what is just,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאֹמַ֗ר",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "שִׁמְעוּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "נָא֙",
+          "morph": "HTe"
+        },
+        {
+          "w": "רָאשֵׁ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יַעֲקֹ֔ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּקְצִינֵ֖י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "הֲל֣וֹא",
+          "morph": "HTi/Tn"
+        },
+        {
+          "w": "לָכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לָדַ֖עַת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַמִּשְׁפָּֽט",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 們 惡 善 好 惡 ， 從 人 身 上 剝 皮 ， 從 人 骨 頭 上 剔 肉 ，",
+      "en": "yet you hate what is good and love what is evil. You flay my people’s skin and rip the flesh from their bones.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שֹׂ֥נְאֵי",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "ט֖וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְאֹ֣הֲבֵי",
+          "morph": "HC/Vqrmpc"
+        },
+        {
+          "w": "רעה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "רָ֑ע",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "גֹּזְלֵ֤י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "עוֹרָם֙",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "מֵֽעֲלֵיהֶ֔ם",
+          "morph": "HR/R/Sp3mp"
+        },
+        {
+          "w": "וּשְׁאֵרָ֖ם",
+          "morph": "HC/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "מֵעַ֥ל",
+          "morph": "HR/R"
+        },
+        {
+          "w": "עַצְמוֹתָֽם",
+          "morph": "HNcfpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "吃 我 民 的 肉 ， 剝 他 們 的 皮 ， 打 折 他 們 的 骨 頭 ， 分 成 塊 子 像 要 下 鍋 ， 又 像 釜 中 的 肉 。",
+      "en": "You devour my people’s flesh, strip off their skin, and crush their bones. You chop them up like flesh in a pot— like meat in a kettle.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַאֲשֶׁ֣ר",
+          "morph": "HC/Tr"
+        },
+        {
+          "w": "אָכְלוּ֮",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "שְׁאֵ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַמִּי֒",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וְעוֹרָם֙",
+          "morph": "HC/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "מֵעֲלֵיהֶ֣ם",
+          "morph": "HR/R/Sp3mp"
+        },
+        {
+          "w": "הִפְשִׁ֔יטוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "עַצְמֹֽתֵיהֶ֖ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "פִּצֵּ֑חוּ",
+          "morph": "HVpp3cp"
+        },
+        {
+          "w": "וּפָרְשׂוּ֙",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֣ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "בַּסִּ֔יר",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "וּכְבָשָׂ֖ר",
+          "morph": "HC/R/Ncmsa"
+        },
+        {
+          "w": "בְּת֥וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "קַלָּֽחַת",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "到 了 遭 災 的 時 候 ， 這 些 人 必 哀 求 耶 和 華 ， 他 卻 不 應 允 他 們 。 那 時 他 必 照 他 們 所 行 的 惡 事 向 他 們 掩 面 。",
+      "en": "Someday these sinful leaders will cry to the Lord for help, but he will not answer them. He will hide his face from them at that time, because they have done such wicked deeds.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "אָ֚ז",
+          "morph": "HD"
+        },
+        {
+          "w": "יִזְעֲק֣וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יַעֲנֶ֖ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אוֹתָ֑ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "וְיַסְתֵּ֨ר",
+          "morph": "HC/Vhi3ms"
+        },
+        {
+          "w": "פָּנָ֤יו",
+          "morph": "HNcbpc/Sp3ms"
+        },
+        {
+          "w": "מֵהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "בָּעֵ֣ת",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "הַהִ֔יא",
+          "morph": "HTd/Pp3fs"
+        },
+        {
+          "w": "כַּאֲשֶׁ֥ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "הֵרֵ֖עוּ",
+          "morph": "HVhp3cp"
+        },
+        {
+          "w": "מַעַלְלֵיהֶֽם",
+          "morph": "HNcmpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "論 到 使 我 民 走 差 路 的 先 知 ─ 他 們 牙 齒 有 所 嚼 的 ， 他 們 就 呼 喊 說 ： 平 安 了 ！ 凡 不 供 給 他 們 吃 的 ， 他 們 就 預 備 攻 擊 他 （ 預 備 攻 擊 他 ： 或 譯 說 必 遭 遇 刀 兵 ） ─ 耶 和 華 如 此 說 ：",
+      "en": "This is what the Lord has said about the prophets who mislead my people, “If someone gives them enough to eat, they offer an oracle of peace. But if someone does not give them food, they are ready to declare war on him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כֹּ֚ה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַנְּבִיאִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הַמַּתְעִ֣ים",
+          "morph": "HTd/Vhrmpa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עַמִּ֑י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "הַנֹּשְׁכִ֤ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "בְּשִׁנֵּיהֶם֙",
+          "morph": "HR/Ncbdc/Sp3mp"
+        },
+        {
+          "w": "וְקָרְא֣וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "שָׁל֔וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וַאֲשֶׁר֙",
+          "morph": "HC/Tr"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִתֵּ֣ן",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "פִּיהֶ֔ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "וְקִדְּשׁ֥וּ",
+          "morph": "HC/Vpq3cp"
+        },
+        {
+          "w": "עָלָ֖יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "מִלְחָמָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "你 們 必 遭 遇 黑 夜 ， 以 致 不 見 異 象 ； 又 必 遭 遇 幽 暗 ， 以 致 不 能 占 卜 。 日 頭 必 向 你 們 沉 落 ， 白 晝 變 為 黑 暗 。",
+      "en": "Therefore night will fall, and you will receive no visions; it will grow dark, and you will no longer be able to read the omens. The sun will set on these prophets, and the daylight will turn to darkness over their heads.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לָכֵ֞ן",
+          "morph": "HR/D"
+        },
+        {
+          "w": "לַ֤יְלָה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לָכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מֵֽחָז֔וֹן",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וְחָשְׁכָ֥ה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מִקְּסֹ֑ם",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "וּבָ֤אָה",
+          "morph": "HC/Vqq3fs"
+        },
+        {
+          "w": "הַשֶּׁ֨מֶשׁ֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַנְּבִיאִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְקָדַ֥ר",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "עֲלֵיהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "הַיּֽוֹם",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "先 見 必 抱 愧 ， 占 卜 的 必 蒙 羞 ， 都 必 摀 著 嘴 唇 ， 因 為 神 不 應 允 他 們 。",
+      "en": "The prophets will be ashamed; the omen readers will be humiliated. All of them will cover their mouths, for they will receive no divine oracles.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבֹ֣שׁוּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "הַחֹזִ֗ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "וְחָֽפְרוּ֙",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "הַקֹּ֣סְמִ֔ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "וְעָט֥וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שָׂפָ֖ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כֻּלָּ֑ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "כִּ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֵ֥ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "מַעֲנֵ֖ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֱלֹהִֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "至 於 我 ， 我 藉 耶 和 華 的 靈 ， 滿 有 力 量 、 公 平 、 才 能 ， 可 以 向 雅 各 說 明 他 的 過 犯 ， 向 以 色 列 指 出 他 的 罪 惡 。",
+      "en": "But I am full of the courage that the Lord’s Spirit gives and have a strong commitment to justice. This enables me to confront Jacob with its rebellion and Israel with its sin.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאוּלָ֗ם",
+          "morph": "HC/D"
+        },
+        {
+          "w": "אָנֹכִ֞י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מָלֵ֤אתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "כֹ֨חַ֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "ר֣וּחַ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִשְׁפָּ֖ט",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וּגְבוּרָ֑ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "לְהַגִּ֤יד",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "לְיַֽעֲקֹב֙",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "פִּשְׁע֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וּלְיִשְׂרָאֵ֖ל",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "חַטָּאתֽוֹ",
+          "morph": "HNcfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "雅 各 家 的 首 領 、 以 色 列 家 的 官 長 啊 ， 當 聽 我 的 話 ！ 你 們 厭 惡 公 平 ， 在 一 切 事 上 屈 枉 正 直 ；",
+      "en": "Listen to this, you leaders of the family of Jacob, you rulers of the nation of Israel! You hate justice and pervert all that is right.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שִׁמְעוּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "נָ֣א",
+          "morph": "HTe"
+        },
+        {
+          "w": "זֹ֗את",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "רָאשֵׁי֙",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יַעֲקֹ֔ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּקְצִינֵ֖י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "בֵּ֣ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַֽמֲתַעֲבִ֣ים",
+          "morph": "HTd/Vprmpa"
+        },
+        {
+          "w": "מִשְׁפָּ֔ט",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאֵ֥ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַיְשָׁרָ֖ה",
+          "morph": "HTd/Aafsa"
+        },
+        {
+          "w": "יְעַקֵּֽשׁוּ",
+          "morph": "HVpi3mp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "以 人 血 建 立 錫 安 ， 以 罪 孽 建 造 耶 路 撒 冷 。",
+      "en": "You build Zion through bloody crimes, Jerusalem through unjust violence.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בֹּנֶ֥ה",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "צִיּ֖וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּדָמִ֑ים",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "וִירוּשָׁלִַ֖ם",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בְּעַוְלָֽה",
+          "morph": "HR/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "首 領 為 賄 賂 行 審 判 ； 祭 司 為 雇 價 施 訓 誨 ； 先 知 為 銀 錢 行 占 卜 。 他 們 卻 倚 賴 耶 和 華 ， 說 ： 耶 和 華 不 是 在 我 們 中 間 麼 ？ 災 禍 必 不 臨 到 我 們 。",
+      "en": "Her leaders take bribes when they decide legal cases, her priests proclaim rulings for profit, and her prophets read omens for pay. Yet they claim to trust the Lord and say, “The Lord is among us. Disaster will not overtake us!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "רָאשֶׁ֣יהָ",
+          "morph": "HNcmpc/Sp3fs"
+        },
+        {
+          "w": "בְּשֹׁ֣חַד",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "יִשְׁפֹּ֗טוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "וְכֹהֲנֶ֨יהָ֙",
+          "morph": "HC/Ncmpc/Sp3fs"
+        },
+        {
+          "w": "בִּמְחִ֣יר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "יוֹר֔וּ",
+          "morph": "HVhi3mp"
+        },
+        {
+          "w": "וּנְבִיאֶ֖יהָ",
+          "morph": "HC/Ncmpc/Sp3fs"
+        },
+        {
+          "w": "בְּכֶ֣סֶף",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "יִקְסֹ֑מוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "יִשָּׁעֵ֣נוּ",
+          "morph": "HVNi3mp"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הֲל֤וֹא",
+          "morph": "HTi/Tn"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּקִרְבֵּ֔נוּ",
+          "morph": "HR/Ncmsc/Sp1cp"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תָב֥וֹא",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "עָלֵ֖ינוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "רָעָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "所 以 因 你 們 的 緣 故 ， 錫 安 必 被 耕 種 像 一 塊 田 ， 耶 路 撒 冷 必 變 為 亂 堆 ； 這 殿 的 山 必 像 叢 林 的 高 處 。",
+      "en": "Therefore, because of you, Zion will be plowed up like a field, Jerusalem will become a heap of ruins, and the Temple Mount will become a hill overgrown with brush!",
+      "notes": [],
+      "he": [
+        {
+          "w": "לָכֵן֙",
+          "morph": "HR/D"
+        },
+        {
+          "w": "בִּגְלַלְכֶ֔ם",
+          "morph": "HR/Ncmsc/Sp2mp"
+        },
+        {
+          "w": "צִיּ֖וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "שָׂדֶ֣ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תֵֽחָרֵ֑שׁ",
+          "morph": "HVNi3fs"
+        },
+        {
+          "w": "וִירוּשָׁלִַ֨ם֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "עִיִּ֣ין",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "תִּֽהְיֶ֔ה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "וְהַ֥ר",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "הַבַּ֖יִת",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְבָמ֥וֹת",
+          "morph": "HR/Ncfpc"
+        },
+        {
+          "w": "יָֽעַר",
+          "morph": "HNcmsa"
+        }
+      ]
+    }
+  ]
+}

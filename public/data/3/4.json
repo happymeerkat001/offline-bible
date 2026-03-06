@@ -1,0 +1,2454 @@
+{
+  "book": 3,
+  "chapter": 4,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 對 摩 西 說 ：",
+      "en": "Then the Lord spoke to Moses:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 曉 諭 以 色 列 人 說 ： 若 有 人 在 耶 和 華 所 吩 咐 不 可 行 的 甚 麼 事 上 誤 犯 了 一 件 ，",
+      "en": "“Tell the Israelites, ‘When a person sins by straying unintentionally from any of the Lord’s commandments which must not be violated, and violates any one of them—",
+      "notes": [],
+      "he": [
+        {
+          "w": "דַּבֵּ֞ר",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֘ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹר֒",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "נֶ֗פֶשׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "תֶחֱטָ֤א",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "בִשְׁגָגָה֙",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "מִכֹּל֙",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מִצְוֺ֣ת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֖ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֵעָשֶׂ֑ינָה",
+          "morph": "HVNi3fp"
+        },
+        {
+          "w": "וְעָשָׂ֕ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "מֵאַחַ֖ת",
+          "morph": "HR/Acfsa"
+        },
+        {
+          "w": "מֵהֵֽנָּה",
+          "morph": "HR/Pp3fp"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "或 是 受 膏 的 祭 司 犯 罪 ， 使 百 姓 陷 在 罪 裡 ， 就 當 為 他 所 犯 的 罪 把 沒 有 殘 疾 的 公 牛 犢 獻 給 耶 和 華 為 贖 罪 祭 。",
+      "en": "“‘If the high priest sins so that the people are guilty on account of the sin he has committed, he must present a flawless young bull to the Lord for a sin offering.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִ֣ם",
+          "morph": "HC"
+        },
+        {
+          "w": "הַכֹּהֵ֧ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַמָּשִׁ֛יחַ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יֶחֱטָ֖א",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לְאַשְׁמַ֣ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הָעָ֑ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהִקְרִ֡יב",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "עַ֣ל",
+          "morph": "HR"
+        },
+        {
+          "w": "חַטָּאתוֹ֩",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "חָטָ֜א",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "פַּ֣ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּקָ֥ר",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "תָּמִ֛ים",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "לַיהוָ֖ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לְחַטָּֽאת",
+          "morph": "HR/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "他 要 牽 公 牛 到 會 幕 門 口 ， 在 耶 和 華 面 前 按 手 在 牛 的 頭 上 ， 把 牛 宰 於 耶 和 華 面 前 。",
+      "en": "He must bring the bull to the entrance of the Meeting Tent before the Lord, lay his hand on the head of the bull, and slaughter the bull before the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֵבִ֣יא",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַפָּ֗ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פֶּ֛תַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹ֥הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵ֖ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְסָמַ֤ךְ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יָדוֹ֙",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹ֣אשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַפָּ֔ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְשָׁחַ֥ט",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַפָּ֖ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "受 膏 的 祭 司 要 取 些 公 牛 的 血 帶 到 會 幕 ，",
+      "en": "Then that high priest must take some of the blood of the bull and bring it to the Meeting Tent.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלָקַ֛ח",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֥ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַמָּשִׁ֖יחַ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִדַּ֣ם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַפָּ֑ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהֵבִ֥יא",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אֹת֖וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֹ֥הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵֽד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "把 指 頭 蘸 於 血 中 ， 在 耶 和 華 面 前 對 著 聖 所 的 幔 子 彈 血 七 次 ，",
+      "en": "The priest must dip his finger in the blood and sprinkle some of it seven times before the Lord toward the front of the special curtain of the sanctuary.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְטָבַ֧ל",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֛ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֶצְבָּע֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "בַּדָּ֑ם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְהִזָּ֨ה",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַדָּ֜ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "שֶׁ֤בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "פְּעָמִים֙",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HR"
+        },
+        {
+          "w": "פְּנֵ֖י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "פָּרֹ֥כֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַקֹּֽדֶשׁ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "又 要 把 些 血 抹 在 會 幕 內 、 耶 和 華 面 前 香 壇 的 四 角 上 ， 再 把 公 牛 所 有 的 血 倒 在 會 幕 門 口 、 燔 祭 壇 的 腳 那 裡 。",
+      "en": "The priest must put some of the blood on the horns of the altar of fragrant incense that is before the Lord in the Meeting Tent, and all the rest of the bull’s blood he must pour out at the base of the altar of burnt offering that is at the entrance of the Meeting Tent.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנָתַן֩",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֨ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַדָּ֜ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "קַ֠רְנוֹת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "מִזְבַּ֨ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קְטֹ֤רֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַסַּמִּים֙",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֖ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בְּאֹ֣הֶל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מוֹעֵ֑ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאֵ֣ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דַּ֣ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַפָּ֗ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יִשְׁפֹּךְ֙",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְסוֹד֙",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִזְבַּ֣ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעֹלָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "פֶּ֖תַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹ֥הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵֽד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "要 把 贖 罪 祭 公 牛 所 有 的 脂 油 ， 乃 是 蓋 臟 的 脂 油 和 臟 上 所 有 的 脂 油 ，",
+      "en": "“‘Then he must take up all the fat from the sin-offering bull: the fat covering the entrails and all the fat surrounding the entrails,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חֵ֛לֶב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פַּ֥ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַֽחַטָּ֖את",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "יָרִ֣ים",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "מִמֶּ֑נּוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַחֵ֨לֶב֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַֽמְכַסֶּ֣ה",
+          "morph": "HTd/Vprmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַקֶּ֔רֶב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֵת֙",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַחֵ֔לֶב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֖ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַקֶּֽרֶב",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "並 兩 個 腰 子 和 腰 子 上 的 脂 油 ， 就 是 靠 腰 兩 旁 的 脂 油 ， 與 肝 上 的 網 子 和 腰 子 ， 一 概 取 下 ，",
+      "en": "the two kidneys with the fat on their sinews, and the protruding lobe on the liver (which he is to remove along with the kidneys)",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֵת֙",
+          "morph": "HC/To"
+        },
+        {
+          "w": "שְׁתֵּ֣י",
+          "morph": "HAcfdc"
+        },
+        {
+          "w": "הַכְּלָיֹ֔ת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַחֵ֨לֶב֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עֲלֵיהֶ֔ן",
+          "morph": "HR/Sp3fp"
+        },
+        {
+          "w": "אֲשֶׁ֖ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכְּסָלִ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "הַיֹּתֶ֨רֶת֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכָּבֵ֔ד",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכְּלָי֖וֹת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "יְסִירֶֽנָּה",
+          "morph": "HVhi3ms/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "與 平 安 祭 公 牛 上 所 取 的 一 樣 ； 祭 司 要 把 這 些 燒 在 燔 祭 的 壇 上 。",
+      "en": "—just as it is taken from the ox of the peace-offering sacrifice—and the priest must offer them up in smoke on the altar of burnt offering.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כַּאֲשֶׁ֣ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "יוּרַ֔ם",
+          "morph": "HVHi3ms"
+        },
+        {
+          "w": "מִשּׁ֖וֹר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "זֶ֣בַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשְּׁלָמִ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְהִקְטִירָם֙",
+          "morph": "HC/Vhq3ms/Sp3mp"
+        },
+        {
+          "w": "הַכֹּהֵ֔ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "מִזְבַּ֥ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעֹלָֽה",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "公 牛 的 皮 和 所 有 的 肉 ， 並 頭 、 腿 、 臟 、 腑 、 糞 ，",
+      "en": "But the hide of the bull, all its flesh along with its head and its legs, its entrails, and its dung—",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "ע֤וֹר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַפָּר֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּשָׂר֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹאשׁ֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כְּרָעָ֑יו",
+          "morph": "HNcbdc/Sp3ms"
+        },
+        {
+          "w": "וְקִרְבּ֖וֹ",
+          "morph": "HC/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "וּפִרְשֽׁוֹ",
+          "morph": "HC/Ncmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "就 是 全 公 牛 ， 要 搬 到 營 外 潔 淨 之 地 、 倒 灰 之 所 ， 用 火 燒 在 柴 上 。",
+      "en": "all the rest of the bull—he must bring outside the camp to a ceremonially clean place, to the fatty-ash pile, and he must burn it on a wood fire; it must be burned on the fatty-ash pile.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהוֹצִ֣יא",
+          "morph": "HC/Vhp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַ֠פָּר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מִח֨וּץ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לַֽמַּחֲנֶ֜ה",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מָק֤וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "טָהוֹר֙",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "שֶׁ֣פֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדֶּ֔שֶׁן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְשָׂרַ֥ף",
+          "morph": "HC/Vqp3ms"
+        },
+        {
+          "w": "אֹת֛וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "עֵצִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בָּאֵ֑שׁ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שֶׁ֥פֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדֶּ֖שֶׁן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יִשָּׂרֵֽף",
+          "morph": "HVNi3ms"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "以 色 列 全 會 眾 若 行 了 耶 和 華 所 吩 咐 不 可 行 的 甚 麼 事 ， 誤 犯 了 罪 ， 是 隱 而 未 現 ， 會 眾 看 不 出 來 的 ，",
+      "en": "“‘If the whole congregation of Israel strays unintentionally and the matter is not noticed by the assembly, and they violate one of the Lord’s commandments, which must not be violated, so they become guilty,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִ֨ם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲדַ֤ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "יִשְׁגּ֔וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "וְנֶעְלַ֣ם",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "דָּבָ֔ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מֵעֵינֵ֖י",
+          "morph": "HR/Ncbdc"
+        },
+        {
+          "w": "הַקָּהָ֑ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְ֠עָשׂוּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "אַחַ֨ת",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "מִכָּל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מִצְוֺ֧ת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֵעָשֶׂ֖ינָה",
+          "morph": "HVNi3fp"
+        },
+        {
+          "w": "וְאָשֵֽׁמוּ",
+          "morph": "HC/Vqq3cp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "會 眾 一 知 道 所 犯 的 罪 就 要 獻 一 隻 公 牛 犢 為 贖 罪 祭 ， 牽 到 會 幕 前 。",
+      "en": "the assembly must present a young bull for a sin offering when the sin they have committed becomes known. They must bring it before the Meeting Tent,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנֽוֹדְעָה֙",
+          "morph": "HC/VNq3fs"
+        },
+        {
+          "w": "הַֽחַטָּ֔את",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "חָטְא֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "עָלֶ֑יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "וְהִקְרִ֨יבוּ",
+          "morph": "HC/Vhq3cp"
+        },
+        {
+          "w": "הַקָּהָ֜ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "פַּ֤ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּקָר֙",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "לְחַטָּ֔את",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וְהֵבִ֣יאוּ",
+          "morph": "HC/Vhq3cp"
+        },
+        {
+          "w": "אֹת֔וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "לִפְנֵ֖י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "אֹ֥הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵֽד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "會 中 的 長 老 就 要 在 耶 和 華 面 前 按 手 在 牛 的 頭 上 ， 將 牛 在 耶 和 華 面 前 宰 了 。",
+      "en": "the elders of the congregation must lay their hands on the head of the bull before the Lord, and someone must slaughter the bull before the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְ֠סָמְכוּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "זִקְנֵ֨י",
+          "morph": "HAampc"
+        },
+        {
+          "w": "הָעֵדָ֧ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְדֵיהֶ֛ם",
+          "morph": "HNcbdc/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹ֥אשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַפָּ֖ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשָׁחַ֥ט",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַפָּ֖ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "受 膏 的 祭 司 要 取 些 公 牛 的 血 帶 到 會 幕 ，",
+      "en": "Then the high priest must bring some of the blood of the bull to the Meeting Tent,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֵבִ֛יא",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֥ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַמָּשִׁ֖יחַ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִדַּ֣ם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַפָּ֑ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֹ֖הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵֽד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "把 指 頭 蘸 於 血 中 ， 在 耶 和 華 面 前 對 著 幔 子 彈 血 七 次 ，",
+      "en": "and that priest must dip his finger in the blood and sprinkle some of the blood seven times before the Lord toward the front of the curtain.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְטָבַ֧ל",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֛ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶצְבָּע֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַדָּ֑ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהִזָּ֞ה",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "שֶׁ֤בַע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "פְּעָמִים֙",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֵ֖ת",
+          "morph": "HR"
+        },
+        {
+          "w": "פְּנֵ֥י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הַפָּרֹֽכֶת",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "又 要 把 些 血 抹 在 會 幕 內 、 耶 和 華 面 前 壇 的 四 角 上 ， 再 把 所 有 的 血 倒 在 會 幕 門 口 、 燔 祭 壇 的 腳 那 裡 。",
+      "en": "He must put some of the blood on the horns of the altar which is before the Lord in the Meeting Tent, and all the rest of the blood he must pour out at the base of the altar of burnt offering that is at the entrance of the Meeting Tent.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַדָּ֞ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יִתֵּ֣ן",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "קַרְנֹ֣ת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הַמִּזְבֵּ֗חַ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר֙",
+          "morph": "HTr"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֖ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בְּאֹ֣הֶל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מוֹעֵ֑ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְאֵ֣ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַדָּ֗ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יִשְׁפֹּךְ֙",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְסוֹד֙",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִזְבַּ֣ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעֹלָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "פֶּ֖תַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹ֥הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵֽד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "把 牛 所 有 的 脂 油 都 取 下 ， 燒 在 壇 上 ；",
+      "en": "“‘Then the priest must take all its fat and offer the fat up in smoke on the altar.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֵ֥ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חֶלְבּ֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "יָרִ֣ים",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "מִמֶּ֑נּוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "וְהִקְטִ֖יר",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "הַמִּזְבֵּֽחָה",
+          "morph": "HTd/Ncmsa/Sd"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "收 拾 這 牛 ， 與 那 贖 罪 祭 的 牛 一 樣 。 祭 司 要 為 他 們 贖 罪 ， 他 們 必 蒙 赦 免 。",
+      "en": "He must do with the rest of the bull just as he did with the bull of the sin offering; this is what he must do with it. So the priest will make atonement on their behalf, and they will be forgiven.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעָשָׂ֣ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "לַפָּ֔ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "כַּאֲשֶׁ֤ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "עָשָׂה֙",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לְפַ֣ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַֽחַטָּ֔את",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "כֵּ֖ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "יַעֲשֶׂה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לּ֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְכִפֶּ֧ר",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "עֲלֵהֶ֛ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "הַכֹּהֵ֖ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְנִסְלַ֥ח",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "לָהֶֽם",
+          "morph": "HR/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "他 要 把 牛 搬 到 營 外 燒 了 ， 像 燒 頭 一 個 牛 一 樣 ； 這 是 會 眾 的 贖 罪 祭 。",
+      "en": "He must bring the rest of the bull outside the camp and burn it just as he burned the first bull—it is the sin offering of the assembly.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהוֹצִ֣יא",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַפָּ֗ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מִחוּץ֙",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לַֽמַּחֲנֶ֔ה",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "וְשָׂרַ֣ף",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֹת֔וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "כַּאֲשֶׁ֣ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "שָׂרַ֔ף",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֵ֖ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַפָּ֣ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הָרִאשׁ֑וֹן",
+          "morph": "HTd/Aamsa"
+        },
+        {
+          "w": "חַטַּ֥את",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַקָּהָ֖ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הֽוּא",
+          "morph": "HPp3ms"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "官 長 若 行 了 耶 和 華 ─ 他 神 所 吩 咐 不 可 行 的 甚 麼 事 ， 誤 犯 了 罪 ，",
+      "en": "“‘Whenever a leader, by straying unintentionally, sins and violates one of the commandments of the Lord his God which must not be violated, and he pleads guilty,",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נָשִׂ֖יא",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יֶֽחֱטָ֑א",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְעָשָׂ֡ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אַחַ֣ת",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "מִכָּל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מִצְוֺת֩",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "יְהוָ֨ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהָ֜יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "אֲשֶׁ֧ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֵעָשֶׂ֛ינָה",
+          "morph": "HVNi3fp"
+        },
+        {
+          "w": "בִּשְׁגָגָ֖ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וְאָשֵֽׁם",
+          "morph": "HC/Vqq3ms"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "所 犯 的 罪 自 己 知 道 了 ， 就 要 牽 一 隻 沒 有 殘 疾 的 公 山 羊 為 供 物 ，",
+      "en": "or his sin that he committed is made known to him, he must bring a flawless male goat as his offering.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֽוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "הוֹדַ֤ע",
+          "morph": "HVHp3ms"
+        },
+        {
+          "w": "אֵלָיו֙",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "חַטָּאת֔וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "חָטָ֖א",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בָּ֑הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "וְהֵבִ֧יא",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "קָרְבָּנ֛וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "שְׂעִ֥יר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עִזִּ֖ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "זָכָ֥ר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "תָּמִֽים",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "按 手 在 羊 的 頭 上 ， 宰 於 耶 和 華 面 前 、 宰 燔 祭 牲 的 地 方 ； 這 是 贖 罪 祭 。",
+      "en": "He must lay his hand on the head of the male goat and slaughter it in the place where the burnt offering is slaughtered before the Lord—it is a sin offering.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְסָמַ֤ךְ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "יָדוֹ֙",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹ֣אשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשָּׂעִ֔יר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְשָׁחַ֣ט",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֹת֔וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "בִּמְק֛וֹם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִשְׁחַ֥ט",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעֹלָ֖ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "לִפְנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "חַטָּ֖את",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "הֽוּא",
+          "morph": "HPp3ms"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "祭 司 要 用 指 頭 蘸 些 贖 罪 祭 牲 的 血 ， 抹 在 燔 祭 壇 的 四 角 上 ， 把 血 倒 在 燔 祭 壇 的 腳 那 裡 。",
+      "en": "Then the priest must take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and he must pour out the rest of its blood at the base of the altar of burnt offering.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלָקַ֨ח",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֜ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִדַּ֤ם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַֽחַטָּאת֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "בְּאֶצְבָּע֔וֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "וְנָתַ֕ן",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "קַרְנֹ֖ת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "מִזְבַּ֣ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעֹלָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "דָּמ֣וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "יִשְׁפֹּ֔ךְ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְס֖וֹד",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִזְבַּ֥ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעֹלָֽה",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "所 有 的 脂 油 ， 祭 司 都 要 燒 在 壇 上 ， 正 如 平 安 祭 的 脂 油 一 樣 。 至 於 他 的 罪 ， 祭 司 要 為 他 贖 了 ， 他 必 蒙 赦 免 。",
+      "en": "Then the priest must offer all of its fat up in smoke on the altar like the fat of the peace-offering sacrifice. So the priest will make atonement on his behalf for his sin, and he will be forgiven.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חֶלְבּוֹ֙",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "יַקְטִ֣יר",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "הַמִּזְבֵּ֔חָה",
+          "morph": "HTd/Ncmsa/Sd"
+        },
+        {
+          "w": "כְּחֵ֖לֶב",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "זֶ֣בַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשְּׁלָמִ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְכִפֶּ֨ר",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "עָלָ֧יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֛ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מֵחַטָּאת֖וֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "וְנִסְלַ֥ח",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "לֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "民 中 若 有 人 行 了 耶 和 華 所 吩 咐 不 可 行 的 甚 麼 事 ， 誤 犯 了 罪 ，",
+      "en": "“‘If an ordinary individual sins by straying unintentionally when he violates one of the Lord’s commandments which must not be violated, and he pleads guilty,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "נֶ֧פֶשׁ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אַחַ֛ת",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "תֶּחֱטָ֥א",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "בִשְׁגָגָ֖ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "מֵעַ֣ם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "בַּ֠עֲשֹׂתָהּ",
+          "morph": "HR/Vqc/Sp3fs"
+        },
+        {
+          "w": "אַחַ֨ת",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "מִמִּצְוֺ֧ת",
+          "morph": "HR/Ncfpc"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֵעָשֶׂ֖ינָה",
+          "morph": "HVNi3fp"
+        },
+        {
+          "w": "וְאָשֵֽׁם",
+          "morph": "HC/Vqq3ms"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "所 犯 的 罪 自 己 知 道 了 ， 就 要 為 所 犯 的 罪 牽 一 隻 沒 有 殘 疾 的 母 山 羊 為 供 物 ，",
+      "en": "or his sin that he committed is made known to him, he must bring a flawless female goat as his offering for the sin that he committed.",
+      "notes": [],
+      "he": [
+        {
+          "w": "א֚וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "הוֹדַ֣ע",
+          "morph": "HVHp3ms"
+        },
+        {
+          "w": "אֵלָ֔יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "חַטָּאת֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "חָטָ֑א",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "וְהֵבִ֨יא",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "קָרְבָּנ֜וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "שְׂעִירַ֤ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "עִזִּים֙",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "תְּמִימָ֣ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "נְקֵבָ֔ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "חַטָּאת֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "חָטָֽא",
+          "morph": "HVqp3ms"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "按 手 在 贖 罪 祭 牲 的 頭 上 ， 在 那 宰 燔 祭 牲 的 地 方 宰 了 。",
+      "en": "He must lay his hand on the head of the sin offering and slaughter the sin offering in the place where the burnt offering is slaughtered.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְסָמַךְ֙",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יָד֔וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹ֣אשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַֽחַטָּ֑את",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְשָׁחַט֙",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַ֣חַטָּ֔את",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "בִּמְק֖וֹם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָעֹלָֽה",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "祭 司 要 用 指 頭 蘸 些 羊 的 血 ， 抹 在 燔 祭 壇 的 四 角 上 ， 所 有 的 血 都 要 倒 在 壇 的 腳 那 裡 ，",
+      "en": "Then the priest must take some of its blood with his finger and put it on the horns of the altar of burnt offering, and he must pour out all the rest of its blood at the base of the altar.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלָקַ֨ח",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֤ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִדָּמָהּ֙",
+          "morph": "HR/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "בְּאֶצְבָּע֔וֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "וְנָתַ֕ן",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "קַרְנֹ֖ת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "מִזְבַּ֣ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעֹלָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דָּמָ֣הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "יִשְׁפֹּ֔ךְ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְס֖וֹד",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמִּזְבֵּֽחַ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "又 要 把 羊 所 有 的 脂 油 都 取 下 ， 正 如 取 平 安 祭 牲 的 脂 油 一 樣 。 祭 司 要 在 壇 上 焚 燒 ， 在 耶 和 華 面 前 作 為 馨 香 的 祭 ， 為 他 贖 罪 ， 他 必 蒙 赦 免 。",
+      "en": "Then he must remove all of its fat (just as fat was removed from the peace-offering sacrifice), and the priest must offer it up in smoke on the altar for a soothing aroma to the Lord. So the priest will make atonement on his behalf, and he will be forgiven.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חֶלְבָּ֣הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "יָסִ֗יר",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "כַּאֲשֶׁ֨ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "הוּסַ֣ר",
+          "morph": "HVHp3ms"
+        },
+        {
+          "w": "חֵלֶב֮",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מֵעַ֣ל",
+          "morph": "HR/R"
+        },
+        {
+          "w": "זֶ֣בַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַשְּׁלָמִים֒",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְהִקְטִ֤יר",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "הַכֹּהֵן֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַמִּזְבֵּ֔חָה",
+          "morph": "HTd/Ncmsa/Sd"
+        },
+        {
+          "w": "לְרֵ֥יחַ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "נִיחֹ֖חַ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַיהוָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְכִפֶּ֥ר",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "עָלָ֛יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֖ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְנִסְלַ֥ח",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "לֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "人 若 牽 一 隻 綿 羊 羔 為 贖 罪 祭 的 供 物 ， 必 要 牽 一 隻 沒 有 殘 疾 的 母 羊 ，",
+      "en": "“‘But if he brings a sheep as his offering, for a sin offering, he must bring a flawless female.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "כֶּ֛בֶשׂ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יָבִ֥יא",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "קָרְבָּנ֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "לְחַטָּ֑את",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "נְקֵבָ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תְמִימָ֖ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "יְבִיאֶֽנָּה",
+          "morph": "HVhi3ms/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "按 手 在 贖 罪 祭 牲 的 頭 上 ， 在 那 宰 燔 祭 牲 的 地 方 宰 了 作 贖 罪 祭 。",
+      "en": "He must lay his hand on the head of the sin offering and slaughter it for a sin offering in the place where the burnt offering is slaughtered.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְסָמַךְ֙",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יָד֔וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "רֹ֣אשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַֽחַטָּ֑את",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְשָׁחַ֤ט",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֹתָהּ֙",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "לְחַטָּ֔את",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "בִּמְק֕וֹם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִשְׁחַ֖ט",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעֹלָֽה",
+          "morph": "HTd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "祭 司 要 用 指 頭 蘸 些 贖 罪 祭 牲 的 血 ， 抹 在 燔 祭 壇 的 四 角 上 ， 所 有 的 血 都 要 倒 在 壇 的 腳 那 裡 ，",
+      "en": "Then the priest must take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and he must pour out all the rest of its blood at the base of the altar.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלָקַ֨ח",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֜ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִדַּ֤ם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַֽחַטָּאת֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "בְּאֶצְבָּע֔וֹ",
+          "morph": "HR/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "וְנָתַ֕ן",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "קַרְנֹ֖ת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "מִזְבַּ֣ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעֹלָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דָּמָ֣הּ",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "יִשְׁפֹּ֔ךְ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְס֖וֹד",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמִּזְבֵּֽחַ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "又 要 把 所 有 的 脂 油 都 取 下 ， 正 如 取 平 安 祭 羊 羔 的 脂 油 一 樣 。 祭 司 要 按 獻 給 耶 和 華 火 祭 的 條 例 ， 燒 在 壇 上 。 至 於 所 犯 的 罪 ， 祭 司 要 為 他 贖 了 ， 他 必 蒙 赦 免 。",
+      "en": "Then the one who brought the offering must remove all its fat (just as the fat of the sheep is removed from the peace-offering sacrifice), and the priest must offer them up in smoke on the altar on top of the other gifts for the Lord. So the priest will make atonement on his behalf for his sin that he has committed, and he will be forgiven.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חֶלְבָּ֣ה",
+          "morph": "HNcmsc/Sp3fs"
+        },
+        {
+          "w": "יָסִ֗יר",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "כַּאֲשֶׁ֨ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "יוּסַ֥ר",
+          "morph": "HVHi3ms"
+        },
+        {
+          "w": "חֵֽלֶב",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַכֶּשֶׂב֮",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִזֶּ֣בַח",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַשְּׁלָמִים֒",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְהִקְטִ֨יר",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֤ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֹתָם֙",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "הַמִּזְבֵּ֔חָה",
+          "morph": "HTd/Ncmsa/Sd"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "אִשֵּׁ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְכִפֶּ֨ר",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "עָלָ֧יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֛ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "חַטָּאת֥וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "חָטָ֖א",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "וְנִסְלַ֥ח",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "לֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    }
+  ]
+}

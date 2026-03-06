@@ -1,0 +1,3250 @@
+{
+  "book": 42,
+  "chapter": 3,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "該 撒 提 庇 留 在 位 第 十 五 年 ， 本 丟 彼 拉 多 作 猶 太 巡 撫 ， 希 律 作 加 利 利 分 封 的 王 ， 他 兄 弟 腓 力 作 以 士 利 亞 和 特 拉 可 尼 地 方 分 封 的 王 ， 呂 撒 聶 作 亞 比 利 尼 分 封 的 王 ，",
+      "en": "In the fifteenth year of the reign of Tiberius Caesar, when Pontius Pilate was governor of Judea, and Herod was tetrarch of Galilee, and his brother Philip was tetrarch of the region of Iturea and Trachonitis, and Lysanias was tetrarch of Abilene,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἐν",
+          "morph": "PREP",
+          "gloss": "In"
+        },
+        {
+          "w": "ἔτει",
+          "morph": "N-DSN",
+          "gloss": "year"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "πεντεκαιδεκάτῳ",
+          "morph": "A-DSN",
+          "gloss": "fifteenth"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "ἡγεμονίας",
+          "morph": "N-GSF",
+          "gloss": "reign"
+        },
+        {
+          "w": "Τιβερίου",
+          "morph": "N-GSM",
+          "gloss": "of Tiberius"
+        },
+        {
+          "w": "Καίσαρος",
+          "morph": "N-GSM",
+          "gloss": "Caesar"
+        },
+        {
+          "w": "ἡγεμονεύοντος",
+          "morph": "V-PAP-GSM",
+          "gloss": "being governor"
+        },
+        {
+          "w": "Ποντίου",
+          "morph": "N-GSM",
+          "gloss": "Pontius"
+        },
+        {
+          "w": "Πειλάτου",
+          "morph": "N-GSM",
+          "gloss": "Pilate"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰουδαίας",
+          "morph": "N-GSF",
+          "gloss": "of Judea"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τετρααρχοῦντος",
+          "morph": "V-PAP-GSM",
+          "gloss": "being tetrarch"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Γαλιλαίας",
+          "morph": "N-GSF",
+          "gloss": "of Galilee"
+        },
+        {
+          "w": "Ἠρῴδου",
+          "morph": "N-GSM",
+          "gloss": "Herod"
+        },
+        {
+          "w": "Φιλίππου",
+          "morph": "N-GSM",
+          "gloss": "Philip"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀδελφοῦ",
+          "morph": "N-GSM",
+          "gloss": "brother"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "τετρααρχοῦντος",
+          "morph": "V-PAP-GSM",
+          "gloss": "being tetrarch"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰτουραίας",
+          "morph": "A-GSF",
+          "gloss": "of Ituraea"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Τραχωνίτιδος",
+          "morph": "N-GSF",
+          "gloss": "of Trachonitis"
+        },
+        {
+          "w": "χώρας",
+          "morph": "N-GSF",
+          "gloss": "[the] region"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Λυσανίου",
+          "morph": "N-GSM",
+          "gloss": "Lysanias"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀβιληνῆς",
+          "morph": "N-GSF",
+          "gloss": "of Abilene"
+        },
+        {
+          "w": "τετρααρχοῦντος",
+          "morph": "V-PAP-GSM",
+          "gloss": "being tetrarch"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "亞 那 和 該 亞 法 作 大 祭 司 。 那 時 ， 撒 迦 利 亞 的 兒 子 約 翰 在 曠 野 裡 ， 神 的 話 臨 到 他 。",
+      "en": "during the high priesthood of Annas and Caiaphas, the word of God came to John the son of Zechariah in the wilderness.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "during"
+        },
+        {
+          "w": "ἀρχιερέως",
+          "morph": "N-GSM",
+          "gloss": "[the] high priesthood"
+        },
+        {
+          "w": "Ἄννα",
+          "morph": "N-GSM",
+          "gloss": "of Annas"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Καϊάφα",
+          "morph": "N-GSM",
+          "gloss": "Caiaphas"
+        },
+        {
+          "w": "ἐγένετο",
+          "morph": "V-2ADI-3S",
+          "gloss": "came"
+        },
+        {
+          "w": "ῥῆμα",
+          "morph": "N-NSN",
+          "gloss": "[the] word"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "Ἰωάνην",
+          "morph": "N-ASM",
+          "gloss": "John"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ζαχαρίου",
+          "morph": "N-GSM",
+          "gloss": "of Zechariah"
+        },
+        {
+          "w": "υἱὸν",
+          "morph": "N-ASM",
+          "gloss": "son"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐρήμῳ",
+          "morph": "A-DSF",
+          "gloss": "wilderness"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "他 就 來 到 約 但 河 一 帶 地 方 ， 宣 講 悔 改 的 洗 禮 ， 使 罪 得 赦 。",
+      "en": "He went into all the region around the Jordan River, preaching a baptism of repentance for the forgiveness of sins.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἦλθεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "he went"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "πᾶσαν",
+          "morph": "A-ASF",
+          "gloss": "all"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "περίχωρον",
+          "morph": "A-ASF",
+          "gloss": "surrounding region"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Ἰορδάνου",
+          "morph": "N-GSM",
+          "gloss": "Jordan"
+        },
+        {
+          "w": "κηρύσσων",
+          "morph": "V-PAP-NSM",
+          "gloss": "proclaiming"
+        },
+        {
+          "w": "βάπτισμα",
+          "morph": "N-ASN",
+          "gloss": "a baptism"
+        },
+        {
+          "w": "μετανοίας",
+          "morph": "N-GSF",
+          "gloss": "of repentance"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "ἄφεσιν",
+          "morph": "N-ASF",
+          "gloss": "forgiveness"
+        },
+        {
+          "w": "ἁμαρτιῶν",
+          "morph": "N-GPF",
+          "gloss": "of sins"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "正 如 先 知 以 賽 亞 書 上 所 記 的 話 ， 說 ： 在 曠 野 有 人 聲 喊 著 說 ： 預 備 主 的 道 ， 修 直 他 的 路 ！",
+      "en": "As it is written in the book of the words of the prophet Isaiah, “The voice of one shouting in the wilderness: ‘Prepare the way for the Lord, make his paths straight.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὡς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "γέγραπται",
+          "morph": "V-RPI-3S",
+          "gloss": "it has been written"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "βίβλῳ",
+          "morph": "N-DSF",
+          "gloss": "[the] book"
+        },
+        {
+          "w": "λόγων",
+          "morph": "N-GPM",
+          "gloss": "of [the] words"
+        },
+        {
+          "w": "Ἠσαΐου",
+          "morph": "N-GSM",
+          "gloss": "of Isaiah"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "προφήτου",
+          "morph": "N-GSM",
+          "gloss": "prophet"
+        },
+        {
+          "w": "Φωνὴ",
+          "morph": "N-NSF",
+          "gloss": "[The] voice"
+        },
+        {
+          "w": "βοῶντος",
+          "morph": "V-PAP-GSM",
+          "gloss": "of one crying"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐρήμῳ",
+          "morph": "A-DSF",
+          "gloss": "wilderness"
+        },
+        {
+          "w": "Ἑτοιμάσατε",
+          "morph": "V-AAM-2P",
+          "gloss": "Prepare"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ὁδὸν",
+          "morph": "N-ASF",
+          "gloss": "way"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "of [the] Lord"
+        },
+        {
+          "w": "εὐθείας",
+          "morph": "A-APF",
+          "gloss": "straight"
+        },
+        {
+          "w": "ποιεῖτε",
+          "morph": "V-PAM-2P",
+          "gloss": "make"
+        },
+        {
+          "w": "τὰς",
+          "morph": "T-APF",
+          "gloss": "the"
+        },
+        {
+          "w": "τρίβους",
+          "morph": "N-APF",
+          "gloss": "paths"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "一 切 山 窪 都 要 填 滿 ； 大 小 山 岡 都 要 削 平 ！ 彎 彎 曲 曲 的 地 方 要 改 為 正 直 ； 高 高 低 低 的 道 路 要 改 為 平 坦 ！",
+      "en": "Every valley will be filled, and every mountain and hill will be brought low, and the crooked will be made straight, and the rough ways will be made smooth,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "πᾶσα",
+          "morph": "A-NSF",
+          "gloss": "Every"
+        },
+        {
+          "w": "φάραγξ",
+          "morph": "N-NSF",
+          "gloss": "valley"
+        },
+        {
+          "w": "πληρωθήσεται",
+          "morph": "V-FPI-3S",
+          "gloss": "will be filled"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πᾶν",
+          "morph": "A-NSN",
+          "gloss": "every"
+        },
+        {
+          "w": "ὄρος",
+          "morph": "N-NSN",
+          "gloss": "mountain"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "βουνὸς",
+          "morph": "N-NSM",
+          "gloss": "hill"
+        },
+        {
+          "w": "ταπεινωθήσεται",
+          "morph": "V-FPI-3S",
+          "gloss": "will be made low"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἔσται",
+          "morph": "V-FDI-3S",
+          "gloss": "will become"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-NPN",
+          "gloss": "the"
+        },
+        {
+          "w": "σκολιὰ",
+          "morph": "A-NPN",
+          "gloss": "crooked"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "εὐθείας",
+          "morph": "A-APF",
+          "gloss": "straight"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "αἱ",
+          "morph": "T-NPF",
+          "gloss": "the"
+        },
+        {
+          "w": "τραχεῖαι",
+          "morph": "A-NPF",
+          "gloss": "rough"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "ὁδοὺς",
+          "morph": "N-APF",
+          "gloss": "ways"
+        },
+        {
+          "w": "λείας",
+          "morph": "A-APF",
+          "gloss": "smooth"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "凡 有 血 氣 的 ， 都 要 見 神 的 救 恩 ！",
+      "en": "and all humanity will see the salvation of God.’”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὄψεται",
+          "morph": "V-FDI-3S",
+          "gloss": "will see"
+        },
+        {
+          "w": "πᾶσα",
+          "morph": "A-NSF",
+          "gloss": "all"
+        },
+        {
+          "w": "σὰρξ",
+          "morph": "N-NSF",
+          "gloss": "flesh"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "σωτήριον",
+          "morph": "A-ASN",
+          "gloss": "salvation"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "約 翰 對 那 出 來 要 受 他 洗 的 眾 人 說 ： 毒 蛇 的 種 類 ！ 誰 指 示 你 們 逃 避 將 來 的 忿 怒 呢 ？",
+      "en": "So John said to the crowds that came out to be baptized by him, “You offspring of vipers! Who warned you to flee from the coming wrath?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἔλεγεν",
+          "morph": "V-IAI-3S",
+          "gloss": "He was saying"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPM",
+          "gloss": "to the"
+        },
+        {
+          "w": "ἐκπορευομένοις",
+          "morph": "V-PNP-DPM",
+          "gloss": "coming out"
+        },
+        {
+          "w": "ὄχλοις",
+          "morph": "N-DPM",
+          "gloss": "crowds"
+        },
+        {
+          "w": "βαπτισθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be baptized"
+        },
+        {
+          "w": "ὑπ’",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "him"
+        },
+        {
+          "w": "Γεννήματα",
+          "morph": "N-VPN",
+          "gloss": "Offspring"
+        },
+        {
+          "w": "ἐχιδνῶν",
+          "morph": "N-GPF",
+          "gloss": "of vipers"
+        },
+        {
+          "w": "τίς",
+          "morph": "I-NSM",
+          "gloss": "who"
+        },
+        {
+          "w": "ὑπέδειξεν",
+          "morph": "V-AAI-3S",
+          "gloss": "forewarned"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "you"
+        },
+        {
+          "w": "φυγεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to flee"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "μελλούσης",
+          "morph": "V-PAP-GSF",
+          "gloss": "coming"
+        },
+        {
+          "w": "ὀργῆς",
+          "morph": "N-GSF",
+          "gloss": "wrath"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "你 們 要 結 出 果 子 來 ， 與 悔 改 的 心 相 稱 。 不 要 自 己 心 裡 說 ： 有 亞 伯 拉 罕 為 我 們 的 祖 宗 。 我 告 訴 你 們 ， 神 能 從 這 些 石 頭 中 ， 給 亞 伯 拉 罕 興 起 子 孫 來 。",
+      "en": "Therefore produce fruit that proves your repentance, and don’t begin to say to yourselves, ‘We have Abraham as our father.’ For I tell you that God can raise up children for Abraham from these stones!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ποιήσατε",
+          "morph": "V-AAM-2P",
+          "gloss": "Produce"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "καρποὺς",
+          "morph": "N-APM",
+          "gloss": "fruits"
+        },
+        {
+          "w": "ἀξίους",
+          "morph": "A-APM",
+          "gloss": "worthy"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "μετανοίας",
+          "morph": "N-GSF",
+          "gloss": "of repentance"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἄρξησθε",
+          "morph": "V-AMS-2P",
+          "gloss": "begin"
+        },
+        {
+          "w": "λέγειν",
+          "morph": "V-PAN",
+          "gloss": "to say"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ἑαυτοῖς",
+          "morph": "F-2DPM",
+          "gloss": "yourselves"
+        },
+        {
+          "w": "Πατέρα",
+          "morph": "N-ASM",
+          "gloss": "[As] father"
+        },
+        {
+          "w": "ἔχομεν",
+          "morph": "V-PAI-1P",
+          "gloss": "We have"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀβραάμ",
+          "morph": "N-PRI",
+          "gloss": "Abraham"
+        },
+        {
+          "w": "λέγω",
+          "morph": "V-PAI-1S",
+          "gloss": "I say"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "δύναται",
+          "morph": "V-PNI-3S",
+          "gloss": "is able"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "-"
+        },
+        {
+          "w": "λίθων",
+          "morph": "N-GPM",
+          "gloss": "stones"
+        },
+        {
+          "w": "τούτων",
+          "morph": "D-GPM",
+          "gloss": "these"
+        },
+        {
+          "w": "ἐγεῖραι",
+          "morph": "V-AAN",
+          "gloss": "to raise up"
+        },
+        {
+          "w": "τέκνα",
+          "morph": "N-APN",
+          "gloss": "children"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀβραάμ",
+          "morph": "N-PRI",
+          "gloss": "to Abraham"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "現 在 斧 子 已 經 放 在 樹 根 上 ， 凡 不 結 好 果 子 的 樹 就 砍 下 來 ， 丟 在 火 裡 。",
+      "en": "Even now the ax is laid at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἤδη",
+          "morph": "ADV",
+          "gloss": "Already"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀξίνη",
+          "morph": "N-NSF",
+          "gloss": "ax"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ῥίζαν",
+          "morph": "N-ASF",
+          "gloss": "root"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPN",
+          "gloss": "of the"
+        },
+        {
+          "w": "δένδρων",
+          "morph": "N-GPN",
+          "gloss": "trees"
+        },
+        {
+          "w": "κεῖται",
+          "morph": "V-PNI-3S",
+          "gloss": "is applied"
+        },
+        {
+          "w": "πᾶν",
+          "morph": "A-NSN",
+          "gloss": "every"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "δένδρον",
+          "morph": "N-NSN",
+          "gloss": "tree"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ποιοῦν",
+          "morph": "V-PAP-NSN",
+          "gloss": "producing"
+        },
+        {
+          "w": "καρπὸν",
+          "morph": "N-ASM",
+          "gloss": "fruit"
+        },
+        {
+          "w": "καλὸν",
+          "morph": "A-ASM",
+          "gloss": "good"
+        },
+        {
+          "w": "ἐκκόπτεται",
+          "morph": "V-PPI-3S",
+          "gloss": "is cut down"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "πῦρ",
+          "morph": "N-ASN",
+          "gloss": "[the] fire"
+        },
+        {
+          "w": "βάλλεται",
+          "morph": "V-PPI-3S",
+          "gloss": "is thrown"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "眾 人 問 他 說 ： 這 樣 ， 我 們 當 作 甚 麼 呢 ？",
+      "en": "So the crowds were asking him, “What then should we do?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἐπηρώτων",
+          "morph": "V-IAI-3P",
+          "gloss": "were asking"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "ὄχλοι",
+          "morph": "N-NPM",
+          "gloss": "crowds"
+        },
+        {
+          "w": "λέγοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Τί",
+          "morph": "I-ASN",
+          "gloss": "What"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ποιήσωμεν",
+          "morph": "V-AAS-1P",
+          "gloss": "shall we do"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "約 翰 回 答 說 ： 有 兩 件 衣 裳 的 ， 就 分 給 那 沒 有 的 ； 有 食 物 的 ， 也 當 這 樣 行 。",
+      "en": "John answered them, “The person who has two tunics must share with the person who has none, and the person who has food must do likewise.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀποκριθεὶς",
+          "morph": "V-AOP-NSM",
+          "gloss": "Answering"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ἔλεγεν",
+          "morph": "V-IAI-3S",
+          "gloss": "he was saying"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "Ὁ",
+          "morph": "T-NSM",
+          "gloss": "The [one]"
+        },
+        {
+          "w": "ἔχων",
+          "morph": "V-PAP-NSM",
+          "gloss": "having"
+        },
+        {
+          "w": "δύο",
+          "morph": "A-NUI",
+          "gloss": "two"
+        },
+        {
+          "w": "χιτῶνας",
+          "morph": "N-APM",
+          "gloss": "tunics"
+        },
+        {
+          "w": "μεταδότω",
+          "morph": "V-2AAM-3S",
+          "gloss": "let him impart"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "to the [one]"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "none"
+        },
+        {
+          "w": "ἔχοντι",
+          "morph": "V-PAP-DSM",
+          "gloss": "having"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [one]"
+        },
+        {
+          "w": "ἔχων",
+          "morph": "V-PAP-NSM",
+          "gloss": "having"
+        },
+        {
+          "w": "βρώματα",
+          "morph": "N-APN",
+          "gloss": "food"
+        },
+        {
+          "w": "ὁμοίως",
+          "morph": "ADV",
+          "gloss": "likewise"
+        },
+        {
+          "w": "ποιείτω",
+          "morph": "V-PAM-3S",
+          "gloss": "let him do"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "又 有 稅 吏 來 要 受 洗 ， 問 他 說 ： 夫 子 ， 我 們 當 作 甚 麼 呢 ？",
+      "en": "Tax collectors also came to be baptized, and they said to him, “Teacher, what should we do?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἦλθον",
+          "morph": "V-2AAI-3P",
+          "gloss": "Came"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "τελῶναι",
+          "morph": "N-NPM",
+          "gloss": "tax collectors"
+        },
+        {
+          "w": "βαπτισθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be baptized"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "they said"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "Διδάσκαλε",
+          "morph": "N-VSM",
+          "gloss": "Teacher"
+        },
+        {
+          "w": "τί",
+          "morph": "I-ASN",
+          "gloss": "what"
+        },
+        {
+          "w": "ποιήσωμεν",
+          "morph": "V-AAS-1P",
+          "gloss": "shall we do"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "約 翰 說 ： 除 了 例 定 的 數 目 ， 不 要 多 取 。",
+      "en": "He told them, “Collect no more than you are required to.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "he said"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "αὐτούς",
+          "morph": "P-APM",
+          "gloss": "them"
+        },
+        {
+          "w": "Μηδὲν",
+          "morph": "A-ASN-N",
+          "gloss": "Nothing"
+        },
+        {
+          "w": "πλέον",
+          "morph": "A-ASN-C",
+          "gloss": "more"
+        },
+        {
+          "w": "παρὰ",
+          "morph": "PREP",
+          "gloss": "beyond"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "that"
+        },
+        {
+          "w": "διατεταγμένον",
+          "morph": "V-RPP-ASN",
+          "gloss": "having been appointed"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "πράσσετε",
+          "morph": "V-PAM-2P",
+          "gloss": "collect"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "又 有 兵 丁 問 他 說 ： 我 們 當 作 甚 麼 呢 ？ 約 翰 說 ： 不 要 以 強 暴 待 人 ， 也 不 要 訛 詐 人 ， 自 己 有 錢 糧 就 當 知 足 。",
+      "en": "Then some soldiers also asked him, “And as for us—what should we do?” He told them, “Take money from no one by violence or by false accusation, and be content with your pay.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐπηρώτων",
+          "morph": "V-IAI-3P",
+          "gloss": "Were asking"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "στρατευόμενοι",
+          "morph": "V-PMP-NPM",
+          "gloss": "those being soldiers"
+        },
+        {
+          "w": "λέγοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Τί",
+          "morph": "I-ASN",
+          "gloss": "What"
+        },
+        {
+          "w": "ποιήσωμεν",
+          "morph": "V-AAS-1P",
+          "gloss": "shall do"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "ἡμεῖς",
+          "morph": "P-1NP",
+          "gloss": "we"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "he said"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "Μηδένα",
+          "morph": "A-ASM-N",
+          "gloss": "No one"
+        },
+        {
+          "w": "διασείσητε",
+          "morph": "V-AAS-2P",
+          "gloss": "extort"
+        },
+        {
+          "w": "μηδὲ",
+          "morph": "CONJ-N",
+          "gloss": "nor"
+        },
+        {
+          "w": "συκοφαντήσητε",
+          "morph": "V-AAS-2P",
+          "gloss": "accuse falsely"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀρκεῖσθε",
+          "morph": "V-PPM-2P",
+          "gloss": "be content with"
+        },
+        {
+          "w": "τοῖς",
+          "morph": "T-DPN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀψωνίοις",
+          "morph": "N-DPN",
+          "gloss": "wages"
+        },
+        {
+          "w": "ὑμῶν",
+          "morph": "P-2GP",
+          "gloss": "of you"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "百 姓 指 望 基 督 來 的 時 候 ， 人 都 心 裡 猜 疑 ， 或 者 約 翰 是 基 督 。",
+      "en": "While the people were filled with anticipation and they all wondered whether perhaps John could be the Christ,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Προσδοκῶντος",
+          "morph": "V-PAP-GSM",
+          "gloss": "Are expecting"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "λαοῦ",
+          "morph": "N-GSM",
+          "gloss": "people"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "διαλογιζομένων",
+          "morph": "V-PNP-GPM",
+          "gloss": "wondering"
+        },
+        {
+          "w": "πάντων",
+          "morph": "A-GPM",
+          "gloss": "all"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "καρδίαις",
+          "morph": "N-DPF",
+          "gloss": "hearts"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "περὶ",
+          "morph": "PREP",
+          "gloss": "concerning"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωάνου",
+          "morph": "N-GSM",
+          "gloss": "John"
+        },
+        {
+          "w": "μή",
+          "morph": "PRT-N",
+          "gloss": "whether"
+        },
+        {
+          "w": "ποτε",
+          "morph": "ADV",
+          "gloss": "ever"
+        },
+        {
+          "w": "αὐτὸς",
+          "morph": "P-NSM",
+          "gloss": "he"
+        },
+        {
+          "w": "εἴη",
+          "morph": "V-PAO-3S",
+          "gloss": "might be"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Χριστός",
+          "morph": "N-NSM",
+          "gloss": "Christ"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "約 翰 說 ： 我 是 用 水 給 你 們 施 洗 ， 但 有 一 位 能 力 比 我 更 大 的 要 來 ， 我 就 是 給 他 解 鞋 帶 也 不 配 。 他 要 用 聖 靈 與 火 給 你 們 施 洗 。",
+      "en": "John answered them all, “I baptize you with water, but one more powerful than I am is coming—I am not worthy to untie the strap of his sandals. He will baptize you with the Holy Spirit and fire.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπεκρίνατο",
+          "morph": "V-ADI-3S",
+          "gloss": "Answered"
+        },
+        {
+          "w": "λέγων",
+          "morph": "V-PAP-NSM",
+          "gloss": "saying"
+        },
+        {
+          "w": "πᾶσιν",
+          "morph": "A-DPM",
+          "gloss": "[to] all"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωάνης",
+          "morph": "N-NSM",
+          "gloss": "John"
+        },
+        {
+          "w": "Ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "μὲν",
+          "morph": "PRT",
+          "gloss": "indeed"
+        },
+        {
+          "w": "ὕδατι",
+          "morph": "N-DSN",
+          "gloss": "with water"
+        },
+        {
+          "w": "βαπτίζω",
+          "morph": "V-PAI-1S",
+          "gloss": "baptize"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "ἔρχεται",
+          "morph": "V-PNI-3S",
+          "gloss": "comes"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [One]"
+        },
+        {
+          "w": "ἰσχυρότερός",
+          "morph": "A-NSM-C",
+          "gloss": "mightier"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "than I"
+        },
+        {
+          "w": "οὗ",
+          "morph": "R-GSM",
+          "gloss": "of whom"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "εἰμὶ",
+          "morph": "V-PAI-1S",
+          "gloss": "I am"
+        },
+        {
+          "w": "ἱκανὸς",
+          "morph": "A-NSM",
+          "gloss": "worthy"
+        },
+        {
+          "w": "λῦσαι",
+          "morph": "V-AAN",
+          "gloss": "to untie"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἱμάντα",
+          "morph": "N-ASM",
+          "gloss": "strap"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPN",
+          "gloss": "of the"
+        },
+        {
+          "w": "ὑποδημάτων",
+          "morph": "N-GPN",
+          "gloss": "sandals"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "αὐτὸς",
+          "morph": "P-NSM",
+          "gloss": "He"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "βαπτίσει",
+          "morph": "V-FAI-3S",
+          "gloss": "will baptize"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "Πνεύματι",
+          "morph": "N-DSN",
+          "gloss": "[the] Spirit"
+        },
+        {
+          "w": "Ἁγίῳ",
+          "morph": "A-DSN",
+          "gloss": "Holy"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πυρί",
+          "morph": "N-DSN",
+          "gloss": "with fire"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "他 手 裡 拿 著 簸 箕 ， 要 揚 淨 他 的 場 ， 把 麥 子 收 在 倉 裡 ， 把 糠 用 不 滅 的 火 燒 盡 了 。",
+      "en": "His winnowing fork is in his hand to clean out his threshing floor and to gather the wheat into his storehouse, but the chaff he will burn up with inextinguishable fire.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὗ",
+          "morph": "R-GSM",
+          "gloss": "of whom"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "πτύον",
+          "morph": "N-NSN",
+          "gloss": "winnowing fork [is]"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "χειρὶ",
+          "morph": "N-DSF",
+          "gloss": "hand"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "διακαθᾶραι",
+          "morph": "V-AAN",
+          "gloss": "to clear"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἅλωνα",
+          "morph": "N-ASF",
+          "gloss": "threshing floor"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "συναγαγεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to gather"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "σῖτον",
+          "morph": "N-ASM",
+          "gloss": "wheat"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀποθήκην",
+          "morph": "N-ASF",
+          "gloss": "barn"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "But"
+        },
+        {
+          "w": "ἄχυρον",
+          "morph": "N-ASN",
+          "gloss": "the chaff"
+        },
+        {
+          "w": "κατακαύσει",
+          "morph": "V-FAI-3S",
+          "gloss": "He will burn up"
+        },
+        {
+          "w": "πυρὶ",
+          "morph": "N-DSN",
+          "gloss": "with fire"
+        },
+        {
+          "w": "ἀσβέστῳ",
+          "morph": "A-DSN",
+          "gloss": "unquenchable"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "約 翰 又 用 許 多 別 的 話 勸 百 姓 ， 向 他 們 傳 福 音 。",
+      "en": "And in this way, with many other exhortations, John proclaimed good news to the people.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Πολλὰ",
+          "morph": "A-APN",
+          "gloss": "Many"
+        },
+        {
+          "w": "μὲν",
+          "morph": "PRT",
+          "gloss": "indeed"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "other"
+        },
+        {
+          "w": "ἕτερα",
+          "morph": "A-APN",
+          "gloss": "things"
+        },
+        {
+          "w": "παρακαλῶν",
+          "morph": "V-PAP-NSM",
+          "gloss": "exhorting"
+        },
+        {
+          "w": "εὐηγγελίζετο",
+          "morph": "V-IMI-3S",
+          "gloss": "he was preaching the good news to"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "λαόν",
+          "morph": "N-ASM",
+          "gloss": "people"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "只 是 分 封 的 王 希 律 ， 因 他 兄 弟 之 妻 希 羅 底 的 緣 故 ， 並 因 他 所 行 的 一 切 惡 事 ， 受 了 約 翰 的 責 備 ；",
+      "en": "But when John rebuked Herod the tetrarch because of Herodias, his brother’s wife, and because of all the evil deeds that he had done,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "Ἠρῴδης",
+          "morph": "N-NSM",
+          "gloss": "Herod"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "τετραάρχης",
+          "morph": "N-NSM",
+          "gloss": "tetrarch"
+        },
+        {
+          "w": "ἐλεγχόμενος",
+          "morph": "V-PPP-NSM",
+          "gloss": "being reproved"
+        },
+        {
+          "w": "ὑπ’",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "him"
+        },
+        {
+          "w": "περὶ",
+          "morph": "PREP",
+          "gloss": "concerning"
+        },
+        {
+          "w": "Ἠρῳδιάδος",
+          "morph": "N-GSF",
+          "gloss": "Herodias"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γυναικὸς",
+          "morph": "N-GSF",
+          "gloss": "wife"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "ἀδελφοῦ",
+          "morph": "N-GSM",
+          "gloss": "brother"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "περὶ",
+          "morph": "PREP",
+          "gloss": "concerning"
+        },
+        {
+          "w": "πάντων",
+          "morph": "A-GPN",
+          "gloss": "all"
+        },
+        {
+          "w": "ὧν",
+          "morph": "R-GPN",
+          "gloss": "that"
+        },
+        {
+          "w": "ἐποίησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "had done"
+        },
+        {
+          "w": "πονηρῶν",
+          "morph": "A-GPN",
+          "gloss": "[the] evils"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἠρῴδης",
+          "morph": "N-NSM",
+          "gloss": "Herod"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "又 另 外 添 了 一 件 ， 就 是 把 約 翰 收 在 監 裡 。",
+      "en": "Herod added this to them all: He locked up John in prison.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "προσέθηκεν",
+          "morph": "V-AAI-3S",
+          "gloss": "added"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "yet"
+        },
+        {
+          "w": "τοῦτο",
+          "morph": "D-ASN",
+          "gloss": "this"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "πᾶσιν",
+          "morph": "A-DPN",
+          "gloss": "all"
+        },
+        {
+          "w": "κατέκλεισεν",
+          "morph": "V-AAI-3S",
+          "gloss": "he locked up"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωάνην",
+          "morph": "N-ASM",
+          "gloss": "John"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "φυλακῇ",
+          "morph": "N-DSF",
+          "gloss": "prison"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "眾 百 姓 都 受 了 洗 ， 耶 穌 也 受 了 洗 。 正 禱 告 的 時 候 ， 天 就 開 了 ，",
+      "en": "Now when all the people were baptized, Jesus also was baptized. And while he was praying, the heavens opened,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἐγένετο",
+          "morph": "V-2ADI-3S",
+          "gloss": "It came to pass"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSN",
+          "gloss": "-"
+        },
+        {
+          "w": "βαπτισθῆναι",
+          "morph": "V-APN",
+          "gloss": "having been baptized"
+        },
+        {
+          "w": "ἅπαντα",
+          "morph": "A-ASM",
+          "gloss": "all"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "λαὸν",
+          "morph": "N-ASM",
+          "gloss": "people"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Ἰησοῦ",
+          "morph": "N-GSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "βαπτισθέντος",
+          "morph": "V-APP-GSM",
+          "gloss": "having been baptized"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "προσευχομένου",
+          "morph": "V-PNP-GSM",
+          "gloss": "having prayed"
+        },
+        {
+          "w": "ἀνεῳχθῆναι",
+          "morph": "V-APN",
+          "gloss": "was opened"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "οὐρανὸν",
+          "morph": "N-ASM",
+          "gloss": "heaven"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "聖 靈 降 臨 在 他 身 上 ， 形 狀 彷 彿 鴿 子 ； 又 有 聲 音 從 天 上 來 ， 說 ： 你 是 我 的 愛 子 ， 我 喜 悅 你 。",
+      "en": "and the Holy Spirit descended on him in bodily form like a dove. And a voice came from heaven, “You are my one dear Son; in you I take great delight.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "καταβῆναι",
+          "morph": "V-2AAN",
+          "gloss": "descended"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "Πνεῦμα",
+          "morph": "N-ASN",
+          "gloss": "Spirit"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἅγιον",
+          "morph": "A-ASN",
+          "gloss": "Holy"
+        },
+        {
+          "w": "σωματικῷ",
+          "morph": "A-DSN",
+          "gloss": "in a bodily"
+        },
+        {
+          "w": "εἴδει",
+          "morph": "N-DSN",
+          "gloss": "form"
+        },
+        {
+          "w": "ὡς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "περιστερὰν",
+          "morph": "N-ASF",
+          "gloss": "a dove"
+        },
+        {
+          "w": "ἐπ’",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "φωνὴν",
+          "morph": "N-ASF",
+          "gloss": "a voice"
+        },
+        {
+          "w": "ἐξ",
+          "morph": "PREP",
+          "gloss": "out of"
+        },
+        {
+          "w": "οὐρανοῦ",
+          "morph": "N-GSM",
+          "gloss": "heaven"
+        },
+        {
+          "w": "γενέσθαι",
+          "morph": "V-2ADN",
+          "gloss": "came"
+        },
+        {
+          "w": "Σὺ",
+          "morph": "P-2NS",
+          "gloss": "You"
+        },
+        {
+          "w": "εἶ",
+          "morph": "V-PAI-2S",
+          "gloss": "are"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Υἱός",
+          "morph": "N-NSM",
+          "gloss": "Son"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of Me"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀγαπητός",
+          "morph": "A-NSM",
+          "gloss": "beloved"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "σοὶ",
+          "morph": "P-2DS",
+          "gloss": "You"
+        },
+        {
+          "w": "εὐδόκησα",
+          "morph": "V-AAI-1S",
+          "gloss": "I am well pleased"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "耶 穌 開 頭 傳 道 ， 年 紀 約 有 三 十 歲 。 依 人 看 來 ， 他 是 約 瑟 的 兒 子 ； 約 瑟 是 希 里 的 兒 子 ；",
+      "en": "So Jesus, when he began his ministry, was about thirty years old. He was the son (as was supposed) of Joseph, the son of Heli,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "αὐτὸς",
+          "morph": "P-NSM",
+          "gloss": "Himself"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "was"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "ἀρχόμενος",
+          "morph": "V-PMP-NSM",
+          "gloss": "beginning"
+        },
+        {
+          "w": "ὡσεὶ",
+          "morph": "ADV",
+          "gloss": "about"
+        },
+        {
+          "w": "ἐτῶν",
+          "morph": "N-GPN",
+          "gloss": "years [old]"
+        },
+        {
+          "w": "τριάκοντα",
+          "morph": "A-NUI",
+          "gloss": "thirty"
+        },
+        {
+          "w": "ὢν",
+          "morph": "V-PAP-NSM",
+          "gloss": "being"
+        },
+        {
+          "w": "υἱός",
+          "morph": "N-NSM",
+          "gloss": "son"
+        },
+        {
+          "w": "ὡς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "ἐνομίζετο",
+          "morph": "V-IPI-3S",
+          "gloss": "was supposed"
+        },
+        {
+          "w": "Ἰωσὴφ",
+          "morph": "N-PRI",
+          "gloss": "of Joseph"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἠλεὶ",
+          "morph": "N-PRI",
+          "gloss": "of Heli"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "希 里 是 瑪 塔 的 兒 子 ； 瑪 塔 是 利 未 的 兒 子 ； 利 未 是 麥 基 的 兒 子 ； 麥 基 是 雅 拿 的 兒 子 ； 雅 拿 是 約 瑟 的 兒 子 ；",
+      "en": "the son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ματθὰτ",
+          "morph": "N-PRI",
+          "gloss": "of Matthat"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Λευεὶ",
+          "morph": "N-PRI",
+          "gloss": "of Levi"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Μελχεὶ",
+          "morph": "N-PRI",
+          "gloss": "of Melchi"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰανναὶ",
+          "morph": "N-PRI",
+          "gloss": "of Jannai"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωσὴφ",
+          "morph": "N-PRI",
+          "gloss": "of Joseph"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "約 瑟 是 瑪 他 提 亞 的 兒 子 ； 瑪 他 提 亞 是 亞 摩 斯 的 兒 子 ； 亞 摩 斯 是 拿 鴻 的 兒 子 ； 拿 鴻 是 以 斯 利 的 兒 子 ； 以 斯 利 是 拿 該 的 兒 子 ；",
+      "en": "the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ματταθίου",
+          "morph": "N-GSM",
+          "gloss": "of Mattathias"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀμὼς",
+          "morph": "N-PRI",
+          "gloss": "of Amos"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ναοὺμ",
+          "morph": "N-PRI",
+          "gloss": "of Nahum"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἐσλεὶ",
+          "morph": "N-PRI",
+          "gloss": "of Esli"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ναγγαὶ",
+          "morph": "N-PRI",
+          "gloss": "of Naggai"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "拿 該 是 瑪 押 的 兒 子 ； 瑪 押 是 瑪 他 提 亞 的 兒 子 ； 瑪 他 提 亞 是 西 美 的 兒 子 ； 西 美 是 約 瑟 的 兒 子 ； 約 瑟 是 猶 大 的 兒 子 ； 猶 大 是 約 亞 拿 的 兒 子 ；",
+      "en": "the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Μαὰθ",
+          "morph": "N-PRI",
+          "gloss": "of Maath"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ματταθίου",
+          "morph": "N-GSM",
+          "gloss": "of Mattathias"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Σεμεεὶν",
+          "morph": "N-PRI",
+          "gloss": "of Semein"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωσὴχ",
+          "morph": "N-PRI",
+          "gloss": "of Josech"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωδὰ",
+          "morph": "N-PRI",
+          "gloss": "of Joda"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "約 亞 拿 是 利 撒 的 兒 子 ； 利 撒 是 所 羅 巴 伯 的 兒 子 ； 所 羅 巴 伯 是 撒 拉 鐵 的 兒 子 ； 撒 拉 鐵 是 尼 利 的 兒 子 ； 尼 利 是 麥 基 的 兒 子 ；",
+      "en": "the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωανὰν",
+          "morph": "N-PRI",
+          "gloss": "of Joannen"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ῥησὰ",
+          "morph": "N-PRI",
+          "gloss": "of Rhesa"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ζοροβάβελ",
+          "morph": "N-PRI",
+          "gloss": "of Zerubbabel"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Σαλαθιὴλ",
+          "morph": "N-PRI",
+          "gloss": "of Shealtiel"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Νηρεὶ",
+          "morph": "N-PRI",
+          "gloss": "of Neri"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "麥 基 是 亞 底 的 兒 子 ； 亞 底 是 哥 桑 的 兒 子 ； 哥 桑 是 以 摩 當 的 兒 子 ； 以 摩 當 是 珥 的 兒 子 ； 珥 是 約 細 的 兒 子 ；",
+      "en": "the son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Μελχεὶ",
+          "morph": "N-PRI",
+          "gloss": "of Melchi"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀδδεὶ",
+          "morph": "N-PRI",
+          "gloss": "of Addi"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Κωσὰμ",
+          "morph": "N-PRI",
+          "gloss": "of Cosam"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἐλμαδὰμ",
+          "morph": "N-PRI",
+          "gloss": "of Elmadam"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἢρ",
+          "morph": "N-PRI",
+          "gloss": "of Er"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "約 細 是 以 利 以 謝 的 兒 子 ； 以 利 以 謝 是 約 令 的 兒 子 ； 約 令 是 瑪 塔 的 兒 子 ； 瑪 塔 是 利 未 的 兒 子 ；",
+      "en": "the son of Joshua, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰησοῦ",
+          "morph": "N-GSM",
+          "gloss": "of Joshua"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἐλιέζερ",
+          "morph": "N-PRI",
+          "gloss": "of Eliezer"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωρεὶμ",
+          "morph": "N-PRI",
+          "gloss": "of Jorim"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Μαθθὰτ",
+          "morph": "N-PRI",
+          "gloss": "of Matthat"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Λευεὶ",
+          "morph": "N-PRI",
+          "gloss": "of Levi"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "利 未 是 西 緬 的 兒 子 ； 西 緬 是 猶 大 的 兒 子 ； 猶 大 是 約 瑟 的 兒 子 ； 約 瑟 是 約 南 的 兒 子 ； 約 南 是 以 利 亞 敬 的 兒 子 ；",
+      "en": "the son of Simeon, the son of Judah, the son of Joseph, the son of Jonam, the son of Eliakim,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Συμεὼν",
+          "morph": "N-PRI",
+          "gloss": "of Simeon"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰούδα",
+          "morph": "N-GSM",
+          "gloss": "of Judah"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωσὴφ",
+          "morph": "N-PRI",
+          "gloss": "of Joseph"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωνὰμ",
+          "morph": "N-PRI",
+          "gloss": "of Jonam"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἐλιακεὶμ",
+          "morph": "N-PRI",
+          "gloss": "of Eliakim"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "以 利 亞 敬 是 米 利 亞 的 兒 子 ； 米 利 亞 是 買 南 的 兒 子 ； 買 南 是 瑪 達 他 的 兒 子 ； 瑪 達 他 是 拿 單 的 兒 子 ； 拿 單 是 大 衛 的 兒 子 ；",
+      "en": "the son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Μελεὰ",
+          "morph": "N-PRI",
+          "gloss": "of Melea"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Μεννὰ",
+          "morph": "N-PRI",
+          "gloss": "of Menna"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ματταθὰ",
+          "morph": "N-PRI",
+          "gloss": "of Mattatha"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ναθὰμ",
+          "morph": "N-PRI",
+          "gloss": "of Nathan"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Δαυεὶδ",
+          "morph": "N-PRI",
+          "gloss": "of David"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "大 衛 是 耶 西 的 兒 子 ； 耶 西 是 俄 備 得 的 兒 子 ； 俄 備 得 是 波 阿 斯 的 兒 子 ； 波 阿 斯 是 撒 門 的 兒 子 ； 撒 門 是 拿 順 的 兒 子 ；",
+      "en": "the son of Jesse, the son of Obed, the son of Boaz, the son of Sala, the son of Nahshon,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰεσσαὶ",
+          "morph": "N-PRI",
+          "gloss": "of Jesse"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωβὴδ",
+          "morph": "N-PRI",
+          "gloss": "of Obed"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Βοὸς",
+          "morph": "N-PRI",
+          "gloss": "of Boaz"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Σαλὰ",
+          "morph": "N-PRI",
+          "gloss": "of Sala"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ναασσὼν",
+          "morph": "N-PRI",
+          "gloss": "of Nahshon"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "拿 順 是 亞 米 拿 達 的 兒 子 ； 亞 米 拿 達 是 亞 蘭 的 兒 子 ； 亞 蘭 是 希 斯 崙 的 兒 子 ； 希 斯 崙 是 法 勒 斯 的 兒 子 ； 法 勒 斯 是 猶 大 的 兒 子 ；",
+      "en": "the son of Amminadab, the son of Admin, the son of Arni, the son of Hezron, the son of Perez, the son of Judah,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀμιναδὰβ",
+          "morph": "N-PRI",
+          "gloss": "of Amminadab"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀδμεὶν",
+          "morph": "N-PRI",
+          "gloss": "of Admin"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀρνεὶ",
+          "morph": "N-PRI",
+          "gloss": "of Arni"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἐσρὼμ",
+          "morph": "N-PRI",
+          "gloss": "of Hezron"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Φαρὲς",
+          "morph": "N-PRI",
+          "gloss": "of Perez"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰούδα",
+          "morph": "N-GSM",
+          "gloss": "of Judah"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "猶 大 是 雅 各 的 兒 子 ； 雅 各 是 以 撒 的 兒 子 ； 以 撒 是 亞 伯 拉 罕 的 兒 子 ； 亞 伯 拉 罕 是 他 拉 的 兒 子 ； 他 拉 是 拿 鶴 的 兒 子 ；",
+      "en": "the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰακὼβ",
+          "morph": "N-PRI",
+          "gloss": "of Jacob"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰσαὰκ",
+          "morph": "N-PRI",
+          "gloss": "of Isaac"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀβραὰμ",
+          "morph": "N-PRI",
+          "gloss": "of Abraham"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θάρα",
+          "morph": "N-PRI",
+          "gloss": "of Terah"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ναχὼρ",
+          "morph": "N-PRI",
+          "gloss": "of Nahor"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "拿 鶴 是 西 鹿 的 兒 子 ； 西 鹿 是 拉 吳 的 兒 子 ； 拉 吳 是 法 勒 的 兒 子 ； 法 勒 是 希 伯 的 兒 子 ； 希 伯 是 沙 拉 的 兒 子 ；",
+      "en": "the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Σεροὺχ",
+          "morph": "N-PRI",
+          "gloss": "of Serug"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ῥαγαῦ",
+          "morph": "N-PRI",
+          "gloss": "of Reu"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Φάλεκ",
+          "morph": "N-PRI",
+          "gloss": "of Peleg"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἔβερ",
+          "morph": "N-PRI",
+          "gloss": "of Heber"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Σαλὰ",
+          "morph": "N-PRI",
+          "gloss": "of Shelah"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "沙 拉 是 該 南 的 兒 子 ； 該 南 是 亞 法 撒 的 兒 子 ； 亞 法 撒 是 閃 的 兒 子 ； 閃 是 挪 亞 的 兒 子 ； 挪 亞 是 拉 麥 的 兒 子 ；",
+      "en": "the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Καϊνὰμ",
+          "morph": "N-PRI",
+          "gloss": "of Cainan"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀρφαξὰδ",
+          "morph": "N-PRI",
+          "gloss": "of Arphaxad"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Σὴμ",
+          "morph": "N-PRI",
+          "gloss": "of Shem"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Νῶε",
+          "morph": "N-PRI",
+          "gloss": "of Noah"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Λάμεχ",
+          "morph": "N-PRI",
+          "gloss": "of Lamech"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "zh": "拉 麥 是 瑪 土 撒 拉 的 兒 子 ； 瑪 土 撒 拉 是 以 諾 的 兒 子 ； 以 諾 是 雅 列 的 兒 子 ； 雅 列 是 瑪 勒 列 的 兒 子 ； 瑪 勒 列 是 該 南 的 兒 子 ； 該 南 是 以 挪 士 的 兒 子 ；",
+      "en": "the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel, the son of Kenan,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Μαθουσαλὰ",
+          "morph": "N-PRI",
+          "gloss": "of Methuselah"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἐνὼχ",
+          "morph": "N-PRI",
+          "gloss": "of Enoch"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰάρετ",
+          "morph": "N-PRI",
+          "gloss": "of Jared"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Μαλελεὴλ",
+          "morph": "N-PRI",
+          "gloss": "of Mahalalel"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Καϊνὰμ",
+          "morph": "N-PRI",
+          "gloss": "of Cainan"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "zh": "以 挪 士 是 塞 特 的 兒 子 ； 塞 特 是 亞 當 的 兒 子 ； 亞 當 是 神 的 兒 子 。",
+      "en": "the son of Enosh, the son of Seth, the son of Adam, the son of God.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἐνὼς",
+          "morph": "N-PRI",
+          "gloss": "of Enosh"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Σὴθ",
+          "morph": "N-PRI",
+          "gloss": "of Seth"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀδὰμ",
+          "morph": "N-PRI",
+          "gloss": "of Adam"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        }
+      ]
+    }
+  ]
+}

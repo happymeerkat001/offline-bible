@@ -1,0 +1,2310 @@
+{
+  "book": 4,
+  "chapter": 33,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "以 色 列 人 按 著 軍 隊 ， 在 摩 西 、 亞 倫 的 手 下 出 埃 及 地 所 行 的 路 程 （ 或 作 ： 站 口 ； 下 同 ） 記 在 下 面 。",
+      "en": "These are the journeys of the Israelites, who went out of the land of Egypt by their divisions under the authority of Moses and Aaron.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֵ֜לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "מַסְעֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֗ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יָצְא֛וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מֵאֶ֥רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרַ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְצִבְאֹתָ֑ם",
+          "morph": "HR/Ncbpc/Sp3mp"
+        },
+        {
+          "w": "בְּיַד",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מֹשֶׁ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאַהֲרֹֽן",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "摩 西 遵 著 耶 和 華 的 吩 咐 記 載 他 們 所 行 的 路 程 ， 其 路 程 乃 是 這 樣 ：",
+      "en": "Moses recorded their departures according to their journeys, by the commandment of the Lord; now these are their journeys according to their departures.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּכְתֹּ֨ב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מֹשֶׁ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מוֹצָאֵיהֶ֛ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "לְמַסְעֵיהֶ֖ם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "פִּ֣י",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֵ֥לֶּה",
+          "morph": "HC/Pdxcp"
+        },
+        {
+          "w": "מַסְעֵיהֶ֖ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "לְמוֹצָאֵיהֶֽם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "正 月 十 五 日 ， 就 是 逾 越 節 的 次 日 ， 以 色 列 人 從 蘭 塞 起 行 ， 在 一 切 埃 及 人 眼 前 昂 然 無 懼 的 出 去 。",
+      "en": "They departed from Rameses in the first month, on the fifteenth day of the first month; on the day after the Passover the Israelites went out defiantly in plain sight of all the Egyptians.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֤וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵֽרַעְמְסֵס֙",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בַּחֹ֣דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הָֽרִאשׁ֔וֹן",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "בַּחֲמִשָּׁ֥ה",
+          "morph": "HR/Acmsa"
+        },
+        {
+          "w": "עָשָׂ֛ר",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "י֖וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַחֹ֣דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הָרִאשׁ֑וֹן",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "מִֽמָּחֳרַ֣ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הַפֶּ֗סַח",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "יָצְא֤וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּיָ֣ד",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "רָמָ֔ה",
+          "morph": "HVqrfsa"
+        },
+        {
+          "w": "לְעֵינֵ֖י",
+          "morph": "HR/Ncbdc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִצְרָֽיִם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "那 時 ， 埃 及 人 正 葬 埋 他 們 的 長 子 ， 就 是 耶 和 華 在 他 們 中 間 所 擊 殺 的 ； 耶 和 華 也 敗 壞 他 們 的 神 。",
+      "en": "Now the Egyptians were burying all their firstborn, whom the Lord had killed among them; the Lord also executed judgments on their gods.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִצְרַ֣יִם",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "מְקַבְּרִ֗ים",
+          "morph": "HVprmpa"
+        },
+        {
+          "w": "אֵת֩",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הִכָּ֧ה",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בָּהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּכ֑וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וּבֵאלֹ֣הֵיהֶ֔ם",
+          "morph": "HC/R/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "עָשָׂ֥ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "שְׁפָטִֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "以 色 列 人 從 蘭 塞 起 行 ， 安 營 在 疏 割 。",
+      "en": "The Israelites traveled from Rameses and camped in Sukkoth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵרַעְמְסֵ֑ס",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּסֻכֹּֽת",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "從 疏 割 起 行 ， 安 營 在 曠 野 邊 的 以 倘 。",
+      "en": "They traveled from Sukkoth, and camped in Etham, which is on the edge of the desert.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִסֻּכֹּ֑ת",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַיַּחֲנ֣וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְאֵתָ֔ם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אֲשֶׁ֖ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בִּקְצֵ֥ה",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "הַמִּדְבָּֽר",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "從 以 倘 起 行 ， 轉 到 比 哈 希 錄 ， 是 在 巴 力 洗 分 對 面 ， 就 在 密 奪 安 營 。",
+      "en": "They traveled from Etham, and turned again to Pi Hahiroth, which is before Baal Zephon; and they camped before Migdal.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְעוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵֽאֵתָ֔ם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַיָּ֨שָׁב֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "פִּ֣י",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַחִירֹ֔ת",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "פְּנֵ֖י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "בַּ֣עַל",
+          "morph": "HNp"
+        },
+        {
+          "w": "צְפ֑וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "מִגְדֹּֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "從 比 哈 希 錄 對 面 起 行 ， 經 過 海 中 到 了 書 珥 曠 野 ， 又 在 伊 坦 的 曠 野 走 了 三 天 的 路 程 ， 就 安 營 在 瑪 拉 。",
+      "en": "They traveled from Pi Hahiroth, and passed through the middle of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and camped in Marah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְעוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִפְּנֵ֣י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "הַֽחִירֹ֔ת",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "וַיַּֽעַבְר֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְתוֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַיָּ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַמִּדְבָּ֑רָה",
+          "morph": "HTd/Ncmsa/Sd"
+        },
+        {
+          "w": "וַיֵּ֨לְכ֜וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "דֶּ֣רֶךְ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "שְׁלֹ֤שֶׁת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בְּמִדְבַּ֣ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֵתָ֔ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּמָרָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "從 瑪 拉 起 行 ， 來 到 以 琳 （ 以 琳 有 十 二 股 水 泉 ， 七 十 棵 棕 樹 ） ， 就 在 那 裡 安 營 。",
+      "en": "They traveled from Marah and came to Elim; in Elim there are twelve fountains of water and seventy palm trees, so they camped there.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְעוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִמָּרָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַיָּבֹ֖אוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֵילִ֑מָה",
+          "morph": "HNp/Sd"
+        },
+        {
+          "w": "וּ֠בְאֵילִם",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "שְׁתֵּ֣ים",
+          "morph": "HAcfda"
+        },
+        {
+          "w": "עֶשְׂרֵ֞ה",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "עֵינֹ֥ת",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "מַ֛יִם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וְשִׁבְעִ֥ים",
+          "morph": "HC/Acbpa"
+        },
+        {
+          "w": "תְּמָרִ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וַיַּחֲנוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שָֽׁם",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "從 以 琳 起 行 ， 安 營 在 紅 海 邊 。",
+      "en": "They traveled from Elim, and camped by the Red Sea.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵאֵילִ֑ם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יַם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "סֽוּף",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "從 紅 海 邊 起 行 ， 安 營 在 汛 的 曠 野 。",
+      "en": "They traveled from the Red Sea and camped in the wilderness of Sin.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִיַּם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "ס֑וּף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּמִדְבַּר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "סִֽין",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "從 汛 的 曠 野 起 行 ， 安 營 在 脫 加 。",
+      "en": "They traveled from the wilderness of Sin and camped in Dophkah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִמִּדְבַּר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "סִ֑ין",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּדָפְקָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "從 脫 加 起 行 ， 安 營 在 亞 錄 。",
+      "en": "And they traveled from Dophkah, and camped in Alush.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִדָּפְקָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּאָלֽוּשׁ",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "從 亞 錄 起 行 ， 安 營 在 利 非 訂 ； 在 那 裡 ， 百 姓 沒 有 水 喝 。",
+      "en": "They traveled from Alush and camped at Rephidim, where there was no water for the people to drink.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵאָל֑וּשׁ",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בִּרְפִידִ֔ם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "הָ֨יָה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "שָׁ֥ם",
+          "morph": "HD"
+        },
+        {
+          "w": "מַ֛יִם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לָעָ֖ם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "לִשְׁתּֽוֹת",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "從 利 非 訂 起 行 ， 安 營 在 西 乃 的 曠 野 。",
+      "en": "They traveled from Rephidim and camped in the desert of Sinai.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵרְפִידִ֑ם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּמִדְבַּ֥ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "סִינָֽי",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "從 西 乃 的 曠 野 起 行 ， 安 營 在 基 博 羅 哈 他 瓦 。",
+      "en": "They traveled from the desert of Sinai and camped at Kibroth Hattaavah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִמִּדְבַּ֣ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "סִינָ֑י",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּקִבְרֹ֥ת",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הַֽתַּאֲוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "從 基 博 羅 哈 他 瓦 起 行 ， 安 營 在 哈 洗 錄 。",
+      "en": "They traveled from Kibroth Hattaavah and camped at Hazeroth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִקִּבְרֹ֣ת",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הַֽתַּאֲוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בַּחֲצֵרֹֽת",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "從 哈 洗 錄 起 行 ， 安 營 在 利 提 瑪 。",
+      "en": "They traveled from Hazeroth and camped in Rithmah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵחֲצֵרֹ֑ת",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּרִתְמָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "從 利 提 瑪 起 行 ， 安 營 在 臨 門 帕 烈 。",
+      "en": "They traveled from Rithmah and camped at Rimmon Perez.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵרִתְמָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּרִמֹּ֥ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "פָּֽרֶץ",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "從 臨 門 帕 烈 起 行 ， 安 營 在 立 拿 。",
+      "en": "They traveled from Rimmon Perez and camped in Libnah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵרִמֹּ֣ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "פָּ֑רֶץ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּלִבְנָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "從 立 拿 起 行 ， 安 營 在 勒 撒 。",
+      "en": "They traveled from Libnah and camped at Rissah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִלִּבְנָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּרִסָּֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "從 勒 撒 起 行 ， 安 營 在 基 希 拉 他 。",
+      "en": "They traveled from Rissah and camped in Kehelathah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵרִסָּ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בִּקְהֵלָֽתָה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "從 基 希 拉 他 起 行 ， 安 營 在 沙 斐 山 。",
+      "en": "They traveled from Kehelathah and camped at Mount Shepher.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִקְּהֵלָ֑תָה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּהַר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שָֽׁפֶר",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "從 沙 斐 山 起 行 ， 安 營 在 哈 拉 大 。",
+      "en": "They traveled from Mount Shepher and camped in Haradah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵֽהַר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שָׁ֑פֶר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בַּחֲרָדָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "從 哈 拉 大 起 行 ， 安 營 在 瑪 吉 希 錄 。",
+      "en": "They traveled from Haradah and camped in Makheloth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵחֲרָדָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּמַקְהֵלֹֽת",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "從 瑪 吉 希 錄 起 行 ， 安 營 在 他 哈 。",
+      "en": "They traveled from Makheloth and camped at Tahath.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִמַּקְהֵלֹ֑ת",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּתָֽחַת",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "從 他 哈 起 行 ， 安 營 在 他 拉 。",
+      "en": "They traveled from Tahath and camped at Terah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִתָּ֑חַת",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּתָֽרַח",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "從 他 拉 起 行 ， 安 營 在 密 加 。",
+      "en": "They traveled from Terah and camped in Mithcah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִתָּ֑רַח",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּמִתְקָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "從 密 加 起 行 ， 安 營 在 哈 摩 拿 。",
+      "en": "They traveled from Mithcah and camped in Hashmonah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִמִּתְקָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּחַשְׁמֹנָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "從 哈 摩 拿 起 行 ， 安 營 在 摩 西 錄 。",
+      "en": "They traveled from Hashmonah and camped in Moseroth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵֽחַשְׁמֹנָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּמֹסֵרֽוֹת",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "從 摩 西 錄 起 行 ， 安 營 在 比 尼 亞 干 。",
+      "en": "They traveled from Moseroth and camped in Bene Jaakan.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִמֹּסֵר֑וֹת",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בִּבְנֵ֥י",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "יַעֲקָֽן",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "從 比 尼 亞 干 起 行 ， 安 營 在 曷 哈 及 甲 。",
+      "en": "They traveled from Bene Jaakan and camped at Hor Haggidgad.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִבְּנֵ֣י",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "יַעֲקָ֑ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּחֹ֥ר",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הַגִּדְגָּֽד",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "從 曷 哈 及 甲 起 行 ， 安 營 在 約 巴 他 。",
+      "en": "They traveled from Hor Haggidgad and camped in Jotbathah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵחֹ֣ר",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הַגִּדְגָּ֑ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּיָטְבָֽתָה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "從 約 巴 他 起 行 ， 安 營 在 阿 博 拿 。",
+      "en": "They traveled from Jotbathah and camped in Abronah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִיָּטְבָ֑תָה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּעַבְרֹנָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "從 阿 博 拿 起 行 ， 安 營 在 以 旬 迦 別 。",
+      "en": "They traveled from Abronah and camped at Ezion Geber.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵֽעַבְרֹנָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּעֶצְי֥וֹן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "גָּֽבֶר",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "從 以 旬 迦 別 起 行 ， 安 營 在 尋 的 曠 野 ， 就 是 加 低 斯 。",
+      "en": "They traveled from Ezion Geber and camped in the wilderness of Zin, that is, Kadesh.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵעֶצְי֣וֹן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "גָּ֑בֶר",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיַּחֲנ֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְמִדְבַּר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "צִ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "הִ֥וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "קָדֵֽשׁ",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "zh": "從 加 低 斯 起 行 ， 安 營 在 何 珥 山 ， 以 東 地 的 邊 界 。",
+      "en": "They traveled from Kadesh and camped at Mount Hor at the edge of the land of Edom.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִקָּדֵ֑שׁ",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּהֹ֣ר",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הָהָ֔ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בִּקְצֵ֖ה",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אֱדֽוֹם",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "zh": "以 色 列 人 出 了 埃 及 地 後 四 十 年 ， 五 月 初 一 日 ， 祭 司 亞 倫 遵 著 耶 和 華 的 吩 咐 上 何 珥 山 ， 就 死 在 那 裡 。",
+      "en": "Aaron the priest ascended Mount Hor at the command of the Lord, and he died there in the fortieth year after the Israelites had come out of the land of Egypt on the first day of the fifth month.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּעַל֩",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אַהֲרֹ֨ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַכֹּהֵ֜ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הֹ֥ר",
+          "morph": "HNp"
+        },
+        {
+          "w": "הָהָ֛ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "פִּ֥י",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיָּ֣מָת",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "שָׁ֑ם",
+          "morph": "HD"
+        },
+        {
+          "w": "בִּשְׁנַ֣ת",
+          "morph": "HR/Ncfsc"
+        },
+        {
+          "w": "הָֽאַרְבָּעִ֗ים",
+          "morph": "HTd/Acbpa"
+        },
+        {
+          "w": "לְצֵ֤את",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בְּנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּחֹ֥דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַחֲמִישִׁ֖י",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "בְּאֶחָ֥ד",
+          "morph": "HR/Acmsa"
+        },
+        {
+          "w": "לַחֹֽדֶשׁ",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "zh": "亞 倫 死 在 何 珥 山 的 時 候 年 一 百 二 十 三 歲 。",
+      "en": "Now Aaron was 123 years old when he died on Mount Hor.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאַהֲרֹ֔ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שָׁלֹ֧שׁ",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "וְעֶשְׂרִ֛ים",
+          "morph": "HC/Acbpa"
+        },
+        {
+          "w": "וּמְאַ֖ת",
+          "morph": "HC/Acbsc"
+        },
+        {
+          "w": "שָׁנָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּמֹת֖וֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "בְּהֹ֥ר",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הָהָֽר",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "zh": "住 在 迦 南 南 地 的 迦 南 人 亞 拉 得 王 聽 說 以 色 列 人 來 了 。",
+      "en": "The king of Arad, the Canaanite king who lived in the south of the land of Canaan, heard about the approach of the Israelites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּשְׁמַ֗ע",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "הַֽכְּנַעֲנִי֙",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "מֶ֣לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲרָ֔ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהֽוּא",
+          "morph": "HC/Pp3ms"
+        },
+        {
+          "w": "יֹשֵׁ֥ב",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בַּנֶּ֖גֶב",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בְּאֶ֣רֶץ",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "כְּנָ֑עַן",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּבֹ֖א",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "zh": "以 色 列 人 從 何 珥 山 起 行 ， 安 營 在 撒 摩 拿 。",
+      "en": "They traveled from Mount Hor and camped in Zalmonah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵהֹ֣ר",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הָהָ֑ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּצַלְמֹנָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "zh": "從 撒 摩 拿 起 行 ， 安 營 在 普 嫩 。",
+      "en": "They traveled from Zalmonah and camped in Punon.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִצַּלְמֹנָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּפוּנֹֽן",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "zh": "從 普 嫩 起 行 ， 安 營 在 阿 伯 。",
+      "en": "They traveled from Punon and camped in Oboth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִפּוּנֹ֑ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּאֹבֹֽת",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "zh": "從 阿 伯 起 行 ， 安 營 在 以 耶 亞 巴 琳 ， 摩 押 的 邊 界 。",
+      "en": "They traveled from Oboth and camped in Iye Abarim, on the border of Moab.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵאֹבֹ֑ת",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֛וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּעִיֵּ֥י",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הָעֲבָרִ֖ים",
+          "morph": "HNp"
+        },
+        {
+          "w": "בִּגְב֥וּל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מוֹאָֽב",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "zh": "從 以 耶 亞 巴 琳 起 行 ， 安 營 在 底 本 迦 得 。",
+      "en": "They traveled from Iim and camped in Dibon Gad.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵעִיִּ֑ים",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּדִיבֹ֥ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "גָּֽד",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 46,
+      "zh": "從 底 本 迦 得 起 行 ， 安 營 在 亞 門 低 比 拉 太 音 。",
+      "en": "They traveled from Dibon Gad and camped in Almon Diblathaim.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מִדִּיבֹ֣ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "גָּ֑ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַֽיַּחֲנ֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּעַלְמֹ֥ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "דִּבְלָתָֽיְמָה",
+          "morph": "HNp/Sd"
+        }
+      ]
+    },
+    {
+      "v": 47,
+      "zh": "從 亞 門 低 比 拉 太 音 起 行 ， 安 營 在 尼 波 對 面 的 亞 巴 琳 山 裡 。",
+      "en": "They traveled from Almon Diblathaim and camped in the mountains of Abarim before Nebo.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵעַלְמֹ֣ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "דִּבְלָתָ֑יְמָה",
+          "morph": "HNp/Sd"
+        },
+        {
+          "w": "וַֽיַּחֲנ֛וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּהָרֵ֥י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "הָעֲבָרִ֖ים",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "נְבֽוֹ",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 48,
+      "zh": "從 亞 巴 琳 山 起 行 ， 安 營 在 摩 押 平 原 ─ 約 但 河 邊 、 耶 利 哥 對 面 。",
+      "en": "They traveled from the mountains of Abarim and camped in the rift valley plains by Moab along the Jordan River across from Jericho.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּסְע֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵהָרֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "הָעֲבָרִ֑ים",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "וַֽיַּחֲנוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּעַֽרְבֹ֣ת",
+          "morph": "HR/Ncfpc"
+        },
+        {
+          "w": "מוֹאָ֔ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "יַרְדֵּ֥ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "יְרֵחֽוֹ",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 49,
+      "zh": "他 們 在 摩 押 平 原 沿 約 但 河 邊 安 營 ， 從 伯 耶 施 末 直 到 亞 伯 什 亭 。",
+      "en": "They camped by the Jordan, from Beth Jeshimoth as far as Abel Shittim in the rift valley plains of Moab.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּחֲנ֤וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיַּרְדֵּן֙",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "מִבֵּ֣ית",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הַיְשִׁמֹ֔ת",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַ֖ד",
+          "morph": "HR"
+        },
+        {
+          "w": "אָבֵ֣ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַשִּׁטִּ֑ים",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּעַֽרְבֹ֖ת",
+          "morph": "HR/Ncfpc"
+        },
+        {
+          "w": "מוֹאָֽב",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 50,
+      "zh": "耶 和 華 在 摩 押 平 原 ─ 約 但 河 邊 、 耶 利 哥 對 面 曉 諭 摩 西 說 ：",
+      "en": "The Lord spoke to Moses in the rift valley plains of Moab along the Jordan, across from Jericho. He said:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֧ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּעַֽרְבֹ֣ת",
+          "morph": "HR/Ncfpc"
+        },
+        {
+          "w": "מוֹאָ֑ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יַרְדֵּ֥ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "יְרֵח֖וֹ",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 51,
+      "zh": "你 吩 咐 以 色 列 人 說 ： 你 們 過 約 但 河 進 迦 南 地 的 時 候 ，",
+      "en": "“Speak to the Israelites and tell them, ‘When you have crossed the Jordan into the land of Canaan,",
+      "notes": [],
+      "he": [
+        {
+          "w": "דַּבֵּר֙",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָמַרְתָּ֖",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֲלֵהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "אַתֶּ֛ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "עֹבְרִ֥ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַיַּרְדֵּ֖ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "אֶ֥רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "כְּנָֽעַן",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 52,
+      "zh": "就 要 從 你 們 面 前 趕 出 那 裡 所 有 的 居 民 ， 毀 滅 他 們 一 切 鏨 成 的 石 像 和 他 們 一 切 鑄 成 的 偶 像 ， 又 拆 毀 他 們 一 切 的 邱 壇 。",
+      "en": "you must drive out all the inhabitants of the land before you. Destroy all their carved images, all their molten images, and demolish their high places.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְה֨וֹרַשְׁתֶּ֜ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יֹשְׁבֵ֤י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "הָאָ֨רֶץ֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "מִפְּנֵיכֶ֔ם",
+          "morph": "HR/Ncbpc/Sp2mp"
+        },
+        {
+          "w": "וְאִ֨בַּדְתֶּ֔ם",
+          "morph": "HC/Vpq2mp"
+        },
+        {
+          "w": "אֵ֖ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מַשְׂכִּיֹּתָ֑ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "וְאֵ֨ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "צַלְמֵ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מַסֵּֽכֹתָם֙",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "תְּאַבֵּ֔דוּ",
+          "morph": "HVpi2mp"
+        },
+        {
+          "w": "וְאֵ֥ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּמֹתָ֖ם",
+          "morph": "HNcfpc/Sp3mp"
+        },
+        {
+          "w": "תַּשְׁמִֽידוּ",
+          "morph": "HVhi2mp"
+        }
+      ]
+    },
+    {
+      "v": 53,
+      "zh": "你 們 要 奪 那 地 ， 住 在 其 中 ， 因 我 把 那 地 賜 給 你 們 為 業 。",
+      "en": "You must dispossess the inhabitants of the land and live in it, for I have given you the land to possess it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהוֹרַשְׁתֶּ֥ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וִֽישַׁבְתֶּם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "בָּ֑הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "לָכֶ֛ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "נָתַ֥תִּי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֖רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "לָרֶ֥שֶׁת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֹתָֽהּ",
+          "morph": "HTo/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 54,
+      "zh": "你 們 要 按 家 室 拈 鬮 ， 承 受 那 地 ； 人 多 的 ， 要 把 產 業 多 分 給 他 們 ； 人 少 的 ， 要 把 產 業 少 分 給 他 們 。 拈 出 何 地 給 何 人 ， 就 要 歸 何 人 。 你 們 要 按 宗 族 的 支 派 承 受 。",
+      "en": "You must divide the land by lot for an inheritance among your families. To a larger group you must give a larger inheritance, and to a smaller group you must give a smaller inheritance. Everyone’s inheritance must be in the place where his lot falls. You must inherit according to your ancestral tribes.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִתְנַחַלְתֶּם֩",
+          "morph": "HC/Vtq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָאָ֨רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "בְּגוֹרָ֜ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לְמִשְׁפְּחֹֽתֵיכֶ֗ם",
+          "morph": "HR/Ncfpc/Sp2mp"
+        },
+        {
+          "w": "לָרַ֞ב",
+          "morph": "HRd/Aamsa"
+        },
+        {
+          "w": "תַּרְבּ֤וּ",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "נַחֲלָתוֹ֙",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "וְלַמְעַט֙",
+          "morph": "HC/Rd/Aamsa"
+        },
+        {
+          "w": "תַּמְעִ֣יט",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "נַחֲלָת֔וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "אֶל֩",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יֵ֨צֵא",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "ל֥וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "שָׁ֛מָּה",
+          "morph": "HD/Sd"
+        },
+        {
+          "w": "הַגּוֹרָ֖ל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "ל֣וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "יִהְיֶ֑ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לְמַטּ֥וֹת",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "אֲבֹתֵיכֶ֖ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "תִּתְנֶחָֽלוּ",
+          "morph": "HVti2mp"
+        }
+      ]
+    },
+    {
+      "v": 55,
+      "zh": "倘 若 你 們 不 趕 出 那 地 的 居 民 ， 所 容 留 的 居 民 就 必 作 你 們 眼 中 的 刺 ， 肋 下 的 荊 棘 ， 也 必 在 你 們 所 住 的 地 上 擾 害 你 們 。",
+      "en": "But if you do not drive out the inhabitants of the land before you, then those whom you allow to remain will be irritants in your eyes and thorns in your side, and will cause you trouble in the land where you will be living.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "לֹ֨א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תוֹרִ֜ישׁוּ",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יֹשְׁבֵ֣י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "הָאָרֶץ֮",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "מִפְּנֵיכֶם֒",
+          "morph": "HR/Ncbpc/Sp2mp"
+        },
+        {
+          "w": "וְהָיָה֙",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תּוֹתִ֣ירוּ",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "מֵהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "לְשִׂכִּים֙",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "בְּעֵ֣ינֵיכֶ֔ם",
+          "morph": "HR/Ncbdc/Sp2mp"
+        },
+        {
+          "w": "וְלִצְנִינִ֖ם",
+          "morph": "HC/R/Ncmpa"
+        },
+        {
+          "w": "בְּצִדֵּיכֶ֑ם",
+          "morph": "HR/Ncmpc/Sp2mp"
+        },
+        {
+          "w": "וְצָרֲר֣וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "אֶתְכֶ֔ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֕רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אַתֶּ֖ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "יֹשְׁבִ֥ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "בָּֽהּ",
+          "morph": "HR/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 56,
+      "zh": "而 且 我 素 常 有 意 怎 樣 待 他 們 ， 也 必 照 樣 待 你 們 。",
+      "en": "And what I intended to do to them I will do to you.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָיָ֗ה",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "כַּאֲשֶׁ֥ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "דִּמִּ֛יתִי",
+          "morph": "HVpp1cs"
+        },
+        {
+          "w": "לַעֲשׂ֥וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לָהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אֶֽעֱשֶׂ֥ה",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "לָכֶֽם",
+          "morph": "HR/Sp2mp"
+        }
+      ]
+    }
+  ]
+}

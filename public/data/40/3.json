@@ -1,0 +1,1777 @@
+{
+  "book": 40,
+  "chapter": 3,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "那 時 ， 有 施 洗 的 約 翰 出 來 ， 在 猶 太 的 曠 野 傳 道 ， 說 ：",
+      "en": "In those days John the Baptist came into the wilderness of Judea proclaiming,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἐν",
+          "morph": "PREP",
+          "gloss": "In"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ταῖς",
+          "morph": "T-DPF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἡμέραις",
+          "morph": "N-DPF",
+          "gloss": "days"
+        },
+        {
+          "w": "ἐκείναις",
+          "morph": "D-DPF",
+          "gloss": "those"
+        },
+        {
+          "w": "παραγίνεται",
+          "morph": "V-PNI-3S",
+          "gloss": "comes"
+        },
+        {
+          "w": "Ἰωάνης",
+          "morph": "N-NSM",
+          "gloss": "John"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "βαπτιστὴς",
+          "morph": "N-NSM",
+          "gloss": "Baptist"
+        },
+        {
+          "w": "κηρύσσων",
+          "morph": "V-PAP-NSM",
+          "gloss": "preaching"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐρήμῳ",
+          "morph": "A-DSF",
+          "gloss": "wilderness"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰουδαίας",
+          "morph": "N-GSF",
+          "gloss": "of Judea"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "天 國 近 了 ， 你 們 應 當 悔 改 ！",
+      "en": "“Repent, for the kingdom of heaven is near.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "λέγων",
+          "morph": "V-PAP-NSM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Μετανοεῖτε",
+          "morph": "V-PAM-2P",
+          "gloss": "Repent"
+        },
+        {
+          "w": "ἤγγικεν",
+          "morph": "V-RAI-3S",
+          "gloss": "has drawn near"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "βασιλεία",
+          "morph": "N-NSF",
+          "gloss": "kingdom"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "οὐρανῶν",
+          "morph": "N-GPM",
+          "gloss": "heavens"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "這 人 就 是 先 知 以 賽 亞 所 說 的 。 他 說 ： 在 曠 野 有 人 聲 喊 著 說 ： 預 備 主 的 道 ， 修 直 他 的 路 ！",
+      "en": "For he is the one about whom the prophet Isaiah had spoken: “The voice of one shouting in the wilderness, ‘Prepare the way for the Lord, make his paths straight.’”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὗτος",
+          "morph": "D-NSM",
+          "gloss": "This"
+        },
+        {
+          "w": "γάρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [One]"
+        },
+        {
+          "w": "ῥηθεὶς",
+          "morph": "V-APP-NSM",
+          "gloss": "having been spoken of"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "Ἠσαΐου",
+          "morph": "N-GSM",
+          "gloss": "Isaiah"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "προφήτου",
+          "morph": "N-GSM",
+          "gloss": "prophet"
+        },
+        {
+          "w": "λέγοντος",
+          "morph": "V-PAP-GSM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Φωνὴ",
+          "morph": "N-NSF",
+          "gloss": "[The] voice"
+        },
+        {
+          "w": "βοῶντος",
+          "morph": "V-PAP-GSM",
+          "gloss": "of one crying"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐρήμῳ",
+          "morph": "A-DSF",
+          "gloss": "wilderness"
+        },
+        {
+          "w": "Ἑτοιμάσατε",
+          "morph": "V-AAM-2P",
+          "gloss": "Prepare"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ὁδὸν",
+          "morph": "N-ASF",
+          "gloss": "way"
+        },
+        {
+          "w": "Κυρίου",
+          "morph": "N-GSM",
+          "gloss": "of [the] Lord"
+        },
+        {
+          "w": "εὐθείας",
+          "morph": "A-APF",
+          "gloss": "straight"
+        },
+        {
+          "w": "ποιεῖτε",
+          "morph": "V-PAM-2P",
+          "gloss": "make"
+        },
+        {
+          "w": "τὰς",
+          "morph": "T-APF",
+          "gloss": "the"
+        },
+        {
+          "w": "τρίβους",
+          "morph": "N-APF",
+          "gloss": "paths"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "這 約 翰 身 穿 駱 駝 毛 的 衣 服 ， 腰 束 皮 帶 ， 吃 的 是 蝗 蟲 、 野 蜜 。",
+      "en": "Now John wore clothing made from camel’s hair with a leather belt around his waist, and his diet consisted of locusts and wild honey.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Αὐτὸς",
+          "morph": "P-NSM",
+          "gloss": "Himself"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωάνης",
+          "morph": "N-NSM",
+          "gloss": "John"
+        },
+        {
+          "w": "εἶχεν",
+          "morph": "V-IAI-3S",
+          "gloss": "had"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἔνδυμα",
+          "morph": "N-ASN",
+          "gloss": "garment"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "τριχῶν",
+          "morph": "N-GPF",
+          "gloss": "hair"
+        },
+        {
+          "w": "καμήλου",
+          "morph": "N-GSF",
+          "gloss": "of a camel"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ζώνην",
+          "morph": "N-ASF",
+          "gloss": "a belt"
+        },
+        {
+          "w": "δερματίνην",
+          "morph": "A-ASF",
+          "gloss": "of leather"
+        },
+        {
+          "w": "περὶ",
+          "morph": "PREP",
+          "gloss": "around"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀσφὺν",
+          "morph": "N-ASF",
+          "gloss": "waist"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τροφὴ",
+          "morph": "N-NSF",
+          "gloss": "the food"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "was"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "ἀκρίδες",
+          "morph": "N-NPF",
+          "gloss": "locusts"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "μέλι",
+          "morph": "N-NSN",
+          "gloss": "honey"
+        },
+        {
+          "w": "ἄγριον",
+          "morph": "A-NSN",
+          "gloss": "wild"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "那 時 ， 耶 路 撒 冷 和 猶 太 全 地 ， 並 約 但 河 一 帶 地 方 的 人 ， 都 出 去 到 約 翰 那 裡 ，",
+      "en": "Then people from Jerusalem, as well as all Judea and all the region around the Jordan, were going out to him,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Τότε",
+          "morph": "ADV",
+          "gloss": "At that time"
+        },
+        {
+          "w": "ἐξεπορεύετο",
+          "morph": "V-INI-3S",
+          "gloss": "were going out"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "Ἱεροσόλυμα",
+          "morph": "N-NSF",
+          "gloss": "Jerusalem"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πᾶσα",
+          "morph": "A-NSF",
+          "gloss": "all"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰουδαία",
+          "morph": "N-NSF",
+          "gloss": "Judea"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πᾶσα",
+          "morph": "A-NSF",
+          "gloss": "all"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "περίχωρος",
+          "morph": "A-NSF",
+          "gloss": "region around"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Ἰορδάνου",
+          "morph": "N-GSM",
+          "gloss": "Jordan"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "承 認 他 們 的 罪 ， 在 約 但 河 裡 受 他 的 洗 。",
+      "en": "and he was baptizing them in the Jordan River as they confessed their sins.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐβαπτίζοντο",
+          "morph": "V-IPI-3P",
+          "gloss": "were being baptized"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Ἰορδάνῃ",
+          "morph": "N-DSM",
+          "gloss": "Jordan"
+        },
+        {
+          "w": "ποταμῷ",
+          "morph": "N-DSM",
+          "gloss": "River"
+        },
+        {
+          "w": "ὑπ’",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "him"
+        },
+        {
+          "w": "ἐξομολογούμενοι",
+          "morph": "V-PMP-NPM",
+          "gloss": "confessing"
+        },
+        {
+          "w": "τὰς",
+          "morph": "T-APF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἁμαρτίας",
+          "morph": "N-APF",
+          "gloss": "sins"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "約 翰 看 見 許 多 法 利 賽 人 和 撒 都 該 人 也 來 受 洗 ， 就 對 他 們 說 ： 毒 蛇 的 種 類 ！ 誰 指 示 你 們 逃 避 將 來 的 忿 怒 呢 ？",
+      "en": "But when he saw many Pharisees and Sadducees coming to his baptism, he said to them, “You offspring of vipers! Who warned you to flee from the coming wrath?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἰδὼν",
+          "morph": "V-2AAP-NSM",
+          "gloss": "Having seen"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "πολλοὺς",
+          "morph": "A-APM",
+          "gloss": "many"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Φαρισαίων",
+          "morph": "N-GPM",
+          "gloss": "Pharisees"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Σαδδουκαίων",
+          "morph": "N-GPM",
+          "gloss": "Sadducees"
+        },
+        {
+          "w": "ἐρχομένους",
+          "morph": "V-PNP-APM",
+          "gloss": "coming"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "βάπτισμα",
+          "morph": "N-ASN",
+          "gloss": "baptism"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "he said"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "Γεννήματα",
+          "morph": "N-VPN",
+          "gloss": "Brood"
+        },
+        {
+          "w": "ἐχιδνῶν",
+          "morph": "N-GPF",
+          "gloss": "of vipers"
+        },
+        {
+          "w": "τίς",
+          "morph": "I-NSM",
+          "gloss": "who"
+        },
+        {
+          "w": "ὑπέδειξεν",
+          "morph": "V-AAI-3S",
+          "gloss": "forewarned"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "you"
+        },
+        {
+          "w": "φυγεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to flee"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "μελλούσης",
+          "morph": "V-PAP-GSF",
+          "gloss": "coming"
+        },
+        {
+          "w": "ὀργῆς",
+          "morph": "N-GSF",
+          "gloss": "wrath"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "你 們 要 結 出 果 子 來 ， 與 悔 改 的 心 相 稱 。",
+      "en": "Therefore produce fruit that proves your repentance,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ποιήσατε",
+          "morph": "V-AAM-2P",
+          "gloss": "Produce"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "καρπὸν",
+          "morph": "N-ASM",
+          "gloss": "fruit"
+        },
+        {
+          "w": "ἄξιον",
+          "morph": "A-ASM",
+          "gloss": "worthy"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "μετανοίας",
+          "morph": "N-GSF",
+          "gloss": "of repentance"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "不 要 自 己 心 裡 說 ： 有 亞 伯 拉 罕 為 我 們 的 祖 宗 。 我 告 訴 你 們 ， 神 能 從 這 些 石 頭 中 給 亞 伯 拉 罕 興 起 子 孫 來 。",
+      "en": "and don’t think you can say to yourselves, ‘We have Abraham as our father.’ For I tell you that God can raise up children for Abraham from these stones!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "δόξητε",
+          "morph": "V-AAS-2P",
+          "gloss": "presume"
+        },
+        {
+          "w": "λέγειν",
+          "morph": "V-PAN",
+          "gloss": "to say"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "within"
+        },
+        {
+          "w": "ἑαυτοῖς",
+          "morph": "F-2DPM",
+          "gloss": "yourselves"
+        },
+        {
+          "w": "Πατέρα",
+          "morph": "N-ASM",
+          "gloss": "[As] father"
+        },
+        {
+          "w": "ἔχομεν",
+          "morph": "V-PAI-1P",
+          "gloss": "we have"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀβραάμ",
+          "morph": "N-PRI",
+          "gloss": "Abraham"
+        },
+        {
+          "w": "λέγω",
+          "morph": "V-PAI-1S",
+          "gloss": "I say"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "δύναται",
+          "morph": "V-PNI-3S",
+          "gloss": "able is"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "out of"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "the"
+        },
+        {
+          "w": "λίθων",
+          "morph": "N-GPM",
+          "gloss": "stones"
+        },
+        {
+          "w": "τούτων",
+          "morph": "D-GPM",
+          "gloss": "these"
+        },
+        {
+          "w": "ἐγεῖραι",
+          "morph": "V-AAN",
+          "gloss": "to raise up"
+        },
+        {
+          "w": "τέκνα",
+          "morph": "N-APN",
+          "gloss": "children"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "unto"
+        },
+        {
+          "w": "Ἀβραάμ",
+          "morph": "N-PRI",
+          "gloss": "Abraham"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "現 在 斧 子 已 經 放 在 樹 根 上 ， 凡 不 結 好 果 子 的 樹 就 砍 下 來 ， 丟 在 火 裡 。",
+      "en": "Even now the ax is laid at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἤδη",
+          "morph": "ADV",
+          "gloss": "Already"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀξίνη",
+          "morph": "N-NSF",
+          "gloss": "ax"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ῥίζαν",
+          "morph": "N-ASF",
+          "gloss": "root"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPN",
+          "gloss": "of the"
+        },
+        {
+          "w": "δένδρων",
+          "morph": "N-GPN",
+          "gloss": "trees"
+        },
+        {
+          "w": "κεῖται",
+          "morph": "V-PNI-3S",
+          "gloss": "is applied"
+        },
+        {
+          "w": "πᾶν",
+          "morph": "A-NSN",
+          "gloss": "every"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "δένδρον",
+          "morph": "N-NSN",
+          "gloss": "tree"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ποιοῦν",
+          "morph": "V-PAP-NSN",
+          "gloss": "producing"
+        },
+        {
+          "w": "καρπὸν",
+          "morph": "N-ASM",
+          "gloss": "fruit"
+        },
+        {
+          "w": "καλὸν",
+          "morph": "A-ASM",
+          "gloss": "good"
+        },
+        {
+          "w": "ἐκκόπτεται",
+          "morph": "V-PPI-3S",
+          "gloss": "is cut down"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "πῦρ",
+          "morph": "N-ASN",
+          "gloss": "[the] fire"
+        },
+        {
+          "w": "βάλλεται",
+          "morph": "V-PPI-3S",
+          "gloss": "is thrown"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "我 是 用 水 給 你 們 施 洗 ， 叫 你 們 悔 改 。 但 那 在 我 以 後 來 的 ， 能 力 比 我 更 大 ， 我 就 是 給 他 提 鞋 也 不 配 。 他 要 用 聖 靈 與 火 給 你 們 施 洗 。",
+      "en": "“I baptize you with water, for repentance, but the one coming after me is more powerful than I am—I am not worthy to carry his sandals! He will baptize you with the Holy Spirit and fire.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "μὲν",
+          "morph": "PRT",
+          "gloss": "indeed"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "βαπτίζω",
+          "morph": "V-PAI-1S",
+          "gloss": "baptize"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "ὕδατι",
+          "morph": "N-DSN",
+          "gloss": "water"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "μετάνοιαν",
+          "morph": "N-ASF",
+          "gloss": "repentance"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ὀπίσω",
+          "morph": "ADV",
+          "gloss": "after"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "me"
+        },
+        {
+          "w": "ἐρχόμενος",
+          "morph": "V-PNP-NSM",
+          "gloss": "is coming"
+        },
+        {
+          "w": "ἰσχυρότερός",
+          "morph": "A-NSM-C",
+          "gloss": "mightier"
+        },
+        {
+          "w": "μού",
+          "morph": "P-1GS",
+          "gloss": "than I"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "He"
+        },
+        {
+          "w": "οὗ",
+          "morph": "R-GSM",
+          "gloss": "of whom"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "εἰμὶ",
+          "morph": "V-PAI-1S",
+          "gloss": "I am"
+        },
+        {
+          "w": "ἱκανὸς",
+          "morph": "A-NSM",
+          "gloss": "fit"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὑποδήματα",
+          "morph": "N-APN",
+          "gloss": "sandals"
+        },
+        {
+          "w": "βαστάσαι",
+          "morph": "V-AAN",
+          "gloss": "to carry"
+        },
+        {
+          "w": "αὐτὸς",
+          "morph": "P-NSM",
+          "gloss": "He"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you"
+        },
+        {
+          "w": "βαπτίσει",
+          "morph": "V-FAI-3S",
+          "gloss": "will baptize"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "Πνεύματι",
+          "morph": "N-DSN",
+          "gloss": "[the] Spirit"
+        },
+        {
+          "w": "Ἁγίῳ",
+          "morph": "A-DSN",
+          "gloss": "Holy"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πυρί",
+          "morph": "N-DSN",
+          "gloss": "with fire"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "他 手 裡 拿 著 簸 箕 ， 要 揚 淨 他 的 場 ， 把 麥 子 收 在 倉 裡 ， 把 糠 用 不 滅 的 火 燒 盡 了 。",
+      "en": "His winnowing fork is in his hand, and he will clean out his threshing floor and will gather his wheat into the storehouse, but the chaff he will burn up with inextinguishable fire!”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὗ",
+          "morph": "R-GSM",
+          "gloss": "whose"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "-"
+        },
+        {
+          "w": "πτύον",
+          "morph": "N-NSN",
+          "gloss": "winnowing fork [is]"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "χειρὶ",
+          "morph": "N-DSF",
+          "gloss": "hand"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "διακαθαριεῖ",
+          "morph": "V-FAI-3S-ATT",
+          "gloss": "He will clear"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἅλωνα",
+          "morph": "N-ASF",
+          "gloss": "threshing floor"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "συνάξει",
+          "morph": "V-FAI-3S",
+          "gloss": "will gather"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "σῖτον",
+          "morph": "N-ASM",
+          "gloss": "wheat"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀποθήκην",
+          "morph": "N-ASF",
+          "gloss": "barn"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ἄχυρον",
+          "morph": "N-ASN",
+          "gloss": "chaff"
+        },
+        {
+          "w": "κατακαύσει",
+          "morph": "V-FAI-3S",
+          "gloss": "He will burn up"
+        },
+        {
+          "w": "πυρὶ",
+          "morph": "N-DSN",
+          "gloss": "with fire"
+        },
+        {
+          "w": "ἀσβέστῳ",
+          "morph": "A-DSN",
+          "gloss": "unquenchable"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "當 下 耶 穌 從 加 利 利 來 到 約 但 河 ， 見 了 約 翰 ， 要 受 他 的 洗 。",
+      "en": "Then Jesus came from Galilee to John to be baptized by him in the Jordan River.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Τότε",
+          "morph": "ADV",
+          "gloss": "Then"
+        },
+        {
+          "w": "παραγίνεται",
+          "morph": "V-PNI-3S",
+          "gloss": "comes"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Γαλιλαίας",
+          "morph": "N-GSF",
+          "gloss": "Galilee"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "Ἰορδάνην",
+          "morph": "N-ASM",
+          "gloss": "Jordan"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "unto"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωάνην",
+          "morph": "N-ASM",
+          "gloss": "John"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "-"
+        },
+        {
+          "w": "βαπτισθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be baptized"
+        },
+        {
+          "w": "ὑπ’",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "him"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "約 翰 想 要 攔 住 他 ， 說 ： 我 當 受 你 的 洗 ， 你 反 倒 上 我 這 裡 來 麼 ？",
+      "en": "But John tried to prevent him, saying, “I need to be baptized by you, and yet you come to me?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "But"
+        },
+        {
+          "w": "διεκώλυεν",
+          "morph": "V-IAI-3S",
+          "gloss": "was hindering"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "λέγων",
+          "morph": "V-PAP-NSM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "χρείαν",
+          "morph": "N-ASF",
+          "gloss": "need"
+        },
+        {
+          "w": "ἔχω",
+          "morph": "V-PAI-1S",
+          "gloss": "have"
+        },
+        {
+          "w": "ὑπὸ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "σοῦ",
+          "morph": "P-2GS",
+          "gloss": "You"
+        },
+        {
+          "w": "βαπτισθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be baptized"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "σὺ",
+          "morph": "P-2NS",
+          "gloss": "You"
+        },
+        {
+          "w": "ἔρχῃ",
+          "morph": "V-PNI-2S",
+          "gloss": "come"
+        },
+        {
+          "w": "πρός",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "με",
+          "morph": "P-1AS",
+          "gloss": "me"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "耶 穌 回 答 說 ： 你 暫 且 許 我 ， 因 為 我 們 理 當 這 樣 盡 諸 般 的 義 （ 或 作 ： 禮 ） 。 於 是 約 翰 許 了 他 。",
+      "en": "So Jesus replied to him, “Let it happen now, for it is right for us to fulfill all righteousness.” Then John yielded to him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀποκριθεὶς",
+          "morph": "V-AOP-NSM",
+          "gloss": "Answering"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "him"
+        },
+        {
+          "w": "Ἄφες",
+          "morph": "V-2AAM-2S",
+          "gloss": "Permit [it]"
+        },
+        {
+          "w": "ἄρτι",
+          "morph": "ADV",
+          "gloss": "presently"
+        },
+        {
+          "w": "οὕτως",
+          "morph": "ADV",
+          "gloss": "thus"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "πρέπον",
+          "morph": "V-PAP-NSN",
+          "gloss": "fitting"
+        },
+        {
+          "w": "ἐστὶν",
+          "morph": "V-PAI-3S",
+          "gloss": "it is"
+        },
+        {
+          "w": "ἡμῖν",
+          "morph": "P-1DP",
+          "gloss": "to us"
+        },
+        {
+          "w": "πληρῶσαι",
+          "morph": "V-AAN",
+          "gloss": "to fulfill"
+        },
+        {
+          "w": "πᾶσαν",
+          "morph": "A-ASF",
+          "gloss": "all"
+        },
+        {
+          "w": "δικαιοσύνην",
+          "morph": "N-ASF",
+          "gloss": "righteousness"
+        },
+        {
+          "w": "τότε",
+          "morph": "ADV",
+          "gloss": "Then"
+        },
+        {
+          "w": "ἀφίησιν",
+          "morph": "V-PAI-3S",
+          "gloss": "he permits"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "耶 穌 受 了 洗 ， 隨 即 從 水 裡 上 來 。 天 忽 然 為 他 開 了 ， 他 就 看 見 神 的 靈 彷 彿 鴿 子 降 下 ， 落 在 他 身 上 。",
+      "en": "After Jesus was baptized, just as he was coming up out of the water, the heavens opened and he saw the Spirit of God descending like a dove and coming to rest on him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "βαπτισθεὶς",
+          "morph": "V-APP-NSM",
+          "gloss": "Having been baptized"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "εὐθὺς",
+          "morph": "ADV",
+          "gloss": "immediately"
+        },
+        {
+          "w": "ἀνέβη",
+          "morph": "V-2AAI-3S",
+          "gloss": "went up"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὕδατος",
+          "morph": "N-GSN",
+          "gloss": "water"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἰδοὺ",
+          "morph": "V-2AMM-2S",
+          "gloss": "behold"
+        },
+        {
+          "w": "ἠνεῴχθησαν",
+          "morph": "V-API-3P",
+          "gloss": "were opened"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "οὐρανοί",
+          "morph": "N-NPM",
+          "gloss": "heavens"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶδεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "he saw"
+        },
+        {
+          "w": "Πνεῦμα",
+          "morph": "N-ASN",
+          "gloss": "Spirit"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God"
+        },
+        {
+          "w": "καταβαῖνον",
+          "morph": "V-PAP-ASN",
+          "gloss": "descending"
+        },
+        {
+          "w": "ὡσεὶ",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "περιστερὰν",
+          "morph": "N-ASF",
+          "gloss": "a dove"
+        },
+        {
+          "w": "ἐρχόμενον",
+          "morph": "V-PNP-ASN",
+          "gloss": "alighting"
+        },
+        {
+          "w": "ἐπ’",
+          "morph": "PREP",
+          "gloss": "upon"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "從 天 上 有 聲 音 說 ： 這 是 我 的 愛 子 ， 我 所 喜 悅 的 。",
+      "en": "And a voice from heaven said, “This is my one dear Son; in him I take great delight.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἰδοὺ",
+          "morph": "V-2AMM-2S",
+          "gloss": "behold"
+        },
+        {
+          "w": "φωνὴ",
+          "morph": "N-NSF",
+          "gloss": "a voice"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "out"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "οὐρανῶν",
+          "morph": "N-GPM",
+          "gloss": "heavens"
+        },
+        {
+          "w": "λέγουσα",
+          "morph": "V-PAP-NSF",
+          "gloss": "saying"
+        },
+        {
+          "w": "Οὗτός",
+          "morph": "D-NSM",
+          "gloss": "This"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Υἱός",
+          "morph": "N-NSM",
+          "gloss": "Son"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of me"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀγαπητός",
+          "morph": "A-NSM",
+          "gloss": "beloved"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "ᾧ",
+          "morph": "R-DSM",
+          "gloss": "whom"
+        },
+        {
+          "w": "εὐδόκησα",
+          "morph": "V-AAI-1S",
+          "gloss": "I was well pleased"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,710 @@
+{
+  "book": 26,
+  "chapter": 2,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "他 對 我 說 ： 人 子 啊 ， 你 站 起 來 ， 我 要 和 你 說 話 。",
+      "en": "He said to me, “Son of man, stand on your feet and I will speak with you.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֖אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלָ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָדָם֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עֲמֹ֣ד",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "רַגְלֶ֔יךָ",
+          "morph": "HNcfdc/Sp2ms"
+        },
+        {
+          "w": "וַאֲדַבֵּ֖ר",
+          "morph": "HC/Vph1cs"
+        },
+        {
+          "w": "אֹתָֽךְ",
+          "morph": "HTo/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "他 對 我 說 話 的 時 候 ， 靈 就 進 入 我 裡 面 ， 使 我 站 起 來 ， 我 便 聽 見 那 位 對 我 說 話 的 聲 音 。",
+      "en": "As he spoke to me, a wind came into me and stood me on my feet, and I heard the one speaking to me.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַתָּ֧בֹא",
+          "morph": "HC/Vqw3fs"
+        },
+        {
+          "w": "בִ֣י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "ר֗וּחַ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "כַּֽאֲשֶׁר֙",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "דִּבֶּ֣ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "אֵלַ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וַתַּעֲמִדֵ֖נִי",
+          "morph": "HC/Vhw3fs/Sp1cs"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "רַגְלָ֑י",
+          "morph": "HNcfdc/Sp1cs"
+        },
+        {
+          "w": "וָאֶשְׁמַ֕ע",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "אֵ֖ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִדַּבֵּ֥ר",
+          "morph": "HVtrmsa"
+        },
+        {
+          "w": "אֵלָֽי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "他 對 我 說 ： 人 子 啊 ， 我 差 你 往 悖 逆 的 國 民 以 色 列 人 那 裡 去 。 他 們 是 悖 逆 我 的 ， 他 們 和 他 們 的 列 祖 違 背 我 ， 直 到 今 日 。",
+      "en": "He said to me, “Son of man, I am sending you to the house of Israel, to rebellious nations who have rebelled against me; both they and their fathers have revolted against me to this very day.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֵלַ֗י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָדָם֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "שׁוֹלֵ֨חַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אֲנִ֤י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "אֽוֹתְךָ֙",
+          "morph": "HTo/Sp2ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "גּוֹיִ֥ם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "הַמּוֹרְדִ֖ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "מָרְדוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בִ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "הֵ֤מָּה",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "וַאֲבוֹתָם֙",
+          "morph": "HC/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "פָּ֣שְׁעוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בִ֔י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "עֶ֖צֶם",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַיּ֥וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּֽה",
+          "morph": "HTd/Pdxms"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "這 眾 子 面 無 羞 恥 ， 心 裡 剛 硬 。 我 差 你 往 他 們 那 裡 去 ， 你 要 對 他 們 說 ： 主 耶 和 華 如 此 說 。",
+      "en": "The people to whom I am sending you are obstinate and hard-hearted, and you must say to them, ‘This is what the Sovereign Lord says.’",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַבָּנִ֗ים",
+          "morph": "HC/Td/Ncmpa"
+        },
+        {
+          "w": "קְשֵׁ֤י",
+          "morph": "HAampc"
+        },
+        {
+          "w": "פָנִים֙",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "וְחִזְקֵי",
+          "morph": "HC/Aampc"
+        },
+        {
+          "w": "לֵ֔ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲנִ֛י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "שׁוֹלֵ֥חַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אוֹתְךָ֖",
+          "morph": "HTo/Sp2ms"
+        },
+        {
+          "w": "אֲלֵיהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "וְאָמַרְתָּ֣",
+          "morph": "HC/Vqp2ms"
+        },
+        {
+          "w": "אֲלֵיהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "כֹּ֥ה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֖ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "אֲדֹנָ֥י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "יְהֹוִֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "他 們 或 聽 ， 或 不 聽 ， （ 他 們 是 悖 逆 之 家 ） ， 必 知 道 在 他 們 中 間 有 了 先 知 。",
+      "en": "And as for them, whether they listen or not—for they are a rebellious house—they will know that a prophet has been among them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֵ֨מָּה֙",
+          "morph": "HC/Pp3mp"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "יִשְׁמְע֣וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "יֶחְדָּ֔לוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "כִּ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "בֵּ֥ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְרִ֖י",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הֵ֑מָּה",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "וְיָ֣דְע֔וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "נָבִ֖יא",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הָיָ֥ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "בְתוֹכָֽם",
+          "morph": "HR/Ncmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "人 子 啊 ， 雖 有 荊 棘 和 蒺 藜 在 你 那 裡 ， 你 又 住 在 蠍 子 中 間 ， 總 不 要 怕 他 們 ， 也 不 要 怕 他 們 的 話 ； 他 們 雖 是 悖 逆 之 家 ， 還 不 要 怕 他 們 的 話 ， 也 不 要 因 他 們 的 臉 色 驚 惶 。",
+      "en": "But you, son of man, do not fear them, and do not fear their words. Even though briers and thorns surround you and you live among scorpions—do not fear their words and do not be terrified of the looks they give you, for they are a rebellious house!",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאַתָּ֣ה",
+          "morph": "HC/Pp2ms"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָ֠דָם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּירָ֨א",
+          "morph": "HVqj2ms"
+        },
+        {
+          "w": "מֵהֶ֜ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "וּמִדִּבְרֵיהֶ֣ם",
+          "morph": "HC/R/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּירָ֗א",
+          "morph": "HVqj2ms"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "סָרָבִ֤ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וְסַלּוֹנִים֙",
+          "morph": "HC/Ncmpa"
+        },
+        {
+          "w": "אוֹתָ֔ךְ",
+          "morph": "HTo/Sp2fs"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "עַקְרַבִּ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "אַתָּ֣ה",
+          "morph": "HPp2ms"
+        },
+        {
+          "w": "יוֹשֵׁ֑ב",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "מִדִּבְרֵיהֶ֤ם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִּירָא֙",
+          "morph": "HVqj2ms"
+        },
+        {
+          "w": "וּמִפְּנֵיהֶ֣ם",
+          "morph": "HC/R/Ncbpc/Sp3mp"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֵּחָ֔ת",
+          "morph": "HVNj2ms"
+        },
+        {
+          "w": "כִּ֛י",
+          "morph": "HC"
+        },
+        {
+          "w": "בֵּ֥ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְרִ֖י",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הֵֽמָּה",
+          "morph": "HPp3mp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "他 們 或 聽 ， 或 不 聽 ， 你 只 管 將 我 的 話 告 訴 他 們 ； 他 們 是 極 其 悖 逆 的 。",
+      "en": "You must speak my words to them whether they listen or not, for they are rebellious.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְדִבַּרְתָּ֤",
+          "morph": "HC/Vpp2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דְּבָרַי֙",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "אֲלֵיהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אִֽם",
+          "morph": "HC"
+        },
+        {
+          "w": "יִשְׁמְע֖וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "יֶחְדָּ֑לוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "מְרִ֖י",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הֵֽמָּה",
+          "morph": "HPp3mp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "人 子 啊 ， 要 聽 我 對 你 所 說 的 話 ， 不 要 悖 逆 像 那 悖 逆 之 家 ， 你 要 開 口 吃 我 所 賜 給 你 的 。",
+      "en": "As for you, son of man, listen to what I am saying to you: Do not rebel like that rebellious house! Open your mouth and eat what I am giving you.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאַתָּ֣ה",
+          "morph": "HC/Pp2ms"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָדָ֗ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "שְׁמַע֙",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "אֵ֤ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֲנִי֙",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "מְדַבֵּ֣ר",
+          "morph": "HVprmsa"
+        },
+        {
+          "w": "אֵלֶ֔יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "אַל",
+          "morph": "HTn"
+        },
+        {
+          "w": "תְּהִי",
+          "morph": "HVqj2ms"
+        },
+        {
+          "w": "מֶ֖רִי",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כְּבֵ֣ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַמֶּ֑רִי",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "פְּצֵ֣ה",
+          "morph": "HVqv2ms"
+        },
+        {
+          "w": "פִ֔יךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וֶאֱכֹ֕ל",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "אֵ֥ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֲנִ֖י",
+          "morph": "HPp1cs"
+        },
+        {
+          "w": "נֹתֵ֥ן",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אֵלֶֽיךָ",
+          "morph": "HR/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "我 觀 看 ， 見 有 一 隻 手 向 我 伸 出 來 ， 手 中 有 一 書 卷 。",
+      "en": "Then I looked and realized a hand was stretched out to me, and in it was a written scroll.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וָאֶרְאֶ֕ה",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "וְהִנֵּה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "יָ֖ד",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "שְׁלוּחָ֣ה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "אֵלָ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וְהִנֵּה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "ב֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "מְגִלַּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "סֵֽפֶר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "他 將 書 卷 在 我 面 前 展 開 ， 內 外 都 寫 著 字 ， 其 上 所 寫 的 有 哀 號 、 歎 息 、 悲 痛 的 話 。",
+      "en": "He unrolled it before me, and it had writing on the front and back; written on it were laments, mourning, and woe.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּפְרֹ֤שׂ",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אוֹתָהּ֙",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "לְפָנַ֔י",
+          "morph": "HR/Ncbpc/Sp1cs"
+        },
+        {
+          "w": "וְהִ֥יא",
+          "morph": "HC/Pp3fs"
+        },
+        {
+          "w": "כְתוּבָ֖ה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "פָּנִ֣ים",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "וְאָח֑וֹר",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וְכָת֣וּב",
+          "morph": "HC/Vqsmsa"
+        },
+        {
+          "w": "אֵלֶ֔יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "קִנִ֥ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "וָהֶ֖גֶה",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "וָהִֽי",
+          "morph": "HC/Ncmsa"
+        }
+      ]
+    }
+  ]
+}

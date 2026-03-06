@@ -1,0 +1,786 @@
+{
+  "book": 19,
+  "chapter": 145,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "（ 大 衛 的 讚 美 詩 。 ） 我 的 神 我 的 王 啊 ， 我 要 尊 崇 你 ！ 我 要 永 永 遠 遠 稱 頌 你 的 名 ！",
+      "en": "A psalm of praise; by David. I will extol you, my God, O King. I will praise your name continually.",
+      "notes": [],
+      "he": [
+        {
+          "w": "תְּהִלָּ֗ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לְדָ֫וִ֥ד",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אֲרוֹמִמְךָ֣",
+          "morph": "HVoh1cs/Sp2ms"
+        },
+        {
+          "w": "אֱלוֹהַ֣י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "הַמֶּ֑לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַאֲבָרֲכָ֥ה",
+          "morph": "HC/Vph1cs"
+        },
+        {
+          "w": "שִׁ֝מְךָ֗",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "לְעוֹלָ֥ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וָעֶֽד",
+          "morph": "HC/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "我 要 天 天 稱 頌 你 ， 也 要 永 永 遠 遠 讚 美 你 的 名 ！",
+      "en": "Every day I will praise you. I will praise your name continually.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "י֥וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲבָרֲכֶ֑ךָּ",
+          "morph": "HVph1cs/Sp2ms"
+        },
+        {
+          "w": "וַאֲהַלְלָ֥ה",
+          "morph": "HC/Vph1cs"
+        },
+        {
+          "w": "שִׁ֝מְךָ֗",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "לְעוֹלָ֥ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וָעֶֽד",
+          "morph": "HC/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "耶 和 華 本 為 大 ， 該 受 大 讚 美 ； 其 大 無 法 測 度 。",
+      "en": "The Lord is great and certainly worthy of praise. No one can fathom his greatness.",
+      "notes": [],
+      "he": [
+        {
+          "w": "גָּ֘ד֤וֹל",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יְהוָ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמְהֻלָּ֣ל",
+          "morph": "HC/VPsmsa"
+        },
+        {
+          "w": "מְאֹ֑ד",
+          "morph": "HD"
+        },
+        {
+          "w": "וְ֝לִגְדֻלָּת֗וֹ",
+          "morph": "HC/R/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "אֵ֣ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "חֵֽקֶר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "這 代 要 對 那 代 頌 讚 你 的 作 為 ， 也 要 傳 揚 你 的 大 能 。",
+      "en": "One generation will praise your deeds to another and tell about your mighty acts.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דּ֣וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְ֭דוֹר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "יְשַׁבַּ֣ח",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "מַעֲשֶׂ֑יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "וּגְב֖וּרֹתֶ֣יךָ",
+          "morph": "HC/Ncfpc/Sp2ms"
+        },
+        {
+          "w": "יַגִּֽידוּ",
+          "morph": "HVhi3mp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "我 要 默 念 你 威 嚴 的 尊 榮 和 你 奇 妙 的 作 為 。",
+      "en": "I will focus on your honor and majestic splendor and your amazing deeds.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הֲ֭דַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כְּב֣וֹד",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הוֹדֶ֑ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "וְדִבְרֵ֖י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "נִפְלְאוֹתֶ֣יךָ",
+          "morph": "HVNrfpc/Sp2ms"
+        },
+        {
+          "w": "אָשִֽׂיחָה",
+          "morph": "HVqh1cs"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "人 要 傳 說 你 可 畏 之 事 的 能 力 ； 我 也 要 傳 揚 你 的 大 德 。",
+      "en": "They will proclaim the power of your awesome acts. I will declare your great deeds.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וֶעֱז֣וּז",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "נוֹרְאֹתֶ֣יךָ",
+          "morph": "HVNrfpc/Sp2ms"
+        },
+        {
+          "w": "יֹאמֵ֑רוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "וגדולתיך",
+          "morph": "HC/Ncfpc/Sp2ms"
+        },
+        {
+          "w": "וּגְדוּלָּתְךָ֥",
+          "morph": "HC/Ncfsc/Sp2ms"
+        },
+        {
+          "w": "אֲסַפְּרֶֽנָּה",
+          "morph": "HVpi1cs/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "他 們 記 念 你 的 大 恩 就 要 傳 出 來 ， 並 要 歌 唱 你 的 公 義 。",
+      "en": "They will talk about the fame of your great kindness and sing about your justice.",
+      "notes": [],
+      "he": [
+        {
+          "w": "זֵ֣כֶר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רַב",
+          "morph": "HAamsc"
+        },
+        {
+          "w": "טוּבְךָ֣",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "יַבִּ֑יעוּ",
+          "morph": "HVhi3mp"
+        },
+        {
+          "w": "וְצִדְקָתְךָ֥",
+          "morph": "HC/Ncfsc/Sp2ms"
+        },
+        {
+          "w": "יְרַנֵּֽנוּ",
+          "morph": "HVpi3mp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "耶 和 華 有 恩 惠 ， 有 憐 憫 ， 不 輕 易 發 怒 ， 大 有 慈 愛 。",
+      "en": "The Lord is merciful and compassionate; he is patient and demonstrates great loyal love.",
+      "notes": [],
+      "he": [
+        {
+          "w": "חַנּ֣וּן",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְרַח֣וּם",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶ֥רֶךְ",
+          "morph": "HAamsc"
+        },
+        {
+          "w": "אַ֝פַּ֗יִם",
+          "morph": "HNcmda"
+        },
+        {
+          "w": "וּגְדָל",
+          "morph": "HC/Aamsc"
+        },
+        {
+          "w": "חָֽסֶד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "耶 和 華 善 待 萬 民 ； 他 的 慈 悲 覆 庇 他 一 切 所 造 的 。",
+      "en": "The Lord is good to all and has compassion on all he has made.",
+      "notes": [],
+      "he": [
+        {
+          "w": "טוֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לַכֹּ֑ל",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְ֝רַחֲמָ֗יו",
+          "morph": "HC/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מַעֲשָֽׂיו",
+          "morph": "HNcmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "耶 和 華 啊 ， 你 一 切 所 造 的 都 要 稱 謝 你 ； 你 的 聖 民 也 要 稱 頌 你 ，",
+      "en": "All your works will give thanks to you, Lord. Your loyal followers will praise you.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יוֹד֣וּךָ",
+          "morph": "HVhi3mp/Sp2ms"
+        },
+        {
+          "w": "יְ֭הוָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מַעֲשֶׂ֑יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "וַ֝חֲסִידֶ֗יךָ",
+          "morph": "HC/Aampc/Sp2ms"
+        },
+        {
+          "w": "יְבָרֲכֽוּכָה",
+          "morph": "HVpi3mp/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "傳 說 你 國 的 榮 耀 ， 談 論 你 的 大 能 ，",
+      "en": "They will proclaim the splendor of your kingdom; they will tell about your power,",
+      "notes": [],
+      "he": [
+        {
+          "w": "כְּב֣וֹד",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מַלְכוּתְךָ֣",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "יֹאמֵ֑רוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "וּגְבוּרָתְךָ֥",
+          "morph": "HC/Ncfsc/Sp2ms"
+        },
+        {
+          "w": "יְדַבֵּֽרוּ",
+          "morph": "HVpi3mp"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "好 叫 世 人 知 道 你 大 能 的 作 為 ， 並 你 國 度 威 嚴 的 榮 耀 。",
+      "en": "so that mankind might acknowledge your mighty acts and the majestic splendor of your kingdom.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְהוֹדִ֤יעַ",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "לִבְנֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "הָ֭אָדָם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "גְּבוּרֹתָ֑יו",
+          "morph": "HNcfpc/Sp3ms"
+        },
+        {
+          "w": "וּ֝כְב֗וֹד",
+          "morph": "HC/Ncbsc"
+        },
+        {
+          "w": "הֲדַ֣ר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מַלְכוּתֽוֹ",
+          "morph": "HNcfsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "你 的 國 是 永 遠 的 國 ！ 你 執 掌 的 權 柄 存 到 萬 代 ！",
+      "en": "Your kingdom is an eternal kingdom, and your dominion endures through all generations.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מַֽלְכוּתְךָ֗",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "מַלְכ֥וּת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֹֽלָמִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וּ֝מֶֽמְשֶׁלְתְּךָ֗",
+          "morph": "HC/Ncbsc/Sp2ms"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "דּ֥וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וָדֽוֹר",
+          "morph": "HC/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "凡 跌 倒 的 ， 耶 和 華 將 他 們 扶 持 ； 凡 被 壓 下 的 ， 將 他 們 扶 起 。",
+      "en": "The Lord supports all who fall and lifts up all who are bent over.",
+      "notes": [],
+      "he": [
+        {
+          "w": "סוֹמֵ֣ךְ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "יְ֭הוָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַנֹּפְלִ֑ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "וְ֝זוֹקֵ֗ף",
+          "morph": "HC/Vqrmsa"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַכְּפוּפִֽים",
+          "morph": "HTd/Vqsmpa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "萬 民 都 舉 目 仰 望 你 ； 你 隨 時 給 他 們 食 物 。",
+      "en": "Everything looks to you in anticipation, and you provide them with food on a regular basis.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֵֽינֵי",
+          "morph": "HNcbdc"
+        },
+        {
+          "w": "כֹ֭ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֵלֶ֣יךָ",
+          "morph": "HR/Sp2ms"
+        },
+        {
+          "w": "יְשַׂבֵּ֑רוּ",
+          "morph": "HVpi3mp"
+        },
+        {
+          "w": "וְאַתָּ֤ה",
+          "morph": "HC/Pp2ms"
+        },
+        {
+          "w": "נֽוֹתֵן",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לָהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אָכְלָ֣ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "בְּעִתּֽוֹ",
+          "morph": "HR/Ncbsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "你 張 手 ， 使 有 生 氣 的 都 隨 願 飽 足 。",
+      "en": "You open your hand and fill every living thing with the food it desires.",
+      "notes": [],
+      "he": [
+        {
+          "w": "פּוֹתֵ֥חַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יָדֶ֑ךָ",
+          "morph": "HNcbsc/Sp2ms"
+        },
+        {
+          "w": "וּמַשְׂבִּ֖יעַ",
+          "morph": "HC/Vhrmsa"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "חַ֣י",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "רָצֽוֹן",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "耶 和 華 在 他 一 切 所 行 的 ， 無 不 公 義 ； 在 他 一 切 所 做 的 都 有 慈 愛 。",
+      "en": "The Lord is just in all his actions and exhibits love in all he does.",
+      "notes": [],
+      "he": [
+        {
+          "w": "צַדִּ֣יק",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יְ֭הוָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "דְּרָכָ֑יו",
+          "morph": "HNcbpc/Sp3ms"
+        },
+        {
+          "w": "וְ֝חָסִ֗יד",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מַעֲשָֽׂיו",
+          "morph": "HNcmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "凡 求 告 耶 和 華 的 ， 就 是 誠 心 求 告 他 的 ， 耶 和 華 便 與 他 們 相 近 。",
+      "en": "The Lord is near all who cry out to him, all who cry out to him sincerely.",
+      "notes": [],
+      "he": [
+        {
+          "w": "קָר֣וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יְ֭הוָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "קֹרְאָ֑יו",
+          "morph": "HVqrmpc/Sp3ms"
+        },
+        {
+          "w": "לְכֹ֤ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁ֖ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִקְרָאֻ֣הוּ",
+          "morph": "HVqi3mp/Sp3ms"
+        },
+        {
+          "w": "בֶאֱמֶֽת",
+          "morph": "HR/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "敬 畏 他 的 ， 他 必 成 就 他 們 的 心 願 ， 也 必 聽 他 們 的 呼 求 ， 拯 救 他 們 。",
+      "en": "He satisfies the desire of his loyal followers; he hears their cry for help and delivers them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רְצוֹן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְרֵאָ֥יו",
+          "morph": "HAampc/Sp3ms"
+        },
+        {
+          "w": "יַעֲשֶׂ֑ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְֽאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "שַׁוְעָתָ֥ם",
+          "morph": "HNcfsc/Sp3mp"
+        },
+        {
+          "w": "יִ֝שְׁמַ֗ע",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְיוֹשִׁיעֵֽם",
+          "morph": "HC/Vhi3ms/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "耶 和 華 保 護 一 切 愛 他 的 人 ， 卻 要 滅 絕 一 切 的 惡 人 。",
+      "en": "The Lord protects all those who love him, but he destroys all the wicked.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שׁוֹמֵ֣ר",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "יְ֭הוָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹהֲבָ֑יו",
+          "morph": "HVqrmpc/Sp3ms"
+        },
+        {
+          "w": "וְאֵ֖ת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָרְשָׁעִ֣ים",
+          "morph": "HTd/Aampa"
+        },
+        {
+          "w": "יַשְׁמִֽיד",
+          "morph": "HVhi3ms"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "我 的 口 要 說 出 讚 美 耶 和 華 的 話 ； 惟 願 凡 有 血 氣 的 都 永 永 遠 遠 稱 頌 他 的 聖 名 。",
+      "en": "My mouth will praise the Lord. Let all who live praise his holy name forever.",
+      "notes": [],
+      "he": [
+        {
+          "w": "תְּהִלַּ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְהוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "יְֽדַבֶּ֫ר",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "פִּ֥י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וִיבָרֵ֣ךְ",
+          "morph": "HC/Vpi3ms"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּ֭שָׂר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "שֵׁ֥ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קָדְשׁ֗וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "לְעוֹלָ֥ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וָעֶֽד",
+          "morph": "HC/Ncmsa"
+        }
+      ]
+    }
+  ]
+}

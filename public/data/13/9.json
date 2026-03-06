@@ -1,0 +1,2334 @@
+{
+  "book": 13,
+  "chapter": 9,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "以 色 列 人 都 按 家 譜 計 算 ， 寫 在 以 色 列 諸 王 記 上 。 猶 大 人 因 犯 罪 就 被 擄 到 巴 比 倫 。",
+      "en": "Genealogical records were kept for all Israel; they are recorded in the Scroll of the Kings of Israel.The people of Judah were carried away to Babylon because of their unfaithfulness.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "הִתְיַחְשׂ֔וּ",
+          "morph": "HVtp3cp"
+        },
+        {
+          "w": "וְהִנָּ֣ם",
+          "morph": "HC/Tm/Sp3mp"
+        },
+        {
+          "w": "כְּתוּבִ֔ים",
+          "morph": "HVqsmpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "סֵ֖פֶר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מַלְכֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וִיהוּדָ֛ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הָגְל֥וּ",
+          "morph": "HVHp3cp"
+        },
+        {
+          "w": "לְבָבֶ֖ל",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בְּמַעֲלָֽם",
+          "morph": "HR/Ncmsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "先 從 巴 比 倫 回 來 ， 住 在 自 己 地 業 城 邑 中 的 有 以 色 列 人 、 祭 司 、 利 未 人 、 尼 提 寧 的 首 領 。",
+      "en": "The first to resettle on their property and in their cities were some Israelites, priests, Levites, and temple servants.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַיּוֹשְׁבִים֙",
+          "morph": "HC/Td/Vqrmpa"
+        },
+        {
+          "w": "הָרִ֣אשֹׁנִ֔ים",
+          "morph": "HTd/Aampa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "בַּאֲחֻזָּתָ֖ם",
+          "morph": "HR/Ncfsc/Sp3mp"
+        },
+        {
+          "w": "בְּעָרֵיהֶ֑ם",
+          "morph": "HR/Ncfpc/Sp3mp"
+        },
+        {
+          "w": "יִשְׂרָאֵל֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַכֹּ֣הֲנִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הַלְוִיִּ֖ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "וְהַנְּתִינִֽים",
+          "morph": "HC/Td/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "住 在 耶 路 撒 冷 的 有 猶 大 人 、 便 雅 憫 人 、 以 法 蓮 人 、 瑪 拿 西 人 。",
+      "en": "Some from the tribes of Judah, Benjamin, and Ephraim and Manasseh settled in Jerusalem.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבִירוּשָׁלִַ֨ם֙",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "יָשְׁב֔וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יְהוּדָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בִנְיָמִ֑ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אֶפְרַ֖יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמְנַשֶּֽׁה",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "猶 大 兒 子 法 勒 斯 的 子 孫 中 有 烏 太 。 烏 太 是 亞 米 忽 的 兒 子 ； 亞 米 忽 是 暗 利 的 兒 子 ； 暗 利 是 音 利 的 兒 子 ； 音 利 是 巴 尼 的 兒 子 。",
+      "en": "The settlers included: Uthai son of Ammihud, son of Omri, son of Imri, son of Bani, who was a descendant of Perez son of Judah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עוּתַ֨י",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַמִּיה֤וּד",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עָמְרִי֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אִמְרִ֣י",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בנימן",
+          "morph": "HNcmpc/R"
+        },
+        {
+          "w": "בָּנִ֔י",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "פֶ֖רֶץ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוּדָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "示 羅 的 子 孫 中 有 長 子 亞 帥 雅 和 他 的 眾 子 。",
+      "en": "From the Shilonites: Asaiah the firstborn and his sons.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַשִּׁ֣ילוֹנִ֔י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "עֲשָׂיָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַבְּכ֖וֹר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וּבָנָֽיו",
+          "morph": "HC/Ncmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "謝 拉 的 子 孫 中 有 耶 烏 利 和 他 的 弟 兄 ， 共 六 百 九 十 人 。",
+      "en": "From the descendants of Zerah: Jeuel. Their relatives numbered 690.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בְּנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "זֶ֖רַח",
+          "morph": "HNp"
+        },
+        {
+          "w": "יְעוּאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַאֲחֵיהֶ֖ם",
+          "morph": "HC/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "שֵׁשׁ",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "מֵא֥וֹת",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "וְתִשְׁעִֽים",
+          "morph": "HC/Acbpa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "便 雅 憫 人 中 有 哈 西 努 的 曾 孫 、 何 達 威 雅 的 孫 子 、 米 書 蘭 的 兒 子 撒 路 ，",
+      "en": "From the descendants of Benjamin:Sallu son of Meshullam, son of Hodaviah, son of Hassenuah;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בְּנֵ֖י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בִּנְיָמִ֑ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "סַלּוּא֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְשֻׁלָּ֔ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הוֹדַוְיָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַסְּנֻאָֽה",
+          "morph": "HTd/Np"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "又 有 耶 羅 罕 的 兒 子 伊 比 尼 雅 ， 米 基 立 的 孫 子 、 烏 西 的 兒 子 以 拉 ， 伊 比 尼 雅 的 曾 孫 、 流 珥 的 孫 子 、 示 法 提 雅 的 兒 子 米 書 蘭 ，",
+      "en": "Ibneiah son of Jeroham; Elah son of Uzzi, son of Mikri; and Meshullam son of Shephatiah, son of Reuel, son of Ibnijah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיִבְנְיָה֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְרֹחָ֔ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֵלָ֥ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֻזִּ֖י",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִכְרִ֑י",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמְשֻׁלָּם֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שְׁפַטְיָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רְעוּאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִבְנִיָּֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "和 他 們 的 族 弟 兄 ， 按 著 家 譜 計 算 共 有 九 百 五 十 六 名 。 這 些 人 都 是 他 們 的 族 長 。",
+      "en": "Their relatives, listed in their genealogical records, numbered 956. All these men were leaders of their families.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַאֲחֵיהֶם֙",
+          "morph": "HC/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "לְתֹ֣לְדוֹתָ֔ם",
+          "morph": "HR/Ncfpc/Sp3mp"
+        },
+        {
+          "w": "תְּשַׁ֥ע",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "מֵא֖וֹת",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "וַחֲמִשִּׁ֣ים",
+          "morph": "HC/Acbpa"
+        },
+        {
+          "w": "וְשִׁשָּׁ֑ה",
+          "morph": "HC/Acmsa"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֵ֣לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "אֲנָשִׁ֔ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רָאשֵׁ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אָב֖וֹת",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לְבֵ֥ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֲבֹתֵיהֶֽם",
+          "morph": "HNcmpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "祭 司 中 有 耶 大 雅 、 耶 何 雅 立 、 雅 斤 ，",
+      "en": "From the priests:Jedaiah; Jehoiarib; Jakin;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַֽכֹּהֲנִ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "יְדַֽעְיָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וִיהוֹיָרִ֖יב",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְיָכִֽין",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "還 有 管 理 神 殿 希 勒 家 的 兒 子 亞 薩 利 雅 。 希 勒 家 是 米 書 蘭 的 兒 子 ； 米 書 蘭 是 撒 督 的 兒 子 ； 撒 督 是 米 拉 約 的 兒 子 ； 米 拉 約 是 亞 希 突 的 兒 子 。",
+      "en": "Azariah son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub the leader in God’s temple;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַעֲזַרְיָ֨ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חִלְקִיָּ֜ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְשֻׁלָּ֣ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "צָד֗וֹק",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְרָיוֹת֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֲחִיט֔וּב",
+          "morph": "HNp"
+        },
+        {
+          "w": "נְגִ֖יד",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בֵּ֥ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאֱלֹהִֽים",
+          "morph": "HTd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "有 瑪 基 雅 的 曾 孫 、 巴 施 戶 珥 的 孫 子 、 耶 羅 罕 的 兒 子 亞 大 雅 ， 又 有 亞 第 業 的 兒 子 瑪 賽 ； 亞 第 業 是 雅 希 細 拉 的 兒 子 ； 雅 希 細 拉 是 米 書 蘭 的 兒 子 ； 米 書 蘭 是 米 實 利 密 的 兒 子 ； 米 實 利 密 是 音 麥 的 兒 子 。",
+      "en": "Adaiah son of Jeroham, son of Pashhur, son of Malkijah; and Maasai son of Adiel, son of Jahzerah, son of Meshullam, son of Meshillemith, son of Immer.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַעֲדָיָה֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְרֹחָ֔ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "פַּשְׁח֖וּר",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מַלְכִּיָּ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמַעְשַׂ֨י",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עֲדִיאֵ֧ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יַחְזֵ֛רָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְשֻׁלָּ֥ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְשִׁלֵּמִ֖ית",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אִמֵּֽר",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "他 們 和 眾 弟 兄 都 是 族 長 ， 共 有 一 千 七 百 六 十 人 ， 是 善 於 做 神 殿 使 用 之 工 的 。",
+      "en": "Their relatives, who were leaders of their families, numbered 1,760. They were capable men who were assigned to carry out the various tasks of service in God’s temple.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַאֲחֵיהֶ֗ם",
+          "morph": "HC/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "רָאשִׁים֙",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לְבֵ֣ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֲבוֹתָ֔ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "אֶ֕לֶף",
+          "morph": "HAcbsa"
+        },
+        {
+          "w": "וּשְׁבַ֥ע",
+          "morph": "HC/Acfsa"
+        },
+        {
+          "w": "מֵא֖וֹת",
+          "morph": "HAcbpa"
+        },
+        {
+          "w": "וְשִׁשִּׁ֑ים",
+          "morph": "HC/Acbpa"
+        },
+        {
+          "w": "גִּבּ֣וֹרֵי",
+          "morph": "HAampc"
+        },
+        {
+          "w": "חֵ֔יל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְלֶ֖אכֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "עֲבוֹדַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בֵּית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאֱלֹהִֽים",
+          "morph": "HTd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "利 未 人 米 拉 利 的 子 孫 中 ， 有 哈 沙 比 雅 的 曾 孫 、 押 利 甘 的 孫 子 、 哈 述 的 兒 子 示 瑪 雅 。",
+      "en": "From the Levites:Shemaiah son of Hasshub, son of Azrikam, son of Hashabiah a descendant of Merari;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִֽן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַלְוִיִּ֑ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "שְׁמַֽעְיָ֧ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חַשּׁ֛וּב",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַזְרִיקָ֥ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חֲשַׁבְיָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מְרָרִֽי",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "有 拔 巴 甲 、 黑 勒 施 、 迦 拉 ， 並 亞 薩 的 曾 孫 、 細 基 利 的 孫 子 、 米 迦 的 兒 子 瑪 探 雅 ，",
+      "en": "Bakbakkar; Heresh; Galal; Mattaniah son of Mika, son of Zikri, son of Asaph;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבַקְבַּקַּ֥ר",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "חֶ֖רֶשׁ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְגָלָ֑ל",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּמַתַּנְיָה֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִיכָ֔א",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "זִכְרִ֖י",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָסָֽף",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "又 有 耶 杜 頓 的 曾 孫 、 迦 拉 的 孫 子 、 示 瑪 雅 的 兒 子 俄 巴 底 ， 還 有 以 利 加 拿 的 孫 子 、 亞 撒 的 兒 子 比 利 家 。 他 們 都 住 在 尼 陀 法 人 的 村 莊 。",
+      "en": "Obadiah son of Shemaiah, son of Galal, son of Jeduthun; and Berechiah son of Asa, son of Elkanah, who lived among the settlements of the Netophathites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעֹבַדְיָה֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּֽן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שְׁמַֽעְיָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "גָּלָ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְדוּת֑וּן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּבֶרֶכְיָ֤ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָסָא֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֶלְקָנָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַיּוֹשֵׁ֖ב",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "בְּחַצְרֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "נְטוֹפָתִֽי",
+          "morph": "HNgmsa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "守 門 的 是 沙 龍 、 亞 谷 、 達 們 、 亞 希 幔 ， 和 他 們 的 弟 兄 ； 沙 龍 為 長 。",
+      "en": "The gatekeepers were:Shallum, Akkub, Talmon, Ahiman, and their brothers. Shallum was the leader;",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַשֹּׁעֲרִים֙",
+          "morph": "HC/Td/Ncmpa"
+        },
+        {
+          "w": "שַׁלּ֣וּם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְעַקּ֔וּב",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְטַלְמֹ֖ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וַאֲחִימָ֑ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וַאֲחִיהֶ֥ם",
+          "morph": "HC/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "שַׁלּ֖וּם",
+          "morph": "HNp"
+        },
+        {
+          "w": "הָרֹֽאשׁ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "從 前 這 些 人 看 守 朝 東 的 王 門 ， 如 今 是 利 未 營 中 守 門 的 。",
+      "en": "he serves to this day at the King’s Gate on the east. These were the gatekeepers from the camp of the descendants of Levi.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְֽעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הֵ֔נָּה",
+          "morph": "HD"
+        },
+        {
+          "w": "בְּשַׁ֥עַר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַמֶּ֖לֶךְ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִזְרָ֑חָה",
+          "morph": "HNcmsa/Sd"
+        },
+        {
+          "w": "הֵ֚מָּה",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "הַשֹּׁ֣עֲרִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "לְמַחֲנ֖וֹת",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "לֵוִֽי",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "可 拉 的 曾 孫 、 以 比 雅 撒 的 孫 子 、 可 利 的 兒 子 沙 龍 ， 和 他 的 族 弟 兄 可 拉 人 都 管 理 使 用 之 工 ， 並 守 會 幕 的 門 。 他 們 的 祖 宗 曾 管 理 耶 和 華 的 營 盤 ， 又 把 守 營 門 。",
+      "en": "Shallum son of Kore, son of Ebiasaph, son of Korah, and his relatives from his family (the Korahites) were assigned to guard the entrance to the sanctuary. Their ancestors had guarded the entrance to the Lord’s dwelling place.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְשַׁלּ֣וּם",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "ק֠וֹרֵא",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֶבְיָסָ֨ף",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קֹ֜רַח",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְֽאֶחָ֧יו",
+          "morph": "HC/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "לְבֵית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אָבִ֣יו",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "הַקָּרְחִ֗ים",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "עַ֚ל",
+          "morph": "HR"
+        },
+        {
+          "w": "מְלֶ֣אכֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הָעֲבוֹדָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "שֹׁמְרֵ֥י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "הַסִּפִּ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "לָאֹ֑הֶל",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וַאֲבֹֽתֵיהֶם֙",
+          "morph": "HC/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "מַחֲנֵ֣ה",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "שֹׁמְרֵ֖י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "הַמָּבֽוֹא",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "從 前 以 利 亞 撒 的 兒 子 非 尼 哈 管 理 他 們 ， 耶 和 華 也 與 他 同 在 。",
+      "en": "Phinehas son of Eleazar had been their leader in earlier times, and the Lord was with him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּפִֽינְחָ֣ס",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בֶּן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֶלְעָזָ֗ר",
+          "morph": "HNp"
+        },
+        {
+          "w": "נָגִ֨יד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הָיָ֧ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "עֲלֵיהֶ֛ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "לְפָנִ֖ים",
+          "morph": "HR/Ncbpa"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עִמּֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "米 施 利 米 雅 的 兒 子 撒 迦 利 雅 是 看 守 會 幕 之 門 的 。",
+      "en": "Zechariah son of Meshelemiah was the guard at the entrance to the meeting tent.",
+      "notes": [],
+      "he": [
+        {
+          "w": "זְכַרְיָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֶּ֣ן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מְשֶֽׁלֶמְיָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "שֹׁעֵ֥ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "פֶּ֖תַח",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לְאֹ֥הֶל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מוֹעֵֽד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "被 選 守 門 的 人 共 有 二 百 一 十 二 名 。 他 們 在 自 己 的 村 莊 ， 按 著 家 譜 計 算 ， 是 大 衛 和 先 見 撒 母 耳 所 派 當 這 緊 要 職 任 的 。",
+      "en": "All those selected to be gatekeepers at the entrances numbered 212. Their names were recorded in the genealogical records of their settlements. David and Samuel the prophet had appointed them to their positions.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כֻּלָּ֤ם",
+          "morph": "HNcmsc/Sp3mp"
+        },
+        {
+          "w": "הַבְּרוּרִים֙",
+          "morph": "HTd/Vqsmpa"
+        },
+        {
+          "w": "לְשֹׁעֲרִ֣ים",
+          "morph": "HR/Ncmpa"
+        },
+        {
+          "w": "בַּסִּפִּ֔ים",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "מָאתַ֖יִם",
+          "morph": "HAcbda"
+        },
+        {
+          "w": "וּשְׁנֵ֣ים",
+          "morph": "HC/Acmda"
+        },
+        {
+          "w": "עָשָׂ֑ר",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "הֵ֤מָּה",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "בְחַצְרֵיהֶם֙",
+          "morph": "HR/Ncbpc/Sp3mp"
+        },
+        {
+          "w": "הִתְיַחְשָׂ֔ם",
+          "morph": "HVtc/Sp3mp"
+        },
+        {
+          "w": "הֵ֣מָּה",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "יִסַּ֥ד",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "דָּוִ֛יד",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּשְׁמוּאֵ֥ל",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הָרֹאֶ֖ה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בֶּאֱמוּנָתָֽם",
+          "morph": "HR/Ncfsc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "他 們 和 他 們 的 子 孫 按 著 班 次 看 守 耶 和 華 殿 的 門 ， 就 是 會 幕 的 門 。",
+      "en": "They and their descendants were assigned to guard the gates of the Lord’s sanctuary (that is, the tabernacle).",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֵ֨ם",
+          "morph": "HC/Pp3mp"
+        },
+        {
+          "w": "וּבְנֵיהֶ֜ם",
+          "morph": "HC/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַשְּׁעָרִ֧ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "לְבֵית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְבֵ֥ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הָאֹ֖הֶל",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְמִשְׁמָרֽוֹת",
+          "morph": "HR/Ncfpa"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "在 東 西 南 北 ， 四 方 都 有 守 門 的 。",
+      "en": "The gatekeepers were posted on all four sides—east, west, north, and south.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְאַרְבַּ֣ע",
+          "morph": "HR/Acfsa"
+        },
+        {
+          "w": "רוּח֔וֹת",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "יִהְי֖וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "הַשֹּׁעֲרִ֑ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "מִזְרָ֥ח",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יָ֖מָּה",
+          "morph": "HNcmsa/Sd"
+        },
+        {
+          "w": "צָפ֥וֹנָה",
+          "morph": "HNcfsa/Sd"
+        },
+        {
+          "w": "וָנֶֽגְבָּה",
+          "morph": "HC/Ncmsa/Sd"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "他 們 的 族 弟 兄 住 在 村 莊 ， 每 七 日 來 與 他 們 換 班 。",
+      "en": "Their relatives, who lived in their settlements, came from time to time and served with them for seven-day periods.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַאֲחֵיהֶ֨ם",
+          "morph": "HC/Ncmpc/Sp3mp"
+        },
+        {
+          "w": "בְּחַצְרֵיהֶ֜ם",
+          "morph": "HR/Ncbpc/Sp3mp"
+        },
+        {
+          "w": "לָב֨וֹא",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לְשִׁבְעַ֧ת",
+          "morph": "HR/Acmsc"
+        },
+        {
+          "w": "הַיָּמִ֛ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "מֵעֵ֥ת",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "עֵ֖ת",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "אֵֽלֶּה",
+          "morph": "HPdxcp"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "這 四 個 門 領 都 是 利 未 人 ， 各 有 緊 要 的 職 任 ， 看 守 神 殿 的 倉 庫 。",
+      "en": "The four head gatekeepers, who were Levites, were assigned to guard the storerooms and treasuries in God’s sanctuary.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "בֶאֱמוּנָ֞ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "הֵ֗מָּה",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "אַרְבַּ֨עַת֙",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "גִּבֹּרֵ֣י",
+          "morph": "HAampc"
+        },
+        {
+          "w": "הַשֹּׁעֲרִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הֵ֖ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "הַלְוִיִּ֑ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "וְהָיוּ֙",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַלְּשָׁכ֔וֹת",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "וְעַ֥ל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הָאֹצְר֖וֹת",
+          "morph": "HTd/Ncmpc"
+        },
+        {
+          "w": "בֵּ֥ית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאֱלֹהִֽים",
+          "morph": "HTd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "他 們 住 在 神 殿 的 四 圍 ， 是 因 委 託 他 們 守 殿 ， 要 每 日 早 晨 開 門 。",
+      "en": "They would spend the night in their posts all around God’s sanctuary, for they were assigned to guard it and would open it with the key every morning.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּסְבִיב֥וֹת",
+          "morph": "HC/Ncbpc"
+        },
+        {
+          "w": "בֵּית",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאֱלֹהִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "יָלִ֑ינוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "עֲלֵיהֶ֣ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "מִשְׁמֶ֔רֶת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְהֵ֥ם",
+          "morph": "HC/Pp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמַּפְתֵּ֖חַ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְלַבֹּ֥קֶר",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "לַבֹּֽקֶר",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "利 未 人 中 有 管 理 使 用 器 皿 的 ， 按 著 數 目 拿 出 拿 入 ；",
+      "en": "Some of them were in charge of the articles used by those who served; they counted them when they brought them in and when they brought them out.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמֵהֶ֖ם",
+          "morph": "HC/R/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כְּלֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָעֲבוֹדָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "בְמִסְפָּ֣ר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "יְבִיא֔וּם",
+          "morph": "HVhi3mp/Sp3mp"
+        },
+        {
+          "w": "וּבְמִסְפָּ֖ר",
+          "morph": "HC/R/Ncmsa"
+        },
+        {
+          "w": "יוֹצִיאֽוּם",
+          "morph": "HVhi3mp/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "又 有 人 管 理 器 具 和 聖 所 的 器 皿 ， 並 細 麵 、 酒 、 油 、 乳 香 、 香 料 。",
+      "en": "Some of them were in charge of the equipment and articles of the sanctuary, as well as the flour, wine, olive oil, incense, and spices.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמֵהֶ֗ם",
+          "morph": "HC/R/Sp3mp"
+        },
+        {
+          "w": "מְמֻנִּים֙",
+          "morph": "HVPsmpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכֵּלִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְעַ֖ל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כְּלֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַקֹּ֑דֶשׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַסֹּ֨לֶת֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְהַיַּ֣יִן",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "וְהַשֶּׁ֔מֶן",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "וְהַלְּבוֹנָ֖ה",
+          "morph": "HC/Td/Ncfsa"
+        },
+        {
+          "w": "וְהַבְּשָׂמִֽים",
+          "morph": "HC/Td/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "祭 司 中 有 人 用 香 料 做 膏 油 。",
+      "en": "(But some of the priests mixed the spices.)",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בְּנֵי֙",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַכֹּ֣הֲנִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "רֹקְחֵ֥י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "הַמִּרְקַ֖חַת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "לַבְּשָׂמִֽים",
+          "morph": "HRd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "利 未 人 瑪 他 提 雅 是 可 拉 族 沙 龍 的 長 子 ， 他 緊 要 的 職 任 是 管 理 盤 中 烤 的 物 。",
+      "en": "Mattithiah, a Levite, the firstborn son of Shallum the Korahite, was in charge of baking the bread for offerings.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמַתִּתְיָה֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַלְוִיִּ֔ם",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "ה֥וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "הַבְּכ֖וֹר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְשַׁלֻּ֣ם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הַקָּרְחִ֑י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "בֶּאֱמוּנָ֕ה",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "מַעֲשֵׂ֥ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַחֲבִתִּֽים",
+          "morph": "HTd/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "他 們 族 弟 兄 哥 轄 子 孫 中 ， 有 管 理 陳 設 餅 的 ， 每 安 息 日 預 備 擺 列 。",
+      "en": "Some of the Kohathites, their relatives, were in charge of preparing the bread that is displayed each Sabbath.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בְּנֵ֧י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַקְּהָתִ֛י",
+          "morph": "HTd/Ngmsa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲחֵיהֶ֖ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "לֶ֣חֶם",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הַֽמַּעֲרָ֑כֶת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "לְהָכִ֖ין",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "שַׁבַּ֥ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "שַׁבָּֽת",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "歌 唱 的 有 利 未 人 的 族 長 ， 住 在 屬 殿 的 房 屋 ， 晝 夜 供 職 ， 不 做 別 樣 的 工 。",
+      "en": "The musicians and Levite family leaders stayed in rooms at the sanctuary and were exempt from other duties, for day and night they had to carry out their assigned tasks.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֵ֣לֶּה",
+          "morph": "HC/Pdxcp"
+        },
+        {
+          "w": "הַ֠מְשֹׁרְרִים",
+          "morph": "HTd/Vormpa"
+        },
+        {
+          "w": "רָאשֵׁ֨י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אָב֧וֹת",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לַלְוִיִּ֛ם",
+          "morph": "HRd/Ngmpa"
+        },
+        {
+          "w": "בַּלְּשָׁכֹ֖ת",
+          "morph": "HRd/Ncfpa"
+        },
+        {
+          "w": "פטירים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "פְּטוּרִ֑ים",
+          "morph": "HVqsmpa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יוֹמָ֥ם",
+          "morph": "HD"
+        },
+        {
+          "w": "וָלַ֛יְלָה",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "עֲלֵיהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "בַּמְּלָאכָֽה",
+          "morph": "HRd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "以 上 都 是 利 未 人 著 名 的 族 長 ， 住 在 耶 路 撒 冷 。",
+      "en": "These were the family leaders of the Levites, as listed in their genealogical records. They lived in Jerusalem.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֵלֶּה֩",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "רָאשֵׁ֨י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָאָב֧וֹת",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "לַלְוִיִּ֛ם",
+          "morph": "HRd/Ngmpa"
+        },
+        {
+          "w": "לְתֹלְדוֹתָ֖ם",
+          "morph": "HR/Ncfpc/Sp3mp"
+        },
+        {
+          "w": "רָאשִׁ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "אֵ֖לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "יָשְׁב֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בִירוּשָׁלִָֽם",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "在 基 遍 住 的 有 基 遍 的 父 親 耶 利 。 他 的 妻 名 叫 瑪 迦 ；",
+      "en": "Jeiel (the father of Gibeon) lived in Gibeon. His wife was Maacah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבְגִבְע֛וֹן",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "יָשְׁב֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אֲבִֽי",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "גִבְע֖וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "יעואל",
+          "morph": "HNp"
+        },
+        {
+          "w": "יְעִיאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשֵׁ֥ם",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "אִשְׁתּ֖וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "מַעֲכָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "他 長 子 是 亞 伯 頓 。 他 又 生 蘇 珥 、 基 士 、 巴 力 、 尼 珥 、 拿 答 、",
+      "en": "His firstborn son was Abdon, followed by Zur, Kish, Baal, Ner, Nadab,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבְנ֥וֹ",
+          "morph": "HC/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "הַבְּכ֖וֹר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עַבְדּ֑וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְצ֣וּר",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְקִ֔ישׁ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּבַ֥עַל",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְנֵ֖ר",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְנָדָֽב",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "zh": "基 多 、 亞 希 約 、 撒 迦 利 雅 、 米 基 羅 。",
+      "en": "Gedor, Ahio, Zechariah, and Mikloth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּגְד֣וֹר",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְאַחְי֔וֹ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּזְכַרְיָ֖ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּמִקְלֽוֹת",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "zh": "米 基 羅 生 示 米 暗 。 這 些 人 和 他 們 的 弟 兄 在 耶 路 撒 冷 對 面 居 住 。",
+      "en": "Mikloth was the father of Shimeam. They also lived near their relatives in Jerusalem.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמִקְל֖וֹת",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הוֹלִ֣יד",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שִׁמְאָ֑ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאַף",
+          "morph": "HC/D"
+        },
+        {
+          "w": "הֵ֗ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "נֶ֧גֶד",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲחֵיהֶ֛ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "יָשְׁב֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "בִירֽוּשָׁלִַ֖ם",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲחֵיהֶֽם",
+          "morph": "HNcmpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "zh": "尼 珥 生 基 士 ； 基 士 生 掃 羅 ； 掃 羅 生 約 拿 單 、 麥 基 舒 亞 、 亞 比 拿 達 、 伊 施 巴 力 。",
+      "en": "Ner was the father of Kish, and Kish was the father of Saul. Saul was the father of Jonathan, Malki-Shua, Abinadab, and Eshbaal.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנֵר֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הוֹלִ֣יד",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "קִ֔ישׁ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְקִ֖ישׁ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הוֹלִ֣יד",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שָׁא֑וּל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְשָׁא֗וּל",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הוֹלִ֤יד",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהֽוֹנָתָן֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "מַלְכִּי",
+          "morph": "HNp"
+        },
+        {
+          "w": "שׁ֔וּעַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אֲבִינָדָ֖ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אֶשְׁבָּֽעַל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "zh": "約 拿 單 的 兒 子 是 米 力 巴 力 ( 即 米 非 波 設 ) ； 米 力 巴 力 生 米 迦 。",
+      "en": "The son of Jonathan:Meribbaal, who was the father of Micah.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבֶן",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "יְהוֹנָתָ֖ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "מְרִ֣יב",
+          "morph": "HNp"
+        },
+        {
+          "w": "בָּ֑עַל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמְרִי",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בַ֖עַל",
+          "morph": "HNp"
+        },
+        {
+          "w": "הוֹלִ֥יד",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִיכָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "zh": "米 迦 的 兒 子 是 毗 敦 、 米 勒 、 他 利 亞 、 亞 哈 斯 。",
+      "en": "The sons of Micah:Pithon, Melech, Tahrea, and Ahaz.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּבְנֵ֖י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "מִיכָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "פִּית֥וֹן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וָמֶ֖לֶךְ",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְתַחְרֵֽעַ",
+          "morph": "HC/Np"
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "zh": "亞 哈 斯 生 雅 拉 ； 雅 拉 生 亞 拉 篾 、 亞 斯 瑪 威 、 心 利 ； 心 利 生 摩 撒 ；",
+      "en": "Ahaz was the father of Jarah, and Jarah was the father of Alemeth, Azmaveth, and Zimri. Zimri was the father of Moza,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאָחָז֙",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הוֹלִ֣יד",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יַעְרָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְיַעְרָ֗ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הוֹלִ֛יד",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עָלֶ֥מֶת",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "עַזְמָ֖וֶת",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "זִמְרִ֑י",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְזִמְרִ֖י",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הוֹלִ֥יד",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מוֹצָֽא",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "zh": "摩 撒 生 比 尼 亞 ； 比 尼 亞 生 利 法 雅 ； 利 法 雅 的 兒 子 是 以 利 亞 薩 ； 以 利 亞 薩 的 兒 子 是 亞 悉 。",
+      "en": "and Moza was the father of Binea. His son was Rephaiah, whose son was Eleasah, whose son was Azel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמוֹצָ֖א",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הוֹלִ֣יד",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בִּנְעָ֑א",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּרְפָיָ֥ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "בְנ֛וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "אֶלְעָשָׂ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְנ֖וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "אָצֵ֥ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּנֽוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "zh": "亞 悉 有 六 個 兒 子 ， 他 們 的 名 字 是 亞 斯 利 干 、 波 基 路 、 以 實 瑪 利 、 示 亞 利 雅 、 俄 巴 底 雅 、 哈 難 。 這 都 是 亞 悉 的 兒 子 。",
+      "en": "Azel had six sons: Azrikam his firstborn, followed by Ishmael, Sheariah, Obadiah, and Hanan. These were the sons of Azel.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּלְאָצֵל֮",
+          "morph": "HC/R/Np"
+        },
+        {
+          "w": "שִׁשָּׁ֣ה",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "בָנִים֒",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וְאֵ֣לֶּה",
+          "morph": "HC/Pdxcp"
+        },
+        {
+          "w": "שְׁמוֹתָ֗ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "עַזְרִיקָ֥ם",
+          "morph": "HNp"
+        },
+        {
+          "w": "בֹּ֨כְרוּ֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְיִשְׁמָעֵ֣אל",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וּשְׁעַרְיָ֔ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְעֹבַדְיָ֖ה",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וְחָנָ֑ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "אֵ֖לֶּה",
+          "morph": "HPdxcp"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אָצַֽל",
+          "morph": "HNp"
+        }
+      ]
+    }
+  ]
+}

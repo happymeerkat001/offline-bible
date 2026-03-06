@@ -1,0 +1,934 @@
+{
+  "book": 3,
+  "chapter": 2,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "若 有 人 獻 素 祭 為 供 物 給 耶 和 華 ， 要 用 細 麵 澆 上 油 ， 加 上 乳 香 ，",
+      "en": "“‘When a person presents a grain offering to the Lord, his offering must consist of choice wheat flour, and he must pour olive oil on it and put frankincense on it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנֶ֗פֶשׁ",
+          "morph": "HC/Ncbsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "תַקְרִ֞יב",
+          "morph": "HVhi3fs"
+        },
+        {
+          "w": "קָרְבַּ֤ן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִנְחָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לַֽיהוָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "סֹ֖לֶת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "יִהְיֶ֣ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "קָרְבָּנ֑וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְיָצַ֤ק",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "עָלֶ֨יהָ֙",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "שֶׁ֔מֶן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְנָתַ֥ן",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "עָלֶ֖יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "לְבֹנָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "帶 到 亞 倫 子 孫 作 祭 司 的 那 裡 ； 祭 司 就 要 從 細 麵 中 取 出 一 把 來 ， 並 取 些 油 和 所 有 的 乳 香 ， 然 後 要 把 所 取 的 這 些 作 為 紀 念 ， 燒 在 壇 上 ， 是 獻 與 耶 和 華 為 馨 香 的 火 祭 。",
+      "en": "Then he must bring it to the sons of Aaron, the priests, and the priest must scoop out from there a handful of its choice wheat flour and some of its olive oil in addition to all of its frankincense, and the priest must offer its memorial portion up in smoke on the altar—it is a gift of a soothing aroma to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וֶֽהֱבִיאָ֗הּ",
+          "morph": "HC/Vhq3ms/Sp3fs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "אַהֲרֹן֮",
+          "morph": "HNp"
+        },
+        {
+          "w": "הַכֹּהֲנִים֒",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְקָמַ֨ץ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "מִשָּׁ֜ם",
+          "morph": "HR/D"
+        },
+        {
+          "w": "מְלֹ֣א",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קֻמְצ֗וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "מִסָּלְתָּהּ֙",
+          "morph": "HR/Ncfsc/Sp3fs"
+        },
+        {
+          "w": "וּמִשַּׁמְנָ֔הּ",
+          "morph": "HC/R/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "לְבֹנָתָ֑הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "וְהִקְטִ֨יר",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֜ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אַזְכָּרָתָהּ֙",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "הַמִּזְבֵּ֔חָה",
+          "morph": "HTd/Ncmsa/Sd"
+        },
+        {
+          "w": "אִשֵּׁ֛ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רֵ֥יחַ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נִיחֹ֖חַ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "素 祭 所 剩 的 要 歸 給 亞 倫 和 他 的 子 孫 ； 這 是 獻 與 耶 和 華 的 火 祭 中 為 至 聖 的 。",
+      "en": "The remainder of the grain offering belongs to Aaron and to his sons—it is most holy from the gifts of the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַנּוֹתֶ֨רֶת֙",
+          "morph": "HC/Td/VNrfsa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמִּנְחָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "לְאַהֲרֹ֖ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וּלְבָנָ֑יו",
+          "morph": "HC/R/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "קֹ֥דֶשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קָֽדָשִׁ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מֵאִשֵּׁ֥י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "若 用 爐 中 烤 的 物 為 素 祭 ， 就 要 用 調 油 的 無 酵 細 麵 餅 ， 或 是 抹 油 的 無 酵 薄 餅 。",
+      "en": "“‘When you present an offering of grain baked in an oven, it must be made of choice wheat flour baked into unleavened loaves mixed with olive oil or unleavened wafers smeared with olive oil.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכִ֥י",
+          "morph": "HC/C"
+        },
+        {
+          "w": "תַקְרִ֛ב",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "קָרְבַּ֥ן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִנְחָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מַאֲפֵ֣ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "תַנּ֑וּר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "סֹ֣לֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "חַלּ֤וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "מַצֹּת֙",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "בְּלוּלֹ֣ת",
+          "morph": "HVqsfpa"
+        },
+        {
+          "w": "בַּשֶּׁ֔מֶן",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וּרְקִיקֵ֥י",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "מַצּ֖וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "מְשֻׁחִ֥ים",
+          "morph": "HVqsmpa"
+        },
+        {
+          "w": "בַּשָּֽׁמֶן",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "若 用 鐵 鏊 上 做 的 物 為 素 祭 ， 就 要 用 調 油 的 無 酵 細 麵 ，",
+      "en": "If your offering is a grain offering made on the griddle, it must be choice wheat flour mixed with olive oil, unleavened.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "מִנְחָ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַֽמַּחֲבַ֖ת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "קָרְבָּנֶ֑ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "סֹ֛לֶת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּלוּלָ֥ה",
+          "morph": "HVqsfsa"
+        },
+        {
+          "w": "בַשֶּׁ֖מֶן",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "מַצָּ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תִהְיֶֽה",
+          "morph": "HVqi3fs"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "分 成 塊 子 ， 澆 上 油 ； 這 是 素 祭 。",
+      "en": "Crumble it in pieces and pour olive oil on it—it is a grain offering.",
+      "notes": [],
+      "he": [
+        {
+          "w": "פָּת֤וֹת",
+          "morph": "HVqa"
+        },
+        {
+          "w": "אֹתָהּ֙",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "פִּתִּ֔ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "וְיָצַקְתָּ֥",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "עָלֶ֖יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "שָׁ֑מֶן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִנְחָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "הִֽוא",
+          "morph": "HPp3fs"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "若 用 煎 盤 做 的 物 為 素 祭 ， 就 要 用 油 與 細 麵 作 成 。",
+      "en": "If your offering is a grain offering made in a pan, it must be made of choice wheat flour deep fried in olive oil.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "מִנְחַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "מַרְחֶ֖שֶׁת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "קָרְבָּנֶ֑ךָ",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "סֹ֥לֶת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בַּשֶּׁ֖מֶן",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "תֵּעָשֶֽׂה",
+          "morph": "HVNi3fs"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "要 把 這 些 東 西 做 的 素 祭 帶 到 耶 和 華 面 前 ， 並 奉 給 祭 司 ， 帶 到 壇 前 。",
+      "en": "“‘You must bring the grain offering that must be made from these to the Lord. Present it to the priest, and he will bring it to the altar.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֵבֵאתָ֣",
+          "morph": "HC/Vhq2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַמִּנְחָ֗ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֧ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יֵעָשֶׂ֛ה",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "מֵאֵ֖לֶּה",
+          "morph": "HR/Pdxcp"
+        },
+        {
+          "w": "לַיהוָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְהִקְרִיבָהּ֙",
+          "morph": "HC/Vhq3ms/Sp3fs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכֹּהֵ֔ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהִגִּישָׁ֖הּ",
+          "morph": "HC/Vhq3ms/Sp3fs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמִּזְבֵּֽחַ",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "祭 司 要 從 素 祭 中 取 出 作 為 紀 念 的 ， 燒 在 壇 上 ， 是 獻 與 耶 和 華 為 馨 香 的 火 祭 。",
+      "en": "Then the priest must take up from the grain offering its memorial portion and offer it up in smoke on the altar—it is a gift of a soothing aroma to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהֵרִ֨ים",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֤ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמִּנְחָה֙",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אַזְכָּ֣רָתָ֔הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "וְהִקְטִ֖יר",
+          "morph": "HC/Vhp3ms"
+        },
+        {
+          "w": "הַמִּזְבֵּ֑חָה",
+          "morph": "HTd/Ncmsa/Sd"
+        },
+        {
+          "w": "אִשֵּׁ֛ה",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רֵ֥יחַ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נִיחֹ֖חַ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "素 祭 所 剩 的 要 歸 給 亞 倫 和 他 的 子 孫 。 這 是 獻 與 耶 和 華 的 火 祭 中 為 至 聖 的 。",
+      "en": "The remainder of the grain offering belongs to Aaron and to his sons—it is most holy from the gifts of the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַנּוֹתֶ֨רֶת֙",
+          "morph": "HC/Td/VNrfsa"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמִּנְחָ֔ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "לְאַהֲרֹ֖ן",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וּלְבָנָ֑יו",
+          "morph": "HC/R/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "קֹ֥דֶשׁ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קָֽדָשִׁ֖ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מֵאִשֵּׁ֥י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "凡 獻 給 耶 和 華 的 素 祭 都 不 可 有 酵 ； 因 為 你 們 不 可 燒 一 點 酵 、 一 點 蜜 當 作 火 祭 獻 給 耶 和 華 。",
+      "en": "“‘No grain offering which you present to the Lord can be made with yeast, for you must not offer up in smoke any yeast or honey as a gift to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַמִּנְחָ֗ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תַּקְרִ֨יבוּ֙",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "לַיהוָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֵעָשֶׂ֖ה",
+          "morph": "HVNi3fs"
+        },
+        {
+          "w": "חָמֵ֑ץ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שְׂאֹר֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "דְּבַ֔שׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תַקְטִ֧ירוּ",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "מִמֶּ֛נּוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "אִשֶּׁ֖ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַֽיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "這 些 物 要 獻 給 耶 和 華 作 為 初 熟 的 供 物 ， 只 是 不 可 在 壇 上 獻 為 馨 香 的 祭 。",
+      "en": "You can present them to the Lord as an offering of firstfruit, but they must not go up to the altar for a soothing aroma.",
+      "notes": [],
+      "he": [
+        {
+          "w": "קָרְבַּ֥ן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רֵאשִׁ֛ית",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תַּקְרִ֥יבוּ",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "אֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "לַיהוָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַמִּזְבֵּ֥חַ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יַעֲל֖וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "לְרֵ֥יחַ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "נִיחֹֽחַ",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "凡 獻 為 素 祭 的 供 物 都 要 用 鹽 調 和 ， 在 素 祭 上 不 可 缺 了 你 神 立 約 的 鹽 。 一 切 的 供 物 都 要 配 鹽 而 獻 。",
+      "en": "Moreover, you must season every one of your grain offerings with salt; you must not allow the salt of the covenant of your God to be missing from your grain offering—on every one of your grain offerings you must present salt.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "קָרְבַּ֣ן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִנְחָתְךָ֮",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "בַּמֶּ֣לַח",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "תִּמְלָח֒",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תַשְׁבִּ֗ית",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "מֶ֚לַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּרִ֣ית",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "אֱלֹהֶ֔יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "מֵעַ֖ל",
+          "morph": "HR/R"
+        },
+        {
+          "w": "מִנְחָתֶ֑ךָ",
+          "morph": "HNcfsc/Sp2ms"
+        },
+        {
+          "w": "עַ֥ל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קָרְבָּנְךָ֖",
+          "morph": "HNcmsc/Sp2ms"
+        },
+        {
+          "w": "תַּקְרִ֥יב",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "מֶֽלַח",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "若 向 耶 和 華 獻 初 熟 之 物 為 素 祭 ， 要 獻 上 烘 了 的 禾 穗 子 ， 就 是 軋 了 的 新 穗 子 ， 當 作 初 熟 之 物 的 素 祭 。",
+      "en": "“‘If you present a grain offering of first ripe grain to the Lord, you must present your grain offering of first ripe grain as soft kernels roasted in fire—crushed bits of fresh grain.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִם",
+          "morph": "HC/C"
+        },
+        {
+          "w": "תַּקְרִ֛יב",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "מִנְחַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בִּכּוּרִ֖ים",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "לַיהוָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אָבִ֞יב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "קָל֤וּי",
+          "morph": "HVqsmsa"
+        },
+        {
+          "w": "בָּאֵשׁ֙",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "גֶּ֣רֶשׂ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כַּרְמֶ֔ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תַּקְרִ֕יב",
+          "morph": "HVhi2ms"
+        },
+        {
+          "w": "אֵ֖ת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מִנְחַ֥ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "בִּכּוּרֶֽיךָ",
+          "morph": "HNcbpc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "並 要 抹 上 油 ， 加 上 乳 香 ； 這 是 素 祭 。",
+      "en": "And you must put olive oil on it and set frankincense on it—it is a grain offering.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְנָתַתָּ֤",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "עָלֶ֨יהָ֙",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "שֶׁ֔מֶן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְשַׂמְתָּ֥",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "עָלֶ֖יהָ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "לְבֹנָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מִנְחָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "הִֽוא",
+          "morph": "HPp3fs"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "祭 司 要 把 其 中 作 為 紀 念 的 ， 就 是 一 些 軋 了 的 禾 穗 子 和 一 些 油 ， 並 所 有 的 乳 香 ， 都 焚 燒 ， 是 向 耶 和 華 獻 的 火 祭 。",
+      "en": "Then the priest must offer its memorial portion up in smoke—some of its crushed bits, some of its olive oil, in addition to all of its frankincense—it is a gift to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהִקְטִ֨יר",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֜ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אַזְכָּרָתָ֗הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "מִגִּרְשָׂהּ֙",
+          "morph": "HR/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "וּמִשַּׁמְנָ֔הּ",
+          "morph": "HC/R/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "עַ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "לְבֹנָתָ֑הּ",
+          "morph": "HNcfsc/Sp3fs"
+        },
+        {
+          "w": "אִשֶּׁ֖ה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,946 @@
+{
+  "book": 20,
+  "chapter": 13,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "智 慧 子 聽 父 親 的 教 訓 ； 褻 慢 人 不 聽 責 備 。",
+      "en": "A wise son accepts his father’s discipline, but a scoffer has never listened to rebuke.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בֵּ֣ן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "חָ֭כָם",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מ֣וּסַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָ֑ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְ֝לֵ֗ץ",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "שָׁמַ֥ע",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "גְּעָרָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "人 因 口 所 結 的 果 子 ， 必 享 美 福 ； 奸 詐 人 必 遭 強 暴 。",
+      "en": "From the fruit of his speech a person eats good things, but the treacherous desire the fruit of violence.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִפְּרִ֣י",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "פִי",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אִ֭ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יֹ֣אכַל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "ט֑וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְנֶ֖פֶשׁ",
+          "morph": "HC/Ncbsc"
+        },
+        {
+          "w": "בֹּגְדִ֣ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "חָמָֽס",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "謹 守 口 的 ， 得 保 生 命 ； 大 張 嘴 的 ， 必 致 敗 亡 。",
+      "en": "The one who guards his words guards his life; whoever is talkative will come to ruin.",
+      "notes": [],
+      "he": [
+        {
+          "w": "נֹצֵ֣ר",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "פִּ֭יו",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "שֹׁמֵ֣ר",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "נַפְשׁ֑וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "פֹּשֵׂ֥ק",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "שְׂ֝פָתָ֗יו",
+          "morph": "HNcfdc/Sp3ms"
+        },
+        {
+          "w": "מְחִתָּה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "לֽוֹ",
+          "morph": "HR/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "懶 惰 人 羨 慕 ， 卻 無 所 得 ； 殷 勤 人 必 得 豐 裕 。",
+      "en": "The appetite of the sluggard craves but gets nothing, but the desire of the diligent will be abundantly satisfied.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִתְאַוָּ֣ה",
+          "morph": "HVtrfsa"
+        },
+        {
+          "w": "וָ֭אַיִן",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "נַפְשׁ֣וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "עָצֵ֑ל",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְנֶ֖פֶשׁ",
+          "morph": "HC/Ncbsc"
+        },
+        {
+          "w": "חָרֻצִ֣ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "תְּדֻשָּֽׁן",
+          "morph": "HVPi3fs"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "義 人 恨 惡 謊 言 ； 惡 人 有 臭 名 ， 且 致 慚 愧 。",
+      "en": "The righteous person will reject anything false, but the wicked person will act in shameful disgrace.",
+      "notes": [],
+      "he": [
+        {
+          "w": "דְּבַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "שֶׁ֭קֶר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יִשְׂנָ֣א",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "צַדִּ֑יק",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְ֝רָשָׁ֗ע",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "יַבְאִ֥ישׁ",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "וְיַחְפִּֽיר",
+          "morph": "HC/Vhi3ms"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "行 為 正 直 的 ， 有 公 義 保 守 ； 犯 罪 的 ， 被 邪 惡 傾 覆 。",
+      "en": "Righteousness guards the one who lives with integrity, but wickedness overthrows the sinner.",
+      "notes": [],
+      "he": [
+        {
+          "w": "צְ֭דָקָה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "תִּצֹּ֣ר",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "תָּם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דָּ֑רֶךְ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וְ֝רִשְׁעָ֗ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "תְּסַלֵּ֥ף",
+          "morph": "HVpi3fs"
+        },
+        {
+          "w": "חַטָּֽאת",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "假 作 富 足 的 ， 卻 一 無 所 有 ； 裝 作 窮 乏 的 ， 卻 廣 有 財 物 。",
+      "en": "There is one who pretends to be rich and yet has nothing; another pretends to be poor and yet possesses great wealth.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יֵ֣שׁ",
+          "morph": "HTm"
+        },
+        {
+          "w": "מִ֭תְעַשֵּׁר",
+          "morph": "HVtrmsa"
+        },
+        {
+          "w": "וְאֵ֣ין",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "כֹּ֑ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִ֝תְרוֹשֵׁ֗שׁ",
+          "morph": "HVrrmsa"
+        },
+        {
+          "w": "וְה֣וֹן",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "רָֽב",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "人 的 資 財 是 他 生 命 的 贖 價 ； 窮 乏 人 卻 聽 不 見 威 嚇 的 話 。",
+      "en": "The ransom of a person’s life is his wealth, thus the poor person has never heard a threat.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כֹּ֣פֶר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נֶֽפֶשׁ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עָשְׁר֑וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְ֝רָ֗שׁ",
+          "morph": "HC/Vqrmsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "שָׁמַ֥ע",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "גְּעָרָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "義 人 的 光 明 亮 （ 原 文 是 歡 喜 ） ； 惡 人 的 燈 要 熄 滅 . 。",
+      "en": "The light of the righteous shines brightly, but the lamp of the wicked goes out.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אוֹר",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "צַדִּיקִ֥ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "יִשְׂמָ֑ח",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְנֵ֖ר",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "רְשָׁעִ֣ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "יִדְעָֽךְ",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "驕 傲 只 啟 爭 競 ； 聽 勸 言 的 ， 卻 有 智 慧 。",
+      "en": "With pride comes only contention, but wisdom is with the well-advised.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רַק",
+          "morph": "HTa"
+        },
+        {
+          "w": "בְּ֭זָדוֹן",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "יִתֵּ֣ן",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מַצָּ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/R"
+        },
+        {
+          "w": "נ֖וֹעָצִ֣ים",
+          "morph": "HVNrmpa"
+        },
+        {
+          "w": "חָכְמָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "不 勞 而 得 之 財 必 然 消 耗 ； 勤 勞 積 蓄 的 ， 必 見 加 增 。",
+      "en": "Wealth gained quickly will dwindle away, but the one who gathers it little by little will become rich.",
+      "notes": [],
+      "he": [
+        {
+          "w": "ה֭וֹן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מֵהֶ֣בֶל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "יִמְעָ֑ט",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְקֹבֵ֖ץ",
+          "morph": "HC/Vqrmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יָ֣ד",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "יַרְבֶּֽה",
+          "morph": "HVhi3ms"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "所 盼 望 的 遲 延 未 得 ， 令 人 心 憂 ； 所 願 意 的 臨 到 ， 卻 是 生 命 樹 。",
+      "en": "Hope deferred makes the heart sick, but a longing fulfilled is like a tree of life.",
+      "notes": [],
+      "he": [
+        {
+          "w": "תּוֹחֶ֣לֶת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מְ֭מֻשָּׁכָה",
+          "morph": "HVPsfsa"
+        },
+        {
+          "w": "מַחֲלָה",
+          "morph": "HVhrfsa"
+        },
+        {
+          "w": "לֵ֑ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְעֵ֥ץ",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "חַ֝יִּ֗ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "תַּאֲוָ֥ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בָאָֽה",
+          "morph": "HVqrfsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "藐 視 訓 言 的 ， 自 取 滅 亡 ； 敬 畏 誡 命 的 ， 必 得 善 報 。",
+      "en": "The one who despises instruction will pay the penalty, but whoever esteems direction will be rewarded.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בָּ֣ז",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לְ֭דָבָר",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "יֵחָ֣בֶל",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "ל֑וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וִירֵ֥א",
+          "morph": "HC/Aamsc"
+        },
+        {
+          "w": "מִ֝צְוָ֗ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "ה֣וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "יְשֻׁלָּֽם",
+          "morph": "HVPi3ms"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "智 慧 人 的 法 則 （ 或 譯 ： 指 教 ） 是 生 命 的 泉 源 ， 可 以 使 人 離 開 死 亡 的 網 羅 。",
+      "en": "Instruction from the wise is like a life-giving fountain, to turn a person from deadly snares.",
+      "notes": [],
+      "he": [
+        {
+          "w": "תּוֹרַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "חָ֭כָם",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "מְק֣וֹר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חַיִּ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לָ֝ס֗וּר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מִמֹּ֥קְשֵׁי",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "מָֽוֶת",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "美 好 的 聰 明 使 人 蒙 恩 ； 奸 詐 人 的 道 路 崎 嶇 難 行 。",
+      "en": "Keen insight wins favor, but the conduct of the treacherous ends in destruction.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שֵֽׂכֶל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "ט֭וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יִתֶּן",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "חֵ֑ן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְדֶ֖רֶךְ",
+          "morph": "HC/Ncbsc"
+        },
+        {
+          "w": "בֹּגְדִ֣ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "אֵיתָֽן",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "凡 通 達 人 都 憑 知 識 行 事 ； 愚 昧 人 張 揚 自 己 的 愚 昧 。",
+      "en": "Every shrewd person acts with knowledge, but a fool displays his folly.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עָ֭רוּם",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יַעֲשֶׂ֣ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בְדָ֑עַת",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "וּ֝כְסִ֗יל",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "יִפְרֹ֥שׂ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אִוֶּֽלֶת",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "奸 惡 的 使 者 必 陷 在 禍 患 裡 ； 忠 信 的 使 臣 乃 醫 人 的 良 藥 。",
+      "en": "An unreliable messenger falls into trouble, but a faithful envoy brings healing.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מַלְאָ֣ךְ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "רָ֭שָׁע",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יִפֹּ֣ל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בְּרָ֑ע",
+          "morph": "HR/Aamsa"
+        },
+        {
+          "w": "וְצִ֖יר",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "אֱמוּנִ֣ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "מַרְפֵּֽא",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "棄 絕 管 教 的 ， 必 致 貧 受 辱 ； 領 受 責 備 的 ， 必 得 尊 榮 。",
+      "en": "The one who neglects discipline ends up in poverty and shame, but the one who accepts reproof is honored.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רֵ֣ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְ֭קָלוֹן",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "פּוֹרֵ֣עַ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "מוּסָ֑ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְשׁוֹמֵ֖ר",
+          "morph": "HC/Vqrmsa"
+        },
+        {
+          "w": "תּוֹכַ֣חַת",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "יְכֻבָּֽד",
+          "morph": "HVPi3ms"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "所 欲 的 成 就 ， 心 覺 甘 甜 ； 遠 離 惡 事 ， 為 愚 昧 人 所 憎 惡 。",
+      "en": "A desire fulfilled will be sweet to the soul, but fools abhor turning away from evil.",
+      "notes": [],
+      "he": [
+        {
+          "w": "תַּאֲוָ֣ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "נִ֭הְיָה",
+          "morph": "HVNrfsa"
+        },
+        {
+          "w": "תֶּעֱרַ֣ב",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "לְנָ֑פֶשׁ",
+          "morph": "HR/Ncbsa"
+        },
+        {
+          "w": "וְתוֹעֲבַ֥ת",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "כְּ֝סִילִ֗ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "ס֣וּר",
+          "morph": "HVqc"
+        },
+        {
+          "w": "מֵרָֽע",
+          "morph": "HR/Aamsa"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "與 智 慧 人 同 行 的 ， 必 得 智 慧 ； 和 愚 昧 人 作 伴 的 ， 必 受 虧 損 。",
+      "en": "The one who associates with the wise grows wise, but a companion of fools suffers harm.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הלוך",
+          "morph": "HVqa"
+        },
+        {
+          "w": "הוֹלֵ֣ךְ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HR"
+        },
+        {
+          "w": "חֲכָמִ֣ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "וחכם",
+          "morph": "HC/Vqv2ms"
+        },
+        {
+          "w": "יֶחְכָּ֑ם",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְרֹעֶ֖ה",
+          "morph": "HC/Vqrmsa"
+        },
+        {
+          "w": "כְסִילִ֣ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "יֵרֽוֹעַ",
+          "morph": "HVNi3ms"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "禍 患 追 趕 罪 人 ； 義 人 必 得 善 報 。",
+      "en": "Calamity pursues sinners, but prosperity rewards the righteous.",
+      "notes": [],
+      "he": [
+        {
+          "w": "חַ֭טָּאִים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "תְּרַדֵּ֣ף",
+          "morph": "HVpi3fs"
+        },
+        {
+          "w": "רָעָ֑ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "צַ֝דִּיקִ֗ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "יְשַׁלֶּם",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "טֽוֹב",
+          "morph": "HAamsa"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "善 人 給 子 孫 遺 留 產 業 ； 罪 人 為 義 人 積 存 資 財 。",
+      "en": "A good person leaves an inheritance for his grandchildren, but the wealth of a sinner is stored up for the righteous.",
+      "notes": [],
+      "he": [
+        {
+          "w": "ט֗וֹב",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יַנְחִ֥יל",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "בְּנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בָנִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "וְצָפ֥וּן",
+          "morph": "HC/Vqsmsa"
+        },
+        {
+          "w": "לַ֝צַּדִּ֗יק",
+          "morph": "HRd/Aamsa"
+        },
+        {
+          "w": "חֵ֣יל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חוֹטֵֽא",
+          "morph": "HVqrmsa"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "窮 人 耕 種 多 得 糧 食 ， 但 因 不 義 ， 有 消 滅 的 。",
+      "en": "Abundant food may come from the field of the poor, but it is swept away by injustice.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רָב",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "אֹ֭כֶל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "נִ֣יר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רָאשִׁ֑ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "וְיֵ֥שׁ",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "נִ֝סְפֶּ֗ה",
+          "morph": "HVNrmsa"
+        },
+        {
+          "w": "בְּלֹ֣א",
+          "morph": "HR/Tn"
+        },
+        {
+          "w": "מִשְׁפָּֽט",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "不 忍 用 杖 打 兒 子 的 ， 是 恨 惡 他 ； 疼 愛 兒 子 的 ， 隨 時 管 教 。",
+      "en": "The one who spares his rod hates his child, but the one who loves his child is diligent in disciplining him.",
+      "notes": [],
+      "he": [
+        {
+          "w": "חוֹשֵׂ֣ךְ",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "שִׁ֭בְטוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "שׂוֹנֵ֣א",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "בְנ֑וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְ֝אֹהֲב֗וֹ",
+          "morph": "HC/Vqrmsc/Sp3ms"
+        },
+        {
+          "w": "שִֽׁחֲר֥וֹ",
+          "morph": "HVpp3ms/Sp3ms"
+        },
+        {
+          "w": "מוּסָֽר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "義 人 吃 得 飽 足 ； 惡 人 肚 腹 缺 糧 。",
+      "en": "The righteous has enough food to satisfy his appetite, but the belly of the wicked will be empty.",
+      "notes": [],
+      "he": [
+        {
+          "w": "צַדִּ֗יק",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "אֹ֭כֵל",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לְשֹׂ֣בַע",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "נַפְשׁ֑וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "וּבֶ֖טֶן",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "רְשָׁעִ֣ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "תֶּחְסָֽר",
+          "morph": "HVqi3fs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,870 @@
+{
+  "book": 18,
+  "chapter": 27,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "約 伯 接 著 說 ：",
+      "en": "And Job took up his discourse again:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣סֶף",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "אִ֭יּוֹב",
+          "morph": "HNp"
+        },
+        {
+          "w": "שְׂאֵ֥ת",
+          "morph": "HVqc"
+        },
+        {
+          "w": "מְשָׁל֗וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וַיֹּאמַֽר",
+          "morph": "HC/Vqw3ms"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "神 奪 去 我 的 理 ， 全 能 者 使 我 心 中 愁 苦 。 我 指 著 永 生 的 神 起 誓 ：",
+      "en": "“As surely as God lives, who has denied me justice, the Almighty, who has made my life bitter—",
+      "notes": [],
+      "he": [
+        {
+          "w": "חַי",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "אֵ֭ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "הֵסִ֣יר",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "מִשְׁפָּטִ֑י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וְ֝שַׁדַּ֗י",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "הֵמַ֥ר",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "נַפְשִֽׁי",
+          "morph": "HNcbsc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "我 的 生 命 尚 在 我 裡 面 ； 神 所 賜 呼 吸 之 氣 仍 在 我 的 鼻 孔 內 。",
+      "en": "for while my spirit is still in me, and the breath from God is in my nostrils,",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "ע֣וֹד",
+          "morph": "HD"
+        },
+        {
+          "w": "נִשְׁמָתִ֣י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "בִ֑י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "וְר֖וּחַ",
+          "morph": "HC/Ncbsc"
+        },
+        {
+          "w": "אֱל֣וֹהַּ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּאַפִּֽי",
+          "morph": "HR/Ncmsc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "我 的 嘴 決 不 說 非 義 之 言 ； 我 的 舌 也 不 說 詭 詐 之 語 。",
+      "en": "my lips will not speak wickedness, and my tongue will whisper no deceit.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "תְּדַבֵּ֣רְנָה",
+          "morph": "HVpi3fp"
+        },
+        {
+          "w": "שְׂפָתַ֣י",
+          "morph": "HNcfdc/Sp1cs"
+        },
+        {
+          "w": "עַוְלָ֑ה",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "וּ֝לְשׁוֹנִ֗י",
+          "morph": "HC/Ncbsc/Sp1cs"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "יֶהְגֶּ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "רְמִיָּֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "我 斷 不 以 你 們 為 是 ； 我 至 死 必 不 以 自 己 為 不 正 ！",
+      "en": "I will never declare that you three are in the right; until I die, I will not set aside my integrity!",
+      "notes": [],
+      "he": [
+        {
+          "w": "חָלִ֣ילָה",
+          "morph": "HTj/Sh"
+        },
+        {
+          "w": "לִּי֮",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "אַצְדִּ֪יק",
+          "morph": "HVhi1cs"
+        },
+        {
+          "w": "אֶ֫תְכֶ֥ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "אֶגְוָ֑ע",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "אָסִ֖יר",
+          "morph": "HVhi1cs"
+        },
+        {
+          "w": "תֻּמָּתִ֣י",
+          "morph": "HNcfsc/Sp1cs"
+        },
+        {
+          "w": "מִמֶּֽנִּי",
+          "morph": "HR/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "我 持 定 我 的 義 ， 必 不 放 鬆 ； 在 世 的 日 子 ， 我 心 必 不 責 備 我 。",
+      "en": "I will maintain my righteousness and never let it go; my conscience will not reproach me for as long as I live.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בְּצִדְקָתִ֣י",
+          "morph": "HR/Ncfsc/Sp1cs"
+        },
+        {
+          "w": "הֶ֭חֱזַקְתִּי",
+          "morph": "HVhp1cs"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "אַרְפֶּ֑הָ",
+          "morph": "HVhi1cs/Sp3fs"
+        },
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יֶחֱרַ֥ף",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "לְ֝בָבִ֗י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "מִיָּמָֽי",
+          "morph": "HR/Ncmpc/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "願 我 的 仇 敵 如 惡 人 一 樣 ； 願 那 起 來 攻 擊 我 的 ， 如 不 義 之 人 一 般 。",
+      "en": "“May my enemy be like the wicked, my adversary like the unrighteous.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יְהִ֣י",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "כְ֭רָשָׁע",
+          "morph": "HR/Aamsa"
+        },
+        {
+          "w": "אֹ֣יְבִ֑י",
+          "morph": "HVqrmsc/Sp1cs"
+        },
+        {
+          "w": "וּמִתְקוֹמְמִ֥י",
+          "morph": "HC/Vrrmsc/Sp1cs"
+        },
+        {
+          "w": "כְעַוָּֽל",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "不 敬 虔 的 人 雖 然 得 利 ， 神 奪 取 其 命 的 時 候 還 有 甚 麼 指 望 呢 ？",
+      "en": "For what hope does the godless have when he is cut off, when God takes away his life?",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "מַה",
+          "morph": "HTi"
+        },
+        {
+          "w": "תִּקְוַ֣ת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "חָ֭נֵף",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "יִבְצָ֑ע",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "יֵ֖שֶׁל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֱל֣וֹהַּ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "נַפְשֽׁוֹ",
+          "morph": "HNcbsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "患 難 臨 到 他 ， 神 豈 能 聽 他 的 呼 求 ？",
+      "en": "Does God listen to his cry when distress overtakes him?",
+      "notes": [],
+      "he": [
+        {
+          "w": "הַֽ֭צַעֲקָתוֹ",
+          "morph": "HTi/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "יִשְׁמַ֥ע",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֵ֑ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "תָב֖וֹא",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "עָלָ֣יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "צָרָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "他 豈 以 全 能 者 為 樂 ， 隨 時 求 告 神 呢 ？",
+      "en": "Will he find delight in the Almighty? Will he call out to God at all times?",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שַׁדַּ֥י",
+          "morph": "HNp"
+        },
+        {
+          "w": "יִתְעַנָּ֑ג",
+          "morph": "HVti3ms"
+        },
+        {
+          "w": "יִקְרָ֖א",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "אֱל֣וֹהַּ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עֵֽת",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "神 的 作 為 ， 我 要 指 教 你 們 ； 全 能 者 所 行 的 ， 我 也 不 隱 瞞 。",
+      "en": "I will teach you about the power of God; what is on the Almighty’s mind I will not conceal.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אוֹרֶ֣ה",
+          "morph": "HVhi1cs"
+        },
+        {
+          "w": "אֶתְכֶ֣ם",
+          "morph": "HTo/Sp2mp"
+        },
+        {
+          "w": "בְּיַד",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "אֵ֑ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "שַׁ֝דַּ֗י",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֲכַחֵֽד",
+          "morph": "HVpi1cs"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "你 們 自 己 也 都 見 過 ， 為 何 全 然 變 為 虛 妄 呢 ？",
+      "en": "If you yourselves have all seen this, Why in the world do you continue this meaningless talk?",
+      "notes": [],
+      "he": [
+        {
+          "w": "הֵן",
+          "morph": "HTm"
+        },
+        {
+          "w": "אַתֶּ֣ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "כֻּלְּכֶ֣ם",
+          "morph": "HNcmsc/Sp2mp"
+        },
+        {
+          "w": "חֲזִיתֶ֑ם",
+          "morph": "HVqp2mp"
+        },
+        {
+          "w": "וְלָמָּה",
+          "morph": "HC/R/Ti"
+        },
+        {
+          "w": "זֶּ֝֗ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "הֶ֣בֶל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תֶּהְבָּֽלוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "神 為 惡 人 所 定 的 分 ， 強 暴 人 從 全 能 者 所 得 的 報 （ 原 文 是 產 業 ） 乃 是 這 樣 ：",
+      "en": "This is the portion of the wicked man allotted by God, the inheritance that evildoers receive from the Almighty.",
+      "notes": [],
+      "he": [
+        {
+          "w": "זֶ֤ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "חֵֽלֶק",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אָדָ֖ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "רָשָׁ֥ע",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "עִם",
+          "morph": "HR"
+        },
+        {
+          "w": "אֵ֑ל",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְֽנַחֲלַ֥ת",
+          "morph": "HC/Ncfsc"
+        },
+        {
+          "w": "עָ֝רִיצִ֗ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "מִשַּׁדַּ֥י",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "יִקָּֽחוּ",
+          "morph": "HVqi3mp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "倘 或 他 的 兒 女 增 多 ， 還 是 被 刀 所 殺 ； 他 的 子 孫 必 不 得 飽 食 。",
+      "en": "If his children increase—it is for the sword! His offspring never have enough to eat.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "יִרְבּ֣וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "בָנָ֣יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "לְמוֹ",
+          "morph": "HR"
+        },
+        {
+          "w": "חָ֑רֶב",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְ֝צֶאֱצָאָ֗יו",
+          "morph": "HC/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִשְׂבְּעוּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "לָֽחֶם",
+          "morph": "HNcbsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "他 所 遺 留 的 人 必 死 而 埋 葬 ； 他 的 寡 婦 也 不 哀 哭 。",
+      "en": "Those who survive him are buried by the plague, and their widows do not mourn for them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שרידו",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "שְׂ֭רִידָיו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "בַּמָּ֣וֶת",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "יִקָּבֵ֑רוּ",
+          "morph": "HVNi3mp"
+        },
+        {
+          "w": "וְ֝אַלְמְנֹתָ֗יו",
+          "morph": "HC/Ncfpc/Sp3ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִבְכֶּֽינָה",
+          "morph": "HVqi3fp"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "他 雖 積 蓄 銀 子 如 塵 沙 ， 預 備 衣 服 如 泥 土 ；",
+      "en": "If he piles up silver like dust and stores up clothing like mounds of clay,",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִם",
+          "morph": "HC"
+        },
+        {
+          "w": "יִצְבֹּ֣ר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "כֶּעָפָ֣ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "כָּ֑סֶף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְ֝כַחֹ֗מֶר",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "יָכִ֥ין",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "מַלְבּֽוּשׁ",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "他 只 管 預 備 ， 義 人 卻 要 穿 上 ； 他 的 銀 子 ， 無 辜 的 人 要 分 取 。",
+      "en": "what he stores up a righteous man will wear, and an innocent man will inherit his silver.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יָ֭כִין",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "וְצַדִּ֣יק",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "יִלְבָּ֑שׁ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְ֝כֶ֗סֶף",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "נָקִ֥י",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יַחֲלֹֽק",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "他 建 造 房 屋 如 蟲 做 窩 ， 又 如 守 望 者 所 搭 的 棚 。",
+      "en": "The house he builds is as fragile as a moth’s cocoon, like a hut that a watchman has made.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בָּנָ֣ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "כָעָ֣שׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "בֵּית֑וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וּ֝כְסֻכָּ֗ה",
+          "morph": "HC/R/Ncfsa"
+        },
+        {
+          "w": "עָשָׂ֥ה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "נֹצֵֽר",
+          "morph": "HVqrmsa"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "他 雖 富 足 躺 臥 ， 卻 不 得 收 殮 ， 轉 眼 之 間 就 不 在 了 。",
+      "en": "He goes to bed wealthy, but will do so no more. When he opens his eyes, it is all gone.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עָשִׁ֣יר",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "יִ֭שְׁכַּב",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יֵאָסֵ֑ף",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "עֵינָ֖יו",
+          "morph": "HNcbdc/Sp3ms"
+        },
+        {
+          "w": "פָּקַ֣ח",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "וְאֵינֶֽנּוּ",
+          "morph": "HC/Tn/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "驚 恐 如 波 濤 將 他 追 上 ； 暴 風 在 夜 間 將 他 颳 去 。",
+      "en": "Terrors overwhelm him like a flood; at night a whirlwind carries him off.",
+      "notes": [],
+      "he": [
+        {
+          "w": "תַּשִּׂיגֵ֣הוּ",
+          "morph": "HVhi3fs/Sp3ms"
+        },
+        {
+          "w": "כַ֭מַּיִם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "בַּלָּה֑וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "לַ֝֗יְלָה",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "גְּנָבַ֥תּוּ",
+          "morph": "HVqp3fs/Sp3ms"
+        },
+        {
+          "w": "סוּפָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "東 風 把 他 飄 去 ， 又 颳 他 離 開 本 處 。",
+      "en": "The east wind carries him away, and he is gone; it sweeps him out of his place.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יִשָּׂאֵ֣הוּ",
+          "morph": "HVqi3ms/Sp3ms"
+        },
+        {
+          "w": "קָדִ֣ים",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְיֵלַ֑ךְ",
+          "morph": "HC/Vqi3ms"
+        },
+        {
+          "w": "וִֽ֝ישָׂעֲרֵ֗הוּ",
+          "morph": "HC/Vpi3ms/Sp3ms"
+        },
+        {
+          "w": "מִמְּקֹמֽוֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "神 要 向 他 射 箭 ， 並 不 留 情 ； 他 恨 不 得 逃 脫 神 的 手 。",
+      "en": "It hurls itself against him without pity as he flees headlong from its power.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְיַשְׁלֵ֣ךְ",
+          "morph": "HC/Vhi3ms"
+        },
+        {
+          "w": "עָ֭לָיו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְלֹ֣א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יַחְמֹ֑ל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מִ֝יָּד֗וֹ",
+          "morph": "HR/Ncbsc/Sp3ms"
+        },
+        {
+          "w": "בָּר֥וֹחַ",
+          "morph": "HVqa"
+        },
+        {
+          "w": "יִבְרָֽח",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "人 要 向 他 拍 掌 ， 並 要 發 叱 聲 ， 使 他 離 開 本 處 。",
+      "en": "It claps its hands at him in derision and hisses him away from his place.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יִשְׂפֹּ֣ק",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "עָלֵ֣ימוֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "כַפֵּ֑ימוֹ",
+          "morph": "HNcfdc/Sp3ms"
+        },
+        {
+          "w": "וְיִשְׁרֹ֥ק",
+          "morph": "HC/Vqi3ms"
+        },
+        {
+          "w": "עָ֝לָ֗יו",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "מִמְּקֹמֽוֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1462 @@
+{
+  "book": 2,
+  "chapter": 5,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "後 來 摩 西 、 亞 倫 去 對 法 老 說 ： 耶 和 華 ─ 以 色 列 的 神 這 樣 說 ： 容 我 的 百 姓 去 ， 在 曠 野 向 我 守 節 。",
+      "en": "Afterward Moses and Aaron went to Pharaoh and said, “This is what the Lord, the God of Israel, has said, ‘Release my people so that they may hold a pilgrim feast to me in the wilderness.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאַחַ֗ר",
+          "morph": "HC/D"
+        },
+        {
+          "w": "בָּ֚אוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מֹשֶׁ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאַהֲרֹ֔ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "וַיֹּאמְר֖וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פַּרְעֹ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כֹּֽה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֤ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "שַׁלַּח֙",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עַמִּ֔י",
+          "morph": "HNcmsc/Sp1cs"
+        },
+        {
+          "w": "וְיָחֹ֥גּוּ",
+          "morph": "HC/Vqi3mp"
+        },
+        {
+          "w": "לִ֖י",
+          "morph": "HR/Sp1cs"
+        },
+        {
+          "w": "בַּמִּדְבָּֽר",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "法 老 說 ： 耶 和 華 是 誰 ， 使 我 聽 他 的 話 ， 容 以 色 列 人 去 呢 ？ 我 不 認 識 耶 和 華 ， 也 不 容 以 色 列 人 去 ！",
+      "en": "But Pharaoh said, “Who is the Lord that I should obey him by releasing Israel? I do not know the Lord, and I will not release Israel!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִ֤י",
+          "morph": "HTi"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "אֶשְׁמַ֣ע",
+          "morph": "HVqi1cs"
+        },
+        {
+          "w": "בְּקֹל֔וֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "לְשַׁלַּ֖ח",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹ֤א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יָדַ֨עְתִּי֙",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְגַ֥ם",
+          "morph": "HC/Ta"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "אֲשַׁלֵּֽחַ",
+          "morph": "HVpi1cs"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "他 們 說 ： 希 伯 來 人 的 神 遇 見 了 我 們 。 求 你 容 我 們 往 曠 野 去 ， 走 三 天 的 路 程 ， 祭 祀 耶 和 華 ─ 我 們 的 　 神 ， 免 得 他 用 瘟 疫 、 刀 兵 攻 擊 我 們 。",
+      "en": "And they said, “The God of the Hebrews has met with us. Let us go a three-day journey into the wilderness so that we may sacrifice to the Lord our God, so that he does not strike us with plague or the sword.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמְר֔וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֱלֹהֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָעִבְרִ֖ים",
+          "morph": "HTd/Ngmpa"
+        },
+        {
+          "w": "נִקְרָ֣א",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "עָלֵ֑ינוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "נֵ֣לֲכָה",
+          "morph": "HVqh1cp"
+        },
+        {
+          "w": "נָּ֡א",
+          "morph": "HTj"
+        },
+        {
+          "w": "דֶּרֶךְ֩",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "שְׁלֹ֨שֶׁת",
+          "morph": "HAcmsc"
+        },
+        {
+          "w": "יָמִ֜ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "בַּמִּדְבָּ֗ר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְנִזְבְּחָה֙",
+          "morph": "HC/Vqh1cp"
+        },
+        {
+          "w": "לַֽיהוָ֣ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אֱלֹהֵ֔ינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        },
+        {
+          "w": "פֶּ֨ן",
+          "morph": "HC"
+        },
+        {
+          "w": "יִפְגָּעֵ֔נוּ",
+          "morph": "HVqi3ms/Sp1cp"
+        },
+        {
+          "w": "בַּדֶּ֖בֶר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "א֥וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "בֶחָֽרֶב",
+          "morph": "HRd/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "埃 及 王 對 他 們 說 ： 摩 西 、 亞 倫 ！ 你 們 為 甚 麼 叫 百 姓 曠 工 呢 ？ 你 們 去 擔 你 們 的 擔 子 罷 ！",
+      "en": "The king of Egypt said to them, “Moses and Aaron, why do you cause the people to refrain from their work? Return to your labor!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֲלֵהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "מֶ֣לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מִצְרַ֔יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "לָ֚מָּה",
+          "morph": "HR/Ti"
+        },
+        {
+          "w": "מֹשֶׁ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאַהֲרֹ֔ן",
+          "morph": "HC/Np"
+        },
+        {
+          "w": "תַּפְרִ֥יעוּ",
+          "morph": "HVhi2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הָעָ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "מִמַּֽעֲשָׂ֑יו",
+          "morph": "HR/Ncmpc/Sp3ms"
+        },
+        {
+          "w": "לְכ֖וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "לְסִבְלֹתֵיכֶֽם",
+          "morph": "HR/Ncfpc/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "又 說 ： 看 哪 ， 這 地 的 以 色 列 人 如 今 眾 多 ， 你 們 竟 叫 他 們 歇 下 擔 子 ！",
+      "en": "Pharaoh was thinking, “The people of the land are now many, and you are giving them rest from their labor.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "הֵן",
+          "morph": "HTm"
+        },
+        {
+          "w": "רַבִּ֥ים",
+          "morph": "HAampa"
+        },
+        {
+          "w": "עַתָּ֖ה",
+          "morph": "HD"
+        },
+        {
+          "w": "עַ֣ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וְהִשְׁבַּתֶּ֥ם",
+          "morph": "HC/Vhp2mp"
+        },
+        {
+          "w": "אֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "מִסִּבְלֹתָֽם",
+          "morph": "HR/Ncfpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "當 天 ， 法 老 吩 咐 督 工 的 和 官 長 說 ：",
+      "en": "That same day Pharaoh commanded the slave masters and foremen who were over the people:",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְצַ֥ו",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "פַּרְעֹ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּיּ֣וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַה֑וּא",
+          "morph": "HTd/Pp3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַנֹּגְשִׂ֣ים",
+          "morph": "HTd/Vqrmpa"
+        },
+        {
+          "w": "בָּעָ֔ם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "שֹׁטְרָ֖יו",
+          "morph": "HVqrmpc/Sp3ms"
+        },
+        {
+          "w": "לֵאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "你 們 不 可 照 常 把 草 給 百 姓 做 磚 ， 叫 他 們 自 己 去 撿 草 。",
+      "en": "“You must no longer give straw to the people for making bricks as before. Let them go and collect straw for themselves.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֹאסִפ֞וּן",
+          "morph": "HVhi2mp/Sn"
+        },
+        {
+          "w": "לָתֵ֨ת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "תֶּ֧בֶן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לָעָ֛ם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "לִלְבֹּ֥ן",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הַלְּבֵנִ֖ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "כִּתְמ֣וֹל",
+          "morph": "HR/D"
+        },
+        {
+          "w": "שִׁלְשֹׁ֑ם",
+          "morph": "HD"
+        },
+        {
+          "w": "הֵ֚ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "יֵֽלְכ֔וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "וְקֹשְׁשׁ֥וּ",
+          "morph": "HC/Vmq3cp"
+        },
+        {
+          "w": "לָהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "תֶּֽבֶן",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "他 們 素 常 做 磚 的 數 目 ， 你 們 仍 舊 向 他 們 要 ， 一 點 不 可 減 少 ； 因 為 他 們 是 懶 惰 的 ， 所 以 呼 求 說 ： 容 我 們 去 祭 祀 我 們 的 神 。",
+      "en": "But you must require of them the same quota of bricks that they were making before. Do not reduce it, for they are slackers. That is why they are crying, ‘Let us go sacrifice to our God.’",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "מַתְכֹּ֨נֶת",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "הַלְּבֵנִ֜ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הֵם֩",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "עֹשִׂ֨ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "תְּמ֤וֹל",
+          "morph": "HD"
+        },
+        {
+          "w": "שִׁלְשֹׁם֙",
+          "morph": "HD"
+        },
+        {
+          "w": "תָּשִׂ֣ימוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "עֲלֵיהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "לֹ֥א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִגְרְע֖וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "מִמֶּ֑נּוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "נִרְפִּ֣ים",
+          "morph": "HVNrmpa"
+        },
+        {
+          "w": "הֵ֔ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כֵּ֗ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "הֵ֤ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "צֹֽעֲקִים֙",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "נֵלְכָ֖ה",
+          "morph": "HVqh1cp"
+        },
+        {
+          "w": "נִזְבְּחָ֥ה",
+          "morph": "HVqh1cp"
+        },
+        {
+          "w": "לֵאלֹהֵֽינוּ",
+          "morph": "HR/Ncmpc/Sp1cp"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "你 們 要 把 更 重 的 工 夫 加 在 這 些 人 身 上 ， 叫 他 們 勞 碌 ， 不 聽 虛 謊 的 言 語 。",
+      "en": "Make the work harder for the men so they will keep at it and pay no attention to lying words!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "תִּכְבַּ֧ד",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "הָעֲבֹדָ֛ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאֲנָשִׁ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "וְיַעֲשׂוּ",
+          "morph": "HC/Vqi3mp"
+        },
+        {
+          "w": "בָ֑הּ",
+          "morph": "HR/Sp3fs"
+        },
+        {
+          "w": "וְאַל",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִשְׁע֖וּ",
+          "morph": "HVqj3mp"
+        },
+        {
+          "w": "בְּדִבְרֵי",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "שָֽׁקֶר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "督 工 的 和 官 長 出 來 對 百 姓 說 ： 法 老 這 樣 說 ： 我 不 給 你 們 草 。",
+      "en": "So the slave masters of the people and their foremen went to the Israelites and said, “Thus says Pharaoh: ‘I am not giving you straw.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֵּ֨צְא֜וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "נֹגְשֵׂ֤י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "הָעָם֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְשֹׁ֣טְרָ֔יו",
+          "morph": "HC/Vqrmpc/Sp3ms"
+        },
+        {
+          "w": "וַיֹּאמְר֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָעָ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "כֹּ֚ה",
+          "morph": "HD"
+        },
+        {
+          "w": "אָמַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "פַּרְעֹ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֵינֶ֛נִּי",
+          "morph": "HTn/Sp1cs"
+        },
+        {
+          "w": "נֹתֵ֥ן",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "לָכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "תֶּֽבֶן",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "你 們 自 己 在 那 裡 能 找 草 ， 就 往 那 裡 去 找 罷 ！ 但 你 們 的 工 一 點 不 可 減 少 。",
+      "en": "You go get straw for yourselves wherever you can find it, because there will be no reduction at all in your workload.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "אַתֶּ֗ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "לְכ֨וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "קְח֤וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "לָכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "תֶּ֔בֶן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מֵאֲשֶׁ֖ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "תִּמְצָ֑אוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "אֵ֥ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "נִגְרָ֛ע",
+          "morph": "HVNrmsa"
+        },
+        {
+          "w": "מֵעֲבֹדַתְכֶ֖ם",
+          "morph": "HR/Ncfsc/Sp2mp"
+        },
+        {
+          "w": "דָּבָֽר",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "於 是 百 姓 散 在 埃 及 遍 地 ， 撿 碎 秸 當 作 草 。",
+      "en": "So the people spread out through all the land of Egypt to collect stubble for straw.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֥פֶץ",
+          "morph": "HC/Vhw3ms"
+        },
+        {
+          "w": "הָעָ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "אֶ֣רֶץ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "מִצְרָ֑יִם",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְקֹשֵׁ֥שׁ",
+          "morph": "HR/Vmc"
+        },
+        {
+          "w": "קַ֖שׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַתֶּֽבֶן",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "督 工 的 催 著 說 ： 你 們 一 天 當 完 一 天 的 工 ， 與 先 前 有 草 一 樣 。",
+      "en": "The slave masters were pressuring them, saying, “Complete your work for each day, just like when there was straw!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַנֹּגְשִׂ֖ים",
+          "morph": "HC/Td/Vqrmpa"
+        },
+        {
+          "w": "אָצִ֣ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "כַּלּ֤וּ",
+          "morph": "HVpv2mp"
+        },
+        {
+          "w": "מַעֲשֵׂיכֶם֙",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "דְּבַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "י֣וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּיוֹמ֔וֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "כַּאֲשֶׁ֖ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "בִּהְי֥וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הַתֶּֽבֶן",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "法 老 督 工 的 ， 責 打 他 所 派 以 色 列 人 的 官 長 ， 說 ： 你 們 昨 天 今 天 為 甚 麼 沒 有 照 向 來 的 數 目 做 磚 、 完 你 們 的 工 作 呢 ？",
+      "en": "The Israelite foremen whom Pharaoh’s slave masters had set over them were beaten and were asked, “Why did you not complete your requirement for brickmaking as in the past—both yesterday and today?”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֻּכּ֗וּ",
+          "morph": "HC/VHw3mp"
+        },
+        {
+          "w": "שֹֽׁטְרֵי֙",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "שָׂ֣מוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "עֲלֵהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "נֹגְשֵׂ֥י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "פַרְעֹ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מַדּ֡וּעַ",
+          "morph": "HTi"
+        },
+        {
+          "w": "לֹא֩",
+          "morph": "HTn"
+        },
+        {
+          "w": "כִלִּיתֶ֨ם",
+          "morph": "HVpp2mp"
+        },
+        {
+          "w": "חָקְכֶ֤ם",
+          "morph": "HNcmsc/Sp2mp"
+        },
+        {
+          "w": "לִלְבֹּן֙",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "כִּתְמ֣וֹל",
+          "morph": "HR/D"
+        },
+        {
+          "w": "שִׁלְשֹׁ֔ם",
+          "morph": "HD"
+        },
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "תְּמ֖וֹל",
+          "morph": "HD"
+        },
+        {
+          "w": "גַּם",
+          "morph": "HTa"
+        },
+        {
+          "w": "הַיּֽוֹם",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "以 色 列 人 的 官 長 就 來 哀 求 法 老 說 ： 為 甚 麼 這 樣 待 你 的 僕 人 ？",
+      "en": "The Israelite foremen went and cried out to Pharaoh, “Why are you treating your servants this way?",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּבֹ֗אוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שֹֽׁטְרֵי֙",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּצְעֲק֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פַּרְעֹ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לָ֧מָּה",
+          "morph": "HR/Ti"
+        },
+        {
+          "w": "תַעֲשֶׂ֦ה",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "כֹ֖ה",
+          "morph": "HD"
+        },
+        {
+          "w": "לַעֲבָדֶֽיךָ",
+          "morph": "HR/Ncmpc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "督 工 的 不 把 草 給 僕 人 ， 並 且 對 我 們 說 ： 做 磚 罷 ！ 看 哪 ， 你 僕 人 挨 了 打 ， 其 實 是 你 百 姓 的 錯 。",
+      "en": "No straw is given to your servants, but we are told, ‘Make bricks!’ Your servants are even being beaten, but the fault is with your people.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "תֶּ֗בֶן",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֵ֤ין",
+          "morph": "HTn"
+        },
+        {
+          "w": "נִתָּן֙",
+          "morph": "HVNrmsa"
+        },
+        {
+          "w": "לַעֲבָדֶ֔יךָ",
+          "morph": "HR/Ncmpc/Sp2ms"
+        },
+        {
+          "w": "וּלְבֵנִ֛ים",
+          "morph": "HC/Ncfpa"
+        },
+        {
+          "w": "אֹמְרִ֥ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "לָ֖נוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "עֲשׂ֑וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "וְהִנֵּ֧ה",
+          "morph": "HC/Tm"
+        },
+        {
+          "w": "עֲבָדֶ֛יךָ",
+          "morph": "HNcmpc/Sp2ms"
+        },
+        {
+          "w": "מֻכִּ֖ים",
+          "morph": "HVHsmpa"
+        },
+        {
+          "w": "וְחָטָ֥את",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "עַמֶּֽךָ",
+          "morph": "HNcmsc/Sp2ms"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "但 法 老 說 ： 你 們 是 懶 惰 的 ！ 你 們 是 懶 惰 的 ！ 所 以 說 ： 容 我 們 去 祭 祀 耶 和 華 。",
+      "en": "But Pharaoh replied, “You are slackers! Slackers! That is why you are saying, ‘Let us go sacrifice to the Lord.’",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֛אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "נִרְפִּ֥ים",
+          "morph": "HVNrmpa"
+        },
+        {
+          "w": "אַתֶּ֖ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "נִרְפִּ֑ים",
+          "morph": "HVNrmpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כֵּן֙",
+          "morph": "HTm"
+        },
+        {
+          "w": "אַתֶּ֣ם",
+          "morph": "HPp2mp"
+        },
+        {
+          "w": "אֹֽמְרִ֔ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "נֵלְכָ֖ה",
+          "morph": "HVqh1cp"
+        },
+        {
+          "w": "נִזְבְּחָ֥ה",
+          "morph": "HVqh1cp"
+        },
+        {
+          "w": "לַֽיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "現 在 你 們 去 做 工 罷 ！ 草 是 不 給 你 們 的 ， 磚 卻 要 如 數 交 納 。",
+      "en": "So now, get back to work! You will not be given straw, but you must still produce your quota of bricks!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְעַתָּה֙",
+          "morph": "HC/D"
+        },
+        {
+          "w": "לְכ֣וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "עִבְד֔וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "וְתֶ֖בֶן",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִנָּתֵ֣ן",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "לָכֶ֑ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וְתֹ֥כֶן",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "לְבֵנִ֖ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "תִּתֵּֽנּוּ",
+          "morph": "HVqi2mp"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "以 色 列 人 的 官 長 聽 說 你 們 每 天 做 磚 的 工 作 一 點 不 可 減 少 ， 就 知 道 是 遭 遇 禍 患 了 。",
+      "en": "The Israelite foremen saw that they were in trouble when they were told, “You must not reduce the daily quota of your bricks.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּרְא֞וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שֹֽׁטְרֵ֧י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֛ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֹתָ֖ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "בְּרָ֣ע",
+          "morph": "HR/Aamsa"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תִגְרְע֥וּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "מִלִּבְנֵיכֶ֖ם",
+          "morph": "HR/Ncfpc/Sp2mp"
+        },
+        {
+          "w": "דְּבַר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "י֥וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "בְּיוֹמֽוֹ",
+          "morph": "HR/Ncmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "他 們 離 了 法 老 出 來 ， 正 遇 見 摩 西 、 亞 倫 站 在 對 面 ，",
+      "en": "When they went out from Pharaoh, they encountered Moses and Aaron standing there to meet them,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַֽיִּפְגְּעוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֹשֶׁ֣ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶֽת",
+          "morph": "HC/To"
+        },
+        {
+          "w": "אַהֲרֹ֔ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "נִצָּבִ֖ים",
+          "morph": "HVNrmpa"
+        },
+        {
+          "w": "לִקְרָאתָ֑ם",
+          "morph": "HR/Vqc/Sp3mp"
+        },
+        {
+          "w": "בְּצֵאתָ֖ם",
+          "morph": "HR/Vqc/Sp3mp"
+        },
+        {
+          "w": "מֵאֵ֥ת",
+          "morph": "HR/R"
+        },
+        {
+          "w": "פַּרְעֹֽה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "就 向 他 們 說 ： 願 耶 和 華 鑒 察 你 們 ， 施 行 判 斷 ； 因 你 們 使 我 們 在 法 老 和 他 臣 僕 面 前 有 了 臭 名 ， 把 刀 遞 在 他 們 手 中 殺 我 們 。",
+      "en": "and they said to them, “May the Lord look on you and judge, because you have made us stink in the opinion of Pharaoh and his servants, so that you have given them an excuse to kill us!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּאמְר֣וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֲלֵהֶ֔ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "יֵ֧רֶא",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֲלֵיכֶ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וְיִשְׁפֹּ֑ט",
+          "morph": "HC/Vqi3ms"
+        },
+        {
+          "w": "אֲשֶׁ֧ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הִבְאַשְׁתֶּ֣ם",
+          "morph": "HVhp2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "רֵיחֵ֗נוּ",
+          "morph": "HNcmsc/Sp1cp"
+        },
+        {
+          "w": "בְּעֵינֵ֤י",
+          "morph": "HR/Ncbdc"
+        },
+        {
+          "w": "פַרְעֹה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּבְעֵינֵ֣י",
+          "morph": "HC/R/Ncbdc"
+        },
+        {
+          "w": "עֲבָדָ֔יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "לָֽתֶת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "חֶ֥רֶב",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בְּיָדָ֖ם",
+          "morph": "HR/Ncbsc/Sp3mp"
+        },
+        {
+          "w": "לְהָרְגֵֽנוּ",
+          "morph": "HR/Vqc/Sp1cp"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "摩 西 回 到 耶 和 華 那 裡 ， 說 ： 主 阿 ， 你 為 甚 麼 苦 待 這 百 姓 呢 ？ 為 甚 麼 打 發 我 去 呢 ？",
+      "en": "Moses returned to the Lord, and said, “Lord, why have you caused trouble for this people? Why did you ever send me?",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיָּ֧שָׁב",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "מֹשֶׁ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיֹּאמַ֑ר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֲדֹנָ֗י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "לָמָ֤ה",
+          "morph": "HR/Ti"
+        },
+        {
+          "w": "הֲרֵעֹ֨תָה֙",
+          "morph": "HVhp2ms"
+        },
+        {
+          "w": "לָעָ֣ם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֔ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "לָ֥מָּה",
+          "morph": "HR/Ti"
+        },
+        {
+          "w": "זֶּ֖ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "שְׁלַחְתָּֽנִי",
+          "morph": "HVqp2ms/Sp1cs"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "自 從 我 去 見 法 老 ， 奉 你 的 名 說 話 ， 他 就 苦 待 這 百 姓 ， 你 一 點 也 沒 有 拯 救 他 們 。",
+      "en": "From the time I went to speak to Pharaoh in your name, he has caused trouble for this people, and you have certainly not rescued them!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּמֵאָ֞ז",
+          "morph": "HC/R/D"
+        },
+        {
+          "w": "בָּ֤אתִי",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פַּרְעֹה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְדַבֵּ֣ר",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "בִּשְׁמֶ֔ךָ",
+          "morph": "HR/Ncmsc/Sp2ms"
+        },
+        {
+          "w": "הֵרַ֖ע",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "לָעָ֣ם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּ֑ה",
+          "morph": "HTd/Pdxms"
+        },
+        {
+          "w": "וְהַצֵּ֥ל",
+          "morph": "HC/Vha"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "הִצַּ֖לְתָּ",
+          "morph": "HVhp2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "עַמֶּֽךָ",
+          "morph": "HNcmsc/Sp2ms"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1762 @@
+{
+  "book": 6,
+  "chapter": 4,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "國 民 盡 都 過 了 約 但 河 ， 耶 和 華 就 對 約 書 亞 說 ：",
+      "en": "When the entire nation was on the other side, the Lord told Joshua,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִי֙",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כַּאֲשֶׁר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "תַּ֣מּוּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "כָל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַגּ֔וֹי",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לַעֲב֖וֹר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַיַּרְדֵּ֑ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוֹשֻׁ֖עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 從 民 中 要 揀 選 十 二 個 人 ， 每 支 派 一 人 ，",
+      "en": "“Select for yourselves 12 men from the people, one per tribe.",
+      "notes": [],
+      "he": [
+        {
+          "w": "קְח֤וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "לָכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הָעָ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "שְׁנֵ֥ים",
+          "morph": "HAcmda"
+        },
+        {
+          "w": "עָשָׂ֖ר",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "אֲנָשִׁ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "אִישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶחָ֥ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "אִישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶחָ֖ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "מִשָּֽׁבֶט",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "吩 咐 他 們 說 ： 你 們 從 這 裡 ， 從 約 但 河 中 、 祭 司 腳 站 定 的 地 方 ， 取 十 二 塊 石 頭 帶 過 去 ， 放 在 你 們 今 夜 要 住 宿 的 地 方 。",
+      "en": "Instruct them, ‘Pick up 12 stones from the middle of the Jordan, from the very place where the priests stand firmly, and carry them over with you and put them in the place where you camp tonight.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְצַוּ֣וּ",
+          "morph": "HC/Vpv2mp"
+        },
+        {
+          "w": "אוֹתָם֮",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "לֵאמֹר֒",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "שְׂאֽוּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "לָכֶ֨ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "מִזֶּ֜ה",
+          "morph": "HR/Pdxms"
+        },
+        {
+          "w": "מִתּ֣וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַיַּרְדֵּ֗ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "מִמַּצַּב֙",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "רַגְלֵ֣י",
+          "morph": "HNcfdc"
+        },
+        {
+          "w": "הַכֹּהֲנִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "הָכִ֖ין",
+          "morph": "HVhc"
+        },
+        {
+          "w": "שְׁתֵּים",
+          "morph": "HAcfda"
+        },
+        {
+          "w": "עֶשְׂרֵ֣ה",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "אֲבָנִ֑ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "וְהַעֲבַרְתֶּ֤ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אוֹתָם֙",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "עִמָּכֶ֔ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "וְהִנַּחְתֶּ֣ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אוֹתָ֔ם",
+          "morph": "HTo/Sp3mp"
+        },
+        {
+          "w": "בַּמָּל֕וֹן",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תָּלִ֥ינוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "ב֖וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "הַלָּֽיְלָה",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "於 是 ， 約 書 亞 將 他 從 以 色 列 人 中 所 預 備 的 那 十 二 個 人 ， 每 支 派 一 人 ， 都 召 了 來 。",
+      "en": "Joshua summoned the 12 men he had appointed from the Israelites, one per tribe.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיִּקְרָ֣א",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁ֗עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "שְׁנֵ֤ים",
+          "morph": "HAcmda"
+        },
+        {
+          "w": "הֶֽעָשָׂר֙",
+          "morph": "HTd/Acmsa"
+        },
+        {
+          "w": "אִ֔ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הֵכִ֖ין",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "מִבְּנֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אִישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶחָ֥ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "אִישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶחָ֖ד",
+          "morph": "HAcmsa"
+        },
+        {
+          "w": "מִשָּֽׁבֶט",
+          "morph": "HR/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "對 他 們 說 ： 你 們 下 約 但 河 中 ， 過 到 耶 和 華 ─ 你 們 神 的 約 櫃 前 頭 ， 按 著 以 色 列 人 十 二 支 派 的 數 目 ， 每 人 取 一 塊 石 頭 扛 在 肩 上 。",
+      "en": "Joshua told them, “Go in front of the ark of the Lord your God to the middle of the Jordan. Each of you is to put a stone on his shoulder, according to the number of the Israelite tribes.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֤אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "לָהֶם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "יְהוֹשֻׁ֔עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "עִ֠בְרוּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "לִפְנֵ֨י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "אֲר֧וֹן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹֽהֵיכֶ֖ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "תּ֣וֹךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַיַּרְדֵּ֑ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "וְהָרִ֨ימוּ",
+          "morph": "HC/Vhv2mp"
+        },
+        {
+          "w": "לָכֶ֜ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "אִ֣ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶ֤בֶן",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אַחַת֙",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "שִׁכְמ֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "לְמִסְפַּ֖ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שִׁבְטֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בְנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵֽל",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "這 些 石 頭 在 你 們 中 間 可 以 作 為 證 據 。 日 後 ， 你 們 的 子 孫 問 你 們 說 ： 這 些 石 頭 是 甚 麼 意 思 ？",
+      "en": "The stones will be a reminder to you. When your children ask someday, ‘Why are these stones important to you?’",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַ֗עַן",
+          "morph": "HR"
+        },
+        {
+          "w": "תִּֽהְיֶ֛ה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "זֹ֥את",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "א֖וֹת",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "בְּקִרְבְּכֶ֑ם",
+          "morph": "HR/Ncmsc/Sp2mp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "יִשְׁאָל֨וּן",
+          "morph": "HVqi3mp/Sn"
+        },
+        {
+          "w": "בְּנֵיכֶ֤ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "מָחָר֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מָ֛ה",
+          "morph": "HTi"
+        },
+        {
+          "w": "הָאֲבָנִ֥ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָאֵ֖לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "לָכֶֽם",
+          "morph": "HR/Sp2mp"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "你 們 就 對 他 們 說 ： 這 是 因 為 約 但 河 的 水 在 耶 和 華 的 約 櫃 前 斷 絕 ； 約 櫃 過 約 但 河 的 時 候 ， 約 但 河 的 水 就 斷 絕 了 。 這 些 石 頭 要 作 以 色 列 人 永 遠 的 紀 念 。",
+      "en": "tell them how the water of the Jordan stopped flowing before the ark of the covenant of the Lord. When it crossed the Jordan, the water of the Jordan stopped flowing. These stones will be a lasting memorial for the Israelites.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַאֲמַרְתֶּ֣ם",
+          "morph": "HC/Vqq2mp"
+        },
+        {
+          "w": "לָהֶ֗ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "נִכְרְת֜וּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "מֵימֵ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַיַּרְדֵּן֙",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "מִפְּנֵי֙",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "אֲר֣וֹן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "בְּרִית",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּעָבְרוֹ֙",
+          "morph": "HR/Vqc/Sp3ms"
+        },
+        {
+          "w": "בַּיַּרְדֵּ֔ן",
+          "morph": "HRd/Np"
+        },
+        {
+          "w": "נִכְרְת֖וּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "מֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַיַּרְדֵּ֑ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "וְ֠הָיוּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "הָאֲבָנִ֨ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָאֵ֧לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "לְזִכָּר֛וֹן",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לִבְנֵ֥י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "עוֹלָֽם",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "以 色 列 人 就 照 約 書 亞 所 吩 咐 的 ， 按 著 以 色 列 人 支 派 的 數 目 ， 從 約 但 河 中 取 了 十 二 塊 石 頭 ， 都 遵 耶 和 華 所 吩 咐 約 書 亞 的 行 了 。 他 們 把 石 頭 帶 過 去 ， 到 他 們 所 住 宿 的 地 方 ， 就 放 在 那 裡 。",
+      "en": "The Israelites did just as Joshua commanded. They picked up 12 stones, according to the number of the Israelite tribes, from the middle of the Jordan as the Lord had instructed Joshua. They carried them over with them to the camp and put them there.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיַּעֲשׂוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "כֵ֣ן",
+          "morph": "HD"
+        },
+        {
+          "w": "בְּנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֘ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֣ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "צִוָּ֣ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁעַ֒",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּשְׂא֡וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שְׁתֵּֽי",
+          "morph": "HAcfdc"
+        },
+        {
+          "w": "עֶשְׂרֵ֨ה",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "אֲבָנִ֜ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "מִתּ֣וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַיַּרְדֵּ֗ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "כַּאֲשֶׁ֨ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "דִּבֶּ֤ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוֹשֻׁ֔עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְמִסְפַּ֖ר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "שִׁבְטֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "בְנֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיַּעֲבִר֤וּם",
+          "morph": "HC/Vhw3mp/Sp3mp"
+        },
+        {
+          "w": "עִמָּם֙",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמָּל֔וֹן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַיַּנִּח֖וּם",
+          "morph": "HC/Vhw3mp/Sp3mp"
+        },
+        {
+          "w": "שָֽׁם",
+          "morph": "HD"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "約 書 亞 另 把 十 二 塊 石 頭 立 在 約 但 河 中 ， 在 抬 約 櫃 的 祭 司 腳 站 立 的 地 方 ； 直 到 今 日 ， 那 石 頭 還 在 那 裡 。",
+      "en": "Joshua also set up 12 stones in the middle of the Jordan in the very place where the priests carrying the ark of the covenant stood. They remain there to this very day.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וּשְׁתֵּ֧ים",
+          "morph": "HC/Acfda"
+        },
+        {
+          "w": "עֶשְׂרֵ֣ה",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "אֲבָנִ֗ים",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "הֵקִ֣ים",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁעַ֮",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּת֣וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַיַּרְדֵּן֒",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "תַּ֗חַת",
+          "morph": "HR"
+        },
+        {
+          "w": "מַצַּב֙",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "רַגְלֵ֣י",
+          "morph": "HNcfdc"
+        },
+        {
+          "w": "הַכֹּהֲנִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "נֹשְׂאֵ֖י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "אֲר֣וֹן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הַבְּרִ֑ית",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וַיִּ֣הְיוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "שָׁ֔ם",
+          "morph": "HD"
+        },
+        {
+          "w": "עַ֖ד",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיּ֥וֹם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַזֶּֽה",
+          "morph": "HTd/Pdxms"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "抬 約 櫃 的 祭 司 站 在 約 但 河 中 ， 等 到 耶 和 華 曉 諭 約 書 亞 吩 咐 百 姓 的 事 辦 完 了 ， 是 照 摩 西 所 吩 咐 約 書 亞 的 一 切 話 。 於 是 百 姓 急 速 過 去 了 。",
+      "en": "Now the priests carrying the ark of the covenant were standing in the middle of the Jordan until everything the Lord had commanded Joshua to tell the people was accomplished, in accordance with all that Moses had commanded Joshua. The people went across quickly,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהַכֹּהֲנִ֞ים",
+          "morph": "HC/Td/Ncmpa"
+        },
+        {
+          "w": "נֹשְׂאֵ֣י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "הָאָר֗וֹן",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "עֹמְדִים֮",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "בְּת֣וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַיַּרְדֵּן֒",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "עַ֣ד",
+          "morph": "HR"
+        },
+        {
+          "w": "תֹּ֣ם",
+          "morph": "HVqc"
+        },
+        {
+          "w": "כָּֽל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַ֠דָּבָר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "צִוָּ֨ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֤ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוֹשֻׁ֨עַ֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לְדַבֵּ֣ר",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָעָ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "כְּכֹ֛ל",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "צִוָּ֥ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "מֹשֶׁ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוֹשֻׁ֑עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיְמַהֲר֥וּ",
+          "morph": "HC/Vpw3mp"
+        },
+        {
+          "w": "הָעָ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וַֽיַּעֲבֹֽרוּ",
+          "morph": "HC/Vqw3mp"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "眾 百 姓 盡 都 過 了 河 ， 耶 和 華 的 約 櫃 和 祭 司 就 在 百 姓 面 前 過 去 。",
+      "en": "and when all the people had finished crossing, the ark of the Lord and the priests crossed as the people looked on.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְהִ֛י",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "כַּֽאֲשֶׁר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "תַּ֥ם",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הָעָ֖ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לַֽעֲב֑וֹר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "וַיַּעֲבֹ֧ר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֲרוֹן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "יְהוָ֛ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְהַכֹּהֲנִ֖ים",
+          "morph": "HC/Td/Ncmpa"
+        },
+        {
+          "w": "לִפְנֵ֥י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "הָעָֽם",
+          "morph": "HTd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "流 便 人 、 迦 得 人 、 瑪 拿 西 半 支 派 的 人 都 照 摩 西 所 吩 咐 他 們 的 ， 帶 著 兵 器 在 以 色 列 人 前 頭 過 去 。",
+      "en": "The Reubenites, the Gadites, and the half-tribe of Manasseh crossed over armed for battle ahead of the Israelites, just as Moses had instructed them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַ֠יַּעַבְרוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בְּנֵי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "רְאוּבֵ֨ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּבְנֵי",
+          "morph": "HC/Ncmpc"
+        },
+        {
+          "w": "גָ֜ד",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַחֲצִ֨י",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "שֵׁ֤בֶט",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַֽמְנַשֶּׁה֙",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "חֲמֻשִׁ֔ים",
+          "morph": "HVqsmpa"
+        },
+        {
+          "w": "לִפְנֵ֖י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֛ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "דִּבֶּ֥ר",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "אֲלֵיהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "מֹשֶֽׁה",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "約 有 四 萬 人 都 準 備 打 仗 ， 在 耶 和 華 面 前 過 去 ， 到 耶 利 哥 的 平 原 ， 等 候 上 陣 。",
+      "en": "About 40,000 battle-ready troops marched past the Lord to fight on the rift valley plains of Jericho.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כְּאַרְבָּעִ֥ים",
+          "morph": "HR/Acbpa"
+        },
+        {
+          "w": "אֶ֖לֶף",
+          "morph": "HAcbsa"
+        },
+        {
+          "w": "חֲלוּצֵ֣י",
+          "morph": "HVqsmpc"
+        },
+        {
+          "w": "הַצָּבָ֑א",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "עָבְר֞וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "לִפְנֵ֤י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "לַמִּלְחָמָ֔ה",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "אֶ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "עַֽרְב֥וֹת",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "יְרִיחֽוֹ",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "當 那 日 ， 耶 和 華 使 約 書 亞 在 以 色 列 眾 人 眼 前 尊 大 。 在 他 平 生 的 日 子 ， 百 姓 敬 畏 他 ， 像 從 前 敬 畏 摩 西 一 樣 。",
+      "en": "That day the Lord brought honor to Joshua before all Israel. They respected him all his life, just as they had respected Moses.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בַּיּ֣וֹם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַה֗וּא",
+          "morph": "HTd/Pp3ms"
+        },
+        {
+          "w": "גִּדַּ֤ל",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוֹשֻׁ֔עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בְּעֵינֵ֖י",
+          "morph": "HR/Ncbdc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֑ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וַיִּֽרְא֣וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "אֹת֔וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "כַּאֲשֶׁ֛ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "יָרְא֥וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֹשֶׁ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְמֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "חַיָּֽיו",
+          "morph": "HNcmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "耶 和 華 曉 諭 約 書 亞 說 ：",
+      "en": "The Lord told Joshua,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֣אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְהוֹשֻׁ֖עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "你 吩 咐 抬 法 櫃 的 祭 司 從 約 但 河 裡 上 來 。",
+      "en": "“Instruct the priests carrying the ark of the covenantal laws to come up from the Jordan.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "צַוֵּה֙",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַכֹּ֣הֲנִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "נֹשְׂאֵ֖י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "אֲר֣וֹן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הָעֵד֑וּת",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וְיַעֲל֖וּ",
+          "morph": "HC/Vqi3mp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיַּרְדֵּֽן",
+          "morph": "HTd/Np"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "約 書 亞 就 吩 咐 祭 司 說 ： 你 們 從 約 但 河 裡 上 來 。",
+      "en": "So Joshua instructed the priests, “Come up from the Jordan!”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְצַ֣ו",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁ֔עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַכֹּהֲנִ֖ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "עֲל֖וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיַּרְדֵּֽן",
+          "morph": "HTd/Np"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "抬 耶 和 華 約 櫃 的 祭 司 從 約 但 河 裡 上 來 ， 腳 掌 剛 落 旱 地 ， 約 但 河 的 水 就 流 到 原 處 ， 仍 舊 漲 過 兩 岸 。",
+      "en": "The priests carrying the ark of the covenant of the Lord came up from the middle of the Jordan, and as soon as they set foot on dry land, the water of the Jordan flowed again and returned to flood stage.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַ֠יְהִי",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "בעלות",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "כַּעֲל֨וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "הַכֹּהֲנִ֜ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "נֹשְׂאֵ֨י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "אֲר֤וֹן",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "בְּרִית",
+          "morph": "HNcfsc"
+        },
+        {
+          "w": "יְהוָה֙",
+          "morph": "HNp"
+        },
+        {
+          "w": "מִתּ֣וֹךְ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַיַּרְדֵּ֔ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "נִתְּק֗וּ",
+          "morph": "HVNp3cp"
+        },
+        {
+          "w": "כַּפּוֹת֙",
+          "morph": "HNcfpc"
+        },
+        {
+          "w": "רַגְלֵ֣י",
+          "morph": "HNcfdc"
+        },
+        {
+          "w": "הַכֹּהֲנִ֔ים",
+          "morph": "HTd/Ncmpa"
+        },
+        {
+          "w": "אֶ֖ל",
+          "morph": "HR"
+        },
+        {
+          "w": "הֶחָרָבָ֑ה",
+          "morph": "HTd/Ncfsa"
+        },
+        {
+          "w": "וַיָּשֻׁ֤בוּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "מֵֽי",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַיַּרְדֵּן֙",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "לִמְקוֹמָ֔ם",
+          "morph": "HR/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "וַיֵּלְכ֥וּ",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "כִתְמוֹל",
+          "morph": "HR/D"
+        },
+        {
+          "w": "שִׁלְשׁ֖וֹם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "גְּדוֹתָֽיו",
+          "morph": "HNcfpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "正 月 初 十 日 ， 百 姓 從 約 但 河 裡 上 來 ， 就 在 吉 甲 ， 在 耶 利 哥 的 東 邊 安 營 。",
+      "en": "The people went up from the Jordan on the tenth day of the first month and camped in Gilgal on the eastern border of Jericho.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהָעָ֗ם",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "עָלוּ֙",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיַּרְדֵּ֔ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "בֶּעָשׂ֖וֹר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "לַחֹ֣דֶשׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הָרִאשׁ֑וֹן",
+          "morph": "HTd/Aomsa"
+        },
+        {
+          "w": "וַֽיַּחֲנוּ֙",
+          "morph": "HC/Vqw3mp"
+        },
+        {
+          "w": "בַּגִּלְגָּ֔ל",
+          "morph": "HRd/Np"
+        },
+        {
+          "w": "בִּקְצֵ֖ה",
+          "morph": "HR/Ncbsc"
+        },
+        {
+          "w": "מִזְרַ֥ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְרִיחֽוֹ",
+          "morph": "HNp"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "他 們 從 約 但 河 中 取 來 的 那 十 二 塊 石 頭 ， 約 書 亞 就 立 在 吉 甲 ，",
+      "en": "Now Joshua set up in Gilgal the 12 stones they had taken from the Jordan.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֵת֩",
+          "morph": "HC/To"
+        },
+        {
+          "w": "שְׁתֵּ֨ים",
+          "morph": "HAcfda"
+        },
+        {
+          "w": "עֶשְׂרֵ֤ה",
+          "morph": "HAcfsa"
+        },
+        {
+          "w": "הָֽאֲבָנִים֙",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָאֵ֔לֶּה",
+          "morph": "HTd/Pdxcp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לָקְח֖וּ",
+          "morph": "HVqp3cp"
+        },
+        {
+          "w": "מִן",
+          "morph": "HR"
+        },
+        {
+          "w": "הַיַּרְדֵּ֑ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "הֵקִ֥ים",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "יְהוֹשֻׁ֖עַ",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּגִּלְגָּֽל",
+          "morph": "HRd/Np"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "對 以 色 列 人 說 ： 日 後 你 們 的 子 孫 問 他 們 的 父 親 說 ： 這 些 石 頭 是 甚 麼 意 思 ？",
+      "en": "He told the Israelites, “When your children someday ask their fathers, ‘What do these stones represent?’",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיֹּ֛אמֶר",
+          "morph": "HC/Vqw3ms"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "בְּנֵ֥י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֖ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֲשֶׁר֩",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִשְׁאָל֨וּן",
+          "morph": "HVqi3mp/Sn"
+        },
+        {
+          "w": "בְּנֵיכֶ֤ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "מָחָר֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "אֲבוֹתָ֣ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "לֵאמֹ֔ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מָ֖ה",
+          "morph": "HTi"
+        },
+        {
+          "w": "הָאֲבָנִ֥ים",
+          "morph": "HTd/Ncfpa"
+        },
+        {
+          "w": "הָאֵֽלֶּה",
+          "morph": "HTd/Pdxcp"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "你 們 就 告 訴 他 們 說 ： 以 色 列 人 曾 走 乾 地 過 這 約 但 河 ；",
+      "en": "explain to your children, ‘Israel crossed the Jordan River on dry ground.’",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְהוֹדַעְתֶּ֖ם",
+          "morph": "HC/Vhq2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "בְּנֵיכֶ֣ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "לֵאמֹ֑ר",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בַּיַּבָּשָׁה֙",
+          "morph": "HRd/Ncfsa"
+        },
+        {
+          "w": "עָבַ֣ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַיַּרְדֵּ֖ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "הַזֶּֽה",
+          "morph": "HTd/Pdxms"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "因 為 耶 和 華 ─ 你 們 的 神 在 你 們 前 面 使 約 但 河 的 水 乾 了 ， 等 著 你 們 過 來 ， 就 如 耶 和 華 ─ 你 們 的 　 神 從 前 在 我 們 前 面 使 紅 海 乾 了 ， 等 著 我 們 過 來 一 樣 ，",
+      "en": "For the Lord your God dried up the water of the Jordan before you while you crossed over. It was just like when the Lord your God dried up the Red Sea before us while we crossed it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הוֹבִישׁ֩",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "יְהוָ֨ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶ֜ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "מֵ֧י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הַיַּרְדֵּ֛ן",
+          "morph": "HTd/Np"
+        },
+        {
+          "w": "מִפְּנֵיכֶ֖ם",
+          "morph": "HR/Ncbpc/Sp2mp"
+        },
+        {
+          "w": "עַֽד",
+          "morph": "HR"
+        },
+        {
+          "w": "עָבְרְכֶ֑ם",
+          "morph": "HVqc/Sp2mp"
+        },
+        {
+          "w": "כַּאֲשֶׁ֣ר",
+          "morph": "HR/Tr"
+        },
+        {
+          "w": "עָשָׂה֩",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יְהוָ֨ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶ֧ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "לְיַם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "ס֛וּף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הוֹבִ֥ישׁ",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "מִפָּנֵ֖ינוּ",
+          "morph": "HR/Ncbpc/Sp1cp"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "עָבְרֵֽנוּ",
+          "morph": "HVqc/Sp1cp"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "要 使 地 上 萬 民 都 知 道 ， 耶 和 華 的 手 大 有 能 力 ， 也 要 使 你 們 永 遠 敬 畏 耶 和 華 ─ 你 們 的 神 。",
+      "en": "He has done this so all the nations of the earth might recognize the Lord’s power and so you might always obey the Lord your God.”",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְ֠מַעַן",
+          "morph": "HR"
+        },
+        {
+          "w": "דַּ֜עַת",
+          "morph": "HVqc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "עַמֵּ֤י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "הָאָ֨רֶץ֙",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יַ֣ד",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כִּ֥י",
+          "morph": "HC"
+        },
+        {
+          "w": "חֲזָקָ֖ה",
+          "morph": "HAafsa"
+        },
+        {
+          "w": "הִ֑יא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "לְמַ֧עַן",
+          "morph": "HR"
+        },
+        {
+          "w": "יְרָאתֶ֛ם",
+          "morph": "HVqp2mp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֱלֹהֵיכֶ֖ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַיָּמִֽים",
+          "morph": "HTd/Ncmpa"
+        }
+      ]
+    }
+  ]
+}

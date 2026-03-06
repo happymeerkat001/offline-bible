@@ -1,0 +1,3716 @@
+{
+  "book": 41,
+  "chapter": 15,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "一 到 早 晨 ， 祭 司 長 和 長 老 、 文 士 、 全 公 會 的 人 大 家 商 議 ， 就 把 耶 穌 捆 綁 ， 解 去 交 給 彼 拉 多 。",
+      "en": "Early in the morning, after forming a plan, the chief priests with the elders and the experts in the law and the whole Sanhedrin tied Jesus up, led him away, and handed him over to Pilate.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "εὐθὺς",
+          "morph": "ADV",
+          "gloss": "early"
+        },
+        {
+          "w": "πρωῒ",
+          "morph": "ADV",
+          "gloss": "in the morning"
+        },
+        {
+          "w": "συμβούλιον",
+          "morph": "N-ASN",
+          "gloss": "a counsel"
+        },
+        {
+          "w": "ἑτοιμάσαντες",
+          "morph": "V-AAP-NPM",
+          "gloss": "having formed"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀρχιερεῖς",
+          "morph": "N-NPM",
+          "gloss": "chief priests"
+        },
+        {
+          "w": "μετὰ",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "the"
+        },
+        {
+          "w": "πρεσβυτέρων",
+          "morph": "A-GPM-C",
+          "gloss": "elders"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "γραμματέων",
+          "morph": "N-GPM",
+          "gloss": "scribes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὅλον",
+          "morph": "A-NSN",
+          "gloss": "all"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "συνέδριον",
+          "morph": "N-NSN",
+          "gloss": "Council"
+        },
+        {
+          "w": "δήσαντες",
+          "morph": "V-AAP-NPM",
+          "gloss": "having bound"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰησοῦν",
+          "morph": "N-ASM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "ἀπήνεγκαν",
+          "morph": "V-AAI-3P",
+          "gloss": "they led [Him] away"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "παρέδωκαν",
+          "morph": "V-AAI-3P",
+          "gloss": "delivered [Him]"
+        },
+        {
+          "w": "Πειλάτῳ",
+          "morph": "N-DSM",
+          "gloss": "to Pilate"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "彼 拉 多 問 他 說 ： 你 是 猶 太 人 的 王 麼 ？ 耶 穌 回 答 說 ： 你 說 的 是 。",
+      "en": "So Pilate asked him, “Are you the king of the Jews?” He replied, “You say so.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἐπηρώτησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "questioned"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Πειλᾶτος",
+          "morph": "N-NSM",
+          "gloss": "Pilate"
+        },
+        {
+          "w": "Σὺ",
+          "morph": "P-2NS",
+          "gloss": "You"
+        },
+        {
+          "w": "εἶ",
+          "morph": "V-PAI-2S",
+          "gloss": "are"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Βασιλεὺς",
+          "morph": "N-NSM",
+          "gloss": "King"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Ἰουδαίων",
+          "morph": "A-GPM",
+          "gloss": "Jews"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἀποκριθεὶς",
+          "morph": "V-AOP-NSM",
+          "gloss": "answering"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "λέγει",
+          "morph": "V-PAI-3S",
+          "gloss": "He says"
+        },
+        {
+          "w": "Σὺ",
+          "morph": "P-2NS",
+          "gloss": "You"
+        },
+        {
+          "w": "λέγεις",
+          "morph": "V-PAI-2S",
+          "gloss": "have said"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "祭 司 長 告 他 許 多 的 事 。",
+      "en": "Then the chief priests began to accuse him repeatedly.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "κατηγόρουν",
+          "morph": "V-IAI-3P",
+          "gloss": "were accusing"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀρχιερεῖς",
+          "morph": "N-NPM",
+          "gloss": "chief priests"
+        },
+        {
+          "w": "πολλά",
+          "morph": "A-APN",
+          "gloss": "of many things"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "彼 拉 多 又 問 他 說 ： 你 看 ， 他 們 告 你 這 麼 多 的 事 ， 你 甚 麼 都 不 回 答 麼 ？",
+      "en": "So Pilate asked him again, “Have you nothing to say? See how many charges they are bringing against you!”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "Πειλᾶτος",
+          "morph": "N-NSM",
+          "gloss": "Pilate"
+        },
+        {
+          "w": "πάλιν",
+          "morph": "ADV",
+          "gloss": "again"
+        },
+        {
+          "w": "ἐπηρώτα",
+          "morph": "V-IAI-3S",
+          "gloss": "began to question"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "λέγων",
+          "morph": "V-PAP-NSM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Οὐκ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "ἀποκρίνῃ",
+          "morph": "V-PNI-2S",
+          "gloss": "answer You"
+        },
+        {
+          "w": "οὐδέν",
+          "morph": "A-ASN-N",
+          "gloss": "nothing"
+        },
+        {
+          "w": "ἴδε",
+          "morph": "V-2AAM-2S",
+          "gloss": "See"
+        },
+        {
+          "w": "πόσα",
+          "morph": "Q-APN",
+          "gloss": "how many things"
+        },
+        {
+          "w": "σου",
+          "morph": "P-2GS",
+          "gloss": "You"
+        },
+        {
+          "w": "κατηγοροῦσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "they testify against"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "耶 穌 仍 不 回 答 ， 以 致 彼 拉 多 覺 得 希 奇 。",
+      "en": "But Jesus made no further reply, so that Pilate was amazed.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "But"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "οὐκέτι",
+          "morph": "ADV-N",
+          "gloss": "no longer"
+        },
+        {
+          "w": "οὐδὲν",
+          "morph": "A-ASN-N",
+          "gloss": "nothing"
+        },
+        {
+          "w": "ἀπεκρίθη",
+          "morph": "V-ADI-3S",
+          "gloss": "answered"
+        },
+        {
+          "w": "ὥστε",
+          "morph": "CONJ",
+          "gloss": "so as"
+        },
+        {
+          "w": "θαυμάζειν",
+          "morph": "V-PAN",
+          "gloss": "to amaze"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Πειλᾶτον",
+          "morph": "N-ASM",
+          "gloss": "Pilate"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "每 逢 這 節 期 ， 巡 撫 照 眾 人 所 求 的 ， 釋 放 一 個 囚 犯 給 他 們 。",
+      "en": "During the feast it was customary to release one prisoner to the people, whomever they requested.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Κατὰ",
+          "morph": "PREP",
+          "gloss": "At"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ἑορτὴν",
+          "morph": "N-ASF",
+          "gloss": "[the] feast"
+        },
+        {
+          "w": "ἀπέλυεν",
+          "morph": "V-IAI-3S",
+          "gloss": "he used to release"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "ἕνα",
+          "morph": "A-ASM",
+          "gloss": "one"
+        },
+        {
+          "w": "δέσμιον",
+          "morph": "N-ASM",
+          "gloss": "prisoner"
+        },
+        {
+          "w": "ὃν",
+          "morph": "R-ASM",
+          "gloss": "whom"
+        },
+        {
+          "w": "παρῃτοῦντο",
+          "morph": "V-INI-3P",
+          "gloss": "they requested"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "有 一 個 人 名 叫 巴 拉 巴 ， 和 作 亂 的 人 一 同 捆 綁 。 他 們 作 亂 的 時 候 ， 曾 殺 過 人 。",
+      "en": "A man named Barabbas was imprisoned with rebels who had committed murder during an insurrection.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "There was"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [one]"
+        },
+        {
+          "w": "λεγόμενος",
+          "morph": "V-PPP-NSM",
+          "gloss": "called"
+        },
+        {
+          "w": "Βαραββᾶς",
+          "morph": "N-NSM",
+          "gloss": "Barabbas"
+        },
+        {
+          "w": "μετὰ",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "the"
+        },
+        {
+          "w": "στασιαστῶν",
+          "morph": "N-GPM",
+          "gloss": "rebels"
+        },
+        {
+          "w": "δεδεμένος",
+          "morph": "V-RPP-NSM",
+          "gloss": "having been bound"
+        },
+        {
+          "w": "οἵτινες",
+          "morph": "R-NPM",
+          "gloss": "who"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "στάσει",
+          "morph": "N-DSF",
+          "gloss": "insurrection"
+        },
+        {
+          "w": "φόνον",
+          "morph": "N-ASM",
+          "gloss": "murder"
+        },
+        {
+          "w": "πεποιήκεισαν",
+          "morph": "V-LAI-3P",
+          "gloss": "had committed"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "眾 人 上 去 求 巡 撫 ， 照 常 例 給 他 們 辦 。",
+      "en": "Then the crowd came up and began to ask Pilate to release a prisoner for them, as was his custom.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἀναβὰς",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having cried out"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "ὄχλος",
+          "morph": "N-NSM",
+          "gloss": "crowd"
+        },
+        {
+          "w": "ἤρξατο",
+          "morph": "V-ADI-3S",
+          "gloss": "began"
+        },
+        {
+          "w": "αἰτεῖσθαι",
+          "morph": "V-PMN",
+          "gloss": "to beg [him to do]"
+        },
+        {
+          "w": "καθὼς",
+          "morph": "ADV",
+          "gloss": "as usually"
+        },
+        {
+          "w": "ἐποίει",
+          "morph": "V-IAI-3S",
+          "gloss": "he did"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "for them"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "彼 拉 多 說 ： 你 們 要 我 釋 放 猶 太 人 的 王 給 你 們 麼 ？",
+      "en": "So Pilate asked them, “Do you want me to release the king of the Jews for you?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "But"
+        },
+        {
+          "w": "Πειλᾶτος",
+          "morph": "N-NSM",
+          "gloss": "Pilate"
+        },
+        {
+          "w": "ἀπεκρίθη",
+          "morph": "V-ADI-3S",
+          "gloss": "answered"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "them"
+        },
+        {
+          "w": "λέγων",
+          "morph": "V-PAP-NSM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Θέλετε",
+          "morph": "V-PAI-2P",
+          "gloss": "Wish you [that]"
+        },
+        {
+          "w": "ἀπολύσω",
+          "morph": "V-AAS-1S",
+          "gloss": "I should release"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "Βασιλέα",
+          "morph": "N-ASM",
+          "gloss": "King"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Ἰουδαίων",
+          "morph": "A-GPM",
+          "gloss": "Jews"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "他 原 曉 得 ， 祭 司 長 是 因 為 嫉 妒 才 把 耶 穌 解 了 來 。",
+      "en": "(For he knew that the chief priests had handed him over because of envy.)",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐγίνωσκεν",
+          "morph": "V-IAI-3S",
+          "gloss": "He was aware"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "because of"
+        },
+        {
+          "w": "φθόνον",
+          "morph": "N-ASM",
+          "gloss": "envy"
+        },
+        {
+          "w": "παραδεδώκεισαν",
+          "morph": "V-LAI-3P",
+          "gloss": "had delivered up"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀρχιερεῖς",
+          "morph": "N-NPM",
+          "gloss": "chief priests"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "只 是 祭 司 長 挑 唆 眾 人 ， 寧 可 釋 放 巴 拉 巴 給 他 們 。",
+      "en": "But the chief priests stirred up the crowd to have him release Barabbas instead.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "But"
+        },
+        {
+          "w": "ἀρχιερεῖς",
+          "morph": "N-NPM",
+          "gloss": "the chief priests"
+        },
+        {
+          "w": "ἀνέσεισαν",
+          "morph": "V-AAI-3P",
+          "gloss": "stirred up"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "ὄχλον",
+          "morph": "N-ASM",
+          "gloss": "crowd"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "so that"
+        },
+        {
+          "w": "μᾶλλον",
+          "morph": "ADV",
+          "gloss": "instead"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Βαραββᾶν",
+          "morph": "N-ASM",
+          "gloss": "Barabbas"
+        },
+        {
+          "w": "ἀπολύσῃ",
+          "morph": "V-AAS-3S",
+          "gloss": "he might release"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "彼 拉 多 又 說 ： 那 麼 樣 ， 你 們 所 稱 為 猶 太 人 的 王 ， 我 怎 麼 辦 他 呢 ？",
+      "en": "So Pilate spoke to them again, “Then what do you want me to do with the one you call king of the Jews?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "Πειλᾶτος",
+          "morph": "N-NSM",
+          "gloss": "Pilate"
+        },
+        {
+          "w": "πάλιν",
+          "morph": "ADV",
+          "gloss": "again"
+        },
+        {
+          "w": "ἀποκριθεὶς",
+          "morph": "V-AOP-NSM",
+          "gloss": "answering"
+        },
+        {
+          "w": "ἔλεγεν",
+          "morph": "V-IAI-3S",
+          "gloss": "was saying"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "Τί",
+          "morph": "I-ASN",
+          "gloss": "What"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ποιήσω",
+          "morph": "V-AAS-1S",
+          "gloss": "I should do"
+        },
+        {
+          "w": "ὃν",
+          "morph": "R-ASM",
+          "gloss": "to Him"
+        },
+        {
+          "w": "λέγετε",
+          "morph": "V-PAI-2P",
+          "gloss": "you call"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "Βασιλέα",
+          "morph": "N-ASM",
+          "gloss": "King"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Ἰουδαίων",
+          "morph": "A-GPM",
+          "gloss": "Jews"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "} 他 們 又 喊 著 說 ： 把 他 釘 十 字 架 ！",
+      "en": "They shouted back, “Crucify him!”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "πάλιν",
+          "morph": "ADV",
+          "gloss": "again"
+        },
+        {
+          "w": "ἔκραξαν",
+          "morph": "V-AAI-3P",
+          "gloss": "they cried out"
+        },
+        {
+          "w": "Σταύρωσον",
+          "morph": "V-AAM-2S",
+          "gloss": "Crucify"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "彼 拉 多 說 ： 為 甚 麼 呢 ？ 他 作 了 甚 麼 惡 事 呢 ？ 他 們 便 極 力 的 喊 著 說 ： 把 他 釘 十 字 架 ！",
+      "en": "Pilate asked them, “Why? What has he done wrong?” But they shouted more insistently, “Crucify him!”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "Πειλᾶτος",
+          "morph": "N-NSM",
+          "gloss": "Pilate"
+        },
+        {
+          "w": "ἔλεγεν",
+          "morph": "V-IAI-3S",
+          "gloss": "was saying"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "Τί",
+          "morph": "I-ASN",
+          "gloss": "What"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "indeed"
+        },
+        {
+          "w": "ἐποίησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "did He commit"
+        },
+        {
+          "w": "κακόν",
+          "morph": "A-ASN",
+          "gloss": "evil"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "But"
+        },
+        {
+          "w": "περισσῶς",
+          "morph": "ADV",
+          "gloss": "much more"
+        },
+        {
+          "w": "ἔκραξαν",
+          "morph": "V-AAI-3P",
+          "gloss": "they shouted"
+        },
+        {
+          "w": "Σταύρωσον",
+          "morph": "V-AAM-2S",
+          "gloss": "Crucify"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "彼 拉 多 要 叫 眾 人 喜 悅 ， 就 釋 放 巴 拉 巴 給 他 們 ， 將 耶 穌 鞭 打 了 ， 交 給 人 釘 十 字 架 。",
+      "en": "Because he wanted to satisfy the crowd, Pilate released Barabbas for them. Then, after he had Jesus flogged, he handed him over to be crucified.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "Πειλᾶτος",
+          "morph": "N-NSM",
+          "gloss": "Pilate"
+        },
+        {
+          "w": "βουλόμενος",
+          "morph": "V-PNP-NSM",
+          "gloss": "desiring"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "to the"
+        },
+        {
+          "w": "ὄχλῳ",
+          "morph": "N-DSM",
+          "gloss": "crowd"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "that which [was]"
+        },
+        {
+          "w": "ἱκανὸν",
+          "morph": "A-ASN",
+          "gloss": "satisfactory"
+        },
+        {
+          "w": "ποιῆσαι",
+          "morph": "V-AAN",
+          "gloss": "to do"
+        },
+        {
+          "w": "ἀπέλυσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "released"
+        },
+        {
+          "w": "αὐτοῖς",
+          "morph": "P-DPM",
+          "gloss": "to them"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Βαραββᾶν",
+          "morph": "N-ASM",
+          "gloss": "Barabbas"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "παρέδωκεν",
+          "morph": "V-AAI-3S",
+          "gloss": "he delivered"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰησοῦν",
+          "morph": "N-ASM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "φραγελλώσας",
+          "morph": "V-AAP-NSM",
+          "gloss": "having flogged [him]"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "σταυρωθῇ",
+          "morph": "V-APS-3S",
+          "gloss": "He might be crucified"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "兵 丁 把 耶 穌 帶 進 衙 門 院 裡 ， 叫 齊 了 全 營 的 兵 . 。",
+      "en": "So the soldiers led him into the palace (that is, the governor’s residence) and called together the whole cohort.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Οἱ",
+          "morph": "T-NPM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "στρατιῶται",
+          "morph": "N-NPM",
+          "gloss": "the soldiers"
+        },
+        {
+          "w": "ἀπήγαγον",
+          "morph": "V-2AAI-3P",
+          "gloss": "led away"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "ἔσω",
+          "morph": "ADV",
+          "gloss": "into"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "αὐλῆς",
+          "morph": "N-GSF",
+          "gloss": "palace"
+        },
+        {
+          "w": "ὅ",
+          "morph": "R-NSN",
+          "gloss": "that"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "Πραιτώριον",
+          "morph": "N-NSN",
+          "gloss": "[the] Praetorium"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "συνκαλοῦσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "they call together"
+        },
+        {
+          "w": "ὅλην",
+          "morph": "A-ASF",
+          "gloss": "all"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "σπεῖραν",
+          "morph": "N-ASF",
+          "gloss": "cohort"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "他 們 給 他 穿 上 紫 袍 ， 又 用 荊 棘 編 作 冠 冕 給 他 戴 上 ，",
+      "en": "They put a purple cloak on him and after braiding a crown of thorns, they put it on him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἐνδιδύσκουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "they put on"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "πορφύραν",
+          "morph": "N-ASF",
+          "gloss": "purple"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "περιτιθέασιν",
+          "morph": "V-PAI-3P",
+          "gloss": "placed on"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "πλέξαντες",
+          "morph": "V-AAP-NPM",
+          "gloss": "having twisted together"
+        },
+        {
+          "w": "ἀκάνθινον",
+          "morph": "A-ASM",
+          "gloss": "of thorns"
+        },
+        {
+          "w": "στέφανον",
+          "morph": "N-ASM",
+          "gloss": "a crown"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "就 慶 賀 他 說 ： 恭 喜 ， 猶 太 人 的 王 阿 ！",
+      "en": "They began to salute him: “Hail, king of the Jews!”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἤρξαντο",
+          "morph": "V-ADI-3P",
+          "gloss": "they began"
+        },
+        {
+          "w": "ἀσπάζεσθαι",
+          "morph": "V-PNN",
+          "gloss": "to salute"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "Χαῖρε",
+          "morph": "V-PAM-2S",
+          "gloss": "Hail"
+        },
+        {
+          "w": "Βασιλεῦ",
+          "morph": "N-VSM",
+          "gloss": "King"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Ἰουδαίων",
+          "morph": "A-GPM",
+          "gloss": "Jews"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "又 拿 一 根 葦 子 打 他 的 頭 ， 吐 唾 沫 在 他 臉 上 ， 屈 膝 拜 他 。",
+      "en": "Again and again they struck him on the head with a staff and spit on him. Then they knelt down and paid homage to him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἔτυπτον",
+          "morph": "V-IAI-3P",
+          "gloss": "they kept striking"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "His"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "-"
+        },
+        {
+          "w": "κεφαλὴν",
+          "morph": "N-ASF",
+          "gloss": "head"
+        },
+        {
+          "w": "καλάμῳ",
+          "morph": "N-DSM",
+          "gloss": "with a reed"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐνέπτυον",
+          "morph": "V-IAI-3P",
+          "gloss": "spitting on"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τιθέντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "bending"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "γόνατα",
+          "morph": "N-APN",
+          "gloss": "knees"
+        },
+        {
+          "w": "προσεκύνουν",
+          "morph": "V-IAI-3P",
+          "gloss": "they were kneeling down"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to Him"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "戲 弄 完 了 ， 就 給 他 脫 了 紫 袍 ， 仍 穿 上 他 自 己 的 衣 服 ， 帶 他 出 去 ， 要 釘 十 字 架 。",
+      "en": "When they had finished mocking him, they stripped him of the purple cloak and put his own clothes back on him. Then they led him away to crucify him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ὅτε",
+          "morph": "ADV",
+          "gloss": "when"
+        },
+        {
+          "w": "ἐνέπαιξαν",
+          "morph": "V-AAI-3P",
+          "gloss": "they had mocked"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "ἐξέδυσαν",
+          "morph": "V-AAI-3P",
+          "gloss": "they took off"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "πορφύραν",
+          "morph": "N-ASF",
+          "gloss": "purple"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐνέδυσαν",
+          "morph": "V-AAI-3P",
+          "gloss": "put on"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἱμάτια",
+          "morph": "N-APN",
+          "gloss": "garments"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "His"
+        },
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἐξάγουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "they are leading out"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "σταυρώσωσιν",
+          "morph": "V-AAS-3P",
+          "gloss": "they might crucify"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "有 一 個 古 利 奈 人 西 門 ， 就 是 亞 力 山 大 和 魯 孚 的 父 親 ， 從 鄉 下 來 ， 經 過 那 地 方 ， 他 們 就 勉 強 他 同 去 ， 好 背 著 耶 穌 的 十 字 架 。",
+      "en": "The soldiers forced a passerby to carry his cross, Simon of Cyrene, who was coming in from the country (he was the father of Alexander and Rufus).",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἀγγαρεύουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "they compel"
+        },
+        {
+          "w": "παράγοντά",
+          "morph": "V-PAP-ASM",
+          "gloss": "passing by"
+        },
+        {
+          "w": "τινα",
+          "morph": "X-ASM",
+          "gloss": "one"
+        },
+        {
+          "w": "Σίμωνα",
+          "morph": "N-ASM",
+          "gloss": "Simon"
+        },
+        {
+          "w": "Κυρηναῖον",
+          "morph": "N-ASM",
+          "gloss": "of Cyrene"
+        },
+        {
+          "w": "ἐρχόμενον",
+          "morph": "V-PNP-ASM",
+          "gloss": "coming"
+        },
+        {
+          "w": "ἀπ’",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "ἀγροῦ",
+          "morph": "N-GSM",
+          "gloss": "the country"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "πατέρα",
+          "morph": "N-ASM",
+          "gloss": "father"
+        },
+        {
+          "w": "Ἀλεξάνδρου",
+          "morph": "N-GSM",
+          "gloss": "of Alexander"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Ῥούφου",
+          "morph": "N-GSM",
+          "gloss": "Rufus"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἄρῃ",
+          "morph": "V-AAS-3S",
+          "gloss": "he might carry"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "σταυρὸν",
+          "morph": "N-ASM",
+          "gloss": "cross"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "他 們 帶 耶 穌 到 了 各 各 他 地 方 （ 各 各 他 繙 出 來 就 是 髑 髏 地 ） ，",
+      "en": "They brought Jesus to a place called Golgotha (which is translated, “Place of the Skull”).",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "φέρουσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "they bring"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Γολγοθᾶν",
+          "morph": "N-ASF",
+          "gloss": "Golgotha"
+        },
+        {
+          "w": "τόπον",
+          "morph": "N-ASM",
+          "gloss": "a place"
+        },
+        {
+          "w": "ὅ",
+          "morph": "R-NSN",
+          "gloss": "which"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "μεθερμηνευόμενος",
+          "morph": "V-PPP-NSM",
+          "gloss": "translated"
+        },
+        {
+          "w": "Κρανίου",
+          "morph": "N-GSN",
+          "gloss": "of a Skull"
+        },
+        {
+          "w": "τόπος",
+          "morph": "N-NSM",
+          "gloss": "Place"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "拿 沒 藥 調 和 的 酒 給 耶 穌 ， 他 卻 不 受 。",
+      "en": "They offered him wine mixed with myrrh, but he did not take it.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἐδίδουν",
+          "morph": "V-IAI-3P",
+          "gloss": "they were offering"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "ἐσμυρνισμένον",
+          "morph": "V-RPP-ASM",
+          "gloss": "having been mixed with myrrh"
+        },
+        {
+          "w": "οἶνον",
+          "morph": "N-ASM",
+          "gloss": "wine"
+        },
+        {
+          "w": "ὃς",
+          "morph": "R-NSM",
+          "gloss": "He"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἔλαβεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "did take [it]"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "於 是 將 他 釘 在 十 字 架 上 ， 拈 鬮 分 他 的 衣 服 ， 看 是 誰 得 甚 麼 。",
+      "en": "Then they crucified him and divided his clothes, throwing dice for them, to decide what each would take.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "σταυροῦσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "having crucified"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "διαμερίζονται",
+          "morph": "V-PMI-3P",
+          "gloss": "they divided"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἱμάτια",
+          "morph": "N-APN",
+          "gloss": "garments"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "βάλλοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "casting"
+        },
+        {
+          "w": "κλῆρον",
+          "morph": "N-ASM",
+          "gloss": "lots"
+        },
+        {
+          "w": "ἐπ’",
+          "morph": "PREP",
+          "gloss": "for"
+        },
+        {
+          "w": "αὐτὰ",
+          "morph": "P-APN",
+          "gloss": "them"
+        },
+        {
+          "w": "τίς",
+          "morph": "I-NSM",
+          "gloss": "who"
+        },
+        {
+          "w": "τί",
+          "morph": "I-ASN",
+          "gloss": "what"
+        },
+        {
+          "w": "ἄρῃ",
+          "morph": "V-AAS-3S",
+          "gloss": "should take"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "釘 他 在 十 字 架 上 是 已 初 的 時 候 。",
+      "en": "It was nine o’clock in the morning when they crucified him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "It was"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ὥρα",
+          "morph": "N-NSF",
+          "gloss": "[the] hour"
+        },
+        {
+          "w": "τρίτη",
+          "morph": "A-NSF",
+          "gloss": "third"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐσταύρωσαν",
+          "morph": "V-AAI-3P",
+          "gloss": "they crucified"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "在 上 面 有 他 的 罪 狀 ， 寫 的 是 ： 猶 太 人 . 的 王 。",
+      "en": "The inscription of the charge against him read, “The king of the Jews.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "there was"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐπιγραφὴ",
+          "morph": "N-NSF",
+          "gloss": "inscription"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "αἰτίας",
+          "morph": "N-GSF",
+          "gloss": "accusation"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "against Him"
+        },
+        {
+          "w": "ἐπιγεγραμμένη",
+          "morph": "V-RPP-NSF",
+          "gloss": "having been written"
+        },
+        {
+          "w": "Ο",
+          "morph": "T-NSM",
+          "gloss": "The"
+        },
+        {
+          "w": "ΒΑΣΙΛΕΥΣ",
+          "morph": "N-NSM",
+          "gloss": "King"
+        },
+        {
+          "w": "ΤΩΝ",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "ΙΟΥΔΑΙΩΝ",
+          "morph": "A-GPM",
+          "gloss": "Jews"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "他 們 又 把 兩 個 強 盜 和 他 同 釘 十 字 架 ， 一 個 在 右 邊 ， 一 個 在 左 邊 。 （ 有 古 卷 在 此 有 ：",
+      "en": "And they crucified two outlaws with him, one on his right and one on his left.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "σὺν",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "σταυροῦσιν",
+          "morph": "V-PAI-3P",
+          "gloss": "they crucify"
+        },
+        {
+          "w": "δύο",
+          "morph": "A-NUI",
+          "gloss": "two"
+        },
+        {
+          "w": "λῃστάς",
+          "morph": "N-APM",
+          "gloss": "robbers"
+        },
+        {
+          "w": "ἕνα",
+          "morph": "A-ASM",
+          "gloss": "one"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "at"
+        },
+        {
+          "w": "δεξιῶν",
+          "morph": "A-GPN",
+          "gloss": "[the] right hand"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἕνα",
+          "morph": "A-ASM",
+          "gloss": "one"
+        },
+        {
+          "w": "ἐξ",
+          "morph": "PREP",
+          "gloss": "at [the]"
+        },
+        {
+          "w": "εὐωνύμων",
+          "morph": "A-GPN",
+          "gloss": "left"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "這 就 應 了 經 上 的 話 說 ： 他 被 列 在 罪 犯 之 中 。 ）",
+      "en": "",
+      "notes": [],
+      "gr": []
+    },
+    {
+      "v": 29,
+      "zh": "從 那 裡 經 過 的 人 辱 罵 他 ， 搖 著 頭 說 ： 咳 ！ 你 這 拆 毀 聖 殿 、 三 日 又 建 造 起 來 的 ，",
+      "en": "Those who passed by defamed him, shaking their heads and saying, “Aha! You who can destroy the temple and rebuild it in three days,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "those"
+        },
+        {
+          "w": "παραπορευόμενοι",
+          "morph": "V-PNP-NPM",
+          "gloss": "passing by"
+        },
+        {
+          "w": "ἐβλασφήμουν",
+          "morph": "V-IAI-3P",
+          "gloss": "were railing at"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "κινοῦντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "shaking"
+        },
+        {
+          "w": "τὰς",
+          "morph": "T-APF",
+          "gloss": "the"
+        },
+        {
+          "w": "κεφαλὰς",
+          "morph": "N-APF",
+          "gloss": "heads"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "λέγοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Οὐὰ",
+          "morph": "INJ",
+          "gloss": "Aha"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "The [One]"
+        },
+        {
+          "w": "καταλύων",
+          "morph": "V-PAP-NSM",
+          "gloss": "destroying"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "ναὸν",
+          "morph": "N-ASM",
+          "gloss": "temple"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οἰκοδομῶν",
+          "morph": "V-PAP-NSM",
+          "gloss": "building [it]"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τρισὶν",
+          "morph": "A-DPF",
+          "gloss": "three"
+        },
+        {
+          "w": "ἡμέραις",
+          "morph": "N-DPF",
+          "gloss": "days"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "可 以 救 自 己 ， 從 十 字 架 上 下 來 罷 ！",
+      "en": "save yourself and come down from the cross!”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "σῶσον",
+          "morph": "V-AAM-2S",
+          "gloss": "save"
+        },
+        {
+          "w": "σεαυτὸν",
+          "morph": "F-2ASM",
+          "gloss": "Yourself"
+        },
+        {
+          "w": "καταβὰς",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having descended"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "σταυροῦ",
+          "morph": "N-GSM",
+          "gloss": "cross"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "祭 司 長 和 文 士 也 是 這 樣 戲 弄 他 ， 彼 此 說 ： 他 救 了 別 人 ， 不 能 救 自 己 。",
+      "en": "In the same way even the chief priests—together with the experts in the law—were mocking him among themselves: “He saved others, but he cannot save himself!",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁμοίως",
+          "morph": "ADV",
+          "gloss": "Likewise"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀρχιερεῖς",
+          "morph": "N-NPM",
+          "gloss": "chief priests"
+        },
+        {
+          "w": "ἐμπαίζοντες",
+          "morph": "V-PAP-NPM",
+          "gloss": "mocking"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "among"
+        },
+        {
+          "w": "ἀλλήλους",
+          "morph": "C-APM",
+          "gloss": "one another"
+        },
+        {
+          "w": "μετὰ",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "the"
+        },
+        {
+          "w": "γραμματέων",
+          "morph": "N-GPM",
+          "gloss": "scribes"
+        },
+        {
+          "w": "ἔλεγον",
+          "morph": "V-IAI-3P",
+          "gloss": "were saying"
+        },
+        {
+          "w": "Ἄλλους",
+          "morph": "A-APM",
+          "gloss": "Others"
+        },
+        {
+          "w": "ἔσωσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "He saved"
+        },
+        {
+          "w": "ἑαυτὸν",
+          "morph": "F-3ASM",
+          "gloss": "Himself"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "δύναται",
+          "morph": "V-PNI-3S",
+          "gloss": "He is able"
+        },
+        {
+          "w": "σῶσαι",
+          "morph": "V-AAN",
+          "gloss": "to save"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "以 色 列 的 王 基 督 ， 現 在 可 以 從 十 字 架 上 下 來 ， 叫 我 們 看 見 ， 就 信 了 。 那 和 他 同 釘 的 人 也 是 譏 誚 他 。",
+      "en": "Let the Christ, the king of Israel, come down from the cross now, that we may see and believe!” Those who were crucified with him also spoke abusively to him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "The"
+        },
+        {
+          "w": "Χριστὸς",
+          "morph": "N-NSM",
+          "gloss": "Christ"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Βασιλεὺς",
+          "morph": "N-NSM",
+          "gloss": "King"
+        },
+        {
+          "w": "Ἰσραὴλ",
+          "morph": "N-PRI",
+          "gloss": "of Israel"
+        },
+        {
+          "w": "καταβάτω",
+          "morph": "V-2AAM-3S",
+          "gloss": "let Him descend"
+        },
+        {
+          "w": "νῦν",
+          "morph": "ADV",
+          "gloss": "now"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "σταυροῦ",
+          "morph": "N-GSM",
+          "gloss": "cross"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἴδωμεν",
+          "morph": "V-2AAS-1P",
+          "gloss": "we might see"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πιστεύσωμεν",
+          "morph": "V-AAS-1P",
+          "gloss": "believe"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "those"
+        },
+        {
+          "w": "συνεσταυρωμένοι",
+          "morph": "V-RPP-NPM",
+          "gloss": "being crucified"
+        },
+        {
+          "w": "σὺν",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "ὠνείδιζον",
+          "morph": "V-IAI-3P",
+          "gloss": "were upbraiding"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "從 午 正 到 申 初 ， 遍 地 都 黑 暗 了 。",
+      "en": "Now when it was noon, darkness came over the whole land until three in the afternoon.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "γενομένης",
+          "morph": "V-2ADP-GSF",
+          "gloss": "having arrived"
+        },
+        {
+          "w": "ὥρας",
+          "morph": "N-GSF",
+          "gloss": "[the] hour"
+        },
+        {
+          "w": "ἕκτης",
+          "morph": "A-GSF",
+          "gloss": "sixth"
+        },
+        {
+          "w": "σκότος",
+          "morph": "N-NSN",
+          "gloss": "darkness"
+        },
+        {
+          "w": "ἐγένετο",
+          "morph": "V-2ADI-3S",
+          "gloss": "came"
+        },
+        {
+          "w": "ἐφ’",
+          "morph": "PREP",
+          "gloss": "over"
+        },
+        {
+          "w": "ὅλην",
+          "morph": "A-ASF",
+          "gloss": "all"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "γῆν",
+          "morph": "N-ASF",
+          "gloss": "land"
+        },
+        {
+          "w": "ἕως",
+          "morph": "ADV",
+          "gloss": "until"
+        },
+        {
+          "w": "ὥρας",
+          "morph": "N-GSF",
+          "gloss": "[the] hour"
+        },
+        {
+          "w": "ἐνάτης",
+          "morph": "A-GSF",
+          "gloss": "ninth"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "申 初 的 時 候 ， 耶 穌 大 聲 喊 著 說 ： 以 羅 伊 ！ 以 羅 伊 ！ 拉 馬 撒 巴 各 大 尼 ？ 繙 出 來 就 是 ： 我 的 神 ！ 我 的 神 ！ 為 甚 麼 離 棄 我 ？",
+      "en": "Around three o’clock Jesus cried out with a loud voice, “Eloi, Eloi, lema sabachthani?” which means, “My God, my God, why have you forsaken me?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "at the"
+        },
+        {
+          "w": "ἐνάτῃ",
+          "morph": "A-DSF",
+          "gloss": "ninth"
+        },
+        {
+          "w": "ὥρᾳ",
+          "morph": "N-DSF",
+          "gloss": "hour"
+        },
+        {
+          "w": "ἐβόησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "cried out"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "φωνῇ",
+          "morph": "N-DSF",
+          "gloss": "in a voice"
+        },
+        {
+          "w": "μεγάλῃ",
+          "morph": "A-DSF",
+          "gloss": "loud"
+        },
+        {
+          "w": "Ἐλωῒ",
+          "morph": "ARAM",
+          "gloss": "Eloi"
+        },
+        {
+          "w": "Ἐλωῒ",
+          "morph": "ARAM",
+          "gloss": "Eloi"
+        },
+        {
+          "w": "λαμὰ",
+          "morph": "ARAM",
+          "gloss": "lema"
+        },
+        {
+          "w": "σαβαχθανεί",
+          "morph": "ARAM",
+          "gloss": "sabachthani"
+        },
+        {
+          "w": "ὅ",
+          "morph": "R-NSN",
+          "gloss": "Which"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "μεθερμηνευόμενον",
+          "morph": "V-PPP-NSN",
+          "gloss": "translated"
+        },
+        {
+          "w": "Ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεός",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of Me"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεός",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "μου",
+          "morph": "P-1GS",
+          "gloss": "of Me"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τί",
+          "morph": "I-ASN",
+          "gloss": "why"
+        },
+        {
+          "w": "ἐγκατέλιπές",
+          "morph": "V-2AAI-2S",
+          "gloss": "have You forsaken"
+        },
+        {
+          "w": "με",
+          "morph": "P-1AS",
+          "gloss": "Me"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "旁 邊 站 著 的 人 ， 有 的 聽 見 就 說 ： 看 哪 ， 他 叫 以 利 亞 呢 ！",
+      "en": "When some of the bystanders heard it they said, “Listen, he is calling for Elijah!”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καί",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "τινες",
+          "morph": "X-NPM",
+          "gloss": "some"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of those"
+        },
+        {
+          "w": "παρεστηκότων",
+          "morph": "V-RAP-GPM",
+          "gloss": "standing by"
+        },
+        {
+          "w": "ἀκούσαντες",
+          "morph": "V-AAP-NPM",
+          "gloss": "having heard"
+        },
+        {
+          "w": "ἔλεγον",
+          "morph": "V-IAI-3P",
+          "gloss": "were saying"
+        },
+        {
+          "w": "Ἴδε",
+          "morph": "V-2AAM-2S",
+          "gloss": "Behold"
+        },
+        {
+          "w": "Ἠλείαν",
+          "morph": "N-ASM",
+          "gloss": "Elijah"
+        },
+        {
+          "w": "φωνεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "He calls"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "有 一 個 人 跑 去 ， 把 海 絨 蘸 滿 了 醋 ， 綁 在 葦 子 上 ， 送 給 他 喝 ， 說 ： 且 等 著 ， 看 以 利 亞 來 不 來 把 他 取 下 。",
+      "en": "Then someone ran, filled a sponge with sour wine, put it on a stick, and gave it to him to drink, saying, “Leave him alone! Let’s see if Elijah will come to take him down!”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "δραμὼν",
+          "morph": "V-2AAP-NSM",
+          "gloss": "Having run"
+        },
+        {
+          "w": "δέ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "τις",
+          "morph": "X-NSM",
+          "gloss": "one"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "γεμίσας",
+          "morph": "V-AAP-NSM",
+          "gloss": "having filled"
+        },
+        {
+          "w": "σπόγγον",
+          "morph": "N-ASM",
+          "gloss": "a sponge"
+        },
+        {
+          "w": "ὄξους",
+          "morph": "N-GSN",
+          "gloss": "with vinegar"
+        },
+        {
+          "w": "περιθεὶς",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having put [it] on"
+        },
+        {
+          "w": "καλάμῳ",
+          "morph": "N-DSM",
+          "gloss": "a reed"
+        },
+        {
+          "w": "ἐπότιζεν",
+          "morph": "V-IAI-3S",
+          "gloss": "gave to drink"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "λέγων",
+          "morph": "V-PAP-NSM",
+          "gloss": "saying"
+        },
+        {
+          "w": "Ἄφετε",
+          "morph": "V-2AAM-2P",
+          "gloss": "Let be"
+        },
+        {
+          "w": "ἴδωμεν",
+          "morph": "V-2AAS-1P",
+          "gloss": "let us see"
+        },
+        {
+          "w": "εἰ",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "ἔρχεται",
+          "morph": "V-PNI-3S",
+          "gloss": "comes"
+        },
+        {
+          "w": "Ἠλείας",
+          "morph": "N-NSM",
+          "gloss": "Elijah"
+        },
+        {
+          "w": "καθελεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to take down"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "zh": "耶 穌 大 聲 喊 叫 ， 氣 就 斷 了 。",
+      "en": "But Jesus cried out with a loud voice and breathed his last.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "But"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "ἀφεὶς",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having uttered"
+        },
+        {
+          "w": "φωνὴν",
+          "morph": "N-ASF",
+          "gloss": "a cry"
+        },
+        {
+          "w": "μεγάλην",
+          "morph": "A-ASF",
+          "gloss": "loud"
+        },
+        {
+          "w": "ἐξέπνευσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "breathed His last"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "zh": "殿 裡 的 幔 子 從 上 到 下 裂 為 兩 半 。",
+      "en": "And the temple curtain was torn in two, from top to bottom.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "καταπέτασμα",
+          "morph": "N-NSN",
+          "gloss": "veil"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "ναοῦ",
+          "morph": "N-GSM",
+          "gloss": "temple"
+        },
+        {
+          "w": "ἐσχίσθη",
+          "morph": "V-API-3S",
+          "gloss": "was torn"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "δύο",
+          "morph": "A-NUI",
+          "gloss": "two"
+        },
+        {
+          "w": "ἀπ’",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "ἄνωθεν",
+          "morph": "ADV",
+          "gloss": "top"
+        },
+        {
+          "w": "ἕως",
+          "morph": "ADV",
+          "gloss": "to"
+        },
+        {
+          "w": "κάτω",
+          "morph": "ADV",
+          "gloss": "bottom"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "zh": "對 面 站 著 的 百 夫 長 看 見 耶 穌 這 樣 喊 叫 （ 有 古 卷 沒 有 喊 叫 二 字 ） 斷 氣 ， 就 說 ： 這 人 真 是 神 的 兒 子 ！",
+      "en": "Now when the centurion, who stood in front of him, saw how he died, he said, “Truly this man was God’s Son!”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἰδὼν",
+          "morph": "V-2AAP-NSM",
+          "gloss": "Having seen"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "κεντυρίων",
+          "morph": "N-NSM",
+          "gloss": "centurion"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "παρεστηκὼς",
+          "morph": "V-RAP-NSM",
+          "gloss": "standing"
+        },
+        {
+          "w": "ἐξ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "ἐναντίας",
+          "morph": "A-GSF",
+          "gloss": "opposite of"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "οὕτως",
+          "morph": "ADV",
+          "gloss": "thus"
+        },
+        {
+          "w": "ἐξέπνευσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "He breathed His last"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "he said"
+        },
+        {
+          "w": "Ἀληθῶς",
+          "morph": "ADV",
+          "gloss": "Truly"
+        },
+        {
+          "w": "οὗτος",
+          "morph": "D-NSM",
+          "gloss": "this"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἄνθρωπος",
+          "morph": "N-NSM",
+          "gloss": "man"
+        },
+        {
+          "w": "Υἱὸς",
+          "morph": "N-NSM",
+          "gloss": "[the] Son"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "was"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "zh": "還 有 些 婦 女 遠 遠 的 觀 看 ； 內 中 有 抹 大 拉 的 馬 利 亞 ， 又 有 小 雅 各 和 約 西 的 母 親 馬 利 亞 ， 並 有 撒 羅 米 ，",
+      "en": "There were also women, watching from a distance. Among them were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἦσαν",
+          "morph": "V-IAI-3P",
+          "gloss": "There were"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "γυναῖκες",
+          "morph": "N-NPF",
+          "gloss": "women"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "μακρόθεν",
+          "morph": "ADV",
+          "gloss": "afar off"
+        },
+        {
+          "w": "θεωροῦσαι",
+          "morph": "V-PAP-NPF",
+          "gloss": "looking on"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "among"
+        },
+        {
+          "w": "αἷς",
+          "morph": "R-DPF",
+          "gloss": "whom"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "Μαρία",
+          "morph": "N-NSF",
+          "gloss": "Mary"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Μαγδαληνὴ",
+          "morph": "N-NSF",
+          "gloss": "Magdalene"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Μαρία",
+          "morph": "N-NSF",
+          "gloss": "Mary"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "Ἰακώβου",
+          "morph": "N-GSM",
+          "gloss": "of James"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "μικροῦ",
+          "morph": "A-GSM",
+          "gloss": "least"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Ἰωσῆτος",
+          "morph": "N-GSM",
+          "gloss": "of Joseph"
+        },
+        {
+          "w": "μήτηρ",
+          "morph": "N-NSF",
+          "gloss": "mother"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Σαλώμη",
+          "morph": "N-NSF",
+          "gloss": "Salome"
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "zh": "就 是 耶 穌 在 加 利 利 的 時 候 ， 跟 隨 他 、 服 事 他 的 那 些 人 ， 還 有 同 耶 穌 上 耶 路 撒 冷 的 好 些 婦 女 在 那 裡 觀 看 。",
+      "en": "When he was in Galilee, they had followed him and given him support. Many other women who had come up with him to Jerusalem were there too.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "αἳ",
+          "morph": "R-NPF",
+          "gloss": "who"
+        },
+        {
+          "w": "ὅτε",
+          "morph": "ADV",
+          "gloss": "when"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "He was"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Γαλιλαίᾳ",
+          "morph": "N-DSF",
+          "gloss": "Galilee"
+        },
+        {
+          "w": "ἠκολούθουν",
+          "morph": "V-IAI-3P",
+          "gloss": "had been following"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "διηκόνουν",
+          "morph": "V-IAI-3P",
+          "gloss": "had been ministering"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to Him"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἄλλαι",
+          "morph": "A-NPF",
+          "gloss": "other"
+        },
+        {
+          "w": "πολλαὶ",
+          "morph": "A-NPF",
+          "gloss": "many"
+        },
+        {
+          "w": "αἱ",
+          "morph": "T-NPF",
+          "gloss": "those"
+        },
+        {
+          "w": "συναναβᾶσαι",
+          "morph": "V-2AAP-NPF",
+          "gloss": "having come up with"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "Ἱεροσόλυμα",
+          "morph": "N-APN",
+          "gloss": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "zh": "到 了 晚 上 ， 因 為 這 是 預 備 日 ， 就 是 安 息 日 的 前 一 日 ，",
+      "en": "Now when evening had already come, since it was the day of preparation (that is, the day before the Sabbath),",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἤδη",
+          "morph": "ADV",
+          "gloss": "already"
+        },
+        {
+          "w": "ὀψίας",
+          "morph": "A-GSF",
+          "gloss": "evening"
+        },
+        {
+          "w": "γενομένης",
+          "morph": "V-2ADP-GSF",
+          "gloss": "having arrived"
+        },
+        {
+          "w": "ἐπεὶ",
+          "morph": "CONJ",
+          "gloss": "since"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "it was [the]"
+        },
+        {
+          "w": "Παρασκευή",
+          "morph": "N-NSF",
+          "gloss": "Preparation"
+        },
+        {
+          "w": "ὅ",
+          "morph": "R-NSN",
+          "gloss": "that"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "προσάββατον",
+          "morph": "N-NSN",
+          "gloss": "the day before Sabbath"
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "zh": "有 亞 利 馬 太 的 約 瑟 前 來 ， 他 是 尊 貴 的 議 士 ， 也 是 等 候 神 國 的 。 他 放 膽 進 去 見 彼 拉 多 ， 求 耶 穌 的 身 體 ；",
+      "en": "Joseph of Arimathea, a highly regarded member of the council, who was himself looking forward to the kingdom of God, went boldly to Pilate and asked for the body of Jesus.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐλθὼν",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having come"
+        },
+        {
+          "w": "Ἰωσὴφ",
+          "morph": "N-PRI",
+          "gloss": "Joseph"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "Ἀριμαθαίας",
+          "morph": "N-GSF",
+          "gloss": "Arimathea"
+        },
+        {
+          "w": "εὐσχήμων",
+          "morph": "A-NSM",
+          "gloss": "a prominent"
+        },
+        {
+          "w": "βουλευτής",
+          "morph": "N-NSM",
+          "gloss": "Council member"
+        },
+        {
+          "w": "ὃς",
+          "morph": "R-NSM",
+          "gloss": "who"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "αὐτὸς",
+          "morph": "P-NSM",
+          "gloss": "himself"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "was"
+        },
+        {
+          "w": "προσδεχόμενος",
+          "morph": "V-PNP-NSM",
+          "gloss": "waiting for"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "βασιλείαν",
+          "morph": "N-ASF",
+          "gloss": "kingdom"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "τολμήσας",
+          "morph": "V-AAP-NSM",
+          "gloss": "having boldness"
+        },
+        {
+          "w": "εἰσῆλθεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "went in"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Πειλᾶτον",
+          "morph": "N-ASM",
+          "gloss": "Pilate"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ᾐτήσατο",
+          "morph": "V-AMI-3S",
+          "gloss": "asked for"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "σῶμα",
+          "morph": "N-ASN",
+          "gloss": "body"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰησοῦ",
+          "morph": "N-GSM",
+          "gloss": "of Jesus"
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "zh": "彼 拉 多 詫 異 耶 穌 已 經 死 了 ， 便 叫 百 夫 長 來 ， 問 他 耶 穌 死 了 久 不 久 。",
+      "en": "Pilate was surprised that he was already dead. He called the centurion and asked him if he had been dead for some time.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "Πειλᾶτος",
+          "morph": "N-NSM",
+          "gloss": "Pilate"
+        },
+        {
+          "w": "ἐθαύμασεν",
+          "morph": "V-AAI-3S",
+          "gloss": "wondered"
+        },
+        {
+          "w": "εἰ",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "ἤδη",
+          "morph": "ADV",
+          "gloss": "already"
+        },
+        {
+          "w": "τέθνηκεν",
+          "morph": "V-RAI-3S",
+          "gloss": "He were dead"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "προσκαλεσάμενος",
+          "morph": "V-ADP-NSM",
+          "gloss": "having called to [him]"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "κεντυρίωνα",
+          "morph": "N-ASM",
+          "gloss": "centurion"
+        },
+        {
+          "w": "ἐπηρώτησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "he questioned"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "εἰ",
+          "morph": "COND",
+          "gloss": "whether"
+        },
+        {
+          "w": "πάλαι",
+          "morph": "ADV",
+          "gloss": "already"
+        },
+        {
+          "w": "ἀπέθανεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "He had died"
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "zh": "既 從 百 夫 長 得 知 實 情 ， 就 把 耶 穌 的 屍 首 賜 給 約 瑟 。",
+      "en": "When Pilate was informed by the centurion, he gave the body to Joseph.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "γνοὺς",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having known [it]"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "κεντυρίωνος",
+          "morph": "N-GSM",
+          "gloss": "centurion"
+        },
+        {
+          "w": "ἐδωρήσατο",
+          "morph": "V-ADI-3S",
+          "gloss": "He granted"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "πτῶμα",
+          "morph": "N-ASN",
+          "gloss": "body"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωσήφ",
+          "morph": "N-PRI",
+          "gloss": "to Joseph"
+        }
+      ]
+    },
+    {
+      "v": 46,
+      "zh": "約 瑟 買 了 細 麻 布 ， 把 耶 穌 取 下 來 ， 用 細 麻 布 裹 好 ， 安 放 在 磐 石 中 鑿 出 來 的 墳 墓 裡 ， 又 輥 過 一 塊 石 頭 來 擋 住 墓 門 。",
+      "en": "After Joseph bought a linen cloth and took down the body, he wrapped it in the linen and placed it in a tomb cut out of the rock. Then he rolled a stone across the entrance of the tomb.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἀγοράσας",
+          "morph": "V-AAP-NSM",
+          "gloss": "having bought"
+        },
+        {
+          "w": "σινδόνα",
+          "morph": "N-ASF",
+          "gloss": "a linen cloth"
+        },
+        {
+          "w": "καθελὼν",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having taken down"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        },
+        {
+          "w": "ἐνείλησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "he wrapped [Him] in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "σινδόνι",
+          "morph": "N-DSF",
+          "gloss": "linen cloth"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "κατέθηκεν",
+          "morph": "V-AAI-3S",
+          "gloss": "laid"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "μνήματι",
+          "morph": "N-DSN",
+          "gloss": "a tomb"
+        },
+        {
+          "w": "ὃ",
+          "morph": "R-NSN",
+          "gloss": "which"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "was"
+        },
+        {
+          "w": "λελατομημένον",
+          "morph": "V-RPP-NSN",
+          "gloss": "cut"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "out of"
+        },
+        {
+          "w": "πέτρας",
+          "morph": "N-GSF",
+          "gloss": "a rock"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "προσεκύλισεν",
+          "morph": "V-AAI-3S",
+          "gloss": "he rolled"
+        },
+        {
+          "w": "λίθον",
+          "morph": "N-ASM",
+          "gloss": "a stone"
+        },
+        {
+          "w": "ἐπὶ",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "θύραν",
+          "morph": "N-ASF",
+          "gloss": "door"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "of the"
+        },
+        {
+          "w": "μνημείου",
+          "morph": "N-GSN",
+          "gloss": "tomb"
+        }
+      ]
+    },
+    {
+      "v": 47,
+      "zh": "抹 大 拉 的 馬 利 亞 和 約 西 的 母 親 馬 利 亞 都 看 見 安 放 他 的 地 方 。",
+      "en": "Mary Magdalene and Mary the mother of Joses saw where the body was placed.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "Μαρία",
+          "morph": "N-NSF",
+          "gloss": "Mary"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "Μαγδαληνὴ",
+          "morph": "N-NSF",
+          "gloss": "Magdalene"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Μαρία",
+          "morph": "N-NSF",
+          "gloss": "Mary"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the [mother]"
+        },
+        {
+          "w": "Ἰωσῆτος",
+          "morph": "N-GSM",
+          "gloss": "of Joseph"
+        },
+        {
+          "w": "ἐθεώρουν",
+          "morph": "V-IAI-3P",
+          "gloss": "were watching"
+        },
+        {
+          "w": "ποῦ",
+          "morph": "ADV",
+          "gloss": "where"
+        },
+        {
+          "w": "τέθειται",
+          "morph": "V-RPI-3S",
+          "gloss": "He was laid"
+        }
+      ]
+    }
+  ]
+}

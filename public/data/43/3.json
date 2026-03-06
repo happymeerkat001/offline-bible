@@ -1,0 +1,3559 @@
+{
+  "book": 43,
+  "chapter": 3,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "有 一 個 法 利 賽 人 ， 名 叫 尼 哥 底 母 ， 是 猶 太 人 的 官 。",
+      "en": "Now a certain man, a Pharisee named Nicodemus, who was a member of the Jewish ruling council,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "There was"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ἄνθρωπος",
+          "morph": "N-NSM",
+          "gloss": "a man"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "the"
+        },
+        {
+          "w": "Φαρισαίων",
+          "morph": "N-GPM",
+          "gloss": "Pharisees"
+        },
+        {
+          "w": "Νικόδημος",
+          "morph": "N-NSM",
+          "gloss": "Nicodemus"
+        },
+        {
+          "w": "ὄνομα",
+          "morph": "N-NSN",
+          "gloss": "name"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "ἄρχων",
+          "morph": "N-NSM",
+          "gloss": "a ruler"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "of the"
+        },
+        {
+          "w": "Ἰουδαίων",
+          "morph": "A-GPM",
+          "gloss": "Jews"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "這 人 夜 裡 來 見 耶 穌 ， 說 「 拉 比 ， 我 們 知 道 你 是 由 神 那 來 作 師 傅 的 ； 因 為 你 所 行 的 神 蹟 ， 若 沒 有 神 同 在 ， 無 人 能 行 。 」",
+      "en": "came to Jesus at night and said to him, “Rabbi, we know that you are a teacher who has come from God. For no one could perform the miraculous signs that you do unless God is with him.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὗτος",
+          "morph": "D-NSM",
+          "gloss": "He"
+        },
+        {
+          "w": "ἦλθεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "came"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "νυκτὸς",
+          "morph": "N-GSF",
+          "gloss": "by night"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to Him"
+        },
+        {
+          "w": "Ῥαββεί",
+          "morph": "HEB",
+          "gloss": "Rabbi"
+        },
+        {
+          "w": "οἴδαμεν",
+          "morph": "V-RAI-1P",
+          "gloss": "we know"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἀπὸ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "God"
+        },
+        {
+          "w": "ἐλήλυθας",
+          "morph": "V-2RAI-2S",
+          "gloss": "You have come"
+        },
+        {
+          "w": "διδάσκαλος",
+          "morph": "N-NSM",
+          "gloss": "a teacher"
+        },
+        {
+          "w": "οὐδεὶς",
+          "morph": "A-NSM-N",
+          "gloss": "no one"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "δύναται",
+          "morph": "V-PNI-3S",
+          "gloss": "is able"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-APN",
+          "gloss": "these"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "-"
+        },
+        {
+          "w": "σημεῖα",
+          "morph": "N-APN",
+          "gloss": "signs"
+        },
+        {
+          "w": "ποιεῖν",
+          "morph": "V-PAN",
+          "gloss": "to do"
+        },
+        {
+          "w": "ἃ",
+          "morph": "R-APN",
+          "gloss": "that"
+        },
+        {
+          "w": "σὺ",
+          "morph": "P-2NS",
+          "gloss": "You"
+        },
+        {
+          "w": "ποιεῖς",
+          "morph": "V-PAI-2S",
+          "gloss": "do"
+        },
+        {
+          "w": "ἐὰν",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ᾖ",
+          "morph": "V-PAS-3S",
+          "gloss": "should be"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "μετ’",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "him"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "耶 穌 回 答 說 ： 「 我 實 實 在 在 地 告 訴 你 ， 人 若 不 重 生 ， 就 不 能 見 神 的 國 。 」",
+      "en": "Jesus replied, “I tell you the solemn truth, unless a person is born from above, he cannot see the kingdom of God.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπεκρίθη",
+          "morph": "V-ADI-3S",
+          "gloss": "Answered"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "Ἀμὴν",
+          "morph": "HEB",
+          "gloss": "Truly"
+        },
+        {
+          "w": "ἀμὴν",
+          "morph": "HEB",
+          "gloss": "truly"
+        },
+        {
+          "w": "λέγω",
+          "morph": "V-PAI-1S",
+          "gloss": "I say"
+        },
+        {
+          "w": "σοι",
+          "morph": "P-2DS",
+          "gloss": "to you"
+        },
+        {
+          "w": "ἐὰν",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "μή",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "τις",
+          "morph": "X-NSM",
+          "gloss": "anyone"
+        },
+        {
+          "w": "γεννηθῇ",
+          "morph": "V-APS-3S",
+          "gloss": "be born"
+        },
+        {
+          "w": "ἄνωθεν",
+          "morph": "ADV",
+          "gloss": "from above"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "δύναται",
+          "morph": "V-PNI-3S",
+          "gloss": "he is able"
+        },
+        {
+          "w": "ἰδεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to see"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "βασιλείαν",
+          "morph": "N-ASF",
+          "gloss": "kingdom"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "尼 哥 底 母 說 ： 「 人 已 經 老 了 ， 如 何 能 重 生 呢 ？ 豈 能 再 進 母 腹 生 出 來 嗎 ？ 」",
+      "en": "Nicodemus said to him, “How can a man be born when he is old? He cannot enter his mother’s womb and be born a second time, can he?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "λέγει",
+          "morph": "V-PAI-3S",
+          "gloss": "Says"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Νικόδημος",
+          "morph": "N-NSM",
+          "gloss": "Nicodemus"
+        },
+        {
+          "w": "Πῶς",
+          "morph": "ADV-I",
+          "gloss": "How"
+        },
+        {
+          "w": "δύναται",
+          "morph": "V-PNI-3S",
+          "gloss": "is able"
+        },
+        {
+          "w": "ἄνθρωπος",
+          "morph": "N-NSM",
+          "gloss": "a man"
+        },
+        {
+          "w": "γεννηθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be born"
+        },
+        {
+          "w": "γέρων",
+          "morph": "N-NSM",
+          "gloss": "old"
+        },
+        {
+          "w": "ὤν",
+          "morph": "V-PAP-NSM",
+          "gloss": "being"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "δύναται",
+          "morph": "V-PNI-3S",
+          "gloss": "is he able"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "κοιλίαν",
+          "morph": "N-ASF",
+          "gloss": "womb"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "of the"
+        },
+        {
+          "w": "μητρὸς",
+          "morph": "N-GSF",
+          "gloss": "mother"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        },
+        {
+          "w": "δεύτερον",
+          "morph": "ADV",
+          "gloss": "a second time"
+        },
+        {
+          "w": "εἰσελθεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to enter"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "γεννηθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be born"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "耶 穌 說 ： 「 我 實 實 在 在 的 告 訴 你 ， 人 若 不 是 從 水 和 聖 靈 生 的 ， 就 不 能 進 神 的 國 。",
+      "en": "Jesus answered, “I tell you the solemn truth, unless a person is born of water and spirit, he cannot enter the kingdom of God.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπεκρίθη",
+          "morph": "V-ADI-3S",
+          "gloss": "Answered"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "Ἀμὴν",
+          "morph": "HEB",
+          "gloss": "Truly"
+        },
+        {
+          "w": "ἀμὴν",
+          "morph": "HEB",
+          "gloss": "truly"
+        },
+        {
+          "w": "λέγω",
+          "morph": "V-PAI-1S",
+          "gloss": "I say"
+        },
+        {
+          "w": "σοι",
+          "morph": "P-2DS",
+          "gloss": "to you"
+        },
+        {
+          "w": "ἐὰν",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "μή",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "τις",
+          "morph": "X-NSM",
+          "gloss": "anyone"
+        },
+        {
+          "w": "γεννηθῇ",
+          "morph": "V-APS-3S",
+          "gloss": "be born"
+        },
+        {
+          "w": "ἐξ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "ὕδατος",
+          "morph": "N-GSN",
+          "gloss": "water"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "Πνεύματος",
+          "morph": "N-GSN",
+          "gloss": "of [the] Spirit"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "δύναται",
+          "morph": "V-PNI-3S",
+          "gloss": "he is able"
+        },
+        {
+          "w": "εἰσελθεῖν",
+          "morph": "V-2AAN",
+          "gloss": "to enter"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "βασιλείαν",
+          "morph": "N-ASF",
+          "gloss": "kingdom"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "從 肉 身 生 的 就 是 肉 身 ； 從 靈 生 的 就 是 靈 。",
+      "en": "What is born of the flesh is flesh, and what is born of the Spirit is spirit.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "That"
+        },
+        {
+          "w": "γεγεννημένον",
+          "morph": "V-RPP-NSN",
+          "gloss": "having been born"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "σαρκὸς",
+          "morph": "N-GSF",
+          "gloss": "flesh"
+        },
+        {
+          "w": "σάρξ",
+          "morph": "N-NSF",
+          "gloss": "flesh"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "that"
+        },
+        {
+          "w": "γεγεννημένον",
+          "morph": "V-RPP-NSN",
+          "gloss": "having been born"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "the"
+        },
+        {
+          "w": "Πνεύματος",
+          "morph": "N-GSN",
+          "gloss": "Spirit"
+        },
+        {
+          "w": "πνεῦμά",
+          "morph": "N-NSN",
+          "gloss": "spirit"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "我 說 ： 『 你 們 必 須 重 生 』 ， 你 不 要 以 為 希 奇 。",
+      "en": "Do not be amazed that I said to you, ‘You must all be born from above.’",
+      "notes": [],
+      "gr": [
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "θαυμάσῃς",
+          "morph": "V-AAS-2S",
+          "gloss": "do wonder"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "εἶπόν",
+          "morph": "V-2AAI-1S",
+          "gloss": "I said"
+        },
+        {
+          "w": "σοι",
+          "morph": "P-2DS",
+          "gloss": "to you"
+        },
+        {
+          "w": "Δεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "It is necessary for"
+        },
+        {
+          "w": "ὑμᾶς",
+          "morph": "P-2AP",
+          "gloss": "you [all]"
+        },
+        {
+          "w": "γεννηθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be born"
+        },
+        {
+          "w": "ἄνωθεν",
+          "morph": "ADV",
+          "gloss": "from above"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "風 隨 著 意 思 吹 ， 你 聽 見 風 的 響 聲 ， 卻 不 曉 得 從 那 裡 來 ， 往 那 裡 去 ； 凡 從 聖 靈 生 的 ， 也 是 如 此 。 」",
+      "en": "The wind blows wherever it will, and you hear the sound it makes, but do not know where it comes from and where it is going. So it is with everyone who is born of the Spirit.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "The"
+        },
+        {
+          "w": "πνεῦμα",
+          "morph": "N-NSN",
+          "gloss": "wind"
+        },
+        {
+          "w": "ὅπου",
+          "morph": "ADV",
+          "gloss": "where"
+        },
+        {
+          "w": "θέλει",
+          "morph": "V-PAI-3S",
+          "gloss": "it wishes"
+        },
+        {
+          "w": "πνεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "blows"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "φωνὴν",
+          "morph": "N-ASF",
+          "gloss": "sound"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSN",
+          "gloss": "of it"
+        },
+        {
+          "w": "ἀκούεις",
+          "morph": "V-PAI-2S",
+          "gloss": "You hear"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "οἶδας",
+          "morph": "V-RAI-2S",
+          "gloss": "you know"
+        },
+        {
+          "w": "πόθεν",
+          "morph": "ADV-I",
+          "gloss": "from where"
+        },
+        {
+          "w": "ἔρχεται",
+          "morph": "V-PNI-3S",
+          "gloss": "it comes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ποῦ",
+          "morph": "ADV-I",
+          "gloss": "where"
+        },
+        {
+          "w": "ὑπάγει",
+          "morph": "V-PAI-3S",
+          "gloss": "it goes"
+        },
+        {
+          "w": "οὕτως",
+          "morph": "ADV",
+          "gloss": "thus"
+        },
+        {
+          "w": "ἐστὶν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "πᾶς",
+          "morph": "A-NSM",
+          "gloss": "everyone"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "γεγεννημένος",
+          "morph": "V-RPP-NSM",
+          "gloss": "having been born"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "of"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "the"
+        },
+        {
+          "w": "Πνεύματος",
+          "morph": "N-GSN",
+          "gloss": "Spirit"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "尼 哥 底 母 問 他 說 ： 「 怎 能 有 這 事 呢 ？ 」",
+      "en": "Nicodemus replied, “How can these things be?”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπεκρίθη",
+          "morph": "V-ADI-3S",
+          "gloss": "Answered"
+        },
+        {
+          "w": "Νικόδημος",
+          "morph": "N-NSM",
+          "gloss": "Nicodemus"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to Him"
+        },
+        {
+          "w": "Πῶς",
+          "morph": "ADV-I",
+          "gloss": "How"
+        },
+        {
+          "w": "δύναται",
+          "morph": "V-PNI-3S",
+          "gloss": "are able"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-NPN",
+          "gloss": "these things"
+        },
+        {
+          "w": "γενέσθαι",
+          "morph": "V-2ADN",
+          "gloss": "to be"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "耶 穌 回 答 說 ： 「 你 是 以 色 列 人 的 先 生 ， 還 不 明 白 這 事 嗎 ？",
+      "en": "Jesus answered, “Are you the teacher of Israel and yet you don’t understand these things?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπεκρίθη",
+          "morph": "V-ADI-3S",
+          "gloss": "Answered"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "Σὺ",
+          "morph": "P-2NS",
+          "gloss": "You"
+        },
+        {
+          "w": "εἶ",
+          "morph": "V-PAI-2S",
+          "gloss": "are"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "διδάσκαλος",
+          "morph": "N-NSM",
+          "gloss": "teacher"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰσραὴλ",
+          "morph": "N-PRI",
+          "gloss": "of Israel"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-APN",
+          "gloss": "these things"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "γινώσκεις",
+          "morph": "V-PAI-2S",
+          "gloss": "know"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "我 實 實 在 在 的 告 訴 你 ， 我 們 所 說 的 是 我 們 知 道 的 ； 我 們 所 見 證 的 是 我 們 見 過 的 ； 你 們 卻 不 領 受 我 們 的 見 證 。",
+      "en": "I tell you the solemn truth, we speak about what we know and testify about what we have seen, but you people do not accept our testimony.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀμὴν",
+          "morph": "HEB",
+          "gloss": "Truly"
+        },
+        {
+          "w": "ἀμὴν",
+          "morph": "HEB",
+          "gloss": "truly"
+        },
+        {
+          "w": "λέγω",
+          "morph": "V-PAI-1S",
+          "gloss": "I say"
+        },
+        {
+          "w": "σοι",
+          "morph": "P-2DS",
+          "gloss": "to you"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ὃ",
+          "morph": "R-ASN",
+          "gloss": "what"
+        },
+        {
+          "w": "οἴδαμεν",
+          "morph": "V-RAI-1P",
+          "gloss": "we know"
+        },
+        {
+          "w": "λαλοῦμεν",
+          "morph": "V-PAI-1P",
+          "gloss": "we speak"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ὃ",
+          "morph": "R-ASN",
+          "gloss": "what"
+        },
+        {
+          "w": "ἑωράκαμεν",
+          "morph": "V-RAI-1P-ATT",
+          "gloss": "we have seen"
+        },
+        {
+          "w": "μαρτυροῦμεν",
+          "morph": "V-PAI-1P",
+          "gloss": "we bear witness to"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "μαρτυρίαν",
+          "morph": "N-ASF",
+          "gloss": "witness"
+        },
+        {
+          "w": "ἡμῶν",
+          "morph": "P-1GP",
+          "gloss": "of us"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "λαμβάνετε",
+          "morph": "V-PAI-2P",
+          "gloss": "you people receive"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "我 對 你 們 說 地 上 的 事 ， 你 們 尚 且 不 信 ， 若 說 天 上 的 事 ， 如 何 能 信 呢 ？",
+      "en": "If I have told you people about earthly things and you don’t believe, how will you believe if I tell you about heavenly things?",
+      "notes": [],
+      "gr": [
+        {
+          "w": "εἰ",
+          "morph": "COND",
+          "gloss": "If"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "things"
+        },
+        {
+          "w": "ἐπίγεια",
+          "morph": "A-APN",
+          "gloss": "earthly"
+        },
+        {
+          "w": "εἶπον",
+          "morph": "V-2AAI-1S",
+          "gloss": "I have told"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "you"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "πιστεύετε",
+          "morph": "V-PAI-2P",
+          "gloss": "you believe"
+        },
+        {
+          "w": "πῶς",
+          "morph": "ADV-I",
+          "gloss": "how"
+        },
+        {
+          "w": "ἐὰν",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "εἴπω",
+          "morph": "V-2AAS-1S",
+          "gloss": "I tell"
+        },
+        {
+          "w": "ὑμῖν",
+          "morph": "P-2DP",
+          "gloss": "to you"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the things"
+        },
+        {
+          "w": "ἐπουράνια",
+          "morph": "A-APN",
+          "gloss": "heavenly"
+        },
+        {
+          "w": "πιστεύσετε",
+          "morph": "V-FAI-2P",
+          "gloss": "will you believe"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "除 了 從 天 降 下 、 仍 舊 在 天 的 人 子 ， 沒 有 人 升 過 天 。",
+      "en": "No one has ascended into heaven except the one who descended from heaven—the Son of Man.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "οὐδεὶς",
+          "morph": "A-NSM-N",
+          "gloss": "no one"
+        },
+        {
+          "w": "ἀναβέβηκεν",
+          "morph": "V-RAI-3S",
+          "gloss": "has gone up"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "οὐρανὸν",
+          "morph": "N-ASM",
+          "gloss": "heaven"
+        },
+        {
+          "w": "εἰ",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [One]"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "out of"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "οὐρανοῦ",
+          "morph": "N-GSM",
+          "gloss": "heaven"
+        },
+        {
+          "w": "καταβάς",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having come down"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Υἱὸς",
+          "morph": "N-NSM",
+          "gloss": "Son"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἀνθρώπου",
+          "morph": "N-GSM",
+          "gloss": "of Man"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "摩 西 在 曠 野 怎 樣 舉 蛇 ， 人 子 也 必 照 樣 被 舉 起 來 ，",
+      "en": "Just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "καθὼς",
+          "morph": "ADV",
+          "gloss": "as"
+        },
+        {
+          "w": "Μωϋσῆς",
+          "morph": "N-NSM",
+          "gloss": "Moses"
+        },
+        {
+          "w": "ὕψωσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "lifted up"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "ὄφιν",
+          "morph": "N-ASM",
+          "gloss": "serpent"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἐρήμῳ",
+          "morph": "A-DSF",
+          "gloss": "wilderness"
+        },
+        {
+          "w": "οὕτως",
+          "morph": "ADV",
+          "gloss": "thus"
+        },
+        {
+          "w": "ὑψωθῆναι",
+          "morph": "V-APN",
+          "gloss": "to be lifted up"
+        },
+        {
+          "w": "δεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "it behooves"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "Υἱὸν",
+          "morph": "N-ASM",
+          "gloss": "Son"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἀνθρώπου",
+          "morph": "N-GSM",
+          "gloss": "of Man"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "叫 一 切 信 他 的 都 得 永 生 （ 或 作 ： 叫 一 切 信 的 人 在 他 裡 面 得 永 生 ） 。",
+      "en": "so that everyone who believes in him may have eternal life.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "so that"
+        },
+        {
+          "w": "πᾶς",
+          "morph": "A-NSM",
+          "gloss": "everyone"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "πιστεύων",
+          "morph": "V-PAP-NSM",
+          "gloss": "believing"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "Him"
+        },
+        {
+          "w": "ἔχῃ",
+          "morph": "V-PAS-3S",
+          "gloss": "may have"
+        },
+        {
+          "w": "ζωὴν",
+          "morph": "N-ASF",
+          "gloss": "life"
+        },
+        {
+          "w": "αἰώνιον",
+          "morph": "A-ASF",
+          "gloss": "eternal"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "「 神 愛 世 人 ， 甚 至 將 他 的 獨 生 子 賜 給 他 們 ， 叫 一 切 信 他 的 ， 不 至 滅 亡 ， 反 得 永 生 。",
+      "en": "For this is the way God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Οὕτως",
+          "morph": "ADV",
+          "gloss": "Thus"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἠγάπησεν",
+          "morph": "V-AAI-3S",
+          "gloss": "loved"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "κόσμον",
+          "morph": "N-ASM",
+          "gloss": "world"
+        },
+        {
+          "w": "ὥστε",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "Υἱὸν",
+          "morph": "N-ASM",
+          "gloss": "Son"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "μονογενῆ",
+          "morph": "A-ASM",
+          "gloss": "only begotten"
+        },
+        {
+          "w": "ἔδωκεν",
+          "morph": "V-AAI-3S",
+          "gloss": "He gave"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "so that"
+        },
+        {
+          "w": "πᾶς",
+          "morph": "A-NSM",
+          "gloss": "everyone"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "πιστεύων",
+          "morph": "V-PAP-NSM",
+          "gloss": "believing"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἀπόληται",
+          "morph": "V-2AMS-3S",
+          "gloss": "should perish"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ἔχῃ",
+          "morph": "V-PAS-3S",
+          "gloss": "should have"
+        },
+        {
+          "w": "ζωὴν",
+          "morph": "N-ASF",
+          "gloss": "life"
+        },
+        {
+          "w": "αἰώνιον",
+          "morph": "A-ASF",
+          "gloss": "eternal"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "因 為 神 差 他 的 兒 子 降 世 ， 不 是 要 定 世 人 的 罪 （ 或 作 ： 審 判 世 人 ； 下 同 ） ， 乃 是 要 叫 世 人 因 他 得 救 。",
+      "en": "For God did not send his Son into the world to condemn the world, but that the world should be saved through him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἀπέστειλεν",
+          "morph": "V-AAI-3S",
+          "gloss": "sent"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Υἱὸν",
+          "morph": "N-ASM",
+          "gloss": "His Son"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "κόσμον",
+          "morph": "N-ASM",
+          "gloss": "world"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "κρίνῃ",
+          "morph": "V-PAS-3S",
+          "gloss": "He might judge"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "κόσμον",
+          "morph": "N-ASM",
+          "gloss": "world"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "σωθῇ",
+          "morph": "V-APS-3S",
+          "gloss": "might be saved"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "κόσμος",
+          "morph": "N-NSM",
+          "gloss": "world"
+        },
+        {
+          "w": "δι’",
+          "morph": "PREP",
+          "gloss": "through"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "Him"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "信 他 的 人 ， 不 被 定 罪 ； 不 信 的 人 ， 罪 已 經 定 了 ， 因 為 他 不 信 神 獨 生 子 的 名 。",
+      "en": "The one who believes in him is not condemned. The one who does not believe has been condemned already, because he has not believed in the name of the one and only Son of God.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "The [one]"
+        },
+        {
+          "w": "πιστεύων",
+          "morph": "V-PAP-NSM",
+          "gloss": "believing"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "on"
+        },
+        {
+          "w": "αὐτὸν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "κρίνεται",
+          "morph": "V-PPI-3S",
+          "gloss": "is judged"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [one]"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "πιστεύων",
+          "morph": "V-PAP-NSM",
+          "gloss": "believing"
+        },
+        {
+          "w": "ἤδη",
+          "morph": "ADV",
+          "gloss": "already"
+        },
+        {
+          "w": "κέκριται",
+          "morph": "V-RPI-3S",
+          "gloss": "has been judged"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "because"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "πεπίστευκεν",
+          "morph": "V-RAI-3S",
+          "gloss": "he has believed"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "ὄνομα",
+          "morph": "N-ASN",
+          "gloss": "name"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "μονογενοῦς",
+          "morph": "A-GSM",
+          "gloss": "only begotten"
+        },
+        {
+          "w": "Υἱοῦ",
+          "morph": "N-GSM",
+          "gloss": "Son"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "光 來 到 世 間 ， 世 人 因 自 己 的 行 為 是 惡 的 ， 不 愛 光 ， 倒 愛 黑 暗 ， 定 他 們 的 罪 就 是 在 此 。",
+      "en": "Now this is the basis for judging: that the light has come into the world and people loved the darkness rather than the light because their deeds were evil.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "αὕτη",
+          "morph": "D-NSF",
+          "gloss": "This"
+        },
+        {
+          "w": "δέ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "κρίσις",
+          "morph": "N-NSF",
+          "gloss": "judgement"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-NSN",
+          "gloss": "the"
+        },
+        {
+          "w": "φῶς",
+          "morph": "N-NSN",
+          "gloss": "Light"
+        },
+        {
+          "w": "ἐλήλυθεν",
+          "morph": "V-2RAI-3S",
+          "gloss": "has come"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "κόσμον",
+          "morph": "N-ASM",
+          "gloss": "world"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἠγάπησαν",
+          "morph": "V-AAI-3P",
+          "gloss": "loved"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "-"
+        },
+        {
+          "w": "ἄνθρωποι",
+          "morph": "N-NPM",
+          "gloss": "men"
+        },
+        {
+          "w": "μᾶλλον",
+          "morph": "ADV",
+          "gloss": "rather"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "σκότος",
+          "morph": "N-ASN",
+          "gloss": "darkness"
+        },
+        {
+          "w": "ἢ",
+          "morph": "PRT",
+          "gloss": "than"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "φῶς",
+          "morph": "N-ASN",
+          "gloss": "Light"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "were"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "of them"
+        },
+        {
+          "w": "πονηρὰ",
+          "morph": "A-NPN",
+          "gloss": "evil"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-NPN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἔργα",
+          "morph": "N-NPN",
+          "gloss": "deeds"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "凡 作 惡 的 便 恨 光 ， 並 不 來 就 光 ， 恐 怕 他 的 行 為 受 責 備 。",
+      "en": "For everyone who does evil deeds hates the light and does not come to the light, so that their deeds will not be exposed.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "πᾶς",
+          "morph": "A-NSM",
+          "gloss": "Everyone"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "φαῦλα",
+          "morph": "A-APN",
+          "gloss": "evil"
+        },
+        {
+          "w": "πράσσων",
+          "morph": "V-PAP-NSM",
+          "gloss": "practicing"
+        },
+        {
+          "w": "μισεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "hates"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "φῶς",
+          "morph": "N-ASN",
+          "gloss": "Light"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἔρχεται",
+          "morph": "V-PNI-3S",
+          "gloss": "comes"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "φῶς",
+          "morph": "N-ASN",
+          "gloss": "Light"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "so that"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ἐλεγχθῇ",
+          "morph": "V-APS-3S",
+          "gloss": "may be exposed"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-NPN",
+          "gloss": "the"
+        },
+        {
+          "w": "ἔργα",
+          "morph": "N-NPN",
+          "gloss": "works"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of him"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "但 行 真 理 的 必 來 就 光 ， 要 顯 明 他 所 行 的 是 靠 神 而 行 。 」",
+      "en": "But the one who practices the truth comes to the light, so that it may be plainly evident that his deeds have been done in God.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [one]"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ποιῶν",
+          "morph": "V-PAP-NSM",
+          "gloss": "practicing"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "ἀλήθειαν",
+          "morph": "N-ASF",
+          "gloss": "truth"
+        },
+        {
+          "w": "ἔρχεται",
+          "morph": "V-PNI-3S",
+          "gloss": "comes"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "φῶς",
+          "morph": "N-ASN",
+          "gloss": "Light"
+        },
+        {
+          "w": "ἵνα",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "φανερωθῇ",
+          "morph": "V-APS-3S",
+          "gloss": "may be manifest"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "his"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-NPN",
+          "gloss": "-"
+        },
+        {
+          "w": "ἔργα",
+          "morph": "N-NPN",
+          "gloss": "works"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "Θεῷ",
+          "morph": "N-DSM",
+          "gloss": "God"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "have been"
+        },
+        {
+          "w": "εἰργασμένα",
+          "morph": "V-RPP-NPN",
+          "gloss": "done"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "這 事 以 後 ， 耶 穌 和 門 徒 到 了 猶 太 地 ， 在 那 裡 居 住 ， 施 洗 。",
+      "en": "After this, Jesus and his disciples came into Judean territory, and there he spent time with them and was baptizing.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Μετὰ",
+          "morph": "PREP",
+          "gloss": "After"
+        },
+        {
+          "w": "ταῦτα",
+          "morph": "D-APN",
+          "gloss": "these things"
+        },
+        {
+          "w": "ἦλθεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "came"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰησοῦς",
+          "morph": "N-NSM",
+          "gloss": "Jesus"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "οἱ",
+          "morph": "T-NPM",
+          "gloss": "the"
+        },
+        {
+          "w": "μαθηταὶ",
+          "morph": "N-NPM",
+          "gloss": "disciples"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "Ἰουδαίαν",
+          "morph": "A-ASF",
+          "gloss": "Judean"
+        },
+        {
+          "w": "γῆν",
+          "morph": "N-ASF",
+          "gloss": "land"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐκεῖ",
+          "morph": "ADV",
+          "gloss": "there"
+        },
+        {
+          "w": "διέτριβεν",
+          "morph": "V-IAI-3S",
+          "gloss": "He was staying"
+        },
+        {
+          "w": "μετ’",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "αὐτῶν",
+          "morph": "P-GPM",
+          "gloss": "them"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐβάπτιζεν",
+          "morph": "V-IAI-3S",
+          "gloss": "was baptizing"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "zh": "約 翰 在 靠 近 撒 冷 的 哀 嫩 也 施 洗 ； 因 為 那 裡 水 多 ， 眾 人 都 去 受 洗 。",
+      "en": "John was also baptizing at Aenon near Salim because water was plentiful there, and people were coming to him and being baptized.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "Was"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "also"
+        },
+        {
+          "w": "Ἰωάνης",
+          "morph": "N-NSM",
+          "gloss": "John"
+        },
+        {
+          "w": "βαπτίζων",
+          "morph": "V-PAP-NSM",
+          "gloss": "baptizing"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "Αἰνὼν",
+          "morph": "N-PRI",
+          "gloss": "Aenon"
+        },
+        {
+          "w": "ἐγγὺς",
+          "morph": "ADV",
+          "gloss": "near"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSN",
+          "gloss": "-"
+        },
+        {
+          "w": "Σαλείμ",
+          "morph": "N-PRI",
+          "gloss": "Salim"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "because"
+        },
+        {
+          "w": "ὕδατα",
+          "morph": "N-NPN",
+          "gloss": "waters"
+        },
+        {
+          "w": "πολλὰ",
+          "morph": "A-NPN",
+          "gloss": "many"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "were"
+        },
+        {
+          "w": "ἐκεῖ",
+          "morph": "ADV",
+          "gloss": "there"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "παρεγίνοντο",
+          "morph": "V-IDI-3P",
+          "gloss": "they were coming"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐβαπτίζοντο",
+          "morph": "V-IPI-3P",
+          "gloss": "being baptized"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "zh": "（ 那 時 約 翰 還 沒 有 下 在 監 計 。 ）",
+      "en": "(For John had not yet been thrown into prison.)",
+      "notes": [],
+      "gr": [
+        {
+          "w": "οὔπω",
+          "morph": "ADV-N",
+          "gloss": "Not yet"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "had been"
+        },
+        {
+          "w": "βεβλημένος",
+          "morph": "V-RPP-NSM",
+          "gloss": "cast"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "φυλακὴν",
+          "morph": "N-ASF",
+          "gloss": "prison"
+        },
+        {
+          "w": "Ἰωάνης",
+          "morph": "N-NSM",
+          "gloss": "John"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "zh": "約 翰 的 門 徒 和 一 個 猶 太 人 辯 論 潔 淨 的 禮 ，",
+      "en": "Now a dispute came about between some of John’s disciples and a certain Jew concerning ceremonial washing.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ἐγένετο",
+          "morph": "V-2ADI-3S",
+          "gloss": "Arose"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "then"
+        },
+        {
+          "w": "ζήτησις",
+          "morph": "N-NSF",
+          "gloss": "a debate"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "among"
+        },
+        {
+          "w": "τῶν",
+          "morph": "T-GPM",
+          "gloss": "the"
+        },
+        {
+          "w": "μαθητῶν",
+          "morph": "N-GPM",
+          "gloss": "disciples"
+        },
+        {
+          "w": "Ἰωάνου",
+          "morph": "N-GSM",
+          "gloss": "of John"
+        },
+        {
+          "w": "μετὰ",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "Ἰουδαίου",
+          "morph": "A-GSM",
+          "gloss": "[a certain] Jew"
+        },
+        {
+          "w": "περὶ",
+          "morph": "PREP",
+          "gloss": "about"
+        },
+        {
+          "w": "καθαρισμοῦ",
+          "morph": "N-GSM",
+          "gloss": "purification"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "zh": "就 來 見 約 翰 ， 說 ： 「 拉 比 ， 從 前 同 你 在 約 旦 河 外 、 你 所 見 證 的 那 位 ， 現 在 施 洗 ， 眾 人 都 往 他 那 裡 去 了 。 」",
+      "en": "So they came to John and said to him, “Rabbi, the one who was with you on the other side of the Jordan River, about whom you testified—see, he is baptizing, and everyone is flocking to him!”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "And"
+        },
+        {
+          "w": "ἦλθον",
+          "morph": "V-2AAI-3P",
+          "gloss": "they came"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἰωάνην",
+          "morph": "N-ASM",
+          "gloss": "John"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπαν",
+          "morph": "V-2AAI-3P",
+          "gloss": "said"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "Ῥαββεί",
+          "morph": "HEB",
+          "gloss": "Rabbi"
+        },
+        {
+          "w": "ὃς",
+          "morph": "R-NSM",
+          "gloss": "He who"
+        },
+        {
+          "w": "ἦν",
+          "morph": "V-IAI-3S",
+          "gloss": "was"
+        },
+        {
+          "w": "μετὰ",
+          "morph": "PREP",
+          "gloss": "with"
+        },
+        {
+          "w": "σοῦ",
+          "morph": "P-2GS",
+          "gloss": "you"
+        },
+        {
+          "w": "πέραν",
+          "morph": "ADV",
+          "gloss": "beyond"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Ἰορδάνου",
+          "morph": "N-GSM",
+          "gloss": "Jordan"
+        },
+        {
+          "w": "ᾧ",
+          "morph": "R-DSM",
+          "gloss": "to whom"
+        },
+        {
+          "w": "σὺ",
+          "morph": "P-2NS",
+          "gloss": "you"
+        },
+        {
+          "w": "μεμαρτύρηκας",
+          "morph": "V-RAI-2S",
+          "gloss": "have borne witness"
+        },
+        {
+          "w": "ἴδε",
+          "morph": "V-2AAM-2S",
+          "gloss": "behold"
+        },
+        {
+          "w": "οὗτος",
+          "morph": "D-NSM",
+          "gloss": "He"
+        },
+        {
+          "w": "βαπτίζει",
+          "morph": "V-PAI-3S",
+          "gloss": "baptizes"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πάντες",
+          "morph": "A-NPM",
+          "gloss": "all"
+        },
+        {
+          "w": "ἔρχονται",
+          "morph": "V-PNI-3P",
+          "gloss": "are coming"
+        },
+        {
+          "w": "πρὸς",
+          "morph": "PREP",
+          "gloss": "to"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "Him"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "zh": "約 翰 說 ： 「 若 不 是 從 天 上 賜 的 ， 人 就 不 能 得 甚 麼 。",
+      "en": "John replied, “No one can receive anything unless it has been given to him from heaven.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἀπεκρίθη",
+          "morph": "V-ADI-3S",
+          "gloss": "Answered"
+        },
+        {
+          "w": "Ἰωάνης",
+          "morph": "N-NSM",
+          "gloss": "John"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "εἶπεν",
+          "morph": "V-2AAI-3S",
+          "gloss": "said"
+        },
+        {
+          "w": "Οὐ",
+          "morph": "PRT-N",
+          "gloss": "Nothing"
+        },
+        {
+          "w": "δύναται",
+          "morph": "V-PNI-3S",
+          "gloss": "is able"
+        },
+        {
+          "w": "ἄνθρωπος",
+          "morph": "N-NSM",
+          "gloss": "a man"
+        },
+        {
+          "w": "λαμβάνειν",
+          "morph": "V-PAN",
+          "gloss": "to receive"
+        },
+        {
+          "w": "οὐδὲν",
+          "morph": "A-ASN-N",
+          "gloss": "nothing"
+        },
+        {
+          "w": "ἐὰν",
+          "morph": "COND",
+          "gloss": "if"
+        },
+        {
+          "w": "μὴ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ᾖ",
+          "morph": "V-PAS-3S",
+          "gloss": "it is"
+        },
+        {
+          "w": "δεδομένον",
+          "morph": "V-RPP-NSN",
+          "gloss": "given"
+        },
+        {
+          "w": "αὐτῷ",
+          "morph": "P-DSM",
+          "gloss": "to him"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "οὐρανοῦ",
+          "morph": "N-GSM",
+          "gloss": "heaven"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "zh": "我 曾 說 ： 『 我 不 是 基 督 ， 是 奉 差 遣 在 他 前 面 的 』 ， 你 們 自 己 可 以 給 我 作 見 證 。",
+      "en": "You yourselves can testify that I said, ‘I am not the Christ,’ but rather, ‘I have been sent before him.’",
+      "notes": [],
+      "gr": [
+        {
+          "w": "αὐτοὶ",
+          "morph": "P-NPM",
+          "gloss": "Yourselves"
+        },
+        {
+          "w": "ὑμεῖς",
+          "morph": "P-2NP",
+          "gloss": "you"
+        },
+        {
+          "w": "μοι",
+          "morph": "P-1DS",
+          "gloss": "to me"
+        },
+        {
+          "w": "μαρτυρεῖτε",
+          "morph": "V-PAI-2P",
+          "gloss": "bear witness"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "εἶπον",
+          "morph": "V-2AAI-1S",
+          "gloss": "I said"
+        },
+        {
+          "w": "Οὐκ",
+          "morph": "PRT-N",
+          "gloss": "Not"
+        },
+        {
+          "w": "εἰμὶ",
+          "morph": "V-PAI-1S",
+          "gloss": "am"
+        },
+        {
+          "w": "ἐγὼ",
+          "morph": "P-1NS",
+          "gloss": "I"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Χριστός",
+          "morph": "N-NSM",
+          "gloss": "Christ"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "-"
+        },
+        {
+          "w": "Ἀπεσταλμένος",
+          "morph": "V-RPP-NSM",
+          "gloss": "sent"
+        },
+        {
+          "w": "εἰμὶ",
+          "morph": "V-PAI-1S",
+          "gloss": "I am"
+        },
+        {
+          "w": "ἔμπροσθεν",
+          "morph": "PREP",
+          "gloss": "before"
+        },
+        {
+          "w": "ἐκείνου",
+          "morph": "D-GSM",
+          "gloss": "Him"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "zh": "娶 新 婦 的 就 是 新 郎 ； 新 郎 的 朋 友 站 著 ， 聽 見 新 郎 的 聲 音 就 甚 喜 樂 。 故 此 ， 我 這 喜 樂 滿 足 了 。",
+      "en": "The one who has the bride is the bridegroom. The friend of the bridegroom, who stands by and listens for him, rejoices greatly when he hears the bridegroom’s voice. This then is my joy, and it is complete.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ὁ",
+          "morph": "T-NSM",
+          "gloss": "The [one]"
+        },
+        {
+          "w": "ἔχων",
+          "morph": "V-PAP-NSM",
+          "gloss": "having"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "νύμφην",
+          "morph": "N-ASF",
+          "gloss": "bride"
+        },
+        {
+          "w": "νυμφίος",
+          "morph": "N-NSM",
+          "gloss": "[the] bridegroom"
+        },
+        {
+          "w": "ἐστίν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "now"
+        },
+        {
+          "w": "φίλος",
+          "morph": "A-NSM",
+          "gloss": "friend"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "νυμφίου",
+          "morph": "N-GSM",
+          "gloss": "bridegroom"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [one]"
+        },
+        {
+          "w": "ἑστηκὼς",
+          "morph": "V-RAP-NSM",
+          "gloss": "standing"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἀκούων",
+          "morph": "V-PAP-NSM",
+          "gloss": "listening for"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "him"
+        },
+        {
+          "w": "χαρᾷ",
+          "morph": "N-DSF",
+          "gloss": "with joy"
+        },
+        {
+          "w": "χαίρει",
+          "morph": "V-PAI-3S",
+          "gloss": "rejoices"
+        },
+        {
+          "w": "διὰ",
+          "morph": "PREP",
+          "gloss": "because of"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "φωνὴν",
+          "morph": "N-ASF",
+          "gloss": "voice"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "of the"
+        },
+        {
+          "w": "νυμφίου",
+          "morph": "N-GSM",
+          "gloss": "bridegroom"
+        },
+        {
+          "w": "αὕτη",
+          "morph": "D-NSF",
+          "gloss": "This"
+        },
+        {
+          "w": "οὖν",
+          "morph": "CONJ",
+          "gloss": "therefore"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "χαρὰ",
+          "morph": "N-NSF",
+          "gloss": "joy"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "-"
+        },
+        {
+          "w": "ἐμὴ",
+          "morph": "S-1SNSF",
+          "gloss": "of mine"
+        },
+        {
+          "w": "πεπλήρωται",
+          "morph": "V-RPI-3S",
+          "gloss": "is fulfilled"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "zh": "他 必 興 旺 ， 我 必 衰 微 。 」",
+      "en": "He must become more important while I become less important.”",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ἐκεῖνον",
+          "morph": "D-ASM",
+          "gloss": "Him"
+        },
+        {
+          "w": "δεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "it behooves"
+        },
+        {
+          "w": "αὐξάνειν",
+          "morph": "V-PAN",
+          "gloss": "to increase"
+        },
+        {
+          "w": "ἐμὲ",
+          "morph": "P-1AS",
+          "gloss": "me"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ἐλαττοῦσθαι",
+          "morph": "V-PPN",
+          "gloss": "to decrease"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "zh": "「 從 天 上 來 的 是 在 萬 有 之 上 ； 從 地 上 來 的 是 屬 乎 地 ， 他 所 說 的 也 是 屬 乎 地 。 從 天 上 來 的 是 在 萬 有 之 上 。",
+      "en": "The one who comes from above is superior to all. The one who is from the earth belongs to the earth and speaks about earthly things. The one who comes from heaven is superior to all.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "Ὁ",
+          "morph": "T-NSM",
+          "gloss": "The [One]"
+        },
+        {
+          "w": "ἄνωθεν",
+          "morph": "ADV",
+          "gloss": "from above"
+        },
+        {
+          "w": "ἐρχόμενος",
+          "morph": "V-PNP-NSM",
+          "gloss": "coming"
+        },
+        {
+          "w": "ἐπάνω",
+          "morph": "ADV",
+          "gloss": "above"
+        },
+        {
+          "w": "πάντων",
+          "morph": "A-GPN",
+          "gloss": "all"
+        },
+        {
+          "w": "ἐστίν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "The [one]"
+        },
+        {
+          "w": "ὢν",
+          "morph": "V-PAP-NSM",
+          "gloss": "being"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γῆς",
+          "morph": "N-GSF",
+          "gloss": "earth"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γῆς",
+          "morph": "N-GSF",
+          "gloss": "earth"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τῆς",
+          "morph": "T-GSF",
+          "gloss": "the"
+        },
+        {
+          "w": "γῆς",
+          "morph": "N-GSF",
+          "gloss": "earth"
+        },
+        {
+          "w": "λαλεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "speaks"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "The [One]"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "from"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "οὐρανοῦ",
+          "morph": "N-GSM",
+          "gloss": "heaven"
+        },
+        {
+          "w": "ἐρχόμενος",
+          "morph": "V-PNP-NSM",
+          "gloss": "coming"
+        },
+        {
+          "w": "ἐπάνω",
+          "morph": "ADV",
+          "gloss": "above"
+        },
+        {
+          "w": "πάντων",
+          "morph": "A-GPN",
+          "gloss": "all"
+        },
+        {
+          "w": "ἐστίν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "zh": "他 將 所 見 所 聞 的 見 證 出 來 ， 只 是 沒 有 人 領 受 他 的 見 證 。",
+      "en": "He testifies about what he has seen and heard, but no one accepts his testimony.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὃ",
+          "morph": "R-ASN",
+          "gloss": "What"
+        },
+        {
+          "w": "ἑώρακεν",
+          "morph": "V-RAI-3S-ATT",
+          "gloss": "He has seen"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "ἤκουσεν",
+          "morph": "V-AAI-3S",
+          "gloss": "heard"
+        },
+        {
+          "w": "τοῦτο",
+          "morph": "D-ASN",
+          "gloss": "this"
+        },
+        {
+          "w": "μαρτυρεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "He testifies"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "the"
+        },
+        {
+          "w": "μαρτυρίαν",
+          "morph": "N-ASF",
+          "gloss": "testimony"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        },
+        {
+          "w": "οὐδεὶς",
+          "morph": "A-NSM-N",
+          "gloss": "no one"
+        },
+        {
+          "w": "λαμβάνει",
+          "morph": "V-PAI-3S",
+          "gloss": "receives"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "zh": "那 領 受 他 見 證 的 ， 就 印 上 印 ， 證 明 神 是 真 的 。",
+      "en": "The one who has accepted his testimony has confirmed clearly that God is truthful.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "The [one]"
+        },
+        {
+          "w": "λαβὼν",
+          "morph": "V-2AAP-NSM",
+          "gloss": "having received"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "His"
+        },
+        {
+          "w": "τὴν",
+          "morph": "T-ASF",
+          "gloss": "-"
+        },
+        {
+          "w": "μαρτυρίαν",
+          "morph": "N-ASF",
+          "gloss": "testimony"
+        },
+        {
+          "w": "ἐσφράγισεν",
+          "morph": "V-AAI-3S",
+          "gloss": "has set his seal"
+        },
+        {
+          "w": "ὅτι",
+          "morph": "CONJ",
+          "gloss": "that"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "ἀληθής",
+          "morph": "A-NSM",
+          "gloss": "true"
+        },
+        {
+          "w": "ἐστιν",
+          "morph": "V-PAI-3S",
+          "gloss": "is"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "zh": "神 所 差 來 的 就 說 神 的 話 ， 因 為 神 賜 聖 靈 給 他 是 沒 有 限 量 的 。",
+      "en": "For the one whom God has sent speaks the words of God, for he does not give the Spirit sparingly.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὃν",
+          "morph": "R-ASM",
+          "gloss": "He whom"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἀπέστειλεν",
+          "morph": "V-AAI-3S",
+          "gloss": "sent"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεὸς",
+          "morph": "N-NSM",
+          "gloss": "God"
+        },
+        {
+          "w": "τὰ",
+          "morph": "T-APN",
+          "gloss": "the"
+        },
+        {
+          "w": "ῥήματα",
+          "morph": "N-APN",
+          "gloss": "words"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "λαλεῖ",
+          "morph": "V-PAI-3S",
+          "gloss": "speaks"
+        },
+        {
+          "w": "οὐ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "γὰρ",
+          "morph": "CONJ",
+          "gloss": "for"
+        },
+        {
+          "w": "ἐκ",
+          "morph": "PREP",
+          "gloss": "by"
+        },
+        {
+          "w": "μέτρου",
+          "morph": "N-GSN",
+          "gloss": "measure"
+        },
+        {
+          "w": "δίδωσιν",
+          "morph": "V-PAI-3S",
+          "gloss": "He gives"
+        },
+        {
+          "w": "τὸ",
+          "morph": "T-ASN",
+          "gloss": "the"
+        },
+        {
+          "w": "Πνεῦμα",
+          "morph": "N-ASN",
+          "gloss": "Spirit"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "zh": "父 愛 子 ， 已 將 萬 有 交 在 他 手 裡 。",
+      "en": "The Father loves the Son and has placed all things under his authority.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "The"
+        },
+        {
+          "w": "Πατὴρ",
+          "morph": "N-NSM",
+          "gloss": "Father"
+        },
+        {
+          "w": "ἀγαπᾷ",
+          "morph": "V-PAI-3S",
+          "gloss": "loves"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "Υἱόν",
+          "morph": "N-ASM",
+          "gloss": "Son"
+        },
+        {
+          "w": "καὶ",
+          "morph": "CONJ",
+          "gloss": "and"
+        },
+        {
+          "w": "πάντα",
+          "morph": "A-APN",
+          "gloss": "all things"
+        },
+        {
+          "w": "δέδωκεν",
+          "morph": "V-RAI-3S",
+          "gloss": "has given"
+        },
+        {
+          "w": "ἐν",
+          "morph": "PREP",
+          "gloss": "into"
+        },
+        {
+          "w": "τῇ",
+          "morph": "T-DSF",
+          "gloss": "the"
+        },
+        {
+          "w": "χειρὶ",
+          "morph": "N-DSF",
+          "gloss": "hand"
+        },
+        {
+          "w": "αὐτοῦ",
+          "morph": "P-GSM",
+          "gloss": "of Him"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "zh": "信 子 的 人 有 永 生 ； 不 信 子 的 人 得 不 著 永 生 （ 原 文 作 不 得 見 永 生 ） ， 神 的 震 怒 常 在 他 身 上 。 」",
+      "en": "The one who believes in the Son has eternal life. The one who rejects the Son will not see life, but God’s wrath remains on him.",
+      "notes": [],
+      "gr": [
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "The [one]"
+        },
+        {
+          "w": "πιστεύων",
+          "morph": "V-PAP-NSM",
+          "gloss": "believing"
+        },
+        {
+          "w": "εἰς",
+          "morph": "PREP",
+          "gloss": "in"
+        },
+        {
+          "w": "τὸν",
+          "morph": "T-ASM",
+          "gloss": "the"
+        },
+        {
+          "w": "Υἱὸν",
+          "morph": "N-ASM",
+          "gloss": "Son"
+        },
+        {
+          "w": "ἔχει",
+          "morph": "V-PAI-3S",
+          "gloss": "has"
+        },
+        {
+          "w": "ζωὴν",
+          "morph": "N-ASF",
+          "gloss": "life"
+        },
+        {
+          "w": "αἰώνιον",
+          "morph": "A-ASF",
+          "gloss": "eternal"
+        },
+        {
+          "w": "ὁ",
+          "morph": "T-NSM",
+          "gloss": "the [one]"
+        },
+        {
+          "w": "δὲ",
+          "morph": "CONJ",
+          "gloss": "however"
+        },
+        {
+          "w": "ἀπειθῶν",
+          "morph": "V-PAP-NSM",
+          "gloss": "not obeying"
+        },
+        {
+          "w": "τῷ",
+          "morph": "T-DSM",
+          "gloss": "the"
+        },
+        {
+          "w": "Υἱῷ",
+          "morph": "N-DSM",
+          "gloss": "Son"
+        },
+        {
+          "w": "οὐκ",
+          "morph": "PRT-N",
+          "gloss": "not"
+        },
+        {
+          "w": "ὄψεται",
+          "morph": "V-FDI-3S",
+          "gloss": "will see"
+        },
+        {
+          "w": "ζωήν",
+          "morph": "N-ASF",
+          "gloss": "life"
+        },
+        {
+          "w": "ἀλλ’",
+          "morph": "CONJ",
+          "gloss": "but"
+        },
+        {
+          "w": "ἡ",
+          "morph": "T-NSF",
+          "gloss": "the"
+        },
+        {
+          "w": "ὀργὴ",
+          "morph": "N-NSF",
+          "gloss": "wrath"
+        },
+        {
+          "w": "τοῦ",
+          "morph": "T-GSM",
+          "gloss": "-"
+        },
+        {
+          "w": "Θεοῦ",
+          "morph": "N-GSM",
+          "gloss": "of God"
+        },
+        {
+          "w": "μένει",
+          "morph": "V-PAI-3S",
+          "gloss": "abides"
+        },
+        {
+          "w": "ἐπ’",
+          "morph": "PREP",
+          "gloss": "on"
+        },
+        {
+          "w": "αὐτόν",
+          "morph": "P-ASM",
+          "gloss": "him"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,850 @@
+{
+  "book": 19,
+  "chapter": 103,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "（ 大 衛 的 詩 。 ） 我 的 心 哪 ， 你 要 稱 頌 耶 和 華 ！ 凡 在 我 裡 面 的 ， 也 要 稱 頌 他 的 聖 名 ！",
+      "en": "By David. Praise the Lord, O my soul. With all that is within me, praise his holy name.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְדָוִ֨ד",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "בָּרֲכִ֣י",
+          "morph": "HVpv2fs"
+        },
+        {
+          "w": "נַ֭פְשִׁי",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "קְ֝רָבַ֗י",
+          "morph": "HNcmpc/Sp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "שֵׁ֥ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "קָדְשֽׁוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "我 的 心 哪 ， 你 要 稱 頌 耶 和 華 ！ 不 可 忘 記 他 的 一 切 恩 惠 ！",
+      "en": "Praise the Lord, O my soul. Do not forget all his kind deeds.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בָּרֲכִ֣י",
+          "morph": "HVpv2fs"
+        },
+        {
+          "w": "נַ֭פְשִׁי",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאַל",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "תִּ֝שְׁכְּחִ֗י",
+          "morph": "HVqj2fs"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "גְּמוּלָֽיו",
+          "morph": "HNcmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "他 赦 免 你 的 一 切 罪 孽 ， 醫 治 你 的 一 切 疾 病 。",
+      "en": "He is the one who forgives all your sins, who heals all your diseases,",
+      "notes": [],
+      "he": [
+        {
+          "w": "הַסֹּלֵ֥חַ",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עֲוֺנֵ֑כִי",
+          "morph": "HNcbsc/Sp2fs"
+        },
+        {
+          "w": "הָ֝רֹפֵ֗א",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "תַּחֲלֻאָֽיְכִי",
+          "morph": "HNcmpc/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "他 救 贖 你 的 命 脫 離 死 亡 ， 以 仁 愛 和 慈 悲 為 你 的 冠 冕 。",
+      "en": "who delivers your life from the Pit, who crowns you with his loyal love and compassion,",
+      "notes": [],
+      "he": [
+        {
+          "w": "הַגּוֹאֵ֣ל",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "מִשַּׁ֣חַת",
+          "morph": "HR/Ncfsa"
+        },
+        {
+          "w": "חַיָּ֑יְכִי",
+          "morph": "HNcmpc/Sp2fs"
+        },
+        {
+          "w": "הַֽ֝מְעַטְּרֵ֗כִי",
+          "morph": "HTd/Vprmsc/Sp2fs"
+        },
+        {
+          "w": "חֶ֣סֶד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְרַחֲמִֽים",
+          "morph": "HC/Ncmpa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "他 用 美 物 使 你 所 願 的 得 以 知 足 ， 以 致 你 如 鷹 返 老 還 童 。",
+      "en": "who satisfies your life with good things, so your youth is renewed like an eagle’s.",
+      "notes": [],
+      "he": [
+        {
+          "w": "הַמַּשְׂבִּ֣יַע",
+          "morph": "HTd/Vhrmsa"
+        },
+        {
+          "w": "בַּטּ֣וֹב",
+          "morph": "HRd/Aamsa"
+        },
+        {
+          "w": "עֶדְיֵ֑ךְ",
+          "morph": "HNcmsc/Sp2fs"
+        },
+        {
+          "w": "תִּתְחַדֵּ֖שׁ",
+          "morph": "HVti3fs"
+        },
+        {
+          "w": "כַּנֶּ֣שֶׁר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "נְעוּרָֽיְכִי",
+          "morph": "HNcbpc/Sp2fs"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "耶 和 華 施 行 公 義 ， 為 一 切 受 屈 的 人 伸 冤 。",
+      "en": "The Lord does what is fair, and executes justice for all the oppressed.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עֹשֵׂ֣ה",
+          "morph": "HVqrmsc"
+        },
+        {
+          "w": "צְדָק֣וֹת",
+          "morph": "HNcfpa"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּ֝מִשְׁפָּטִ֗ים",
+          "morph": "HC/Ncmpa"
+        },
+        {
+          "w": "לְכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עֲשׁוּקִֽים",
+          "morph": "HVqsmpa"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "他 使 摩 西 知 道 他 的 法 則 ， 叫 以 色 列 人 曉 得 他 的 作 為 。",
+      "en": "The Lord revealed his faithful acts to Moses, his deeds to the Israelites.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יוֹדִ֣יעַ",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "דְּרָכָ֣יו",
+          "morph": "HNcbpc/Sp3ms"
+        },
+        {
+          "w": "לְמֹשֶׁ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לִבְנֵ֥י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִ֝שְׂרָאֵ֗ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "עֲלִילֽוֹתָיו",
+          "morph": "HNcfpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "耶 和 華 有 憐 憫 ， 有 恩 典 ， 不 輕 易 發 怒 ， 且 有 豐 盛 的 慈 愛 。",
+      "en": "The Lord is compassionate and merciful; he is patient and demonstrates great loyal love.",
+      "notes": [],
+      "he": [
+        {
+          "w": "רַח֣וּם",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְחַנּ֣וּן",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶ֖רֶךְ",
+          "morph": "HAamsc"
+        },
+        {
+          "w": "אַפַּ֣יִם",
+          "morph": "HNcmda"
+        },
+        {
+          "w": "וְרַב",
+          "morph": "HC/Aamsc"
+        },
+        {
+          "w": "חָֽסֶד",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "他 不 長 久 責 備 ， 也 不 永 遠 懷 怒 。",
+      "en": "He does not always accuse and does not stay angry.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹֽא",
+          "morph": "HTn"
+        },
+        {
+          "w": "לָנֶ֥צַח",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "יָרִ֑יב",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְלֹ֖א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "לְעוֹלָ֣ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "יִטּֽוֹר",
+          "morph": "HVqi3ms"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "他 沒 有 按 我 們 的 罪 過 待 我 們 ， 也 沒 有 照 我 們 的 罪 孽 報 應 我 們 。",
+      "en": "He does not deal with us as our sins deserve; he does not repay us as our misdeeds deserve.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "כַ֭חֲטָאֵינוּ",
+          "morph": "HR/Ncmpc/Sp1cp"
+        },
+        {
+          "w": "עָ֣שָׂה",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לָ֑נוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "וְלֹ֥א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "כַ֝עֲוֺנֹתֵ֗ינוּ",
+          "morph": "HR/Ncbpc/Sp1cp"
+        },
+        {
+          "w": "גָּמַ֥ל",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "עָלֵֽינוּ",
+          "morph": "HR/Sp1cp"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "天 離 地 何 等 的 高 ， 他 的 慈 愛 向 敬 畏 他 的 人 也 是 何 等 的 大 ！",
+      "en": "For as the skies are high above the earth, so his loyal love towers over his faithful followers.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "כִגְבֹ֣הַּ",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "שָׁ֭מַיִם",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הָאָ֑רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "גָּבַ֥ר",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "חַ֝סְדּ֗וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְרֵאָֽיו",
+          "morph": "HAampc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "東 離 西 有 多 遠 ， 他 叫 我 們 的 過 犯 離 我 們 也 有 多 遠 ！",
+      "en": "As far as the eastern horizon is from the west, so he removes the guilt of our rebellious actions from us.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּרְחֹ֣ק",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "מִ֭זְרָח",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִֽמַּֽעֲרָ֑ב",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "הִֽרְחִ֥יק",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "מִ֝מֶּ֗נּוּ",
+          "morph": "HR/Sp1cp"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "פְּשָׁעֵֽינוּ",
+          "morph": "HNcmpc/Sp1cp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "父 親 怎 樣 憐 恤 他 的 兒 女 ， 耶 和 華 也 怎 樣 憐 恤 敬 畏 他 的 人 ！",
+      "en": "As a father has compassion on his children, so the Lord has compassion on his faithful followers.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כְּרַחֵ֣ם",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "אָ֭ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "בָּנִ֑ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רִחַ֥ם",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְ֝הוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְרֵאָֽיו",
+          "morph": "HAampc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "因 為 他 知 道 我 們 的 本 體 ， 思 念 我 們 不 過 是 塵 土 。",
+      "en": "For he knows what we are made of; he realizes we are made of clay.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "ה֖וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "יָדַ֣ע",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "יִצְרֵ֑נוּ",
+          "morph": "HNcmsc/Sp1cp"
+        },
+        {
+          "w": "זָ֝כ֗וּר",
+          "morph": "HVqrmsa"
+        },
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "עָפָ֥ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲנָֽחְנוּ",
+          "morph": "HPp1cp"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "至 於 世 人 ， 他 的 年 日 如 草 一 樣 。 他 發 旺 如 野 地 的 花 ，",
+      "en": "A person’s life is like grass. Like a flower in the field it flourishes,",
+      "notes": [],
+      "he": [
+        {
+          "w": "אֱ֭נוֹשׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "כֶּחָצִ֣יר",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "יָמָ֑יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "כְּצִ֥יץ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "הַ֝שָּׂדֶ֗ה",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "כֵּ֣ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "יָצִֽיץ",
+          "morph": "HVhi3ms"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "經 風 一 吹 ， 便 歸 無 有 ； 他 的 原 處 也 不 再 認 識 他 。",
+      "en": "but when the hot wind blows, it disappears, and one can no longer even spot the place where it once grew.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֤י",
+          "morph": "HC"
+        },
+        {
+          "w": "ר֣וּחַ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "עָֽבְרָה",
+          "morph": "HVqp3fs"
+        },
+        {
+          "w": "בּ֣וֹ",
+          "morph": "HR/Sp3ms"
+        },
+        {
+          "w": "וְאֵינֶ֑נּוּ",
+          "morph": "HC/Tn/Sp3ms"
+        },
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יַכִּירֶ֖נּוּ",
+          "morph": "HVhi3ms/Sp3ms"
+        },
+        {
+          "w": "ע֣וֹד",
+          "morph": "HD"
+        },
+        {
+          "w": "מְקוֹמֽוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "zh": "但 耶 和 華 的 慈 愛 歸 於 敬 畏 他 的 人 ， 從 亙 古 到 永 遠 ； 他 的 公 義 也 歸 於 子 子 孫 孫",
+      "en": "But the Lord continually shows loyal love to his faithful followers and is faithful to their descendants,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְחֶ֤סֶד",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "יְהוָ֨ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מֵעוֹלָ֣ם",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "וְעַד",
+          "morph": "HC/R"
+        },
+        {
+          "w": "ע֭וֹלָם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יְרֵאָ֑יו",
+          "morph": "HAampc/Sp3ms"
+        },
+        {
+          "w": "וְ֝צִדְקָת֗וֹ",
+          "morph": "HC/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "לִבְנֵ֥י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "בָנִֽים",
+          "morph": "HNcmpa"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "zh": "就 是 那 些 遵 守 他 的 約 、 記 念 他 的 訓 詞 而 遵 行 的 人 。",
+      "en": "to those who keep his covenant, who are careful to obey his commands.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְשֹׁמְרֵ֥י",
+          "morph": "HR/Vqrmpc"
+        },
+        {
+          "w": "בְרִית֑וֹ",
+          "morph": "HNcfsc/Sp3ms"
+        },
+        {
+          "w": "וּלְזֹכְרֵ֥י",
+          "morph": "HC/R/Vqrmpc"
+        },
+        {
+          "w": "פִ֝קֻּדָ֗יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "לַעֲשׂוֹתָֽם",
+          "morph": "HR/Vqc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "zh": "耶 和 華 在 天 上 立 定 寶 座 ； 他 的 權 柄 （ 原 文 是 國 ） 統 管 萬 有 。",
+      "en": "The Lord has established his throne in heaven; his kingdom extends over everything.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יְֽהוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "בַּ֭שָּׁמַיִם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "הֵכִ֣ין",
+          "morph": "HVhp3ms"
+        },
+        {
+          "w": "כִּסְא֑וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וּ֝מַלְכוּת֗וֹ",
+          "morph": "HC/Ncfsc/Sp3ms"
+        },
+        {
+          "w": "בַּכֹּ֥ל",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "מָשָֽׁלָה",
+          "morph": "HVqp3fs"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "zh": "聽 從 他 命 令 、 成 全 他 旨 意 、 有 大 能 的 天 使 ， 都 要 稱 頌 耶 和 華 ！",
+      "en": "Praise the Lord, you angels of his, you powerful warriors who carry out his decrees and obey his orders.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בָּרֲכ֥וּ",
+          "morph": "HVpv2mp"
+        },
+        {
+          "w": "יְהוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "מַלְאָ֫כָ֥יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "גִּבֹּ֣רֵי",
+          "morph": "HAampc"
+        },
+        {
+          "w": "כֹ֭חַ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "עֹשֵׂ֣י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "דְבָר֑וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "לִ֝שְׁמֹ֗עַ",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "בְּק֣וֹל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "דְּבָרֽוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "zh": "你 們 作 他 的 諸 軍 ， 作 他 的 僕 役 ， 行 他 所 喜 悅 的 ， 都 要 稱 頌 耶 和 華 ！",
+      "en": "Praise the Lord, all you warriors of his, you servants of his who carry out his desires.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בָּרֲכ֣וּ",
+          "morph": "HVpv2mp"
+        },
+        {
+          "w": "יְ֭הוָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "צְבָאָ֑יו",
+          "morph": "HNcbpc/Sp3ms"
+        },
+        {
+          "w": "מְ֝שָׁרְתָ֗יו",
+          "morph": "HVprmpc/Sp3ms"
+        },
+        {
+          "w": "עֹשֵׂ֥י",
+          "morph": "HVqrmpc"
+        },
+        {
+          "w": "רְצוֹנֽוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "zh": "你 們 一 切 被 他 造 的 ， 在 他 所 治 理 的 各 處 ， 都 要 稱 頌 耶 和 華 ！ 我 的 心 哪 ， 你 要 稱 頌 耶 和 華 ！",
+      "en": "Praise the Lord, all that he has made, in all the regions of his kingdom. Praise the Lord, O my soul.",
+      "notes": [],
+      "he": [
+        {
+          "w": "בָּרֲכ֤וּ",
+          "morph": "HVpv2mp"
+        },
+        {
+          "w": "יְהוָ֨ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "כָּֽל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מַעֲשָׂ֗יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "בְּכָל",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "מְקֹמ֥וֹת",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "מֶמְשַׁלְתּ֑וֹ",
+          "morph": "HNcbsc/Sp3ms"
+        },
+        {
+          "w": "בָּרֲכִ֥י",
+          "morph": "HVpv2fs"
+        },
+        {
+          "w": "נַ֝פְשִׁ֗י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "יְהוָֽה",
+          "morph": "HNp"
+        }
+      ]
+    }
+  ]
+}

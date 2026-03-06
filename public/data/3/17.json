@@ -1,0 +1,1230 @@
+{
+  "book": 3,
+  "chapter": 17,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "耶 和 華 對 摩 西 說 ：",
+      "en": "The Lord spoke to Moses,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַיְדַבֵּ֥ר",
+          "morph": "HC/Vpw3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "מֹשֶׁ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵּאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "你 曉 諭 亞 倫 和 他 兒 子 並 以 色 列 眾 人 說 ， 耶 和 華 所 吩 咐 的 乃 是 這 樣 ：",
+      "en": "“Speak to Aaron, his sons, and all the Israelites, and tell them, ‘This is the word that the Lord has commanded,",
+      "notes": [],
+      "he": [
+        {
+          "w": "דַּבֵּ֨ר",
+          "morph": "HVpv2ms"
+        },
+        {
+          "w": "אֶֽל",
+          "morph": "HR"
+        },
+        {
+          "w": "אַהֲרֹ֜ן",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "בָּנָ֗יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וְאֶל֙",
+          "morph": "HC/R"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וְאָמַרְתָּ֖",
+          "morph": "HC/Vqq2ms"
+        },
+        {
+          "w": "אֲלֵיהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "זֶ֣ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "הַדָּבָ֔ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "צִוָּ֥ה",
+          "morph": "HVpp3ms"
+        },
+        {
+          "w": "יְהוָ֖ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "לֵאמֹֽר",
+          "morph": "HR/Vqc"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "凡 以 色 列 家 中 的 人 宰 公 牛 ， 或 是 綿 羊 羔 ， 或 是 山 羊 ， 不 拘 宰 於 營 內 營 外 ，",
+      "en": "“Blood guilt will be accounted to any man from the house of Israel who slaughters an ox or a lamb or a goat inside the camp or outside the camp,",
+      "notes": [],
+      "he": [
+        {
+          "w": "אִ֥ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אִישׁ֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִבֵּ֣ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִשְׁחַ֜ט",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "שׁ֥וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "כֶ֛שֶׂב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "עֵ֖ז",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "בַּֽמַּחֲנֶ֑ה",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "א֚וֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יִשְׁחַ֔ט",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "מִח֖וּץ",
+          "morph": "HR/Ncmsa"
+        },
+        {
+          "w": "לַֽמַּחֲנֶֽה",
+          "morph": "HRd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "若 未 曾 牽 到 會 幕 門 口 、 耶 和 華 的 帳 幕 前 獻 給 耶 和 華 為 供 物 ， 流 血 的 罪 必 歸 到 那 人 身 上 。 他 流 了 血 ， 要 從 民 中 剪 除 。",
+      "en": "but has not brought it to the entrance of the Meeting Tent to present it as an offering to the Lord before the tabernacle of the Lord. He has shed blood, so that man will be cut off from the midst of his people.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "פֶּ֜תַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹ֣הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵד֮",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "הֱבִיאוֹ֒",
+          "morph": "HVhp3ms/Sp3ms"
+        },
+        {
+          "w": "לְהַקְרִ֤יב",
+          "morph": "HR/Vhc"
+        },
+        {
+          "w": "קָרְבָּן֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַֽיהוָ֔ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "לִפְנֵ֖י",
+          "morph": "HR/Ncbpc"
+        },
+        {
+          "w": "מִשְׁכַּ֣ן",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "דָּ֣ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "יֵחָשֵׁ֞ב",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "לָאִ֤ישׁ",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הַהוּא֙",
+          "morph": "HTd/Pp3ms"
+        },
+        {
+          "w": "דָּ֣ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "שָׁפָ֔ךְ",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "וְנִכְרַ֛ת",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "הָאִ֥ישׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַה֖וּא",
+          "morph": "HTd/Pp3ms"
+        },
+        {
+          "w": "מִקֶּ֥רֶב",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עַמּֽוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "這 是 為 要 使 以 色 列 人 把 他 們 在 田 野 裡 所 獻 的 祭 帶 到 會 幕 門 口 、 耶 和 華 面 前 ， 交 給 祭 司 ， 獻 與 耶 和 華 為 平 安 祭 。",
+      "en": "This is so that the Israelites will bring their sacrifices that they are sacrificing in the open field to the Lord at the entrance of the Meeting Tent—to the priest—and sacrifice them there as peace-offering sacrifices to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְמַעַן֩",
+          "morph": "HR"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יָבִ֜יאוּ",
+          "morph": "HVhi3mp"
+        },
+        {
+          "w": "בְּנֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֗ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "אֶֽת",
+          "morph": "HTo"
+        },
+        {
+          "w": "זִבְחֵיהֶם֮",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הֵ֣ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "זֹבְחִים֮",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "פְּנֵ֣י",
+          "morph": "HNcbpc"
+        },
+        {
+          "w": "הַשָּׂדֶה֒",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וֶֽהֱבִיאֻ֣ם",
+          "morph": "HC/Vhq3cp/Sp3mp"
+        },
+        {
+          "w": "לַֽיהוָ֗ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "פֶּ֛תַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹ֥הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵ֖ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֶל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַכֹּהֵ֑ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְזָ֨בְח֜וּ",
+          "morph": "HC/Vqq3cp"
+        },
+        {
+          "w": "זִבְחֵ֧י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "שְׁלָמִ֛ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "לַֽיהוָ֖ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "אוֹתָֽם",
+          "morph": "HTo/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "祭 司 要 把 血 灑 在 會 幕 門 口 、 耶 和 華 的 壇 上 ， 把 脂 油 焚 燒 ， 獻 給 耶 和 華 為 馨 香 的 祭 。",
+      "en": "The priest is to splash the blood on the altar of the Lord at the entrance of the Meeting Tent, and offer the fat up in smoke for a soothing aroma to the Lord.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְזָרַ֨ק",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "הַכֹּהֵ֤ן",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַדָּם֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "מִזְבַּ֣ח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "יְהוָ֔ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "פֶּ֖תַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹ֣הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵ֑ד",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְהִקְטִ֣יר",
+          "morph": "HC/Vhq3ms"
+        },
+        {
+          "w": "הַחֵ֔לֶב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְרֵ֥יחַ",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "נִיחֹ֖חַ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַיהוָֽה",
+          "morph": "HR/Np"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "他 們 不 可 再 獻 祭 給 他 們 行 邪 淫 所 隨 從 的 鬼 魔 （ 原 文 作 公 山 羊 ） ； 這 要 作 他 們 世 世 代 代 永 遠 的 定 例 。",
+      "en": "So the people must no longer offer their sacrifices to the goat demons, acting like prostitutes by going after them. This is to be a perpetual statute for them throughout their generations.”’",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְלֹא",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "יִזְבְּח֥וּ",
+          "morph": "HVqi3mp"
+        },
+        {
+          "w": "עוֹד֙",
+          "morph": "HD"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "זִבְחֵיהֶ֔ם",
+          "morph": "HNcmpc/Sp3mp"
+        },
+        {
+          "w": "לַשְּׂעִירִ֕ם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "אֲשֶׁ֛ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "הֵ֥ם",
+          "morph": "HPp3mp"
+        },
+        {
+          "w": "זֹנִ֖ים",
+          "morph": "HVqrmpa"
+        },
+        {
+          "w": "אַחֲרֵיהֶ֑ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "חֻקַּ֥ת",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "עוֹלָ֛ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "תִּֽהְיֶה",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "זֹּ֥את",
+          "morph": "HPdxfs"
+        },
+        {
+          "w": "לָהֶ֖ם",
+          "morph": "HR/Sp3mp"
+        },
+        {
+          "w": "לְדֹרֹתָֽם",
+          "morph": "HR/Ncmpc/Sp3mp"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "你 要 曉 諭 他 們 說 ： 凡 以 色 列 家 中 的 人 ， 或 是 寄 居 在 他 們 中 間 的 外 人 ， 獻 燔 祭 或 是 平 安 祭 ，",
+      "en": "“You are to say to them: ‘Any man from the house of Israel or from the resident foreigners who live in their midst, who offers a burnt offering or a sacrifice",
+      "notes": [],
+      "he": [
+        {
+          "w": "וַאֲלֵהֶ֣ם",
+          "morph": "HC/R/Sp3mp"
+        },
+        {
+          "w": "תֹּאמַ֔ר",
+          "morph": "HVqi2ms"
+        },
+        {
+          "w": "אִ֥ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אִישׁ֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִבֵּ֣ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַגֵּ֖ר",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יָג֣וּר",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בְּתוֹכָ֑ם",
+          "morph": "HR/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "אֲשֶׁר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יַעֲלֶ֥ה",
+          "morph": "HVhi3ms"
+        },
+        {
+          "w": "עֹלָ֖ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "זָֽבַח",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "若 不 帶 到 會 幕 門 口 獻 給 耶 和 華 ， 那 人 必 從 民 中 剪 除 。",
+      "en": "but does not bring it to the entrance of the Meeting Tent to offer it to the Lord—that person will be cut off from his people.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאֶל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "פֶּ֜תַח",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹ֤הֶל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "מוֹעֵד֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יְבִיאֶ֔נּוּ",
+          "morph": "HVhi3ms/Sp3ms"
+        },
+        {
+          "w": "לַעֲשׂ֥וֹת",
+          "morph": "HR/Vqc"
+        },
+        {
+          "w": "אֹת֖וֹ",
+          "morph": "HTo/Sp3ms"
+        },
+        {
+          "w": "לַיהוָ֑ה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "וְנִכְרַ֛ת",
+          "morph": "HC/VNq3ms"
+        },
+        {
+          "w": "הָאִ֥ישׁ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַה֖וּא",
+          "morph": "HTd/Pp3ms"
+        },
+        {
+          "w": "מֵעַמָּֽיו",
+          "morph": "HR/Ncmpc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "凡 以 色 列 家 中 的 人 ， 或 是 寄 居 在 他 們 中 間 的 外 人 ， 若 吃 甚 麼 血 ， 我 必 向 那 吃 血 的 人 變 臉 ， 把 他 從 民 中 剪 除 。",
+      "en": "“‘Any man from the house of Israel or from the resident foreigners who live in their midst who eats any blood, I will set my face against that person who eats the blood, and I will cut him off from the midst of his people,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִ֨ישׁ",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אִ֜ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִבֵּ֣ית",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֗ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַגֵּר֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַגָּ֣ר",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "בְּתוֹכָ֔ם",
+          "morph": "HR/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "אֲשֶׁ֥ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יֹאכַ֖ל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דָּ֑ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְנָתַתִּ֣י",
+          "morph": "HC/Vqq1cs"
+        },
+        {
+          "w": "פָנַ֗י",
+          "morph": "HNcbpc/Sp1cs"
+        },
+        {
+          "w": "בַּנֶּ֨פֶשׁ֙",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "הָאֹכֶ֣לֶת",
+          "morph": "HTd/Vqrfsa"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "הַדָּ֔ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְהִכְרַתִּ֥י",
+          "morph": "HC/Vhq1cs"
+        },
+        {
+          "w": "אֹתָ֖הּ",
+          "morph": "HTo/Sp3fs"
+        },
+        {
+          "w": "מִקֶּ֥רֶב",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "עַמָּֽהּ",
+          "morph": "HNcmsc/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "zh": "因 為 活 物 的 生 命 是 在 血 中 。 我 把 這 血 賜 給 你 們 ， 可 以 在 壇 上 為 你 們 的 生 命 贖 罪 ； 因 血 裡 有 生 命 ， 所 以 能 贖 罪 。",
+      "en": "for the life of every living thing is in the blood. So I myself have assigned it to you on the altar to make atonement for your lives, for the blood makes atonement by means of the life.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "נֶ֣פֶשׁ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "הַבָּשָׂר֮",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "בַּדָּ֣ם",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "הִוא֒",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "וַאֲנִ֞י",
+          "morph": "HC/Pp1cs"
+        },
+        {
+          "w": "נְתַתִּ֤יו",
+          "morph": "HVqp1cs/Sp3ms"
+        },
+        {
+          "w": "לָכֶם֙",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "הַמִּזְבֵּ֔חַ",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "לְכַפֵּ֖ר",
+          "morph": "HR/Vpc"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "נַפְשֹׁתֵיכֶ֑ם",
+          "morph": "HNcbpc/Sp2mp"
+        },
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "הַדָּ֥ם",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "ה֖וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "בַּנֶּ֥פֶשׁ",
+          "morph": "HRd/Ncbsa"
+        },
+        {
+          "w": "יְכַפֵּֽר",
+          "morph": "HVpi3ms"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "zh": "因 此 ， 我 對 以 色 列 人 說 ： 你 們 都 不 可 吃 血 ； 寄 居 在 你 們 中 間 的 外 人 也 不 可 吃 血 。",
+      "en": "Therefore, I have said to the Israelites: No person among you is to eat blood, and no resident foreigner who lives among you is to eat blood.",
+      "notes": [],
+      "he": [
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "כֵּ֤ן",
+          "morph": "HTm"
+        },
+        {
+          "w": "אָמַ֨רְתִּי֙",
+          "morph": "HVqp1cs"
+        },
+        {
+          "w": "לִבְנֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "נֶ֥פֶשׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "מִכֶּ֖ם",
+          "morph": "HR/Sp2mp"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֹ֣אכַל",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "דָּ֑ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְהַגֵּ֛ר",
+          "morph": "HC/Td/Ncmsa"
+        },
+        {
+          "w": "הַגָּ֥ר",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "בְּתוֹכְכֶ֖ם",
+          "morph": "HR/Ncmsc/Sp2mp"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "יֹ֥אכַל",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "דָּֽם",
+          "morph": "HNcmsa"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "zh": "凡 以 色 列 人 ， 或 是 寄 居 在 他 們 中 間 的 外 人 ， 若 打 獵 得 了 可 吃 的 禽 獸 ， 必 放 出 他 的 血 來 ， 用 土 掩 蓋 。",
+      "en": "“‘Any man from the Israelites or from the resident foreigners who live in their midst who hunts a wild animal or a bird that may be eaten must pour out its blood and cover it with soil,",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִ֨ישׁ",
+          "morph": "HC/Ncmsa"
+        },
+        {
+          "w": "אִ֜ישׁ",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "מִבְּנֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֗ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִן",
+          "morph": "HC/R"
+        },
+        {
+          "w": "הַגֵּר֙",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "הַגָּ֣ר",
+          "morph": "HTd/Vqrmsa"
+        },
+        {
+          "w": "בְּתוֹכָ֔ם",
+          "morph": "HR/Ncmsc/Sp3mp"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יָצ֜וּד",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "צֵ֥יד",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "חַיָּ֛ה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "אוֹ",
+          "morph": "HC"
+        },
+        {
+          "w": "ע֖וֹף",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֣ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "יֵאָכֵ֑ל",
+          "morph": "HVNi3ms"
+        },
+        {
+          "w": "וְשָׁפַךְ֙",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "אֶת",
+          "morph": "HTo"
+        },
+        {
+          "w": "דָּמ֔וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "וְכִסָּ֖הוּ",
+          "morph": "HC/Vpq3ms/Sp3ms"
+        },
+        {
+          "w": "בֶּעָפָֽר",
+          "morph": "HRd/Ncmsa"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "zh": "論 到 一 切 活 物 的 生 命 ， 就 在 血 中 。 所 以 我 對 以 色 列 人 說 ： 無 論 甚 麼 活 物 的 血 ， 你 們 都 不 可 吃 ， 因 為 一 切 活 物 的 血 就 是 他 的 生 命 。 凡 吃 了 血 的 ， 必 被 剪 除 。",
+      "en": "for the life of all flesh is its blood. So I have said to the Israelites: You must not eat the blood of any living thing because the life of every living thing is its blood—all who eat it will be cut off.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּֽי",
+          "morph": "HC"
+        },
+        {
+          "w": "נֶ֣פֶשׁ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּשָׂ֗ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "דָּמ֣וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "בְנַפְשׁוֹ֮",
+          "morph": "HR/Ncbsc/Sp3ms"
+        },
+        {
+          "w": "הוּא֒",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "וָֽאֹמַר֙",
+          "morph": "HC/Vqw1cs"
+        },
+        {
+          "w": "לִבְנֵ֣י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׂרָאֵ֔ל",
+          "morph": "HNp"
+        },
+        {
+          "w": "דַּ֥ם",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּשָׂ֖ר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "תֹאכֵ֑לוּ",
+          "morph": "HVqi2mp"
+        },
+        {
+          "w": "כִּ֣י",
+          "morph": "HC"
+        },
+        {
+          "w": "נֶ֤פֶשׁ",
+          "morph": "HNcbsc"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "בָּשָׂר֙",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "דָּמ֣וֹ",
+          "morph": "HNcmsc/Sp3ms"
+        },
+        {
+          "w": "הִ֔וא",
+          "morph": "HPp3fs"
+        },
+        {
+          "w": "כָּל",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "אֹכְלָ֖יו",
+          "morph": "HVqrmpc/Sp3ms"
+        },
+        {
+          "w": "יִכָּרֵֽת",
+          "morph": "HVNi3ms"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "zh": "凡 吃 自 死 的 ， 或 是 被 野 獸 撕 裂 的 ， 無 論 是 本 地 人 ， 是 寄 居 的 ， 必 不 潔 淨 到 晚 上 ， 都 要 洗 衣 服 ， 用 水 洗 身 ， 到 了 晚 上 才 為 潔 淨 。",
+      "en": "“‘Any person who eats an animal that has died of natural causes or an animal torn by beasts, whether a native citizen or a resident foreigner, must wash his clothes, bathe in water, and be unclean until evening; then he will be clean.",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְכָל",
+          "morph": "HC/Ncmsc"
+        },
+        {
+          "w": "נֶ֗פֶשׁ",
+          "morph": "HNcbsa"
+        },
+        {
+          "w": "אֲשֶׁ֨ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "תֹּאכַ֤ל",
+          "morph": "HVqi3fs"
+        },
+        {
+          "w": "נְבֵלָה֙",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וּטְרֵפָ֔ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "בָּאֶזְרָ֖ח",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "וּבַגֵּ֑ר",
+          "morph": "HC/Rd/Ncmsa"
+        },
+        {
+          "w": "וְכִבֶּ֨ס",
+          "morph": "HC/Vpq3ms"
+        },
+        {
+          "w": "בְּגָדָ֜יו",
+          "morph": "HNcmpc/Sp3ms"
+        },
+        {
+          "w": "וְרָחַ֥ץ",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "בַּמַּ֛יִם",
+          "morph": "HRd/Ncmpa"
+        },
+        {
+          "w": "וְטָמֵ֥א",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "עַד",
+          "morph": "HR"
+        },
+        {
+          "w": "הָעֶ֖רֶב",
+          "morph": "HTd/Ncmsa"
+        },
+        {
+          "w": "וְטָהֵֽר",
+          "morph": "HC/Vqq3ms"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "zh": "但 他 若 不 洗 衣 服 ， 也 不 洗 身 ， 就 必 擔 當 他 的 罪 孽 。",
+      "en": "But if he does not wash his clothes and does not bathe his body, he will bear his punishment for his iniquity.’”",
+      "notes": [],
+      "he": [
+        {
+          "w": "וְאִם֙",
+          "morph": "HC/C"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יְכַבֵּ֔ס",
+          "morph": "HVpi3ms"
+        },
+        {
+          "w": "וּבְשָׂר֖וֹ",
+          "morph": "HC/Ncmsc/Sp3ms"
+        },
+        {
+          "w": "לֹ֣א",
+          "morph": "HTn"
+        },
+        {
+          "w": "יִרְחָ֑ץ",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "וְנָשָׂ֖א",
+          "morph": "HC/Vqq3ms"
+        },
+        {
+          "w": "עֲוֺנֽוֹ",
+          "morph": "HNcbsc/Sp3ms"
+        }
+      ]
+    }
+  ]
+}

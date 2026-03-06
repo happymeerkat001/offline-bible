@@ -1,0 +1,446 @@
+{
+  "book": 19,
+  "chapter": 24,
+  "verses": [
+    {
+      "v": 1,
+      "zh": "（ 大 衛 的 詩 。 ） 地 和 其 中 所 充 滿 的 ， 世 界 和 住 在 其 間 的 ， 都 屬 耶 和 華 。",
+      "en": "A psalm of David. The Lord owns the earth and all it contains, the world and all who live in it.",
+      "notes": [],
+      "he": [
+        {
+          "w": "לְדָוִ֗ד",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "מִ֫זְמ֥וֹר",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "לַֽ֭יהוָה",
+          "morph": "HR/Np"
+        },
+        {
+          "w": "הָאָ֣רֶץ",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "וּמְלוֹאָ֑הּ",
+          "morph": "HC/Ncmsc/Sp3fs"
+        },
+        {
+          "w": "תֵּ֝בֵ֗ל",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "וְיֹ֣שְׁבֵי",
+          "morph": "HC/Vqrmpc"
+        },
+        {
+          "w": "בָֽהּ",
+          "morph": "HR/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "zh": "他 把 地 建 立 在 海 上 ， 安 定 在 大 水 之 上 。",
+      "en": "For he set its foundation upon the seas, and established it upon the ocean currents.",
+      "notes": [],
+      "he": [
+        {
+          "w": "כִּי",
+          "morph": "HC"
+        },
+        {
+          "w": "ה֭וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "עַל",
+          "morph": "HR"
+        },
+        {
+          "w": "יַמִּ֣ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "יְסָדָ֑הּ",
+          "morph": "HVqp3ms/Sp3fs"
+        },
+        {
+          "w": "וְעַל",
+          "morph": "HC/R"
+        },
+        {
+          "w": "נְ֝הָר֗וֹת",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "יְכוֹנְנֶֽהָ",
+          "morph": "HVoi3ms/Sp3fs"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "zh": "誰 能 登 耶 和 華 的 山 ？ 誰 能 站 在 他 的 聖 所 ？",
+      "en": "Who is allowed to ascend the mountain of the Lord? Who may go up to his holy dwelling place?",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִֽי",
+          "morph": "HTi"
+        },
+        {
+          "w": "יַעֲלֶ֥ה",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בְהַר",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּמִי",
+          "morph": "HC/Ti"
+        },
+        {
+          "w": "יָ֝קוּם",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בִּמְק֥וֹם",
+          "morph": "HR/Ncmsc"
+        },
+        {
+          "w": "קָדְשֽׁוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "zh": "就 是 手 潔 心 清 、 不 向 虛 妄 、 起 誓 不 懷 詭 詐 的 人 。",
+      "en": "The one whose deeds are blameless and whose motives are pure, who does not lie, or make promises with no intention of keeping them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "נְקִ֥י",
+          "morph": "HAamsc"
+        },
+        {
+          "w": "כַפַּ֗יִם",
+          "morph": "HNcfda"
+        },
+        {
+          "w": "וּֽבַר",
+          "morph": "HC/Aamsc"
+        },
+        {
+          "w": "לֵ֫בָ֥ב",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "אֲשֶׁ֤ר",
+          "morph": "HTr"
+        },
+        {
+          "w": "לֹא",
+          "morph": "HTn"
+        },
+        {
+          "w": "נָשָׂ֣א",
+          "morph": "HVqp3ms"
+        },
+        {
+          "w": "לַשָּׁ֣וְא",
+          "morph": "HRd/Ncmsa"
+        },
+        {
+          "w": "נַפְשִׁ֑י",
+          "morph": "HNcbsc/Sp1cs"
+        },
+        {
+          "w": "וְלֹ֖א",
+          "morph": "HC/Tn"
+        },
+        {
+          "w": "נִשְׁבַּ֣ע",
+          "morph": "HVNp3ms"
+        },
+        {
+          "w": "לְמִרְמָֽה",
+          "morph": "HR/Ncfsa"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "zh": "他 必 蒙 耶 和 華 賜 福 ， 又 蒙 救 他 的 神 使 他 成 義 。",
+      "en": "Such godly people are rewarded by the Lord, and vindicated by the God who delivers them.",
+      "notes": [],
+      "he": [
+        {
+          "w": "יִשָּׂ֣א",
+          "morph": "HVqi3ms"
+        },
+        {
+          "w": "בְ֭רָכָה",
+          "morph": "HNcfsa"
+        },
+        {
+          "w": "מֵאֵ֣ת",
+          "morph": "HR/R"
+        },
+        {
+          "w": "יְהוָ֑ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "וּ֝צְדָקָ֗ה",
+          "morph": "HC/Ncfsa"
+        },
+        {
+          "w": "מֵאֱלֹהֵ֥י",
+          "morph": "HR/Ncmpc"
+        },
+        {
+          "w": "יִשְׁעֽוֹ",
+          "morph": "HNcmsc/Sp3ms"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "zh": "這 是 尋 求 耶 和 華 的 族 類 ， 是 尋 求 你 面 的 雅 各 。 （ 細 拉 ）",
+      "en": "Such purity characterizes the people who seek his favor, Jacob’s descendants, who pray to him. (Selah)",
+      "notes": [],
+      "he": [
+        {
+          "w": "זֶ֭ה",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "דּ֣וֹר",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "דרשו",
+          "morph": "HVqrmsc/Sp3ms"
+        },
+        {
+          "w": "דֹּרְשָׁ֑יו",
+          "morph": "HVqrmpc/Sp3ms"
+        },
+        {
+          "w": "מְבַקְשֵׁ֨י",
+          "morph": "HVprmpc"
+        },
+        {
+          "w": "פָנֶ֖יךָ",
+          "morph": "HNcbpc/Sp2ms"
+        },
+        {
+          "w": "יַעֲקֹ֣ב",
+          "morph": "HNp"
+        },
+        {
+          "w": "סֶֽלָה",
+          "morph": "HTj"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "zh": "眾 城 門 哪 ， 你 們 要 抬 起 頭 來 ！ 永 久 的 門 戶 ， 你 們 要 被 舉 起 ！ 那 榮 耀 的 王 將 要 進 來 ！",
+      "en": "Look up, you gates. Rise up, you eternal doors. Then the majestic king will enter.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׂא֤וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "שְׁעָרִ֨ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רָֽאשֵׁיכֶ֗ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "וְֽ֭הִנָּשְׂאוּ",
+          "morph": "HC/VNv2mp"
+        },
+        {
+          "w": "פִּתְחֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עוֹלָ֑ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְ֝יָב֗וֹא",
+          "morph": "HC/Vqi3ms"
+        },
+        {
+          "w": "מֶ֣לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַכָּבֽוֹד",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "zh": "榮 耀 的 王 是 誰 呢 ？ 就 是 有 力 有 能 的 耶 和 華 ， 在 戰 場 上 有 能 的 耶 和 華 ！",
+      "en": "Who is this majestic king? The Lord who is strong and mighty. The Lord who is mighty in battle.",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִ֥י",
+          "morph": "HTi"
+        },
+        {
+          "w": "זֶה֮",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "מֶ֤לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַכָּ֫ב֥וֹד",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "יְ֭הוָה",
+          "morph": "HNp"
+        },
+        {
+          "w": "עִזּ֣וּז",
+          "morph": "HAamsa"
+        },
+        {
+          "w": "וְגִבּ֑וֹר",
+          "morph": "HC/Aamsa"
+        },
+        {
+          "w": "יְ֝הוָ֗ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "גִּבּ֥וֹר",
+          "morph": "HAamsc"
+        },
+        {
+          "w": "מִלְחָמָֽה",
+          "morph": "HNcfsa"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "zh": "眾 城 門 哪 ， 你 們 要 抬 起 頭 來 ！ 永 久 的 門 戶 ， 你 們 要 把 頭 抬 起 ！ 那 榮 耀 的 王 將 要 進 來 ！",
+      "en": "Look up, you gates. Rise up, you eternal doors. Then the majestic king will enter.",
+      "notes": [],
+      "he": [
+        {
+          "w": "שְׂא֤וּ",
+          "morph": "HVqv2mp"
+        },
+        {
+          "w": "שְׁעָרִ֨ים",
+          "morph": "HNcmpa"
+        },
+        {
+          "w": "רָֽאשֵׁיכֶ֗ם",
+          "morph": "HNcmpc/Sp2mp"
+        },
+        {
+          "w": "וּ֭שְׂאוּ",
+          "morph": "HC/Vqv2mp"
+        },
+        {
+          "w": "פִּתְחֵ֣י",
+          "morph": "HNcmpc"
+        },
+        {
+          "w": "עוֹלָ֑ם",
+          "morph": "HNcmsa"
+        },
+        {
+          "w": "וְ֝יָבֹא",
+          "morph": "HC/Vqi3ms"
+        },
+        {
+          "w": "מֶ֣לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַכָּבֽוֹד",
+          "morph": "HTd/Ncbsa"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "zh": "榮 耀 的 王 是 誰 呢 ？ 萬 軍 之 耶 和 華 ， 他 是 榮 耀 的 王 ！ （ 細 拉 ）",
+      "en": "Who is this majestic king? The Lord of Heaven’s Armies. He is the majestic king. (Selah)",
+      "notes": [],
+      "he": [
+        {
+          "w": "מִ֤י",
+          "morph": "HTi"
+        },
+        {
+          "w": "ה֣וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "זֶה֮",
+          "morph": "HPdxms"
+        },
+        {
+          "w": "מֶ֤לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַכָּ֫ב֥וֹד",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "יְהוָ֥ה",
+          "morph": "HNp"
+        },
+        {
+          "w": "צְבָא֑וֹת",
+          "morph": "HNcbpa"
+        },
+        {
+          "w": "ה֤וּא",
+          "morph": "HPp3ms"
+        },
+        {
+          "w": "מֶ֖לֶךְ",
+          "morph": "HNcmsc"
+        },
+        {
+          "w": "הַכָּב֣וֹד",
+          "morph": "HTd/Ncbsa"
+        },
+        {
+          "w": "סֶֽלָה",
+          "morph": "HTj"
+        }
+      ]
+    }
+  ]
+}
