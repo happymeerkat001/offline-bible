@@ -24,10 +24,13 @@ export function mountNavBar(
   const next = document.createElement('button');
   next.type = 'button';
   next.textContent = 'Next';
+  const currentBook = books.find((b) => b.usfm === current.usfm);
 
   select.addEventListener('change', () => setRoute(select.value, 1));
   prev.addEventListener('click', () => setRoute(current.usfm, Math.max(1, current.chapter - 1)));
-  next.addEventListener('click', () => setRoute(current.usfm, current.chapter + 1));
+  next.addEventListener('click', () =>
+    setRoute(current.usfm, Math.min(currentBook?.chapters ?? 1, current.chapter + 1))
+  );
 
   node.append(select, prev, next);
 }
