@@ -17,6 +17,7 @@ if (!main || !nav) {
   throw new Error('App shell is missing required mount points.');
 }
 
+(async () => {
 registerSW({
   onNeedRefresh() {
     const banner = document.createElement('button');
@@ -28,13 +29,16 @@ registerSW({
   }
 });
 
+
 const index = await fetchIndex();
 const booksByUsfm = new Map(index.books.map((book) => [book.usfm, book]));
 const fallback = loadLastRead() ?? { usfm: 'GEN', chapter: 1 };
 
+
 startRouter(async (route) => {
   await onRoute(route, index.books, booksByUsfm, main, nav);
 }, fallback);
+})();
 
 async function onRoute(
   route: RouteRef,
