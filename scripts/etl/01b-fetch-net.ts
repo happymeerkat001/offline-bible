@@ -39,7 +39,7 @@ for (let i = 0; i < tasks.length; i += BATCH_SIZE) {
   const results = await Promise.all(
     batch.map(async ({ bookName, chapter }) => {
       const passage = encodeURIComponent(`${bookName} ${chapter}`);
-      const url = `https://labs.bible.org/api/?passage=${passage}&type=json&formatting=plain`;
+      const url = `https://labs.bible.org/api/?passage=${passage}&type=json&formatting=full`;
       const res = await fetch(url);
       if (!res.ok) throw new Error(`HTTP ${res.status} for "${bookName} ${chapter}"`);
       return res.json() as Promise<BibleOrgVerse[]>;

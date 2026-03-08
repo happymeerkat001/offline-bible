@@ -38,11 +38,27 @@ async function main() {
   for (const v of source) {
     const bookId = BOOK_IDS[v.bookname];
     if (!bookId) continue;
+
+    // Extract <n id="X" /> footnote markers (Bible.org formatting=full format).
+    // The API does not provide note text — markers indicate footnote positions only.
+    const nTagRegex = /<n\s+id="(\d+)"\s*\/>/g;
+    const notes: string[] = [];
+    let noteMatch: RegExpExecArray | null;
+    while ((noteMatch = nTagRegex.exec(v.text)) !== null) {
+      notes.push(`NET footnote ${noteMatch[1]}`);
+    }
+
+    const cleanText = v.text
+      .replace(/<[^>]+>/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+
     out.push({
       bookId,
       chapter: Number(v.chapter),
       verse: Number(v.verse),
-      text: v.text.trim()
+      text: cleanText,
+      ...(notes.length > 0 ? { notes } : {})
     });
   }
 
