@@ -1,14 +1,14 @@
-import { registerSW } from 'virtual:pwa-register'; // run virtual module to register the service worker for PWA functionality, enabling offline support and caching of assets and API responses
-import { fetchChapter, fetchIndex, FetchError } from './api/bible'; // knowledge of API module for fetching Bible data
-import { renderChapter, renderError, renderLoading } from './components/ChapterView'; //knowledge of ChapterView component for rendering chapter content and handling loading/error states
-import { mountNavBar } from './components/NavBar'; //knowledge of NavBar component for rendering the navigation bar with book and chapter links
-import { startRouter, type RouteRef } from './router'; //knowledge of router module for handling client-side routing based on URL changes
-import { loadLastRead, saveLastRead } from './state'; // knowledge of state module for persisting and retrieving the last read book and chapter from local storage or similar persistence mechanism
-import type { BookMeta } from './types'; // knowledge of types module for defining the structure of book metadata used throughout the app
-import './styles/base.css'; // knowledge of base CSS for global styles and resets
-import './styles/verse.css'; // knowledge of verse CSS for styling individual verses in the chapter view
-import './styles/rtl.css'; // knowledge of RTL CSS for handling right-to-left text direction for languages that require it
-import './styles/dark.css'; // knowledge of dark CSS for providing a dark theme option for the app
+import { registerSW } from 'virtual:pwa-register';
+import { fetchChapter, fetchIndex, FetchError } from './api/bible';
+import { renderChapter, renderError, renderLoading } from './components/ChapterView';
+import { mountNavBar } from './components/NavBar';
+import { startRouter, type RouteRef } from './router';
+import { loadLastRead, saveLastRead } from './state';
+import type { BookMeta } from './types';
+import './styles/base.css';
+import './styles/verse.css';
+import './styles/rtl.css';
+import './styles/dark.css';
 
 const main = document.querySelector<HTMLElement>('#main');
 const nav = document.querySelector<HTMLElement>('#app-nav');

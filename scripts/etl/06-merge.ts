@@ -27,16 +27,6 @@ function indexTextByRef(items: CanonicalVerse[]): Map<string, string> {
   return map;
 }
 
-function indexNotesByRef(items: CanonicalVerse[]): Map<string, string[]> {
-  const map = new Map<string, string[]>();
-  items.forEach((item) => {
-    if (item.notes?.length) {
-      map.set(`${item.bookId}:${item.chapter}:${item.verse}`, item.notes);
-    }
-  });
-  return map;
-}
-
 function indexTokensByRef(items: TokenizedVerse[]): Map<string, WordToken[]> {
   const map = new Map<string, WordToken[]>();
   items.forEach((item) => map.set(`${item.bookId}:${item.chapter}:${item.verse}`, item.tokens));
@@ -45,9 +35,7 @@ function indexTokensByRef(items: TokenizedVerse[]): Map<string, WordToken[]> {
 
 async function main() {
   const zh = indexTextByRef(await readJsonFile<CanonicalVerse[]>(path.join(ROOT, 'scripts/parsed/zh.json')));
-  const enRaw = await readJsonFile<CanonicalVerse[]>(path.join(ROOT, 'scripts/parsed/en.json'));
-  const en = indexTextByRef(enRaw);
-  const enNotes = indexNotesByRef(enRaw);
+  const en = indexTextByRef(await readJsonFile<CanonicalVerse[]>(path.join(ROOT, 'scripts/parsed/en.json')));
   const gr = indexTokensByRef(await readJsonFile<TokenizedVerse[]>(path.join(ROOT, 'scripts/parsed/gr.json')));
   const he = indexTokensByRef(await readJsonFile<TokenizedVerse[]>(path.join(ROOT, 'scripts/parsed/he.json')));
 
@@ -71,7 +59,7 @@ async function main() {
           v: verse,
           zh: zh.get(key) ?? '',
           en: en.get(key) ?? '',
-          notes: enNotes.get(key) ?? []
+          notes: []
         };
         if (isNt) base.gr = gr.get(key) ?? [];
         else base.he = he.get(key) ?? [];
