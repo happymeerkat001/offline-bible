@@ -1,8 +1,8 @@
-import path from 'node:path';
-import { mkdir } from 'node:fs/promises';
-import { BOOKS } from '../lib/books';
-import { readJsonFile, writeJsonFile } from '../lib/io';
-import type { CanonicalVerse, TokenizedVerse, WordToken } from '../lib/types';
+import path from 'node:path'; // node:path for handling file paths across platforms
+import { mkdir } from 'node:fs/promises'; // node:fs/promises for asynchronous file system operations
+import { BOOKS } from '../lib/books'; // knowledge of book IDs and chapter counts
+import { readJsonFile, writeJsonFile } from '../lib/io'; // knowledge of utility functions for reading and writing JSON files
+import type { CanonicalVerse, TokenizedVerse, WordToken } from '../lib/types'; // Knowledge of data structures for verses and tokens
 
 interface ChapterVerse {
   v: number;

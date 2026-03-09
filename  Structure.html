@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bible PWA — Data Flow Architecture</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;800&display=swap');
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #080c14;
+    --grid: rgba(255,255,255,0.03);
+    --durable: #3b8eea;
+    --control: #f59e0b;
+    --mutation: #22c55e;
+    --deliver: #a855f7;
+    --sustain: #64748b;
+    --etl: #eab308;
+    --present: #14b8a6;
+    --dim: 0.12;
+  }
+
+  body {
+    background: var(--bg);
+    color: #e2e8f0;
+    font-family: 'Space Mono', monospace;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(var(--grid) 1px, transparent 1px),
+      linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  header {
+    position: relative;
+    z-index: 10;
+    padding: 2rem 2rem 0.5rem;
+    text-align: center;
+  }
+
+  header h1 {
+    font-family: 'Syne', sans-serif;
+    font-weight: 800;
+    font-size: clamp(1.4rem, 3vw, 2.2rem);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    background: linear-gradient(135deg, #94a3b8 0%, #e2e8f0 50%, #94a3b8 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  header p {
+    font-size: 0.72rem;
+    color: #475569;
+    letter-spacing: 0.15em;
+    margin-top: 0.4rem;
+    text-transform: uppercase;
+  }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem 1.6rem;
+    padding: 1.2rem 2rem;
+    position: relative;
+    z-index: 10;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #94a3b8;
+    cursor: pointer;
+    transition: color 0.2s;
+  }
+
+  .legend-item:hover { color: #e2e8f0; }
+
+  .legend-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .diagram-wrap {
+    position: relative;
+    z-index: 5;
+    padding: 1rem 1.5rem 3rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  svg.arch-svg {
+    width: 100%;
+    height: auto;
+    overflow: visible;
+  }
+
+  .node { cursor: pointer; transition: filter 0.3s; }
+  .node .node-bg { transition: opacity 0.3s, filter 0.3s; }
+  .node .node-label {
+    font-family: 'Syne', sans-serif;
+    font-weight: 800;
+    font-size: 13px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    fill: #e2e8f0;
+    transition: opacity 0.3s;
+  }
+  .node .node-sub {
+    font-family: 'Space Mono', monospace;
+    font-size: 7.5px;
+    fill: rgba(226,232,240,0.5);
+    transition: opacity 0.3s;
+  }
+
+  .arch-arrow { transition: opacity 0.3s; }
+  .sustain-ring { transition: opacity 0.3s; }
+
+  .dimmed .node-bg { opacity: var(--dim) !important; filter: none !important; }
+  .dimmed .node-label { opacity: var(--dim) !important; }
+  .dimmed .node-sub { opacity: var(--dim) !important; }
+  .dimmed.arch-arrow { opacity: var(--dim) !important; }
+  .dimmed.sustain-ring { opacity: var(--dim) !important; }
+
+  .file-panel {
+    position: fixed;
+    top: 50%;
+    right: 1.5rem;
+    transform: translateY(-50%) translateX(20px);
+    width: 280px;
+    background: rgba(8,12,20,0.96);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 8px;
+    padding: 1.2rem;
+    z-index: 100;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.25s, transform 0.25s;
+    backdrop-filter: blur(12px);
+    max-height: 80vh;
+    overflow-y: auto;
+  }
+
+  .file-panel.visible {
+    opacity: 1;
+    pointer-events: all;
+    transform: translateY(-50%) translateX(0);
+  }
+
+  .file-panel-title {
+    font-family: 'Syne', sans-serif;
+    font-weight: 800;
+    font-size: 0.85rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 0.8rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 1px solid rgba(255,255,255,0.07);
+  }
+
+  .file-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+  }
+  .file-item:last-child { border-bottom: none; }
+
+  .file-name {
+    font-size: 0.65rem;
+    font-family: 'Space Mono', monospace;
+    color: #cbd5e1;
+    word-break: break-all;
+  }
+
+  .file-desc {
+    font-size: 0.6rem;
+    color: #475569;
+    font-family: 'Space Mono', monospace;
+    line-height: 1.4;
+  }
+
+  .close-panel {
+    float: right;
+    background: none;
+    border: none;
+    color: #475569;
+    cursor: pointer;
+    font-size: 1rem;
+    line-height: 1;
+    padding: 0;
+    margin-left: 0.5rem;
+    transition: color 0.2s;
+  }
+  .close-panel:hover { color: #e2e8f0; }
+
+  .hint {
+    text-align: center;
+    font-size: 0.62rem;
+    color: #334155;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding-bottom: 1rem;
+    position: relative;
+    z-index: 10;
+    animation: pulse-hint 2.5s ease-in-out infinite;
+  }
+
+  @keyframes pulse-hint {
+    0%, 100% { opacity: 0.5; }
+    50% { opacity: 1; }
+  }
+
+  @media (max-width: 700px) {
+    .file-panel {
+      position: fixed;
+      top: auto;
+      bottom: 0;
+      right: 0;
+      left: 0;
+      width: 100%;
+      transform: none;
+      border-radius: 12px 12px 0 0;
+      max-height: 55vh;
+    }
+    .file-panel.visible { transform: none; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Bible PWA — Data Flow Architecture</h1>
+  <p>Causal Spine: Durable → Control → Mutation → Deliver</p>
+</header>
+
+<div class="legend">
+  <div class="legend-item" onclick="activateNode('durable')"><div class="legend-dot" style="background:var(--durable)"></div>Durable</div>
+  <div class="legend-item" onclick="activateNode('control')"><div class="legend-dot" style="background:var(--control)"></div>Control</div>
+  <div class="legend-item" onclick="activateNode('mutation')"><div class="legend-dot" style="background:var(--mutation)"></div>Mutation</div>
+  <div class="legend-item" onclick="activateNode('deliver')"><div class="legend-dot" style="background:var(--deliver)"></div>Deliver</div>
+  <div class="legend-item" onclick="activateNode('sustain')"><div class="legend-dot" style="background:var(--sustain)"></div>Sustain</div>
+  <div class="legend-item" onclick="activateNode('etl')"><div class="legend-dot" style="background:var(--etl)"></div>ETL Pipeline</div>
+  <div class="legend-item" onclick="activateNode('present')"><div class="legend-dot" style="background:var(--present)"></div>Present</div>
+</div>
+
+<p class="hint">↓ Click any node to explore its files ↓</p>
+
+<div class="diagram-wrap">
+<svg class="arch-svg" viewBox="0 0 900 580" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow-blue"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow-orange"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow-green"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow-purple"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow-teal"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow-yellow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <marker id="arr-blue" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#3b8eea"/></marker>
+    <marker id="arr-orange" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#f59e0b"/></marker>
+    <marker id="arr-green" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#22c55e"/></marker>
+    <marker id="arr-purple" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#a855f7"/></marker>
+    <marker id="arr-teal" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#14b8a6"/></marker>
+    <marker id="arr-yellow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#eab308"/></marker>
+    <marker id="arr-sustain" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#64748b"/></marker>
+  </defs>
+
+  <!-- SUSTAIN RING -->
+  <ellipse class="sustain-ring" id="sustain-ring" cx="470" cy="295" rx="370" ry="235"
+    fill="none" stroke="#64748b" stroke-width="1.5" stroke-dasharray="6 4" opacity="0.45"
+    onclick="activateNode('sustain')" style="cursor:pointer"/>
+  <text class="sustain-ring" x="100" y="88" fill="#64748b" font-family="Space Mono,monospace"
+    font-size="9" letter-spacing="0.15em" text-anchor="middle" opacity="0.6"
+    onclick="activateNode('sustain')" style="cursor:pointer">SUSTAIN</text>
+
+  <!-- ETL PIPELINE -->
+  <rect class="arch-arrow" id="etl-chain" x="28" y="100" width="90" height="290" rx="8"
+    fill="rgba(234,179,8,0.05)" stroke="rgba(234,179,8,0.2)" stroke-width="1"/>
+  <text x="73" y="118" fill="#eab308" font-family="Syne,sans-serif" font-size="8"
+    font-weight="800" letter-spacing="0.15em" text-anchor="middle"
+    class="arch-arrow" id="etl-label">ETL</text>
+
+  <g class="node" id="node-etl" onclick="activateNode('etl')">
+    <rect x="38" y="126" width="70" height="20" rx="3" fill="rgba(234,179,8,0.15)" stroke="#eab308" stroke-width="0.8" class="node-bg"/>
+    <text x="73" y="140" text-anchor="middle" fill="#eab308" font-family="Space Mono" font-size="7.5" class="node-sub">01-fetch.ts</text>
+    <line x1="73" y1="146" x2="73" y2="154" stroke="#eab308" stroke-width="1" marker-end="url(#arr-yellow)" class="node-bg"/>
+    <rect x="38" y="154" width="70" height="20" rx="3" fill="rgba(234,179,8,0.15)" stroke="#eab308" stroke-width="0.8" class="node-bg"/>
+    <text x="73" y="168" text-anchor="middle" fill="#eab308" font-family="Space Mono" font-size="7.5" class="node-sub">02-parse.ts</text>
+    <line x1="73" y1="174" x2="73" y2="182" stroke="#eab308" stroke-width="1" marker-end="url(#arr-yellow)" class="node-bg"/>
+    <rect x="38" y="182" width="70" height="20" rx="3" fill="rgba(234,179,8,0.15)" stroke="#eab308" stroke-width="0.8" class="node-bg"/>
+    <text x="73" y="196" text-anchor="middle" fill="#eab308" font-family="Space Mono" font-size="7.5" class="node-sub">03-clean.ts</text>
+    <line x1="73" y1="202" x2="73" y2="210" stroke="#eab308" stroke-width="1" marker-end="url(#arr-yellow)" class="node-bg"/>
+    <rect x="38" y="210" width="70" height="20" rx="3" fill="rgba(234,179,8,0.15)" stroke="#eab308" stroke-width="0.8" class="node-bg"/>
+    <text x="73" y="224" text-anchor="middle" fill="#eab308" font-family="Space Mono" font-size="7.5" class="node-sub">04-validate.ts</text>
+    <line x1="73" y1="230" x2="73" y2="238" stroke="#eab308" stroke-width="1" marker-end="url(#arr-yellow)" class="node-bg"/>
+    <rect x="38" y="238" width="70" height="20" rx="3" fill="rgba(234,179,8,0.15)" stroke="#eab308" stroke-width="0.8" class="node-bg"/>
+    <text x="73" y="252" text-anchor="middle" fill="#eab308" font-family="Space Mono" font-size="7.5" class="node-sub">05-transform.ts</text>
+    <line x1="73" y1="258" x2="73" y2="266" stroke="#eab308" stroke-width="1" marker-end="url(#arr-yellow)" class="node-bg"/>
+    <rect x="38" y="266" width="70" height="20" rx="3" fill="rgba(234,179,8,0.12)" stroke="#eab308" stroke-width="1.2" class="node-bg"/>
+    <text x="73" y="280" text-anchor="middle" fill="#eab308" font-family="Space Mono" font-size="7.5" font-weight="700" class="node-sub">06-merge.ts ★</text>
+    <line x1="73" y1="286" x2="73" y2="294" stroke="#eab308" stroke-width="1" marker-end="url(#arr-yellow)" class="node-bg"/>
+    <rect x="38" y="294" width="70" height="20" rx="3" fill="rgba(234,179,8,0.15)" stroke="#eab308" stroke-width="0.8" class="node-bg"/>
+    <text x="73" y="308" text-anchor="middle" fill="#eab308" font-family="Space Mono" font-size="7.5" class="node-sub">07-index.ts</text>
+  </g>
+
+  <!-- ETL → Durable -->
+  <path class="arch-arrow" id="etl-to-durable"
+    d="M108,290 C160,290 185,290 210,290"
+    fill="none" stroke="#eab308" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arr-yellow)" opacity="0.7"/>
+  <text x="160" y="284" fill="#eab308" font-family="Space Mono" font-size="7"
+    text-anchor="middle" opacity="0.6" class="arch-arrow" id="etl-lbl">writes</text>
+
+  <!-- DURABLE NODE -->
+  <g class="node" id="node-durable" onclick="activateNode('durable')" filter="url(#glow-blue)">
+    <rect x="210" y="235" width="150" height="110" rx="10"
+      fill="rgba(59,142,234,0.12)" stroke="#3b8eea" stroke-width="1.8" class="node-bg"/>
+    <text x="285" y="260" text-anchor="middle" class="node-label" fill="#3b8eea">DURABLE</text>
+    <text x="285" y="275" text-anchor="middle" class="node-sub">06-merge.ts writes truth</text>
+    <text x="285" y="289" text-anchor="middle" class="node-sub">public/data/{book}/{ch}.json</text>
+    <text x="285" y="303" text-anchor="middle" class="node-sub">public/data/index.json</text>
+    <text x="285" y="317" text-anchor="middle" class="node-sub">chapter.schema.json</text>
+    <text x="285" y="334" text-anchor="middle" fill="#3b8eea" font-size="7" font-family="Space Mono" opacity="0.4">stored truth</text>
+  </g>
+
+  <!-- CONTROL NODE -->
+  <g class="node" id="node-control" onclick="activateNode('control')" filter="url(#glow-orange)">
+    <rect x="430" y="175" width="150" height="110" rx="10"
+      fill="rgba(245,158,11,0.12)" stroke="#f59e0b" stroke-width="1.8" class="node-bg"/>
+    <text x="505" y="200" text-anchor="middle" class="node-label" fill="#f59e0b">CONTROL</text>
+    <text x="505" y="215" text-anchor="middle" class="node-sub">sw/service-worker.ts</text>
+    <text x="505" y="229" text-anchor="middle" class="node-sub">src/api/bible.ts</text>
+    <text x="505" y="243" text-anchor="middle" class="node-sub">DECISIONS.md</text>
+    <text x="505" y="274" text-anchor="middle" fill="#f59e0b" font-size="7" font-family="Space Mono" opacity="0.4">governs every fetch</text>
+  </g>
+
+  <!-- MUTATION NODE -->
+  <g class="node" id="node-mutation" onclick="activateNode('mutation')" filter="url(#glow-green)">
+    <rect x="430" y="340" width="150" height="100" rx="10"
+      fill="rgba(34,197,94,0.12)" stroke="#22c55e" stroke-width="1.8" class="node-bg"/>
+    <text x="505" y="365" text-anchor="middle" class="node-label" fill="#22c55e">MUTATION</text>
+    <text x="505" y="380" text-anchor="middle" class="node-sub">src/state.ts</text>
+    <text x="505" y="394" text-anchor="middle" class="node-sub">NavBar.ts</text>
+    <text x="505" y="408" text-anchor="middle" class="node-sub">VerseBlock.ts</text>
+    <text x="505" y="430" text-anchor="middle" fill="#22c55e" font-size="7" font-family="Space Mono" opacity="0.4">persistence + triggers</text>
+  </g>
+
+  <!-- DELIVER NODE -->
+  <g class="node" id="node-deliver" onclick="activateNode('deliver')" filter="url(#glow-purple)">
+    <rect x="680" y="235" width="150" height="110" rx="10"
+      fill="rgba(168,85,247,0.12)" stroke="#a855f7" stroke-width="1.8" class="node-bg"/>
+    <text x="755" y="260" text-anchor="middle" class="node-label" fill="#a855f7">DELIVER</text>
+    <text x="755" y="275" text-anchor="middle" class="node-sub">src/router.ts</text>
+    <text x="755" y="289" text-anchor="middle" class="node-sub">ChapterView.ts</text>
+    <text x="755" y="303" text-anchor="middle" class="node-sub">index.html</text>
+    <text x="755" y="334" text-anchor="middle" fill="#a855f7" font-size="7" font-family="Space Mono" opacity="0.4">renders to user</text>
+  </g>
+
+  <!-- PRESENT NODE -->
+  <g class="node" id="node-present" onclick="activateNode('present')" filter="url(#glow-teal)">
+    <rect x="430" y="68" width="150" height="68" rx="10"
+      fill="rgba(20,184,166,0.12)" stroke="#14b8a6" stroke-width="1.8" class="node-bg"/>
+    <text x="505" y="94" text-anchor="middle" class="node-label" fill="#14b8a6">PRESENT</text>
+    <text x="505" y="109" text-anchor="middle" class="node-sub">Frontend / Browser</text>
+    <text x="505" y="126" text-anchor="middle" fill="#14b8a6" font-size="7" font-family="Space Mono" opacity="0.4">user-facing layer</text>
+  </g>
+
+  <!-- ARROWS -->
+  <path class="arch-arrow" id="arr-d-c" d="M360,265 C395,265 395,230 430,230"
+    fill="none" stroke="#3b8eea" stroke-width="1.8" marker-end="url(#arr-blue)" opacity="0.7"/>
+  <text x="400" y="246" fill="#94a3b8" font-family="Space Mono" font-size="7.5" text-anchor="middle" class="arch-arrow" id="lbl-d-c" opacity="0.6">reads</text>
+
+  <path class="arch-arrow" id="arr-c-m" d="M505,285 L505,340"
+    fill="none" stroke="#f59e0b" stroke-width="1.8" marker-end="url(#arr-orange)" opacity="0.7"/>
+  <text x="520" y="315" fill="#94a3b8" font-family="Space Mono" font-size="7.5" class="arch-arrow" id="lbl-c-m" opacity="0.6">state</text>
+
+  <path class="arch-arrow" id="arr-m-d" d="M580,360 C630,360 650,320 680,300"
+    fill="none" stroke="#22c55e" stroke-width="1.8" marker-end="url(#arr-purple)" opacity="0.7"/>
+  <text x="638" y="346" fill="#94a3b8" font-family="Space Mono" font-size="7.5" text-anchor="middle" class="arch-arrow" id="lbl-m-d" opacity="0.6">routes</text>
+
+  <path class="arch-arrow" id="arr-c-d" d="M580,230 C630,230 650,260 680,268"
+    fill="none" stroke="#f59e0b" stroke-width="1.8" marker-end="url(#arr-purple)" opacity="0.7"/>
+  <text x="638" y="250" fill="#94a3b8" font-family="Space Mono" font-size="7.5" text-anchor="middle" class="arch-arrow" id="lbl-c-d" opacity="0.6">serves</text>
+
+  <path class="arch-arrow sustain-ring" id="arr-sustain-loop"
+    d="M755,345 C755,510 285,510 285,345"
+    fill="none" stroke="#64748b" stroke-width="1.2" stroke-dasharray="5 4" marker-end="url(#arr-sustain)" opacity="0.4"/>
+  <text x="520" y="518" fill="#64748b" font-family="Space Mono" font-size="8" text-anchor="middle"
+    class="arch-arrow sustain-ring" opacity="0.55">sustain loop</text>
+
+  <path class="arch-arrow" id="arr-p-c" d="M505,136 L505,175"
+    fill="none" stroke="#14b8a6" stroke-width="1.5" marker-end="url(#arr-orange)" opacity="0.7"/>
+  <text x="520" y="162" fill="#94a3b8" font-family="Space Mono" font-size="7.5" class="arch-arrow" id="lbl-p-c" opacity="0.6">fetch</text>
+
+  <path class="arch-arrow" id="arr-p-d" d="M580,100 C680,100 720,200 720,235"
+    fill="none" stroke="#14b8a6" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arr-teal)" opacity="0.55"/>
+  <text x="695" y="152" fill="#14b8a6" font-family="Space Mono" font-size="7" text-anchor="middle" class="arch-arrow" opacity="0.5">renders</text>
+
+  <path class="arch-arrow" id="arr-d-m" d="M285,345 C285,395 430,395 430,390"
+    fill="none" stroke="#3b8eea" stroke-width="1.2" stroke-dasharray="3 3" marker-end="url(#arr-green)" opacity="0.4"/>
+</svg>
+</div>
+
+<div class="file-panel" id="file-panel">
+  <button class="close-panel" onclick="closePanel()">✕</button>
+  <div class="file-panel-title" id="panel-title"></div>
+  <div id="panel-files"></div>
+</div>
+
+<script>
+const nodeData = {
+  durable: {
+    label: 'DURABLE', color: '#3b8eea',
+    files: [
+      { name: 'scripts/etl/06-merge.ts', desc: 'Writes the canonical truth; final ETL step that merges all processed data into output JSON files.' },
+      { name: 'public/data/{book}/{chapter}.json', desc: 'Stored truth on disk — one file per chapter, statically served at build time.' },
+      { name: 'public/data/index.json', desc: 'Boot file listing all available books and chapters; loaded first on app start.' },
+      { name: 'scripts/schema/chapter.schema.json', desc: 'JSON Schema contract defining the shape every chapter file must conform to.' },
+    ]
+  },
+  control: {
+    label: 'CONTROL', color: '#f59e0b',
+    files: [
+      { name: 'src/sw/service-worker.ts', desc: 'Intercepts every fetch request; decides cache-first vs. network-first strategy.' },
+      { name: 'src/api/bible.ts', desc: 'Single interface to truth — all data access routes through this module.' },
+      { name: 'DECISIONS.md', desc: 'Documents licensing choices, architecture trade-offs, and rationale for key decisions.' },
+    ]
+  },
+  mutation: {
+    label: 'MUTATION', color: '#22c55e',
+    files: [
+      { name: 'src/state.ts', desc: 'Owns all mutable app state (current book, chapter, verse highlight); handles persistence to localStorage.' },
+      { name: 'src/components/NavBar.ts', desc: 'Navigation trigger — user interactions here fire state mutations (chapter change, book select).' },
+      { name: 'src/components/VerseBlock.ts', desc: 'Interaction trigger — verse taps/clicks dispatch state changes (highlight, copy, share).' },
+    ]
+  },
+  deliver: {
+    label: 'DELIVER', color: '#a855f7',
+    files: [
+      { name: 'src/router.ts', desc: 'Maps URL paths to route handlers; translates browser URL → component to render.' },
+      { name: 'src/components/ChapterView.ts', desc: 'Renders the full chapter — receives data from state, outputs DOM via VerseBlock children.' },
+      { name: 'index.html', desc: 'App shell — minimal HTML container that bootstraps the PWA and registers the service worker.' },
+    ]
+  },
+  sustain: {
+    label: 'SUSTAIN', color: '#64748b',
+    files: [
+      { name: 'src/sw/service-worker.ts', desc: 'Cache versioning strategy — bumping CACHE_NAME triggers purge of old assets on next load.' },
+      { name: '.github/workflows/deploy.yml', desc: 'Reproducible CI/CD build — guarantees every deploy runs the same ETL and asset pipeline.' },
+      { name: 'public/offline.html', desc: 'Failure fallback — served by the SW when user is offline and requested resource is not cached.' },
+    ]
+  },
+  etl: {
+    label: 'ETL PIPELINE', color: '#eab308',
+    files: [
+      { name: 'scripts/etl/01-fetch.ts', desc: 'Downloads raw Bible source data from upstream provider.' },
+      { name: 'scripts/etl/02-parse.ts', desc: 'Parses raw format (USFM/XML/etc.) into intermediate JS objects.' },
+      { name: 'scripts/etl/03-clean.ts', desc: 'Strips markup noise, normalises whitespace and encoding issues.' },
+      { name: 'scripts/etl/04-validate.ts', desc: 'Runs schema validation; halts pipeline on malformed data.' },
+      { name: 'scripts/etl/05-transform.ts', desc: 'Reshapes data into the final chapter schema structure.' },
+      { name: 'scripts/etl/06-merge.ts', desc: 'Writes final JSON files — the "writes truth" step feeding Durable.' },
+      { name: 'scripts/etl/07-index.ts', desc: 'Generates index.json boot file from the merged chapter files.' },
+    ]
+  },
+  present: {
+    label: 'PRESENT', color: '#14b8a6',
+    files: [
+      { name: 'Browser / PWA Shell', desc: 'The runtime environment — handles user events, manages URL, renders components from Deliver.' },
+      { name: 'Service Worker (runtime)', desc: 'Runs in the browser background thread; intercepts fetches between Present and Control.' },
+      { name: 'Cache Storage API', desc: 'Browser-native persistent cache; populated by SW, consumed by components via Control layer.' },
+    ]
+  }
+};
+
+let activeNode = null;
+
+function activateNode(id) {
+  if (activeNode === id) { resetAll(); return; }
+  activeNode = id;
+  document.querySelectorAll('.node, .arch-arrow, .sustain-ring').forEach(el => el.classList.add('dimmed'));
+  getRelatedElements(id).forEach(sel => {
+    const el = document.querySelector(sel);
+    if (el) el.classList.remove('dimmed');
+  });
+  showPanel(id);
+}
+
+function getRelatedElements(id) {
+  return {
+    durable:  ['#node-durable','#arr-d-c','#lbl-d-c','#arr-d-m','#etl-to-durable','#etl-lbl'],
+    control:  ['#node-control','#arr-d-c','#lbl-d-c','#arr-c-m','#lbl-c-m','#arr-c-d','#lbl-c-d','#arr-p-c','#lbl-p-c'],
+    mutation: ['#node-mutation','#arr-c-m','#lbl-c-m','#arr-m-d','#lbl-m-d','#arr-d-m'],
+    deliver:  ['#node-deliver','#arr-c-d','#lbl-c-d','#arr-m-d','#lbl-m-d','#arr-p-d'],
+    sustain:  ['#sustain-ring','#arr-sustain-loop'],
+    etl:      ['#node-etl','#etl-chain','#etl-label','#etl-to-durable','#etl-lbl'],
+    present:  ['#node-present','#arr-p-c','#lbl-p-c','#arr-p-d'],
+  }[id] || [];
+}
+
+function resetAll() {
+  activeNode = null;
+  document.querySelectorAll('.node, .arch-arrow, .sustain-ring').forEach(el => el.classList.remove('dimmed'));
+  closePanel();
+}
+
+function showPanel(id) {
+  const data = nodeData[id];
+  const panel = document.getElementById('file-panel');
+  document.getElementById('panel-title').textContent = data.label;
+  document.getElementById('panel-title').style.color = data.color;
+  document.getElementById('panel-files').innerHTML = data.files.map(f =>
+    `<div class="file-item">
+      <span class="file-name" style="color:${data.color}">${f.name}</span>
+      <span class="file-desc">${f.desc}</span>
+    </div>`
+  ).join('');
+  panel.classList.add('visible');
+}
+
+function closePanel() {
+  document.getElementById('file-panel').classList.remove('visible');
+  resetAll();
+}
+
+document.querySelector('.diagram-wrap').addEventListener('click', function(e) {
+  if (!e.target.closest('.node') && !e.target.closest('.sustain-ring')) resetAll();
+});
+</script>
+</body>
+</html>

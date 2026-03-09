@@ -1,6 +1,6 @@
-import path from 'node:path';
-import { BOOKS } from '../lib/books';
-import { writeJsonFile } from '../lib/io';
+import path from 'node:path'; // node:path for handling file paths across platforms
+import { BOOKS } from '../lib/books'; // knowledge of book IDs and chapter counts
+import { writeJsonFile } from '../lib/io'; // knowledge of utility functions for reading and writing JSON files
 
 const ROOT = path.resolve(import.meta.dirname, '../..');
 
