@@ -1,6 +1,7 @@
-import path from 'node:path';
-import { readJsonFile, writeJsonFile } from '../lib/io';
-import type { CanonicalVerse } from '../lib/types';
+
+import path from 'node:path'; //import run node:path for handling file paths across platforms
+import { readJsonFile, writeJsonFile } from '../lib/io'; // import run utility functions for reading and writing JSON files
+import type { CanonicalVerse } from '../lib/types'; // import knowledge of data structure for canonical verse format: { bookId, chapter, verse, text }
 
 // Bible.org API flat format: [{bookname, chapter, verse, text}, ...]
 interface BibleOrgVerse {
@@ -34,20 +35,52 @@ const outputFile = path.join(ROOT, 'scripts/parsed/en.json');
 async function main() {
   const source = await readJsonFile<BibleOrgVerse[]>(inputFile);
   const out: CanonicalVerse[] = [];
+  const notesRoot = path.join(ROOT, 'scripts/raw/net_notes');
 
+  const byChapter = new Map<string, BibleOrgVerse[]>();
   for (const v of source) {
     const bookId = BOOK_IDS[v.bookname];
     if (!bookId) continue;
-    out.push({
-      bookId,
-      chapter: Number(v.chapter),
-      verse: Number(v.verse),
-      text: v.text.trim()
-    });
+    const key = `${bookId}:${v.chapter}`;
+    if (!byChapter.has(key)) byChapter.set(key, []);
+    byChapter.get(key)!.push(v);
+  }
+
+  for (const [chapterKey, verses] of byChapter) {
+    const [bookIdStr, chapterStr] = chapterKey.split(':');
+    let notesMap: Record<string, string> = {};
+    try {
+      notesMap = await readJsonFile<Record<string, string>>(path.join(notesRoot, bookIdStr, `${chapterStr}.json`));
+    } catch {
+      // no notes file for this chapter
+    }
+
+    for (const v of verses) {
+      const noteRegex = /<n\s+id="(\d+)"\s*\/>/g;
+      const notes: string[] = [];
+      let m: RegExpExecArray | null;
+      while ((m = noteRegex.exec(v.text)) !== null) {
+        const text = notesMap[m[1]];
+        if (text) notes.push(text);
+      }
+
+      const cleanText = v.text
+        .replace(/<[^>]+>/g, '')
+        .replace(/\s+/g, ' ')
+        .trim();
+
+      out.push({
+        bookId: Number(bookIdStr),
+        chapter: Number(v.chapter),
+        verse: Number(v.verse),
+        text: cleanText,
+        ...(notes.length > 0 ? { notes } : {})
+      });
+    }
   }
 
   await writeJsonFile(outputFile, out);
-  console.log(`wrote ${out.length} NET verses -> ${path.relative(ROOT, outputFile)}`);
+  console.log(`wrote ${out.length} NET verses`);
 }
 
 main().catch((err) => {

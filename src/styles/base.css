@@ -48,3 +48,21 @@ main {
   right: 1rem;
   bottom: 1rem;
 }
+
+footer {
+  max-width: 960px;
+  margin: 2rem auto 0;
+  padding: 1rem;
+  border-top: 1px solid #ddd;
+  color: var(--muted);
+  font-size: 0.8rem;
+  line-height: 1.8;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  color: var(--accent);
+}

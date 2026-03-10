@@ -1,6 +1,7 @@
-import path from 'node:path';
-import { readJsonFile, writeJsonFile } from '../lib/io';
-import type { CanonicalVerse } from '../lib/types';
+// Purpose: parse raw verse data from CUV JSON into canonical verse format for later merging and indexing
+import path from 'node:path'; // Run node:path for handling file paths across platforms
+import { readJsonFile, writeJsonFile } from '../lib/io'; // Knowledge of utility functions for reading and writing JSON files
+import type { CanonicalVerse } from '../lib/types'; // Knowledge of data structure for canonical verse format: { bookId, chapter, verse, text }
 
 // Actual format: [{abbrev, chapters: [["verse1","verse2",...], ...]}, ...]
 interface CuvSource {
@@ -28,7 +29,7 @@ async function main() {
     });
   });
 
-  await writeJsonFile(outputFile, out);
+  await writeJsonFile(outputFile, out); // output parsed CUV verses for later merging and indexing
   console.log(`wrote ${out.length} CUV verses -> ${path.relative(ROOT, outputFile)}`);
 }
 

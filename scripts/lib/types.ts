@@ -3,6 +3,7 @@ export interface CanonicalVerse {
   chapter: number;
   verse: number;
   text: string;
+  notes?: string[];
 }
 
 export interface WordToken {
