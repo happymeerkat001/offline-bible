@@ -65,6 +65,7 @@ async function main() {
       }
 
       const cleanText = v.text
+        .replace(/<n\s+id="(\d+)"\s*\/>/g, '[NOTE:$1]')
         .replace(/<[^>]+>/g, '')
         .replace(/\s+/g, ' ')
         .trim();

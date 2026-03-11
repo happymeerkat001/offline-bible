@@ -214,18 +214,49 @@ export function renderVerseBlock(verse: VerseData): HTMLElement {
   const en = document.createElement('p');
   en.className = 'verse-en';
   en.lang = 'en';
-  en.textContent = verse.en;
 
-  if (verse.notes && verse.notes.length > 0) {
-    const dialog = document.createElement('dialog');
-    const noteText = document.createElement('p');
-    const close = document.createElement('button');
-    close.type = 'button';
-    close.textContent = 'Close';
-    close.addEventListener('click', () => dialog.close());
-    dialog.append(noteText, close);
+  const noteDialog = document.createElement('dialog');
+  const noteText = document.createElement('p');
+  const close = document.createElement('button');
+  close.type = 'button';
+  close.textContent = 'Close';
+  close.addEventListener('click', () => noteDialog.close());
+  noteDialog.append(noteText, close);
 
-    verse.notes.forEach((note, idx) => {
+  const notes = verse.notes ?? [];
+  const markerRegex = /\[NOTE:(\d+)\]/g;
+  let lastIndex = 0;
+  let match: RegExpExecArray | null;
+  let renderedInlineMarker = false;
+
+  while ((match = markerRegex.exec(verse.en)) !== null) {
+    renderedInlineMarker = true;
+    const textBefore = verse.en.slice(lastIndex, match.index);
+    if (textBefore) en.append(document.createTextNode(textBefore));
+
+    const noteId = Number(match[1]);
+    const note = notes[noteId - 1];
+    const sup = document.createElement('sup');
+    const trigger = document.createElement('button');
+    trigger.type = 'button';
+    trigger.textContent = String(noteId);
+    trigger.setAttribute('aria-label', `Open note ${noteId}`);
+    trigger.addEventListener('click', () => {
+      noteText.textContent = note ?? `Note ${noteId} not found.`;
+      noteDialog.showModal();
+    });
+    sup.append(trigger);
+    en.append(sup);
+
+    lastIndex = markerRegex.lastIndex;
+  }
+
+  const tail = verse.en.slice(lastIndex);
+  if (tail) en.append(document.createTextNode(tail));
+
+  if (!renderedInlineMarker) {
+    en.textContent = verse.en;
+    notes.forEach((note, idx) => {
       const sup = document.createElement('sup');
       const trigger = document.createElement('button');
       trigger.type = 'button';
@@ -233,13 +264,15 @@ export function renderVerseBlock(verse: VerseData): HTMLElement {
       trigger.setAttribute('aria-label', `Open note ${idx + 1}`);
       trigger.addEventListener('click', () => {
         noteText.textContent = note;
-        dialog.showModal();
+        noteDialog.showModal();
       });
       sup.append(trigger);
       en.append(document.createTextNode(' '), sup);
     });
+  }
 
-    article.append(dialog);
+  if (notes.length > 0 || renderedInlineMarker) {
+    article.append(noteDialog);
   }
 
   article.append(en);
