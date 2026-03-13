@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+      (function() {
+        var path = window.location.pathname;
+        // If it's the project root and doesn't end in a slash, redirect
+        if (path.endsWith('/offline-bible')) {
+          window.location.replace(window.location.protocol + '//' + window.location.host + path + '/' + window.location.search);
+        }
+      })();
+    </script>
+    ```
 <!doctype html>
 <html lang="zh-Hans">
   <head>
