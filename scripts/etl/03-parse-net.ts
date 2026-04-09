@@ -55,12 +55,15 @@ async function main() {
       // no notes file for this chapter
     }
 
+    let chapterNoteIndex = 0;
+
     for (const v of verses) {
       const noteRegex = /<n\s+id="(\d+)"\s*\/>/g;
       const notes: string[] = [];
       let m: RegExpExecArray | null;
       while ((m = noteRegex.exec(v.text)) !== null) {
-        const text = notesMap[m[1]];
+        chapterNoteIndex += 1;
+        const text = notesMap[String(chapterNoteIndex)];
         if (text) notes.push(text);
       }
 
