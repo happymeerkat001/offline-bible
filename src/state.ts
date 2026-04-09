@@ -5,7 +5,10 @@ export interface LastReadState { // knowledge of data structure for last read st
   chapter: number; 
 }
 
+const LAST_READ_KEY = 'lastRead';
+
 export function saveLastRead(state: LastReadState): void { // run. depend on: 1. LastReadState
+  localStorage.setItem(LAST_READ_KEY, JSON.stringify(state));
 }
 
 export function loadLastRead(): LastReadState | null { // run function to load last read state from localStorage, reutrns null
