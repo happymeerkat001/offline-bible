@@ -13,7 +13,7 @@ const inputFile = path.join(ROOT, 'scripts/raw/zh_cuv.json');
 const outputFile = path.join(ROOT, 'scripts/parsed/zh.json');
 
 async function main() {
-  const source = await readJsonFile<CuvSource[]>(inputFile);
+  const source = await readJsonFile<CuvSource[]>(inputFile); 
   const out: CanonicalVerse[] = [];
 
   source.forEach((book, bookIndex) => {
