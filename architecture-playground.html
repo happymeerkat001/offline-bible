@@ -1,0 +1,1076 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>offline-bible · Architecture Explorer</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #0d1117;
+      color: #c9d1d9;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 13px;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* ── Top bar ─────────────────────────────────────────────────────── */
+    #topbar {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 0.55rem 1rem;
+      border-bottom: 1px solid #21262d;
+      background: #161b22;
+      flex-shrink: 0;
+    }
+    #topbar h1 { font-size: 0.88rem; font-weight: 600; color: #e6edf3; }
+    #topbar p  { font-size: 0.68rem; color: #6e7681; }
+
+    /* ── Body layout ─────────────────────────────────────────────────── */
+    #body {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    /* ── Sidebar ──────────────────────────────────────────────────────── */
+    #sidebar {
+      width: 232px;
+      flex-shrink: 0;
+      border-right: 1px solid #21262d;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      background: #0d1117;
+    }
+    .sb-section {
+      padding: 0.7rem 0.85rem;
+      border-bottom: 1px solid #21262d;
+    }
+    .sb-section.grow { flex: 1; overflow-y: auto; }
+    .sb-title {
+      font-size: 0.65rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #6e7681;
+      margin-bottom: 0.5rem;
+    }
+
+    /* Presets */
+    .preset-btn {
+      display: block;
+      width: 100%;
+      text-align: left;
+      padding: 0.28rem 0.5rem;
+      border-radius: 5px;
+      border: 1px solid #30363d;
+      background: transparent;
+      color: #8b949e;
+      font-size: 0.75rem;
+      cursor: pointer;
+      margin-bottom: 0.25rem;
+      transition: all 0.1s;
+    }
+    .preset-btn:hover { background: #21262d; color: #c9d1d9; }
+    .preset-btn.active {
+      background: #1f2937;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+
+    /* Layer / conn toggles */
+    .toggle-row {
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      margin-bottom: 0.3rem;
+      cursor: pointer;
+      user-select: none;
+    }
+    .toggle-row input[type=checkbox] { accent-color: #58a6ff; width: 13px; height: 13px; flex-shrink: 0; }
+    .toggle-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+    .toggle-label { font-size: 0.74rem; color: #8b949e; }
+    .toggle-row:hover .toggle-label { color: #c9d1d9; }
+
+    /* Comment list */
+    .note-card {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      padding: 0.45rem 0.55rem;
+      margin-bottom: 0.4rem;
+      position: relative;
+    }
+    .note-card-name {
+      font-size: 0.7rem;
+      font-weight: 600;
+      font-family: 'SF Mono', 'Consolas', monospace;
+      color: #58a6ff;
+      margin-bottom: 0.15rem;
+    }
+    .note-card-text {
+      font-size: 0.72rem;
+      color: #8b949e;
+      line-height: 1.45;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+    .note-del {
+      position: absolute;
+      top: 0.35rem; right: 0.4rem;
+      background: none; border: none;
+      color: #6e7681; font-size: 0.75rem;
+      cursor: pointer; line-height: 1;
+    }
+    .note-del:hover { color: #f85149; }
+    .empty-notes { font-size: 0.72rem; color: #484f58; font-style: italic; }
+
+    /* ── Main area ────────────────────────────────────────────────────── */
+    #main-area {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* Canvas */
+    #canvas-wrap {
+      flex: 1;
+      position: relative;
+      overflow: hidden;
+      background: #0d1117;
+    }
+    #diagram {
+      width: 100%;
+      height: 100%;
+      cursor: default;
+    }
+
+    /* Zoom controls */
+    #zoom-btns {
+      position: absolute;
+      top: 0.6rem;
+      right: 0.7rem;
+      display: flex;
+      gap: 0.25rem;
+    }
+    .zoom-btn {
+      background: #161b22;
+      border: 1px solid #30363d;
+      color: #8b949e;
+      border-radius: 5px;
+      width: 28px; height: 28px;
+      display: flex; align-items: center; justify-content: center;
+      cursor: pointer; font-size: 0.9rem; font-weight: 600;
+      transition: all 0.1s;
+    }
+    .zoom-btn:hover { background: #21262d; color: #c9d1d9; }
+
+    /* Legend */
+    #legend {
+      position: absolute;
+      bottom: 0.6rem;
+      left: 0.7rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    .leg-item {
+      display: flex; align-items: center; gap: 0.3rem;
+      font-size: 0.65rem; color: #6e7681;
+    }
+    .leg-line {
+      width: 18px; height: 2px;
+    }
+
+    /* Click hint */
+    #click-hint {
+      position: absolute;
+      top: 0.6rem;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 0.67rem;
+      color: #484f58;
+      pointer-events: none;
+    }
+
+    /* ── Prompt area ──────────────────────────────────────────────────── */
+    #prompt-area {
+      flex-shrink: 0;
+      border-top: 1px solid #21262d;
+      padding: 0.6rem 0.9rem;
+      background: #161b22;
+      display: flex;
+      align-items: flex-start;
+      gap: 0.75rem;
+      min-height: 80px;
+      max-height: 130px;
+    }
+    #prompt-label {
+      font-size: 0.62rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #6e7681;
+      flex-shrink: 0;
+      margin-top: 0.1rem;
+    }
+    #prompt-text {
+      flex: 1;
+      font-size: 0.75rem;
+      color: #8b949e;
+      line-height: 1.5;
+      overflow-y: auto;
+      white-space: pre-wrap;
+      font-family: -apple-system, sans-serif;
+    }
+    #copy-btn {
+      flex-shrink: 0;
+      padding: 0.3rem 0.75rem;
+      background: #21262d;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      color: #8b949e;
+      font-size: 0.72rem;
+      cursor: pointer;
+      transition: all 0.1s;
+      white-space: nowrap;
+    }
+    #copy-btn:hover { background: #2d333b; color: #c9d1d9; }
+    #copy-btn.copied { background: #1a3a1a; border-color: #3bb273; color: #3bb273; }
+
+    /* ── Modal ────────────────────────────────────────────────────────── */
+    #modal-overlay {
+      position: fixed; inset: 0;
+      background: rgba(0,0,0,0.65);
+      display: flex; align-items: center; justify-content: center;
+      z-index: 500;
+      display: none;
+    }
+    #modal-overlay.open { display: flex; }
+    #modal {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 10px;
+      padding: 1.2rem 1.4rem;
+      width: 400px;
+      box-shadow: 0 16px 48px rgba(0,0,0,0.6);
+    }
+    #modal-name {
+      font-family: 'SF Mono', 'Consolas', monospace;
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: #58a6ff;
+      margin-bottom: 0.1rem;
+    }
+    #modal-file {
+      font-size: 0.7rem;
+      color: #6e7681;
+      margin-bottom: 0.5rem;
+    }
+    #modal-desc {
+      font-size: 0.75rem;
+      color: #8b949e;
+      line-height: 1.5;
+      margin-bottom: 0.8rem;
+      padding: 0.5rem 0.6rem;
+      background: #0d1117;
+      border-radius: 5px;
+    }
+    #modal-ta-label {
+      font-size: 0.68rem;
+      color: #6e7681;
+      margin-bottom: 0.3rem;
+    }
+    #modal-ta {
+      width: 100%;
+      height: 90px;
+      background: #0d1117;
+      border: 1px solid #30363d;
+      border-radius: 5px;
+      color: #c9d1d9;
+      font-size: 0.78rem;
+      font-family: -apple-system, sans-serif;
+      padding: 0.5rem 0.6rem;
+      resize: vertical;
+      outline: none;
+      line-height: 1.5;
+    }
+    #modal-ta:focus { border-color: #58a6ff; }
+    #modal-actions {
+      display: flex;
+      justify-content: flex-end;
+      gap: 0.5rem;
+      margin-top: 0.75rem;
+    }
+    .modal-btn {
+      padding: 0.3rem 0.8rem;
+      border-radius: 6px;
+      border: 1px solid #30363d;
+      cursor: pointer;
+      font-size: 0.75rem;
+      transition: all 0.1s;
+    }
+    #modal-cancel { background: transparent; color: #8b949e; }
+    #modal-cancel:hover { background: #21262d; }
+    #modal-save { background: #1f6feb; border-color: #1f6feb; color: #fff; font-weight: 600; }
+    #modal-save:hover { background: #388bfd; }
+
+    /* SVG node styles */
+    .node-g { cursor: pointer; }
+    .node-rect { transition: filter 0.12s; }
+    .node-g:hover .node-rect { filter: brightness(1.5); }
+    .node-g.has-note .node-rect { stroke-width: 2.5 !important; }
+    .node-label-main {
+      font-family: 'SF Mono', 'Consolas', 'Menlo', monospace;
+      font-size: 10.5px;
+      fill: #e6edf3;
+      pointer-events: none;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+    .node-label-sub {
+      font-size: 8px;
+      fill: #6e7681;
+      pointer-events: none;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+    .node-note-dot {
+      pointer-events: none;
+    }
+    .conn-path { fill: none; stroke-width: 1.6; }
+    .conn-lbl {
+      font-size: 7.5px;
+      font-weight: 700;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      pointer-events: none;
+    }
+    .layer-label {
+      font-size: 8px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      fill: #484f58;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+
+<div id="topbar">
+  <h1>offline-bible · Architecture Explorer</h1>
+  <p>Click any file to add a note · Adjust view with controls · Copy prompt to continue in Claude</p>
+</div>
+
+<div id="body">
+  <div id="sidebar">
+    <div class="sb-section">
+      <div class="sb-title">View preset</div>
+      <div id="presets-wrap"></div>
+    </div>
+    <div class="sb-section">
+      <div class="sb-title">Layers</div>
+      <div id="layer-wrap"></div>
+    </div>
+    <div class="sb-section">
+      <div class="sb-title">Connections</div>
+      <div id="conn-wrap"></div>
+    </div>
+    <div class="sb-section grow">
+      <div class="sb-title">Notes <span id="note-count" style="color:#484f58">(0)</span></div>
+      <div id="notes-list"><span class="empty-notes">Click any file to add a note</span></div>
+    </div>
+  </div>
+
+  <div id="main-area">
+    <div id="canvas-wrap">
+      <svg id="diagram" viewBox="0 0 820 520" preserveAspectRatio="xMidYMid meet"></svg>
+      <div id="zoom-btns">
+        <button class="zoom-btn" id="zin" title="Zoom in">+</button>
+        <button class="zoom-btn" id="zreset" title="Reset zoom">⊙</button>
+        <button class="zoom-btn" id="zout" title="Zoom out">−</button>
+      </div>
+      <div id="legend"></div>
+      <div id="click-hint">Click any file node to add a note</div>
+    </div>
+
+    <div id="prompt-area">
+      <span id="prompt-label">Prompt</span>
+      <div id="prompt-text"></div>
+      <button id="copy-btn">Copy prompt</button>
+    </div>
+  </div>
+</div>
+
+<!-- Comment modal -->
+<div id="modal-overlay">
+  <div id="modal">
+    <div id="modal-name"></div>
+    <div id="modal-file"></div>
+    <div id="modal-desc"></div>
+    <div id="modal-ta-label">Your note (question, concern, idea):</div>
+    <textarea id="modal-ta" placeholder="e.g. Should this use a more resilient retry strategy? Or: I want to add a search feature here."></textarea>
+    <div id="modal-actions">
+      <button class="modal-btn" id="modal-cancel">Cancel</button>
+      <button class="modal-btn" id="modal-save">Save note</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const NS = 'http://www.w3.org/2000/svg';
+
+// ── Data ─────────────────────────────────────────────────────────────────────
+
+const LAYERS = {
+  entry:      { label: 'App Entry',        color: '#f59e0b' },
+  core:       { label: 'Core Services',    color: '#3b82f6' },
+  contracts:  { label: 'Contracts',        color: '#8b5cf6' },
+  components: { label: 'UI Components',    color: '#10b981' },
+  external:   { label: 'External / PWA',   color: '#6b7280' },
+};
+
+const CONN_TYPES = {
+  control:  { label: 'Control flow',  color: '#f59e0b', dash: null },
+  dataflow: { label: 'Data / render', color: '#3b82f6', dash: null },
+  import:   { label: 'Import / dep',  color: '#6b7280', dash: '4 3' },
+  mutation: { label: 'State mutation',color: '#f43f5e', dash: '6 3' },
+  cache:    { label: 'Cache / sustain',color: '#a855f7', dash: '8 3' },
+};
+
+const NH = 44; // node height
+
+const NODES = [
+  // Entry
+  { id: 'main',    label: 'main.ts',           sub: 'src/main.ts',
+    cx: 410, cy: 55, w: 138, layer: 'entry',
+    desc: 'App entry point and orchestrator. Bootstraps the router, fetches the book index, then mounts NavBar and ChapterView on every URL change. Also registers the service worker via vite-plugin-pwa.' },
+
+  // Core services
+  { id: 'router',  label: 'router.ts',          sub: 'src/router.ts',
+    cx: 95, cy: 170, w: 140, layer: 'core',
+    desc: 'Hash-based router with no external deps. startRouter(handler, fallback) subscribes to window.hashchange. setRoute(usfm, ch) pushes a new #/BOOK/CH hash — the single source of navigation truth.' },
+
+  { id: 'state',   label: 'state.ts',           sub: 'src/state.ts',
+    cx: 275, cy: 170, w: 138, layer: 'core',
+    desc: 'Thin persistence layer. saveLastRead({usfm, chapter}) writes to localStorage. loadLastRead() parses it back. Provides the startup fallback route when no URL hash is present.' },
+
+  { id: 'api',     label: 'api/bible.ts',       sub: 'src/api/bible.ts',
+    cx: 465, cy: 170, w: 148, layer: 'core',
+    desc: 'All network I/O. fetchIndex() → /data/index.json. fetchChapter(id, ch) → /data/{id}/{ch}.json. FetchError class wraps HTTP status codes for typed error handling in main.ts.' },
+
+  { id: 'sw',      label: 'service-worker.ts',  sub: 'src/sw/',
+    cx: 675, cy: 170, w: 155, layer: 'core',
+    desc: 'PWA service worker built on Workbox. Precaches the app shell. StaleWhileRevalidate caches up to 1 400 /data/* entries. Version-tagged cache names with cleanup on activate.' },
+
+  // Contracts
+  { id: 'types',   label: 'types.ts',           sub: 'src/types.ts',
+    cx: 240, cy: 288, w: 138, layer: 'contracts',
+    desc: 'Pure TypeScript interfaces — zero imports, zero runtime code. Defines BookMeta, BookIndex, VerseData, WordToken, ChapterData. The stable contract that all other modules depend on.' },
+
+  { id: 'styles',  label: 'styles/*.css',       sub: 'src/styles/',
+    cx: 450, cy: 288, w: 145, layer: 'contracts',
+    desc: 'Four CSS files imported once by main.ts: base.css (layout + variables), verse.css (verse layout), rtl.css (Hebrew RTL), dark.css (data-theme=dark). Pure static contracts — no JS coupling.' },
+
+  // UI Components
+  { id: 'navbar',  label: 'NavBar.ts',          sub: 'src/components/',
+    cx: 82, cy: 408, w: 132, layer: 'components',
+    desc: 'Renders the navigation bar: book <select> dropdown, Prev/Next chapter buttons, dark-mode toggle. The only component that calls setRoute() — bridging user actions to URL state.' },
+
+  { id: 'chapter', label: 'ChapterView.ts',     sub: 'src/components/',
+    cx: 292, cy: 408, w: 155, layer: 'components',
+    desc: 'Receives a ChapterData object and renders the <section class="chapter">. Loops verses via renderVerseBlock(). Exports renderLoading and renderError for async states.' },
+
+  { id: 'verse',   label: 'VerseBlock.ts',      sub: 'src/components/',
+    cx: 516, cy: 408, w: 150, layer: 'components',
+    desc: 'Renders a single verse <article>: ZH + EN text, footnote dialogs triggered by [NOTE:n] markers, and clickable Greek/Hebrew word tokens with morphology pop-up cards.' },
+
+  // External
+  { id: 'ls',      label: 'localStorage',       sub: 'Browser API',
+    cx: 82, cy: 496, w: 130, layer: 'external',
+    desc: 'Browser key-value store. Holds the last-read {usfm, chapter} pair and the current theme preference (light/dark). Written by state.ts and NavBar.ts respectively.' },
+
+  { id: 'datajson',label: '/data/*.json',        sub: 'public/data/',
+    cx: 438, cy: 496, w: 138, layer: 'external',
+    desc: 'Static JSON served with the app. index.json lists all 66 books. {bookId}/{chapter}.json holds verse data including ZH/EN text, optional footnotes, and Greek/Hebrew tokens.' },
+
+  { id: 'workbox', label: 'Workbox libs',        sub: 'npm: workbox-*',
+    cx: 675, cy: 496, w: 130, layer: 'external',
+    desc: 'Google Workbox packages: workbox-core (clientsClaim), workbox-precaching, workbox-routing, workbox-strategies (StaleWhileRevalidate), workbox-expiration (ExpirationPlugin).' },
+];
+
+const nodeMap = Object.fromEntries(NODES.map(n => [n.id, n]));
+
+const CONNECTIONS = [
+  // main orchestrates everything
+  { from:'main',    to:'router',   type:'control',  lbl:'startRouter()' },
+  { from:'main',    to:'state',    type:'mutation',  lbl:'loadLastRead()' },
+  { from:'main',    to:'api',      type:'dataflow', lbl:'fetchIndex/Chapter' },
+  { from:'main',    to:'chapter',  type:'dataflow', lbl:'renderChapter()' },
+  { from:'main',    to:'navbar',   type:'dataflow', lbl:'mountNavBar()' },
+  { from:'main',    to:'sw',       type:'import',   lbl:'registerSW()' },
+  { from:'main',    to:'styles',   type:'import',   lbl:'CSS import' },
+  { from:'main',    to:'types',    type:'import',   lbl:'BookMeta' },
+  // NavBar
+  { from:'navbar',  to:'router',   type:'control',  lbl:'setRoute()' },
+  { from:'navbar',  to:'types',    type:'import',   lbl:'BookMeta[]' },
+  // ChapterView
+  { from:'chapter', to:'types',    type:'import',   lbl:'ChapterData' },
+  { from:'chapter', to:'verse',    type:'dataflow', lbl:'renderVerseBlock()' },
+  // VerseBlock
+  { from:'verse',   to:'types',    type:'import',   lbl:'VerseData' },
+  // API
+  { from:'api',     to:'types',    type:'import',   lbl:'BookIndex, ChapterData' },
+  { from:'api',     to:'datajson', type:'dataflow', lbl:'fetch()' },
+  // State
+  { from:'state',   to:'ls',       type:'mutation', lbl:'setItem / getItem' },
+  // Service worker
+  { from:'sw',      to:'datajson', type:'cache',    lbl:'StaleWhileRevalidate' },
+  { from:'sw',      to:'workbox',  type:'import',   lbl:'workbox-*' },
+];
+
+const PRESETS = [
+  { id: 'full',
+    label: '🗺 Full system',
+    layers: { entry:true, core:true, contracts:true, components:true, external:true },
+    conns:  { control:true, dataflow:true, import:true, mutation:true, cache:true } },
+
+  { id: 'render',
+    label: '🎨 Render pipeline',
+    layers: { entry:true, core:false, contracts:true, components:true, external:false },
+    conns:  { control:false, dataflow:true, import:true, mutation:false, cache:false } },
+
+  { id: 'nav',
+    label: '🔀 Navigation flow',
+    layers: { entry:true, core:true, contracts:false, components:true, external:true },
+    conns:  { control:true, dataflow:false, import:false, mutation:true, cache:false } },
+
+  { id: 'offline',
+    label: '📶 Offline / PWA',
+    layers: { entry:true, core:true, contracts:false, components:false, external:true },
+    conns:  { control:false, dataflow:true, import:true, mutation:false, cache:true } },
+
+  { id: 'data',
+    label: '📦 Data contracts',
+    layers: { entry:false, core:true, contracts:true, components:true, external:false },
+    conns:  { control:false, dataflow:false, import:true, mutation:false, cache:false } },
+];
+
+// ── State ─────────────────────────────────────────────────────────────────────
+
+const state = {
+  layers: { entry:true, core:true, contracts:true, components:true, external:true },
+  conns:  { control:true, dataflow:true, import:true, mutation:true, cache:true },
+  notes: [],          // [{ id, nodeId, text }]
+  activePreset: 'full',
+  zoom: 1,
+  activeModal: null,  // node id being edited
+};
+
+// ── SVG helpers ───────────────────────────────────────────────────────────────
+
+function svgEl(tag, attrs) {
+  const e = document.createElementNS(NS, tag);
+  if (attrs) for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, String(v));
+  return e;
+}
+
+function borderPt(node, tx, ty, off = 0) {
+  const { cx, cy, w } = node;
+  const hw = w / 2, hh = NH / 2;
+  const dx = tx - cx, dy = ty - cy;
+  if (!dx && !dy) return { x: cx, y: cy };
+  const tX = Math.abs(dx) > 0.01 ? hw / Math.abs(dx) : 1e9;
+  const tY = Math.abs(dy) > 0.01 ? hh / Math.abs(dy) : 1e9;
+  let bx, by;
+  if (tX < tY) {
+    bx = cx + Math.sign(dx) * hw;
+    by = Math.max(cy - hh, Math.min(cy + hh, cy + dy * tX + off * hh));
+  } else {
+    by = cy + Math.sign(dy) * hh;
+    bx = Math.max(cx - hw, Math.min(cx + hw, cx + dx * tY + off * hw));
+  }
+  return { x: bx, y: by };
+}
+
+function qMid(x1, y1, cx, cy, x2, y2) {
+  return {
+    x: 0.25 * x1 + 0.5 * cx + 0.25 * x2,
+    y: 0.25 * y1 + 0.5 * cy + 0.25 * y2,
+  };
+}
+
+// ── Build SVG ─────────────────────────────────────────────────────────────────
+
+const svg = document.getElementById('diagram');
+
+// Defs
+const defs = svgEl('defs');
+for (const [t, info] of Object.entries(CONN_TYPES)) {
+  const m = svgEl('marker', {
+    id: `arr-${t}`, markerWidth: 7, markerHeight: 6,
+    refX: 6.5, refY: 3, orient: 'auto',
+  });
+  m.append(svgEl('polygon', { points: '0,0.5 0,5.5 7,3', fill: info.color }));
+  defs.append(m);
+}
+svg.append(defs);
+
+// Zoom group
+const zg = svgEl('g', { id: 'zg' });
+svg.append(zg);
+
+// Layer label y-positions (right edge)
+const LAYER_Y = { entry: 55, core: 170, contracts: 288, components: 408, external: 496 };
+
+// Layer labels (far left)
+const layerLabelG = svgEl('g');
+for (const [lid, info] of Object.entries(LAYERS)) {
+  const t = svgEl('text', {
+    class: 'layer-label',
+    x: 6, y: LAYER_Y[lid] + 1,
+    'text-anchor': 'start',
+  });
+  t.textContent = info.label;
+  t.dataset.layer = lid;
+  layerLabelG.append(t);
+}
+zg.append(layerLabelG);
+
+// ── Edges ─────────────────────────────────────────────────────────────────────
+const edgeLayer = svgEl('g');
+zg.append(edgeLayer);
+
+const edgeEls = {}; // "from:to" → g
+
+// Compute a slight perpendicular offset per edge to separate parallel bundles
+const edgeCounts = {};
+for (const c of CONNECTIONS) {
+  const key = [c.from, c.to].sort().join(':');
+  edgeCounts[key] = (edgeCounts[key] || 0) + 1;
+}
+const edgeIndex = {};
+for (const c of CONNECTIONS) {
+  const key = [c.from, c.to].sort().join(':');
+  edgeIndex[key] = (edgeIndex[key] || 0);
+  c._perpIdx = edgeIndex[key];
+  edgeIndex[key]++;
+}
+
+for (const conn of CONNECTIONS) {
+  const fn = nodeMap[conn.from];
+  const tn = nodeMap[conn.to];
+  const ct = CONN_TYPES[conn.type];
+
+  const p1 = borderPt(fn, tn.cx, tn.cy, 0);
+  const p2 = borderPt(tn, fn.cx, fn.cy, 0);
+
+  const mx = (p1.x + p2.x) / 2, my = (p1.y + p2.y) / 2;
+  const dx = p2.x - p1.x, dy = p2.y - p1.y;
+  const len = Math.sqrt(dx * dx + dy * dy) || 1;
+  const key = [conn.from, conn.to].sort().join(':');
+  const totalEdges = edgeCounts[key];
+  const perpOff = totalEdges > 1 ? (conn._perpIdx - (totalEdges - 1) / 2) * 18 : 0;
+  const perp = Math.min(len * 0.12, 24);
+  const cpx = mx + (-dy / len) * (perp + perpOff);
+  const cpy = my + (dx / len)  * (perp + perpOff);
+
+  const d = `M${p1.x.toFixed(1)},${p1.y.toFixed(1)} Q${cpx.toFixed(1)},${cpy.toFixed(1)} ${p2.x.toFixed(1)},${p2.y.toFixed(1)}`;
+
+  const g = svgEl('g', {
+    class: 'conn-g',
+    'data-from': conn.from,
+    'data-to': conn.to,
+    'data-type': conn.type,
+    'data-flayer': fn.layer,
+    'data-tlayer': tn.layer,
+  });
+
+  const path = svgEl('path', {
+    class: 'conn-path',
+    d,
+    stroke: ct.color,
+    'stroke-opacity': 0.65,
+    'stroke-dasharray': ct.dash || 'none',
+    'marker-end': `url(#arr-${conn.type})`,
+  });
+  g.append(path);
+
+  // Label at midpoint
+  const lp = qMid(p1.x, p1.y, cpx, cpy, p2.x, p2.y);
+  const bg = svgEl('rect', {
+    x: lp.x - 24, y: lp.y - 5.5,
+    width: 48, height: 11,
+    fill: '#0d1117', rx: 2,
+    opacity: 0.85,
+  });
+  g.append(bg);
+  const lt = svgEl('text', {
+    class: 'conn-lbl',
+    x: lp.x, y: lp.y + 0.5,
+    fill: ct.color,
+  });
+  lt.textContent = conn.lbl;
+  g.append(lt);
+
+  edgeLayer.append(g);
+  edgeEls[`${conn.from}:${conn.to}`] = { g, conn };
+}
+
+// ── Nodes ─────────────────────────────────────────────────────────────────────
+const nodeLayer = svgEl('g');
+zg.append(nodeLayer);
+
+const nodeEls = {}; // id → { g, rect }
+
+for (const node of NODES) {
+  const cat = LAYERS[node.layer];
+  const hw = node.w / 2, hh = NH / 2;
+
+  const g = svgEl('g', {
+    class: 'node-g',
+    transform: `translate(${node.cx},${node.cy})`,
+    'data-id': node.id,
+    'data-layer': node.layer,
+  });
+
+  // Shadow
+  g.append(svgEl('rect', {
+    x: -hw + 2, y: -hh + 2, width: node.w, height: NH,
+    rx: 7, fill: 'rgba(0,0,0,0.4)',
+  }));
+
+  // Main rect
+  const rect = svgEl('rect', {
+    class: 'node-rect',
+    x: -hw, y: -hh, width: node.w, height: NH,
+    rx: 7,
+    fill: cat.color + '1a',
+    stroke: cat.color,
+    'stroke-width': 1.5,
+  });
+  g.append(rect);
+
+  // Label
+  const nm = svgEl('text', { class: 'node-label-main', x: 0, y: -7 });
+  nm.textContent = node.label;
+  g.append(nm);
+
+  const sb = svgEl('text', { class: 'node-label-sub', x: 0, y: 9 });
+  sb.textContent = node.sub;
+  g.append(sb);
+
+  // Note indicator (hidden by default)
+  const dot = svgEl('circle', {
+    class: 'node-note-dot',
+    cx: hw - 8, cy: -hh + 8, r: 5,
+    fill: '#f59e0b',
+    display: 'none',
+  });
+  g.append(dot);
+
+  nodeLayer.append(g);
+  nodeEls[node.id] = { g, rect, dot };
+
+  // Click handler
+  g.addEventListener('click', (e) => {
+    e.stopPropagation();
+    openModal(node);
+  });
+}
+
+// ── Legend ───────────────────────────────────────────────────────────────────
+const legendEl = document.getElementById('legend');
+for (const [t, info] of Object.entries(CONN_TYPES)) {
+  const item = document.createElement('div');
+  item.className = 'leg-item';
+  item.dataset.ctype = t;
+
+  const svgLine = document.createElementNS(NS, 'svg');
+  svgLine.setAttribute('width', '22'); svgLine.setAttribute('height', '4');
+  svgLine.style.overflow = 'visible';
+  const lp = document.createElementNS(NS, 'line');
+  lp.setAttribute('x1', '0'); lp.setAttribute('y1', '2');
+  lp.setAttribute('x2', '22'); lp.setAttribute('y2', '2');
+  lp.setAttribute('stroke', info.color);
+  lp.setAttribute('stroke-width', '2');
+  if (info.dash) lp.setAttribute('stroke-dasharray', info.dash);
+  svgLine.append(lp);
+
+  const lbl = document.createElement('span');
+  lbl.textContent = info.label;
+
+  item.append(svgLine, lbl);
+  legendEl.append(item);
+}
+
+// ── Filtering ────────────────────────────────────────────────────────────────
+function applyFilters() {
+  // Nodes
+  for (const node of NODES) {
+    const { g } = nodeEls[node.id];
+    const visible = state.layers[node.layer];
+    g.style.display = visible ? '' : 'none';
+  }
+  // Edges
+  for (const [, { g, conn }] of Object.entries(edgeEls)) {
+    const fn = nodeMap[conn.from], tn = nodeMap[conn.to];
+    const visible =
+      state.layers[fn.layer] &&
+      state.layers[tn.layer] &&
+      state.conns[conn.type];
+    g.style.display = visible ? '' : 'none';
+  }
+  // Layer labels
+  layerLabelG.querySelectorAll('[data-layer]').forEach(el => {
+    el.style.display = state.layers[el.dataset.layer] ? '' : 'none';
+  });
+  // Legend items
+  legendEl.querySelectorAll('[data-ctype]').forEach(el => {
+    el.style.opacity = state.conns[el.dataset.ctype] ? '1' : '0.25';
+  });
+}
+
+// ── Sidebar controls ──────────────────────────────────────────────────────────
+
+// Presets
+const presetsWrap = document.getElementById('presets-wrap');
+const presetBtns = {};
+for (const preset of PRESETS) {
+  const btn = document.createElement('button');
+  btn.className = 'preset-btn';
+  btn.textContent = preset.label;
+  btn.addEventListener('click', () => {
+    state.activePreset = preset.id;
+    Object.assign(state.layers, preset.layers);
+    Object.assign(state.conns,  preset.conns);
+    syncCheckboxes();
+    applyFilters();
+    updatePrompt();
+    document.querySelectorAll('.preset-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+  });
+  presetsWrap.append(btn);
+  presetBtns[preset.id] = btn;
+}
+presetBtns['full'].classList.add('active');
+
+// Layer toggles
+const layerWrap = document.getElementById('layer-wrap');
+const layerCbs = {};
+for (const [lid, info] of Object.entries(LAYERS)) {
+  const row = document.createElement('label');
+  row.className = 'toggle-row';
+  const cb = document.createElement('input');
+  cb.type = 'checkbox'; cb.checked = true;
+  cb.addEventListener('change', () => {
+    state.layers[lid] = cb.checked;
+    state.activePreset = null;
+    document.querySelectorAll('.preset-btn').forEach(b => b.classList.remove('active'));
+    applyFilters();
+    updatePrompt();
+  });
+  const dot = document.createElement('span');
+  dot.className = 'toggle-dot';
+  dot.style.background = info.color;
+  const lbl = document.createElement('span');
+  lbl.className = 'toggle-label';
+  lbl.textContent = info.label;
+  row.append(cb, dot, lbl);
+  layerWrap.append(row);
+  layerCbs[lid] = cb;
+}
+
+// Connection toggles
+const connWrap = document.getElementById('conn-wrap');
+const connCbs = {};
+for (const [ct, info] of Object.entries(CONN_TYPES)) {
+  const row = document.createElement('label');
+  row.className = 'toggle-row';
+  const cb = document.createElement('input');
+  cb.type = 'checkbox'; cb.checked = true;
+  cb.addEventListener('change', () => {
+    state.conns[ct] = cb.checked;
+    state.activePreset = null;
+    document.querySelectorAll('.preset-btn').forEach(b => b.classList.remove('active'));
+    applyFilters();
+    updatePrompt();
+  });
+  const dot = document.createElement('span');
+  dot.className = 'toggle-dot';
+  dot.style.background = info.color;
+  const lbl = document.createElement('span');
+  lbl.className = 'toggle-label';
+  lbl.textContent = info.label;
+  row.append(cb, dot, lbl);
+  connWrap.append(row);
+  connCbs[ct] = cb;
+}
+
+function syncCheckboxes() {
+  for (const [lid, cb] of Object.entries(layerCbs)) cb.checked = state.layers[lid];
+  for (const [ct, cb] of Object.entries(connCbs))   cb.checked = state.conns[ct];
+}
+
+// ── Zoom ─────────────────────────────────────────────────────────────────────
+document.getElementById('zin').addEventListener('click', () => setZoom(state.zoom * 1.2));
+document.getElementById('zout').addEventListener('click', () => setZoom(state.zoom / 1.2));
+document.getElementById('zreset').addEventListener('click', () => setZoom(1));
+
+function setZoom(z) {
+  state.zoom = Math.max(0.4, Math.min(2.5, z));
+  zg.setAttribute('transform', `scale(${state.zoom.toFixed(2)})`);
+  svg.setAttribute('viewBox', `0 0 ${(820 / state.zoom).toFixed(0)} ${(520 / state.zoom).toFixed(0)}`);
+}
+
+// ── Notes ─────────────────────────────────────────────────────────────────────
+const notesList = document.getElementById('notes-list');
+const noteCount = document.getElementById('note-count');
+
+function renderNotes() {
+  notesList.innerHTML = '';
+  noteCount.textContent = `(${state.notes.length})`;
+
+  if (!state.notes.length) {
+    notesList.innerHTML = '<span class="empty-notes">Click any file to add a note</span>';
+    return;
+  }
+
+  for (const note of state.notes) {
+    const node = nodeMap[note.nodeId];
+    const card = document.createElement('div');
+    card.className = 'note-card';
+
+    const nm = document.createElement('div');
+    nm.className = 'note-card-name';
+    nm.textContent = node.label;
+
+    const tx = document.createElement('div');
+    tx.className = 'note-card-text';
+    tx.textContent = note.text;
+
+    const del = document.createElement('button');
+    del.className = 'note-del';
+    del.textContent = '✕';
+    del.title = 'Delete note';
+    del.addEventListener('click', () => {
+      state.notes = state.notes.filter(n => n.id !== note.id);
+      updateNoteIndicator(note.nodeId);
+      renderNotes();
+      updatePrompt();
+    });
+
+    card.append(nm, tx, del);
+    notesList.append(card);
+  }
+}
+
+function updateNoteIndicator(nodeId) {
+  const hasNote = state.notes.some(n => n.nodeId === nodeId);
+  const { g, dot } = nodeEls[nodeId];
+  dot.setAttribute('display', hasNote ? '' : 'none');
+  g.classList.toggle('has-note', hasNote);
+}
+
+// ── Modal ─────────────────────────────────────────────────────────────────────
+const overlay = document.getElementById('modal-overlay');
+const modalName = document.getElementById('modal-name');
+const modalFile = document.getElementById('modal-file');
+const modalDesc = document.getElementById('modal-desc');
+const modalTa   = document.getElementById('modal-ta');
+
+function openModal(node) {
+  state.activeModal = node.id;
+  const existing = state.notes.find(n => n.nodeId === node.id);
+  const cat = LAYERS[node.layer];
+
+  modalName.textContent = node.label;
+  modalName.style.color = cat.color;
+  modalFile.textContent = node.sub;
+  modalDesc.textContent = node.desc;
+  modalTa.value = existing ? existing.text : '';
+  overlay.classList.add('open');
+  setTimeout(() => modalTa.focus(), 50);
+}
+
+function closeModal() {
+  overlay.classList.remove('open');
+  state.activeModal = null;
+}
+
+document.getElementById('modal-cancel').addEventListener('click', closeModal);
+overlay.addEventListener('click', (e) => { if (e.target === overlay) closeModal(); });
+
+document.getElementById('modal-save').addEventListener('click', () => {
+  const text = modalTa.value.trim();
+  const nodeId = state.activeModal;
+  if (!nodeId) return;
+
+  // Remove old note for this node
+  state.notes = state.notes.filter(n => n.nodeId !== nodeId);
+  if (text) {
+    state.notes.push({ id: Date.now(), nodeId, text });
+  }
+  updateNoteIndicator(nodeId);
+  renderNotes();
+  updatePrompt();
+  closeModal();
+});
+
+// ── Prompt ────────────────────────────────────────────────────────────────────
+const promptEl = document.getElementById('prompt-text');
+const copyBtn  = document.getElementById('copy-btn');
+
+function visibleLayerNames() {
+  return Object.entries(state.layers)
+    .filter(([, v]) => v)
+    .map(([k]) => LAYERS[k].label)
+    .join(', ');
+}
+
+function updatePrompt() {
+  const layers = visibleLayerNames();
+  const notes  = state.notes;
+
+  let p = '';
+
+  if (!notes.length) {
+    p = `I'm exploring the offline-bible app (a Vite + TypeScript PWA for reading the Bible offline with Greek/Hebrew morphology support).\n\nCurrently viewing: ${layers}.\n\nPlease walk me through the architecture — how the modules relate, what each layer is responsible for, and any patterns worth noting.`;
+  } else {
+    p = `I'm exploring the offline-bible app architecture (a Vite + TypeScript PWA). Currently viewing: ${layers}.\n\nHere are my notes on specific files:\n\n`;
+    for (const note of notes) {
+      const node = nodeMap[note.nodeId];
+      p += `**${node.label}** (${node.sub}):\n${note.text}\n\n`;
+    }
+    p = p.trimEnd();
+    p += `\n\nPlease address each of these points in context of the overall architecture.`;
+  }
+
+  promptEl.textContent = p;
+}
+
+copyBtn.addEventListener('click', () => {
+  navigator.clipboard.writeText(promptEl.textContent).then(() => {
+    copyBtn.textContent = 'Copied!';
+    copyBtn.classList.add('copied');
+    setTimeout(() => {
+      copyBtn.textContent = 'Copy prompt';
+      copyBtn.classList.remove('copied');
+    }, 1800);
+  });
+});
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+applyFilters();
+renderNotes();
+updatePrompt();
+</script>
+</body>
+</html>

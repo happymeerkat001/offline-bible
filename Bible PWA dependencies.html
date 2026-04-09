@@ -1,0 +1,1146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bible PWA — Dependency Map</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Bebas+Neue&family=IBM+Plex+Sans:wght@300;400;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0f;
+  --surface: #111118;
+  --border: rgba(255,255,255,0.06);
+  --durable: #3b82f6;
+  --durable-dim: rgba(59,130,246,0.12);
+  --control: #f59e0b;
+  --control-dim: rgba(245,158,11,0.12);
+  --mutation: #22c55e;
+  --mutation-dim: rgba(34,197,94,0.12);
+  --deliver: #a855f7;
+  --deliver-dim: rgba(168,85,247,0.12);
+  --sustain: #64748b;
+  --sustain-dim: rgba(100,116,139,0.12);
+  --text: #e2e8f0;
+  --text-dim: #475569;
+  --text-mid: #94a3b8;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'IBM Plex Sans', sans-serif;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* grain overlay */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.035'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 999;
+  opacity: 0.4;
+}
+
+header {
+  padding: 3rem 3rem 1.5rem;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  letter-spacing: 0.05em;
+  line-height: 1;
+  color: var(--text);
+}
+
+h1 span {
+  color: var(--control);
+}
+
+.subtitle {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.65rem;
+  color: var(--text-dim);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  margin-top: 0.4rem;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem 1.2rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.62rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--text-mid);
+  cursor: pointer;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  transition: all 0.2s;
+}
+
+.legend-item:hover { color: var(--text); border-color: rgba(255,255,255,0.2); }
+.legend-item.active { color: var(--text); }
+
+.legend-dot {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.instruction {
+  padding: 0.8rem 3rem;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.62rem;
+  color: var(--text-dim);
+  letter-spacing: 0.1em;
+  border-bottom: 1px solid var(--border);
+  background: rgba(255,255,255,0.01);
+}
+
+.main-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  min-height: calc(100vh - 200px);
+}
+
+.files-panel {
+  border-right: 1px solid var(--border);
+  padding: 2rem;
+  overflow-y: auto;
+}
+
+.detail-panel {
+  padding: 2rem;
+  position: sticky;
+  top: 0;
+  max-height: 100vh;
+  overflow-y: auto;
+}
+
+.panel-label {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.6rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--border);
+}
+
+/* FILE CARD */
+.file-card {
+  margin-bottom: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  overflow: hidden;
+  transition: border-color 0.2s;
+}
+
+.file-card:hover { border-color: rgba(255,255,255,0.15); }
+
+.file-header {
+  padding: 0.8rem 1rem;
+  background: rgba(255,255,255,0.02);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  gap: 1rem;
+}
+
+.file-name {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.file-path {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.58rem;
+  color: var(--text-dim);
+  margin-top: 0.15rem;
+}
+
+.file-tags {
+  display: flex;
+  gap: 0.3rem;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.node-tag {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.55rem;
+  letter-spacing: 0.1em;
+  padding: 0.15rem 0.4rem;
+  border-radius: 2px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+/* FUNCTION LIST */
+.fn-list {
+  padding: 0.5rem 0;
+}
+
+.fn-row {
+  padding: 0.6rem 1rem;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 1rem;
+  align-items: start;
+  cursor: pointer;
+  transition: background 0.15s;
+  border-bottom: 1px solid var(--border);
+}
+
+.fn-row:last-child { border-bottom: none; }
+
+.fn-row:hover { background: rgba(255,255,255,0.03); }
+.fn-row.selected { background: rgba(255,255,255,0.05); }
+
+.fn-sig {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.72rem;
+  color: var(--text);
+}
+
+.fn-what {
+  font-size: 0.68rem;
+  color: var(--text-mid);
+  margin-top: 0.2rem;
+  line-height: 1.4;
+}
+
+/* DETAIL PANEL */
+.detail-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  color: var(--text-dim);
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-align: center;
+  gap: 1rem;
+}
+
+.detail-empty .arrow {
+  font-size: 2rem;
+  opacity: 0.3;
+}
+
+.detail-content { display: none; }
+.detail-content.visible { display: block; }
+
+.detail-fn-name {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 1.8rem;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.3rem;
+}
+
+.detail-file-ref {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.62rem;
+  color: var(--text-dim);
+  margin-bottom: 1.5rem;
+}
+
+.detail-node-badge {
+  display: inline-block;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.65rem;
+  letter-spacing: 0.15em;
+  padding: 0.3rem 0.8rem;
+  border-radius: 2px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+}
+
+.detail-rule {
+  font-size: 0.8rem;
+  color: var(--text-mid);
+  font-style: italic;
+  padding: 0.8rem 1rem;
+  border-left: 2px solid var(--border);
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.detail-section {
+  margin-bottom: 1.5rem;
+}
+
+.detail-section-label {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.58rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  margin-bottom: 0.6rem;
+}
+
+.dep-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.dep-item {
+  padding: 0.7rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.dep-item:hover { border-color: rgba(255,255,255,0.2); background: rgba(255,255,255,0.03); }
+
+.dep-name {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.72rem;
+  margin-bottom: 0.2rem;
+}
+
+.dep-why {
+  font-size: 0.67rem;
+  color: var(--text-mid);
+  line-height: 1.5;
+}
+
+.dep-question {
+  font-size: 0.67rem;
+  color: var(--text-dim);
+  font-style: italic;
+  margin-top: 0.3rem;
+}
+
+.breaks-box {
+  padding: 0.8rem 1rem;
+  background: rgba(239,68,68,0.07);
+  border: 1px solid rgba(239,68,68,0.2);
+  border-radius: 3px;
+  font-size: 0.72rem;
+  color: #fca5a5;
+  line-height: 1.6;
+}
+
+.memory-box {
+  padding: 0.8rem 1rem;
+  border-radius: 3px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.68rem;
+  line-height: 1.8;
+}
+
+/* Node color classes */
+.durable { color: var(--durable); }
+.control { color: var(--control); }
+.mutation { color: var(--mutation); }
+.deliver { color: var(--deliver); }
+.sustain { color: var(--sustain); }
+
+.bg-durable { background: var(--durable-dim); border: 1px solid rgba(59,130,246,0.25); }
+.bg-control { background: var(--control-dim); border: 1px solid rgba(245,158,11,0.25); }
+.bg-mutation { background: var(--mutation-dim); border: 1px solid rgba(34,197,94,0.25); }
+.bg-deliver { background: var(--deliver-dim); border: 1px solid rgba(168,85,247,0.25); }
+.bg-sustain { background: var(--sustain-dim); border: 1px solid rgba(100,116,139,0.25); }
+
+/* SPINE DIAGRAM at bottom */
+.spine-bar {
+  padding: 1.5rem 3rem;
+  border-top: 1px solid var(--border);
+  background: rgba(255,255,255,0.01);
+  display: flex;
+  align-items: center;
+  gap: 0;
+  overflow-x: auto;
+  position: relative;
+}
+
+.spine-node {
+  padding: 0.5rem 1.2rem;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border: 1px solid var(--border);
+  white-space: nowrap;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.spine-arrow {
+  font-size: 0.8rem;
+  color: var(--text-dim);
+  padding: 0 0.3rem;
+  flex-shrink: 0;
+}
+
+.spine-sustain-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  flex: 1;
+  margin: 0 1rem;
+  min-width: 200px;
+}
+
+.spine-inner {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  justify-content: center;
+}
+
+.spine-sustain-label {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.55rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--sustain);
+  text-align: center;
+  padding: 0.3rem 0;
+  border: 1px solid rgba(100,116,139,0.3);
+  border-top: none;
+  background: rgba(100,116,139,0.05);
+}
+
+@media (max-width: 768px) {
+  .main-grid { grid-template-columns: 1fr; }
+  .detail-panel { position: static; max-height: none; }
+  header { padding: 1.5rem; }
+  .files-panel, .detail-panel { padding: 1rem; }
+  .spine-bar { padding: 1rem; }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>BIBLE PWA <span>/</span> DEPENDENCY MAP</h1>
+    <div class="subtitle">Durable → Control → Mutation → Deliver · Sustain as ring</div>
+  </div>
+  <div class="legend">
+    <div class="legend-item" onclick="filterNode('durable')">
+      <div class="legend-dot" style="background:var(--durable)"></div>Durable
+    </div>
+    <div class="legend-item" onclick="filterNode('control')">
+      <div class="legend-dot" style="background:var(--control)"></div>Control
+    </div>
+    <div class="legend-item" onclick="filterNode('mutation')">
+      <div class="legend-dot" style="background:var(--mutation)"></div>Mutation
+    </div>
+    <div class="legend-item" onclick="filterNode('deliver')">
+      <div class="legend-dot" style="background:var(--deliver)"></div>Deliver
+    </div>
+    <div class="legend-item" onclick="filterNode('sustain')">
+      <div class="legend-dot" style="background:var(--sustain)"></div>Sustain
+    </div>
+  </div>
+</header>
+
+<div class="instruction">
+  ← click any function to see its dependencies, why they exist, and what breaks without them
+</div>
+
+<div class="main-grid">
+
+  <!-- LEFT: FILE LIST -->
+  <div class="files-panel">
+    <div class="panel-label">Project Files → Functions → Nodes</div>
+
+    <!-- bible.ts -->
+    <div class="file-card" id="card-bible">
+      <div class="file-header" onclick="toggleCard('bible')">
+        <div>
+          <div class="file-name">bible.ts</div>
+          <div class="file-path">src/api/bible.ts</div>
+        </div>
+        <div class="file-tags">
+          <span class="node-tag bg-control control">Control</span>
+          <span class="node-tag bg-durable durable">Durable</span>
+        </div>
+      </div>
+      <div class="fn-list" id="fns-bible">
+        <div class="fn-row" onclick="showDetail('fetchIndex')">
+          <div>
+            <div class="fn-sig">fetchIndex()</div>
+            <div class="fn-what">reads server → returns BookIndex</div>
+          </div>
+          <span class="node-tag bg-control control">Control</span>
+        </div>
+        <div class="fn-row" onclick="showDetail('fetchChapter')">
+          <div>
+            <div class="fn-sig">fetchChapter(bookId, chapter)</div>
+            <div class="fn-what">reads server → returns ChapterData</div>
+          </div>
+          <span class="node-tag bg-control control">Control</span>
+        </div>
+        <div class="fn-row" onclick="showDetail('FetchError')">
+          <div>
+            <div class="fn-sig">class FetchError</div>
+            <div class="fn-what">defines shape of fetch failure</div>
+          </div>
+          <span class="node-tag bg-durable durable">Durable</span>
+        </div>
+        <div class="fn-row" onclick="showDetail('fetchJson')">
+          <div>
+            <div class="fn-sig">fetchJson&lt;T&gt;(url) <em style="color:var(--text-dim);font-size:0.6rem">private</em></div>
+            <div class="fn-what">wraps fetch + throws on failure</div>
+          </div>
+          <span class="node-tag bg-control control">Control</span>
+        </div>
+        <div class="fn-row" onclick="showDetail('DATA_BASE')">
+          <div>
+            <div class="fn-sig">const DATA_BASE</div>
+            <div class="fn-what">resolves base URL for all data fetches</div>
+          </div>
+          <span class="node-tag bg-durable durable">Durable</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- state.ts -->
+    <div class="file-card" id="card-state">
+      <div class="file-header" onclick="toggleCard('state')">
+        <div>
+          <div class="file-name">state.ts</div>
+          <div class="file-path">src/state.ts</div>
+        </div>
+        <div class="file-tags">
+          <span class="node-tag bg-mutation mutation">Mutation</span>
+          <span class="node-tag bg-control control">Control</span>
+          <span class="node-tag bg-durable durable">Durable</span>
+        </div>
+      </div>
+      <div class="fn-list" id="fns-state">
+        <div class="fn-row" onclick="showDetail('saveLastRead')">
+          <div>
+            <div class="fn-sig">saveLastRead(state)</div>
+            <div class="fn-what">writes to localStorage → void</div>
+          </div>
+          <span class="node-tag bg-mutation mutation">Mutation</span>
+        </div>
+        <div class="fn-row" onclick="showDetail('loadLastRead')">
+          <div>
+            <div class="fn-sig">loadLastRead()</div>
+            <div class="fn-what">reads localStorage → LastReadState | null</div>
+          </div>
+          <span class="node-tag bg-control control">Control</span>
+        </div>
+        <div class="fn-row" onclick="showDetail('LastReadState')">
+          <div>
+            <div class="fn-sig">interface LastReadState</div>
+            <div class="fn-what">defines shape of persisted position</div>
+          </div>
+          <span class="node-tag bg-durable durable">Durable</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- service-worker.ts -->
+    <div class="file-card" id="card-sw">
+      <div class="file-header" onclick="toggleCard('sw')">
+        <div>
+          <div class="file-name">service-worker.ts</div>
+          <div class="file-path">src/sw/service-worker.ts</div>
+        </div>
+        <div class="file-tags">
+          <span class="node-tag bg-control control">Control</span>
+          <span class="node-tag bg-sustain sustain">Sustain</span>
+        </div>
+      </div>
+      <div class="fn-list" id="fns-sw">
+        <div class="fn-row" onclick="showDetail('precacheAndRoute')">
+          <div>
+            <div class="fn-sig">precacheAndRoute(__WB_MANIFEST)</div>
+            <div class="fn-what">caches app shell before first request</div>
+          </div>
+          <span class="node-tag bg-control control">Control</span>
+        </div>
+        <div class="fn-row" onclick="showDetail('registerRoute')">
+          <div>
+            <div class="fn-sig">registerRoute(/data/, StaleWhileRevalidate)</div>
+            <div class="fn-what">governs every chapter file fetch</div>
+          </div>
+          <span class="node-tag bg-control control">Control</span>
+        </div>
+        <div class="fn-row" onclick="showDetail('skipWaiting')">
+          <div>
+            <div class="fn-sig">self.skipWaiting()</div>
+            <div class="fn-what">activates new SW immediately</div>
+          </div>
+          <span class="node-tag bg-control control">Control</span>
+        </div>
+        <div class="fn-row" onclick="showDetail('activateListener')">
+          <div>
+            <div class="fn-sig">addEventListener('activate', ...)</div>
+            <div class="fn-what">evicts old cache on version change</div>
+          </div>
+          <span class="node-tag bg-sustain sustain">Sustain</span>
+        </div>
+        <div class="fn-row" onclick="showDetail('DATA_VERSION')">
+          <div>
+            <div class="fn-sig">const DATA_VERSION</div>
+            <div class="fn-what">version string driving cache eviction</div>
+          </div>
+          <span class="node-tag bg-sustain sustain">Sustain</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- 06-merge.ts -->
+    <div class="file-card" id="card-merge">
+      <div class="file-header" onclick="toggleCard('merge')">
+        <div>
+          <div class="file-name">06-merge.ts</div>
+          <div class="file-path">scripts/etl/06-merge.ts</div>
+        </div>
+        <div class="file-tags">
+          <span class="node-tag bg-durable durable">Durable</span>
+        </div>
+      </div>
+      <div class="fn-list" id="fns-merge">
+        <div class="fn-row" onclick="showDetail('indexTextByRef')">
+          <div>
+            <div class="fn-sig">indexTextByRef(items)</div>
+            <div class="fn-what">list → lookup Map by "bookId:ch:v"</div>
+          </div>
+          <span class="node-tag bg-durable durable">Durable</span>
+        </div>
+        <div class="fn-row" onclick="showDetail('indexTokensByRef')">
+          <div>
+            <div class="fn-sig">indexTokensByRef(items)</div>
+            <div class="fn-what">list → lookup Map for word tokens</div>
+          </div>
+          <span class="node-tag bg-durable durable">Durable</span>
+        </div>
+        <div class="fn-row" onclick="showDetail('mergeMain')">
+          <div>
+            <div class="fn-sig">main() <em style="color:var(--text-dim);font-size:0.6rem">ETL entry</em></div>
+            <div class="fn-what">reads 4 parsed files → writes 1189 chapter files</div>
+          </div>
+          <span class="node-tag bg-durable durable">Durable</span>
+        </div>
+        <div class="fn-row" onclick="showDetail('writeJsonFile')">
+          <div>
+            <div class="fn-sig">writeJsonFile(path, doc)</div>
+            <div class="fn-what">the exact moment truth lands on disk</div>
+          </div>
+          <span class="node-tag bg-durable durable">Durable</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- 07-index.ts -->
+    <div class="file-card" id="card-index">
+      <div class="file-header" onclick="toggleCard('index')">
+        <div>
+          <div class="file-name">07-index.ts</div>
+          <div class="file-path">scripts/etl/07-index.ts</div>
+        </div>
+        <div class="file-tags">
+          <span class="node-tag bg-durable durable">Durable</span>
+        </div>
+      </div>
+      <div class="fn-list" id="fns-index">
+        <div class="fn-row" onclick="showDetail('indexMain')">
+          <div>
+            <div class="fn-sig">main() <em style="color:var(--text-dim);font-size:0.6rem">ETL entry</em></div>
+            <div class="fn-what">writes index.json — the card catalogue</div>
+          </div>
+          <span class="node-tag bg-durable durable">Durable</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- RIGHT: DETAIL PANEL -->
+  <div class="detail-panel">
+    <div class="panel-label">Function Detail</div>
+
+    <div class="detail-empty" id="detail-empty">
+      <div class="arrow">←</div>
+      <div>click a function to inspect it</div>
+    </div>
+
+    <div class="detail-content" id="detail-content"></div>
+  </div>
+
+</div>
+
+<!-- SPINE BAR -->
+<div class="spine-bar">
+  <div class="spine-sustain-wrap">
+    <div class="spine-inner">
+      <div class="spine-node bg-durable durable" onclick="filterNode('durable')" style="border-color:rgba(59,130,246,0.4)">Durable</div>
+      <div class="spine-arrow">→</div>
+      <div class="spine-node bg-control control" onclick="filterNode('control')" style="border-color:rgba(245,158,11,0.4)">Control</div>
+      <div class="spine-arrow">→</div>
+      <div class="spine-node bg-mutation mutation" onclick="filterNode('mutation')" style="border-color:rgba(34,197,94,0.4)">Mutation</div>
+      <div class="spine-arrow">→</div>
+      <div class="spine-node bg-deliver deliver" onclick="filterNode('deliver')" style="border-color:rgba(168,85,247,0.4)">Deliver</div>
+    </div>
+    <div class="spine-sustain-label">↑ sustain — wraps all nodes ↑</div>
+  </div>
+</div>
+
+<script>
+// ─── DATA ────────────────────────────────────────────────────────────────────
+
+const DETAILS = {
+  fetchIndex: {
+    name: 'fetchIndex()',
+    file: 'src/api/bible.ts',
+    node: 'control',
+    rule: 'It reads without changing anything → Control',
+    what: 'Fetches index.json from the server. Returns the full book list — 66 entries with IDs, names, chapter counts. Called once at boot by main.ts.',
+    memory: {
+      reads: 'Server file: public/data/index.json (Durable)',
+      writes: 'Nothing — pure read',
+      returns: 'BookIndex object → lives in Heap until main.ts uses it'
+    },
+    deps: [
+      { name: 'DATA_BASE const', node: 'durable', why: 'Without the correct base URL, the fetch path is wrong and 404s. This broke on GitHub Pages until the BASE_URL fix.', q: 'What has to be true before this runs? The path must resolve correctly for the deployment target.' },
+      { name: 'public/data/index.json (07-index.ts output)', node: 'durable', why: 'If 07-index.ts never ran, there is no index.json to fetch. The ETL must complete before this function is ever called.', q: 'What has to exist on the server? The card catalogue must exist before anyone can read it.' },
+      { name: 'fetchJson() private fn', node: 'control', why: 'fetchIndex() delegates the actual HTTP request and error handling to fetchJson. If fetchJson throws FetchError, fetchIndex propagates it.', q: 'Who does the actual work? The private function — fetchIndex is just a typed wrapper.' }
+    ],
+    breaks: 'The app cannot boot. Nothing renders. No books, no chapters, no navigation — fetchIndex() is the first call in main.ts and everything downstream depends on its result.'
+  },
+
+  fetchChapter: {
+    name: 'fetchChapter(bookId, chapter)',
+    file: 'src/api/bible.ts',
+    node: 'control',
+    rule: 'It reads without changing anything → Control',
+    what: 'Fetches one chapter file from the server using the key pattern bookId/chapter.json. Called every time the route changes.',
+    memory: {
+      reads: 'Server file OR Cache Storage (via service worker interception)',
+      writes: 'Nothing — pure read. Service worker handles caching.',
+      returns: 'ChapterData object → lives in Heap while ChapterView renders it'
+    },
+    deps: [
+      { name: 'DATA_BASE const', node: 'durable', why: 'Same as fetchIndex — path must resolve to the correct deployment base URL.', q: 'What has to be true? The key must point to where truth actually lives.' },
+      { name: '06-merge.ts output (1189 files)', node: 'durable', why: 'If merge.ts never ran, the file at bookId/chapter.json does not exist. fetchChapter returns FetchError 404.', q: 'What has to exist? Truth must be written before it can be read.' },
+      { name: 'registerRoute() in service-worker.ts', node: 'control', why: 'The SW intercepts this request before it hits the network. First load → fetches from server and caches. Later loads → served from cache. Without SW, no offline access.', q: 'Who intercepts this request? The service worker governs every /data/ fetch.' },
+      { name: 'Router (caller)', node: 'deliver', why: 'fetchChapter is called when the route changes. Without the router providing bookId and chapter, this function has no inputs to work with.', q: 'Who calls this? The router, after parsing the URL hash.' }
+    ],
+    breaks: 'Any chapter navigation shows an error state. The app shell loads but no scripture renders. Every onRoute() call fails at the fetch step.'
+  },
+
+  FetchError: {
+    name: 'class FetchError',
+    file: 'src/api/bible.ts',
+    node: 'durable',
+    rule: 'It defines the shape of something → Durable',
+    what: 'A custom Error subclass that carries an optional HTTP status code. Thrown by fetchJson when a request fails. Allows callers to distinguish network errors from other errors.',
+    memory: {
+      reads: 'Nothing',
+      writes: 'Nothing — it is a class definition, not a runtime action',
+      returns: 'Instances created at throw time, live in Heap until caught'
+    },
+    deps: [
+      { name: 'TypeScript Error base class', node: 'durable', why: 'FetchError extends Error. Without the base class, the custom error cannot be created or caught correctly.', q: 'What does this build on? The language runtime — not something you control.' }
+    ],
+    breaks: 'fetchJson throws a plain Error with no status code. Callers cannot distinguish a 404 (missing chapter) from a 500 (server error) from a network timeout. Error recovery becomes guesswork.'
+  },
+
+  fetchJson: {
+    name: 'fetchJson<T>(url)',
+    file: 'src/api/bible.ts',
+    node: 'control',
+    rule: 'It reads and gates — throws on failure → Control',
+    what: 'Private function. Makes the actual HTTP request. Checks res.ok — if false, throws FetchError with status code. If true, parses and returns JSON. Not exported — only fetchIndex and fetchChapter call it.',
+    memory: {
+      reads: 'Network or Cache Storage (via SW interception)',
+      writes: 'Nothing',
+      returns: 'Parsed JSON as generic type T'
+    },
+    deps: [
+      { name: 'FetchError class', node: 'durable', why: 'fetchJson throws FetchError on failure. The error shape must be defined before it can be thrown.', q: 'What does error handling depend on? The error shape being defined first.' },
+      { name: 'Service worker (implicit)', node: 'control', why: 'fetch() calls pass through the SW automatically. fetchJson does not know about the SW — but every request it makes is intercepted before hitting the network.', q: 'Who intercepts this? The SW, invisibly, at the browser level.' }
+    ],
+    breaks: 'fetchIndex and fetchChapter have no error handling. Any failed request crashes the app with an unhandled promise rejection instead of a clean FetchError.'
+  },
+
+  DATA_BASE: {
+    name: 'const DATA_BASE',
+    file: 'src/api/bible.ts',
+    node: 'durable',
+    rule: 'It defines the shape of where truth lives → Durable',
+    what: 'Module-level constant. Resolves to import.meta.env.BASE_URL + "data". On GitHub Pages this becomes "/offline-bible/data". On localhost it becomes "/data". This was the critical bug — hardcoded "/data" broke on GitHub Pages.',
+    memory: {
+      reads: 'import.meta.env.BASE_URL — injected by Vite at build time',
+      writes: 'Nothing',
+      returns: 'String used by fetchIndex and fetchChapter to construct URLs'
+    },
+    deps: [
+      { name: 'vite.config.ts base setting', node: 'sustain', why: 'BASE_URL is determined by vite.config.ts base: "/offline-bible/". Wrong base config = wrong DATA_BASE = 404 on all fetches.', q: 'What determines this value? The deployment target configured in Vite.' },
+      { name: 'Deployment target (GitHub Pages)', node: 'sustain', why: 'The entire reason this constant exists is to handle the subpath deployment on GitHub Pages. It is a Sustain concern encoded as a Durable constant.', q: 'Why does this need to be dynamic? Because the deployment target has a subpath.' }
+    ],
+    breaks: 'Every fetch returns 404. The app shell loads but all data is unreachable. This was the exact bug that broke the live deployment before the BASE_URL fix.'
+  },
+
+  saveLastRead: {
+    name: 'saveLastRead(state)',
+    file: 'src/state.ts',
+    node: 'mutation',
+    rule: 'It writes to memory → Mutation',
+    what: 'Writes the current reading position to localStorage as JSON. Called by the router every time the user navigates to a new chapter. Persists across sessions.',
+    memory: {
+      reads: 'LastReadState object (passed in)',
+      writes: 'localStorage key LAST_READ_KEY — Durable memory',
+      returns: 'void — output is the side effect write'
+    },
+    deps: [
+      { name: 'LastReadState interface', node: 'durable', why: 'The shape of what is written must be defined. saveLastRead only accepts valid LastReadState — TypeScript enforces this at compile time.', q: 'What defines what can be written? The interface — the contract.' },
+      { name: 'Router (caller)', node: 'deliver', why: 'saveLastRead is called when navigation happens. Without the router triggering it, the position is never saved.', q: 'Who initiates this mutation? The router, on every successful navigation.' },
+      { name: 'localStorage availability', node: 'sustain', why: 'localStorage is browser-only. This function cannot run in Node (ETL scripts) or in a service worker context.', q: 'What environment does this require? A browser tab — not a background thread.' }
+    ],
+    breaks: 'The app forgets where the user was reading on every reload. Every session starts at the default chapter. The last-read position feature does not exist.'
+  },
+
+  loadLastRead: {
+    name: 'loadLastRead()',
+    file: 'src/state.ts',
+    node: 'control',
+    rule: 'It reads and validates before passing data through → Control',
+    what: 'Reads localStorage. If empty → returns null. If present → validates shape (both usfm and chapter must exist). If corrupt JSON → catches the parse error and returns null. Never throws. Called once at boot by main.ts.',
+    memory: {
+      reads: 'localStorage key LAST_READ_KEY — Durable memory',
+      writes: 'Nothing',
+      returns: 'LastReadState | null — null means start from default'
+    },
+    deps: [
+      { name: 'LastReadState interface', node: 'durable', why: 'loadLastRead casts the parsed JSON to LastReadState. Without the interface, the validation check has no shape to validate against.', q: 'What does validation check against? The defined shape of valid state.' },
+      { name: 'saveLastRead (prior run)', node: 'mutation', why: 'loadLastRead reads what saveLastRead previously wrote. If saveLastRead never ran, localStorage is empty and loadLastRead returns null.', q: 'What has to have happened before? A previous session must have saved a position.' }
+    ],
+    breaks: 'main.ts cannot restore the last-read position. Every boot starts at the default chapter regardless of localStorage contents. On corrupt data, the app would crash instead of gracefully returning null.'
+  },
+
+  LastReadState: {
+    name: 'interface LastReadState',
+    file: 'src/state.ts',
+    node: 'durable',
+    rule: 'It defines the shape of persisted truth → Durable',
+    what: 'TypeScript interface with two fields: usfm (book identifier string) and chapter (number). Defines what a valid reading position looks like. Used by both saveLastRead and loadLastRead as their shared contract.',
+    memory: {
+      reads: 'Nothing — compile-time only',
+      writes: 'Nothing — erased at runtime',
+      returns: 'Type information for TypeScript compiler'
+    },
+    deps: [],
+    breaks: 'saveLastRead could write any object to localStorage. loadLastRead has no shape to validate against. TypeScript cannot catch mismatched data at compile time. The state layer has no contract.'
+  },
+
+  precacheAndRoute: {
+    name: 'precacheAndRoute(__WB_MANIFEST)',
+    file: 'src/sw/service-worker.ts',
+    node: 'control',
+    rule: 'It governs access — ensures app shell is always available → Control',
+    what: 'Takes the manifest array injected by Vite at build time. Caches every app shell file (HTML, CSS, JS) with a cache-first strategy before the user makes any request. These files are available offline immediately.',
+    memory: {
+      reads: '__WB_MANIFEST — injected at build time by vite-plugin-pwa',
+      writes: 'Cache Storage (walk-in fridge) — app shell files',
+      returns: 'void — output is registered cache behavior'
+    },
+    deps: [
+      { name: 'vite-plugin-pwa (build tool)', node: 'sustain', why: '__WB_MANIFEST does not exist without vite-plugin-pwa injecting it during the build. Without this plugin, the variable is undefined.', q: 'Where does __WB_MANIFEST come from? The build tool injects it — not your code.' },
+      { name: 'vite build output (dist/)', node: 'durable', why: 'The files being precached must exist. They are only created by running npm run build.', q: 'What is being cached? The built output files — they must exist before they can be cached.' }
+    ],
+    breaks: 'The app shell is not cached. Going offline shows a blank screen even if all chapter data is cached. The HTML and JS needed to render anything are unavailable without a network connection.'
+  },
+
+  registerRoute: {
+    name: 'registerRoute(/data/, StaleWhileRevalidate)',
+    file: 'src/sw/service-worker.ts',
+    node: 'control',
+    rule: 'It governs every fetch to Durable truth → Control',
+    what: 'Registers a rule: any request whose URL starts with /data/ is intercepted and handled with StaleWhileRevalidate. Serve from cache immediately, fetch fresh in background, store updated version for next load. maxEntries: 1400 caps the cache size.',
+    memory: {
+      reads: 'Cache Storage on each request',
+      writes: 'Cache Storage — stores updated chapter files after background fetch',
+      returns: 'void — output is registered intercept behavior'
+    },
+    deps: [
+      { name: 'DATA_CACHE name', node: 'sustain', why: 'The cache is stored under DATA_CACHE = "bible-data-v1.0.0". The activate listener uses this name to know which cache to keep and which to evict. If names do not match, eviction breaks.', q: 'What ties caching to eviction? The shared cache name constant.' },
+      { name: '06-merge.ts output files', node: 'durable', why: 'The files being cached must exist at /data/. If ETL never ran, cache misses fall back to network — which also 404s.', q: 'What is being served from cache? The chapter files — they must exist somewhere.' },
+      { name: 'StaleWhileRevalidate strategy', node: 'sustain', why: 'The strategy determines the user experience on stale data. One load behind is acceptable for scripture. For financial data it would not be.', q: 'Why this strategy and not another? Because scripture changes rarely — speed matters more than immediacy.' }
+    ],
+    breaks: 'Chapter files are fetched from the network every time. No offline access to any chapter. On a slow connection, every navigation waits for a network round-trip instead of serving from cache instantly.'
+  },
+
+  skipWaiting: {
+    name: 'self.skipWaiting() + clientsClaim()',
+    file: 'src/sw/service-worker.ts',
+    node: 'control',
+    rule: 'It controls the SW lifecycle — who governs existing tabs → Control',
+    what: 'skipWaiting() tells the new SW to activate immediately without waiting for old tabs to close. clientsClaim() tells the active SW to take control of all open tabs immediately. Together: deploy = instant update.',
+    memory: {
+      reads: 'Nothing',
+      writes: 'Nothing — tells browser runtime to change lifecycle behavior',
+      returns: 'void — Tell output'
+    },
+    deps: [
+      { name: 'Browser SW lifecycle', node: 'sustain', why: 'By default, a new SW waits until all tabs using the old SW are closed. skipWaiting overrides this. The dependency is the browser default behavior being overridden.', q: 'What default is being changed? The browser\'s natural wait-before-activate behavior.' }
+    ],
+    breaks: 'Deployed updates do not take effect until the user closes all tabs and reopens the app. Users stay on stale service workers until they manually restart the browser. Debugging deployed updates becomes extremely difficult.'
+  },
+
+  activateListener: {
+    name: "addEventListener('activate', ...)",
+    file: 'src/sw/service-worker.ts',
+    node: 'sustain',
+    rule: 'It cleans up old state when versions change → Sustain',
+    what: 'On every SW activation, reads all cache keys, filters for old bible-data-v* caches that are not the current version, deletes them all. Prevents stale data from accumulating in browser storage indefinitely.',
+    memory: {
+      reads: 'Cache Storage keys — all named caches in the browser',
+      writes: 'Cache Storage — deletes old versioned caches',
+      returns: 'void — output is the deletion side effect'
+    },
+    deps: [
+      { name: 'DATA_CACHE_PREFIX + DATA_VERSION', node: 'sustain', why: 'The filter logic uses DATA_CACHE_PREFIX to find candidates and DATA_CACHE to know which one to keep. If DATA_VERSION is not bumped after a data update, this listener does nothing useful.', q: 'What triggers eviction? A version bump by the developer — this is a human decision point.' },
+      { name: 'caches.keys() browser API', node: 'durable', why: 'This is a browser-provided API for reading Cache Storage contents. Not available in Node — service worker context only.', q: 'What environment does this require? The browser\'s Cache Storage API.' }
+    ],
+    breaks: 'Old cache buckets (bible-data-v1.0.0, v1.1.0...) accumulate forever after each data update. Browser storage fills up. Users may see a mix of old and new chapter data after a version bump, because the old cache is never cleared.'
+  },
+
+  DATA_VERSION: {
+    name: 'const DATA_VERSION',
+    file: 'src/sw/service-worker.ts',
+    node: 'sustain',
+    rule: 'It keeps the cache cycle honest over time → Sustain',
+    what: 'A string constant: "1.0.0". Drives the entire cache versioning system. Changing this value changes the cache name, which triggers eviction of all old chapter files on next activation. The single lever for forcing a full cache refresh.',
+    memory: {
+      reads: 'Nothing',
+      writes: 'Nothing — module memory, string constant',
+      returns: 'Used by DATA_CACHE and the activate listener'
+    },
+    deps: [
+      { name: 'Human decision to bump it', node: 'sustain', why: 'DATA_VERSION does nothing automatically. A developer must consciously change "1.0.0" to "1.1.0" after pushing a data update. Forgetting this means users never get fresh data.', q: 'What triggers a version bump? A deliberate human decision — this is not automated.' }
+    ],
+    breaks: 'Pushing a data update with the same DATA_VERSION means the activate listener never evicts the old cache. Users with cached data see old chapter files indefinitely, even after you pushed corrections to GitHub Pages.'
+  },
+
+  indexTextByRef: {
+    name: 'indexTextByRef(items)',
+    file: 'scripts/etl/06-merge.ts',
+    node: 'durable',
+    rule: 'It defines the shape truth takes during transformation → Durable',
+    what: 'Takes a flat array of CanonicalVerse objects and returns a Map where each key is "bookId:chapter:verse" and each value is the text string. Converts a list into a lookup table so merge can find any verse in O(1) time.',
+    memory: {
+      reads: 'CanonicalVerse[] array (from parsed JSON, lives in Heap)',
+      writes: 'Nothing permanent — creates a new Map in Heap',
+      returns: 'Map<string, string> — lives in Heap during merge execution'
+    },
+    deps: [
+      { name: 'CanonicalVerse type', node: 'durable', why: 'The function expects items with bookId, chapter, verse, text fields. If the parsed JSON does not match this shape, the Map keys are built incorrectly and lookups in main() return undefined.', q: 'What shape must the input be? CanonicalVerse — defined by the schema.' },
+      { name: '02-parse-cuv.ts / 03-parse-net.ts outputs', node: 'durable', why: 'indexTextByRef only runs after the parse scripts have already created zh.json and en.json. The chain: fetch → parse → index → merge.', q: 'What has to exist before this runs? The parsed JSON files on disk.' }
+    ],
+    breaks: 'main() cannot build a lookup table. The inner verse loop cannot find zh or en text by reference. All 1189 chapter files are written with empty zh and en strings — corrupt truth baked into Durable.'
+  },
+
+  indexTokensByRef: {
+    name: 'indexTokensByRef(items)',
+    file: 'scripts/etl/06-merge.ts',
+    node: 'durable',
+    rule: 'Same as indexTextByRef — defines transformation shape → Durable',
+    what: 'Same pattern as indexTextByRef but for word-level token arrays instead of plain text strings. Converts TokenizedVerse[] into a Map keyed by verse reference. Used for Greek (gr) and Hebrew (he) word tokens.',
+    memory: {
+      reads: 'TokenizedVerse[] array (Heap)',
+      writes: 'Nothing permanent',
+      returns: 'Map<string, WordToken[]> — Heap during merge'
+    },
+    deps: [
+      { name: 'TokenizedVerse + WordToken types', node: 'durable', why: 'The Map values are WordToken arrays. If the parsed morphology files do not match TokenizedVerse shape, morph tokens are lost from the chapter files.', q: 'What shape must morph data be? WordToken — the contract for word-level truth.' },
+      { name: '04-parse-gnt.ts / 05-parse-wlc.ts outputs', node: 'durable', why: 'gr.json and he.json must exist before this runs. Same chain dependency as indexTextByRef.', q: 'What has to exist? The parsed Greek and Hebrew files.' }
+    ],
+    breaks: 'All NT chapters have empty gr arrays. All OT chapters have empty he arrays. Morph popup feature silently shows nothing. No error — just missing word-level truth.'
+  },
+
+  mergeMain: {
+    name: 'main() — 06-merge.ts',
+    file: 'scripts/etl/06-merge.ts',
+    node: 'durable',
+    rule: 'It writes permanent truth to disk → Durable',
+    what: 'The ETL entry point. Reads all four parsed files, builds four lookup Maps, loops through every book and chapter, assembles ChapterVerse objects, writes 1189 JSON files. The moment the data pipeline commits truth to disk.',
+    memory: {
+      reads: 'scripts/parsed/zh.json, en.json, gr.json, he.json (disk)',
+      writes: 'public/data/{bookId}/{chapter}.json × 1189 files (disk)',
+      returns: 'void — output is 1189 files on disk'
+    },
+    deps: [
+      { name: 'All four parse scripts (02-05)', node: 'durable', why: 'main() reads the four parsed files. If any parse script failed, that language track is missing or empty. merge runs but produces incomplete truth.', q: 'What has to be true before main() runs? All four parsed files must exist and be valid.' },
+      { name: 'BOOKS constant (lib/books.ts)', node: 'durable', why: 'The outer loop iterates over BOOKS to know which bookIds and chapter counts exist. If BOOKS is wrong, chapters are skipped or duplicated.', q: 'What defines the loop bounds? The canonical book list — a Durable constant.' },
+      { name: 'writeJsonFile (lib/io.ts)', node: 'durable', why: 'main() delegates the actual file write to writeJsonFile. This is the line where truth permanently lands on disk.', q: 'Who does the actual writing? io.ts — a shared utility.' }
+    ],
+    breaks: 'public/data/ is empty or incomplete. fetchChapter returns 404 for every request. The app shell loads but no scripture is ever accessible. The entire Deliver layer has nothing to deliver.'
+  },
+
+  writeJsonFile: {
+    name: 'writeJsonFile(path, doc)',
+    file: 'scripts/etl/06-merge.ts (via lib/io.ts)',
+    node: 'durable',
+    rule: 'It commits truth to disk → the most Durable action in the whole system',
+    what: 'The exact line where a ChapterDoc object stops being in-memory data and becomes a permanent file. path = the key (bookId/chapter.json). doc = the value (all four language tracks for that chapter). After this line, the file exists on disk regardless of what happens to the running process.',
+    memory: {
+      reads: 'ChapterDoc object (Heap — assembled by main())',
+      writes: 'Disk: public/data/{bookId}/{chapter}.json',
+      returns: 'void — the write IS the output'
+    },
+    deps: [
+      { name: 'ChapterDoc shape', node: 'durable', why: 'The object being written must match the schema. Invalid shapes produce files that fetchChapter can parse but ChapterView cannot render correctly.', q: 'What defines what gets written? The ChapterDoc interface — the schema contract.' },
+      { name: 'mkdir (recursive)', node: 'sustain', why: 'The output directory must exist before writeJsonFile can write. main() calls mkdir with recursive:true first — if this is skipped, every write fails with ENOENT.', q: 'What must exist before writing? The output directory.' }
+    ],
+    breaks: 'No chapter files are created. This is the single most consequential function in the entire ETL chain — everything downstream reads what this writes.'
+  },
+
+  indexMain: {
+    name: 'main() — 07-index.ts',
+    file: 'scripts/etl/07-index.ts',
+    node: 'durable',
+    rule: 'It writes the map that tells the app what truth exists → Durable',
+    what: 'Writes index.json — a single file containing all 66 books with their IDs, names, chapter counts, and the version string. Called after 06-merge.ts. Does not contain scripture — contains the directory of scripture.',
+    memory: {
+      reads: 'BOOKS constant (lib/books.ts)',
+      writes: 'public/data/index.json (disk)',
+      returns: 'void — the write IS the output'
+    },
+    deps: [
+      { name: '06-merge.ts (must run first)', node: 'durable', why: 'index.json must accurately reflect what chapter files exist. If merge ran but index.ts uses different BOOKS data, index.json promises chapters that do not exist — fetchChapter 404s.', q: 'What must be consistent with index.json? The actual files that 06-merge.ts wrote.' },
+      { name: 'DATA_VERSION string', node: 'sustain', why: 'index.json contains the version string. The service worker reads this to know when to evict cache. If this version does not match DATA_VERSION in service-worker.ts, the eviction signal never fires correctly.', q: 'What connects index.json to the SW? The shared version string — both must agree.' }
+    ],
+    breaks: 'fetchIndex() returns an empty or missing catalogue. main.ts cannot populate the book selector. Navigation is impossible because the app does not know what books or chapters exist. The app loads but is completely non-functional.'
+  }
+};
+
+// ─── ACTIVE FILTER ────────────────────────────────────────────────────────────
+let activeFilter = null;
+let activeDetail = null;
+
+function toggleCard(id) {
+  // cards are always open in this version
+}
+
+function filterNode(node) {
+  activeFilter = activeFilter === node ? null : node;
+  document.querySelectorAll('.fn-row').forEach(row => {
+    const tag = row.querySelector('.node-tag');
+    if (!tag) return;
+    if (!activeFilter) {
+      row.style.opacity = '1';
+    } else {
+      row.style.opacity = tag.classList.contains(activeFilter) ? '1' : '0.2';
+    }
+  });
+  document.querySelectorAll('.legend-item').forEach((item, i) => {
+    item.classList.toggle('active', ['durable','control','mutation','deliver','sustain'][i] === activeFilter);
+  });
+}
+
+function nodeColor(node) {
+  const map = { durable: 'var(--durable)', control: 'var(--control)', mutation: 'var(--mutation)', deliver: 'var(--deliver)', sustain: 'var(--sustain)' };
+  return map[node] || '#fff';
+}
+
+function nodeBg(node) {
+  return `bg-${node}`;
+}
+
+function showDetail(key) {
+  const d = DETAILS[key];
+  if (!d) return;
+
+  // highlight selected row
+  document.querySelectorAll('.fn-row').forEach(r => r.classList.remove('selected'));
+  event.currentTarget.classList.add('selected');
+
+  activeDetail = key;
+
+  const el = document.getElementById('detail-content');
+  const empty = document.getElementById('detail-empty');
+
+  empty.style.display = 'none';
+  el.classList.add('visible');
+
+  const depsHtml = d.deps.length === 0
+    ? `<div style="color:var(--text-dim);font-size:0.7rem;font-style:italic">No upstream dependencies — this is a base definition.</div>`
+    : d.deps.map(dep => `
+      <div class="dep-item">
+        <div class="dep-name ${dep.node}" style="color:${nodeColor(dep.node)}">
+          ${dep.name}
+          <span class="node-tag ${nodeBg(dep.node)} ${dep.node}" style="margin-left:0.4rem;font-size:0.5rem">${dep.node}</span>
+        </div>
+        <div class="dep-why">${dep.why}</div>
+        <div class="dep-question">"${dep.q}"</div>
+      </div>
+    `).join('');
+
+  el.innerHTML = `
+    <div class="detail-fn-name ${d.node}" style="color:${nodeColor(d.node)}">${d.name}</div>
+    <div class="detail-file-ref">${d.file}</div>
+    <span class="detail-node-badge ${nodeBg(d.node)} ${d.node}">${d.node}</span>
+
+    <div class="detail-rule">"${d.rule}"</div>
+
+    <div class="detail-section">
+      <div class="detail-section-label">What it does</div>
+      <div style="font-size:0.75rem;line-height:1.7;color:var(--text-mid)">${d.what}</div>
+    </div>
+
+    <div class="detail-section">
+      <div class="detail-section-label">Memory</div>
+      <div class="memory-box bg-${d.node}">
+        <div><span style="color:var(--text-dim)">reads  </span>${d.memory.reads}</div>
+        <div><span style="color:var(--text-dim)">writes </span>${d.memory.writes}</div>
+        <div><span style="color:var(--text-dim)">returns</span> ${d.memory.returns}</div>
+      </div>
+    </div>
+
+    <div class="detail-section">
+      <div class="detail-section-label">Upstream dependencies — "what has to be true before this runs?"</div>
+      <div class="dep-list">${depsHtml}</div>
+    </div>
+
+    <div class="detail-section">
+      <div class="detail-section-label">What breaks if this is removed</div>
+      <div class="breaks-box">${d.breaks}</div>
+    </div>
+  `;
+}
+</script>
+</body>
+</html>

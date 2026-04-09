@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>offline-bible · Dependency Map</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    header {
+      padding: 0.75rem 1.5rem;
+      border-bottom: 1px solid #21262d;
+      flex-shrink: 0;
+      display: flex;
+      align-items: baseline;
+      gap: 1rem;
+    }
+    header h1 { font-size: 0.95rem; font-weight: 600; color: #c9d1d9; }
+    header p { font-size: 0.7rem; color: #6e7681; }
+
+    .controls {
+      display: flex;
+      gap: 0.4rem;
+      padding: 0.5rem 1.5rem;
+      border-bottom: 1px solid #21262d;
+      background: #161b22;
+      flex-shrink: 0;
+      align-items: center;
+    }
+    .controls-label { font-size: 0.68rem; color: #6e7681; margin-right: 0.3rem; }
+
+    .filter-btn {
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+      padding: 0.2rem 0.6rem;
+      border-radius: 20px;
+      border: 1px solid #30363d;
+      background: transparent;
+      color: #8b949e;
+      font-size: 0.67rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.1s;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .filter-btn:hover { color: #e6edf3; border-color: #484f58; background: #21262d; }
+    .filter-btn.active { color: var(--cc); border-color: var(--cc); background: rgba(255,255,255,0.05); }
+    .filter-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+
+    .diagram-wrap {
+      flex: 1;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #diagram {
+      width: 100%;
+      height: 100%;
+    }
+
+    .node-group { cursor: pointer; }
+    .node-rect { transition: filter 0.1s; }
+    .node-group:hover .node-rect { filter: brightness(1.45); }
+    .node-name {
+      font-family: 'SF Mono', 'Consolas', 'Menlo', monospace;
+      font-size: 11px;
+      fill: #e6edf3;
+      pointer-events: none;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+    .node-role {
+      font-size: 8.5px;
+      pointer-events: none;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+    }
+
+    .edge-group { pointer-events: none; }
+    .edge-path { fill: none; stroke-width: 1.8; }
+    .edge-lbl {
+      font-size: 8px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      pointer-events: none;
+    }
+
+    .node-group.faded .node-rect { opacity: 0.1; }
+    .node-group.faded .node-name,
+    .node-group.faded .node-role { opacity: 0.1; }
+    .edge-group.faded .edge-path { opacity: 0.05; }
+    .edge-group.faded .edge-lbl { opacity: 0; }
+    .edge-group.faded .edge-bg { opacity: 0; }
+
+    .tooltip {
+      position: fixed;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      padding: 0.65rem 0.85rem;
+      font-size: 0.76rem;
+      line-height: 1.55;
+      pointer-events: none;
+      max-width: 280px;
+      display: none;
+      z-index: 200;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    }
+    .tooltip.show { display: block; }
+    .tt-name {
+      font-family: 'SF Mono', 'Consolas', monospace;
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: #e6edf3;
+      display: block;
+      margin-bottom: 0.3rem;
+    }
+    .tt-badge {
+      display: inline-block;
+      padding: 0.05rem 0.4rem;
+      border-radius: 20px;
+      font-size: 0.63rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      margin-bottom: 0.35rem;
+    }
+    .tt-desc { color: #8b949e; margin-bottom: 0.35rem; font-size: 0.73rem; }
+    .tt-links { font-size: 0.68rem; color: #6e7681; line-height: 1.6; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>offline-bible · File Dependency Map</h1>
+  <p>Hover to highlight connections · Click to pin · Click background to reset</p>
+</header>
+
+<div class="controls">
+  <span class="controls-label">Filter by dependency type:</span>
+</div>
+
+<div class="diagram-wrap">
+  <svg id="diagram" viewBox="0 0 980 610" preserveAspectRatio="xMidYMid meet"></svg>
+</div>
+
+<div class="tooltip" id="tooltip"></div>
+
+<script>
+const NS = 'http://www.w3.org/2000/svg';
+
+// ── Category definitions ────────────────────────────────────────────────────
+const CATS = {
+  durable:  { label: 'Durable',  color: '#4D9DE0',
+    desc: 'Stable contracts (types, CSS) that rarely change — the foundation everything else depends on.' },
+  control:  { label: 'Control',  color: '#F5A623',
+    desc: 'Navigation, routing, and orchestration of app lifecycle and flow.' },
+  mutation: { label: 'Mutation', color: '#E84855',
+    desc: 'Side-effectful state changes — writes to localStorage or browser state.' },
+  deliver:  { label: 'Deliver',  color: '#3BB273',
+    desc: 'Fetching data from the network and painting rendered output to the DOM.' },
+  sustain:  { label: 'Sustain',  color: '#A855F7',
+    desc: 'Offline resilience — service worker caching keeps the app alive without network.' },
+};
+
+const NH = 46; // node height
+
+// ── Nodes ───────────────────────────────────────────────────────────────────
+const NODES = [
+  { id: 'types',
+    label: 'types.ts',
+    cx: 490, cy: 58, w: 148,
+    cat: 'durable',
+    role: 'Data contracts',
+    desc: 'Pure TypeScript interfaces only — BookMeta, ChapterData, VerseData, WordToken, BookIndex. Zero imports. The foundational contract every other module depends on.' },
+
+  { id: 'styles',
+    label: 'styles/*.css',
+    cx: 840, cy: 58, w: 152,
+    cat: 'durable',
+    role: 'Visual contracts',
+    desc: 'Four CSS files: base.css · verse.css · rtl.css · dark.css. Stable visual rules statically imported once by main.ts — no runtime coupling.' },
+
+  { id: 'state',
+    label: 'state.ts',
+    cx: 85,  cy: 200, w: 140,
+    cat: 'mutation',
+    role: 'localStorage r/w',
+    desc: 'saveLastRead({usfm, chapter}) serialises to localStorage. loadLastRead() parses it back. The only module that directly mutates durable browser storage.' },
+
+  { id: 'router',
+    label: 'router.ts',
+    cx: 330, cy: 200, w: 148,
+    cat: 'control',
+    role: 'Hash router',
+    desc: 'startRouter(handler, fallback) subscribes to window hashchange. setRoute(usfm, ch) pushes a new #/BOOK/CH URL. Controls every navigation transition.' },
+
+  { id: 'api',
+    label: 'api/bible.ts',
+    cx: 590, cy: 200, w: 152,
+    cat: 'deliver',
+    role: 'Network / JSON fetch',
+    desc: 'fetchIndex() → /data/index.json. fetchChapter(id, ch) → /data/{id}/{ch}.json. FetchError wraps HTTP failures. Delivers raw data for the render pipeline.' },
+
+  { id: 'sw',
+    label: 'service-worker.ts',
+    cx: 865, cy: 200, w: 175,
+    cat: 'sustain',
+    role: 'PWA offline cache',
+    desc: 'Workbox precaches the app shell. StaleWhileRevalidate caches up to 1 400 /data/* entries. Cache versioning with old-cache cleanup on activate — sustains offline access.' },
+
+  { id: 'navbar',
+    label: 'NavBar.ts',
+    cx: 150, cy: 400, w: 140,
+    cat: 'control',
+    role: 'Nav UI + routing',
+    desc: 'Renders book <select>, Prev/Next buttons, dark-mode toggle. The only component that calls setRoute() — bridging user intent to URL state changes.' },
+
+  { id: 'chapter',
+    label: 'ChapterView.ts',
+    cx: 490, cy: 400, w: 158,
+    cat: 'deliver',
+    role: 'Chapter DOM render',
+    desc: 'renderChapter() builds section.chapter from ChapterData, delegating each verse to renderVerseBlock(). Exports renderLoading / renderError for async states.' },
+
+  { id: 'verse',
+    label: 'VerseBlock.ts',
+    cx: 800, cy: 400, w: 152,
+    cat: 'deliver',
+    role: 'Verse DOM + morphology',
+    desc: 'Renders verse <article>: ZH + EN text, footnote dialogs, clickable Greek/Hebrew word tokens with morphology pop-ups (expandGreekMorph / expandHebrewMorph).' },
+
+  { id: 'main',
+    label: 'main.ts',
+    cx: 490, cy: 545, w: 138,
+    cat: 'control',
+    role: 'App entry / orchestrator',
+    desc: 'Bootstraps everything: fetches book index, starts router, mounts NavBar and renders ChapterView on every route change. Registers SW via vite-plugin-pwa.' },
+];
+
+const nodeMap = Object.fromEntries(NODES.map(n => [n.id, n]));
+
+// ── Edges ───────────────────────────────────────────────────────────────────
+// eo = exit offset fraction along from-node border edge [-1, 1]
+// ei = entry offset fraction along to-node border edge  [-1, 1]
+const EDGES = [
+  // main → direct imports
+  { from:'main', to:'types',   cat:'durable',  lbl:'Durable',  eo:-0.15, ei: 0.05,
+    desc:'Imports BookMeta for route-to-book-metadata mapping in onRoute()' },
+  { from:'main', to:'state',   cat:'mutation', lbl:'Mutation', eo:-0.55, ei: 0,
+    desc:'saveLastRead() after each successful navigation; loadLastRead() on boot for fallback' },
+  { from:'main', to:'router',  cat:'control',  lbl:'Control',  eo:-0.2,  ei: 0.1,
+    desc:'startRouter(handler, fallback) drives the entire app lifecycle via hash URL changes' },
+  { from:'main', to:'api',     cat:'deliver',  lbl:'Deliver',  eo: 0.1,  ei: 0,
+    desc:'fetchIndex() on boot; fetchChapter(bookId, ch) on every route change' },
+  { from:'main', to:'chapter', cat:'deliver',  lbl:'Deliver',  eo: 0,    ei: 0,
+    desc:'renderChapter/renderLoading/renderError mount output to #main container' },
+  { from:'main', to:'navbar',  cat:'deliver',  lbl:'Deliver',  eo:-0.3,  ei: 0.15,
+    desc:'mountNavBar() rebuilds the navigation bar on every route change' },
+  { from:'main', to:'styles',  cat:'durable',  lbl:'Durable',  eo: 0.38, ei: 0,
+    desc:'Static CSS imports at bundle time — no runtime coupling beyond visual defaults' },
+  { from:'main', to:'sw',      cat:'sustain',  lbl:'Sustain',  eo: 0.5,  ei: 0,
+    desc:'registerSW() via virtual:pwa-register; shows update-available toast on new SW version' },
+  // NavBar imports
+  { from:'navbar', to:'types',  cat:'durable', lbl:'Durable',  eo:-0.2,  ei:-0.3,
+    desc:'BookMeta[] to populate the book selector <option> list with name_zh + name_en' },
+  { from:'navbar', to:'router', cat:'control', lbl:'Control',  eo: 0.25, ei:-0.2,
+    desc:'setRoute(usfm, ch) mutates URL hash on book-select, Prev, and Next events' },
+  // ChapterView imports
+  { from:'chapter', to:'types', cat:'durable', lbl:'Durable',  eo:-0.2,  ei: 0.25,
+    desc:'ChapterData type for typed access to verses[] in renderChapter()' },
+  { from:'chapter', to:'verse', cat:'deliver', lbl:'Deliver',  eo: 0.2,  ei:-0.2,
+    desc:'Delegates per-verse DOM construction to renderVerseBlock(verse)' },
+  // VerseBlock imports
+  { from:'verse', to:'types',   cat:'durable', lbl:'Durable',  eo:-0.25, ei: 0.5,
+    desc:'VerseData (zh, en, notes, gr, he) + WordToken (w, morph, gloss) for rendering' },
+  // api imports
+  { from:'api', to:'types',     cat:'durable', lbl:'Durable',  eo:-0.2,  ei:-0.2,
+    desc:'BookIndex + ChapterData as typed return values for fetchIndex() and fetchChapter()' },
+];
+
+// ── SVG helpers ─────────────────────────────────────────────────────────────
+
+function svgEl(tag, attrs) {
+  const e = document.createElementNS(NS, tag);
+  if (attrs) for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, String(v));
+  return e;
+}
+
+// Point on rect border from (cx,cy) toward (tx,ty), offset along the exit edge
+function borderPt(node, tx, ty, offset = 0) {
+  const { cx, cy, w } = node;
+  const hw = w / 2, hh = NH / 2;
+  const dx = tx - cx, dy = ty - cy;
+  if (!dx && !dy) return { x: cx, y: cy };
+
+  const tX = Math.abs(dx) > 0.001 ? hw / Math.abs(dx) : Infinity;
+  const tY = Math.abs(dy) > 0.001 ? hh / Math.abs(dy) : Infinity;
+
+  let bx, by;
+  if (tX < tY) {
+    // exits left or right edge
+    bx = cx + Math.sign(dx) * hw;
+    by = cy + dy * tX;
+    by = Math.max(cy - hh, Math.min(cy + hh, by + offset * hh));
+  } else {
+    // exits top or bottom edge
+    bx = cx + dx * tY;
+    by = cy + Math.sign(dy) * hh;
+    bx = Math.max(cx - hw, Math.min(cx + hw, bx + offset * hw));
+  }
+  return { x: bx, y: by };
+}
+
+// Quadratic bezier at t
+function qbez(x1, y1, cpx, cpy, x2, y2, t) {
+  const mt = 1 - t;
+  return {
+    x: mt * mt * x1 + 2 * mt * t * cpx + t * t * x2,
+    y: mt * mt * y1 + 2 * mt * t * cpy + t * t * y2,
+  };
+}
+
+// ── Build diagram ────────────────────────────────────────────────────────────
+
+const diagram = document.getElementById('diagram');
+
+// Defs: arrowheads per category
+const defs = svgEl('defs');
+for (const [cat, info] of Object.entries(CATS)) {
+  const m = svgEl('marker', {
+    id: `arr-${cat}`, markerWidth: 8, markerHeight: 7,
+    refX: 7, refY: 3.5, orient: 'auto',
+  });
+  m.append(svgEl('path', { d: 'M0,0.5 L0,6.5 L7.5,3.5 z', fill: info.color }));
+  defs.append(m);
+}
+diagram.append(defs);
+
+const edgeLayer = svgEl('g');
+const nodeLayer = svgEl('g');
+diagram.append(edgeLayer, nodeLayer);
+
+// ── Edges ────────────────────────────────────────────────────────────────────
+const edgeEls = {};
+
+for (const edge of EDGES) {
+  const fn = nodeMap[edge.from];
+  const tn = nodeMap[edge.to];
+  const cat = CATS[edge.cat];
+
+  const p1 = borderPt(fn, tn.cx, tn.cy, edge.eo ?? 0);
+  const p2 = borderPt(tn, fn.cx, fn.cy, edge.ei ?? 0);
+
+  // Quadratic bezier control point: midpoint + perpendicular nudge
+  const mx = (p1.x + p2.x) / 2, my = (p1.y + p2.y) / 2;
+  const dx = p2.x - p1.x, dy = p2.y - p1.y;
+  const len = Math.sqrt(dx * dx + dy * dy) || 1;
+  const perp = Math.min(len * 0.12, 28); // nudge magnitude
+  const cpx = mx + (-dy / len) * perp;
+  const cpy = my + (dx / len)  * perp;
+
+  const d = `M${p1.x.toFixed(1)},${p1.y.toFixed(1)} Q${cpx.toFixed(1)},${cpy.toFixed(1)} ${p2.x.toFixed(1)},${p2.y.toFixed(1)}`;
+
+  const g = svgEl('g', {
+    class: 'edge-group',
+    'data-from': edge.from,
+    'data-to':   edge.to,
+    'data-cat':  edge.cat,
+  });
+
+  g.append(svgEl('path', {
+    class: 'edge-path',
+    d,
+    stroke: cat.color,
+    'stroke-opacity': 0.72,
+    'marker-end': `url(#arr-${edge.cat})`,
+  }));
+
+  // Label at 50% of bezier
+  const lp = qbez(p1.x, p1.y, cpx, cpy, p2.x, p2.y, 0.5);
+
+  const bg = svgEl('rect', {
+    class: 'edge-bg',
+    x: lp.x - 21, y: lp.y - 6.5,
+    width: 42, height: 13,
+    fill: '#0d1117', rx: 2,
+  });
+  g.append(bg);
+
+  const lbl = svgEl('text', {
+    class: 'edge-lbl',
+    x: lp.x, y: lp.y + 0.5,
+    fill: cat.color,
+  });
+  lbl.textContent = edge.lbl;
+  g.append(lbl);
+
+  edgeLayer.append(g);
+  edgeEls[`${edge.from}:${edge.to}`] = { g, edge };
+}
+
+// ── Nodes ────────────────────────────────────────────────────────────────────
+const nodeEls = {};
+
+for (const node of NODES) {
+  const cat = CATS[node.cat];
+  const hw = node.w / 2, hh = NH / 2;
+
+  const g = svgEl('g', {
+    class: 'node-group',
+    'data-id': node.id,
+    transform: `translate(${node.cx},${node.cy})`,
+  });
+
+  // Drop shadow
+  g.append(svgEl('rect', {
+    x: -hw + 2, y: -hh + 2, width: node.w, height: NH,
+    rx: 8, fill: 'rgba(0,0,0,0.4)',
+  }));
+
+  // Main rect
+  const rect = svgEl('rect', {
+    class: 'node-rect',
+    x: -hw, y: -hh, width: node.w, height: NH,
+    rx: 8,
+    fill: cat.color + '1c',
+    stroke: cat.color,
+    'stroke-width': 1.6,
+  });
+  g.append(rect);
+
+  // Filename
+  const nm = svgEl('text', { class: 'node-name', x: 0, y: -7 });
+  nm.textContent = node.label;
+  g.append(nm);
+
+  // Role
+  const rl = svgEl('text', { class: 'node-role', x: 0, y: 9, fill: cat.color });
+  rl.textContent = node.role;
+  g.append(rl);
+
+  nodeLayer.append(g);
+  nodeEls[node.id] = { g, node };
+}
+
+// ── Interaction ──────────────────────────────────────────────────────────────
+const tooltip = document.getElementById('tooltip');
+let pinned = null;
+let catFilter = null;
+
+function connected(id) {
+  const ns = new Set([id]);
+  const es = new Set();
+  for (const e of EDGES) {
+    if (e.from === id || e.to === id) {
+      ns.add(e.from); ns.add(e.to);
+      es.add(`${e.from}:${e.to}`);
+    }
+  }
+  return { ns, es };
+}
+
+function highlight(id) {
+  const { ns, es } = connected(id);
+  for (const [k, el] of Object.entries(nodeEls))
+    el.g.classList.toggle('faded', !ns.has(k));
+  for (const [k, el] of Object.entries(edgeEls))
+    el.g.classList.toggle('faded', !es.has(k));
+}
+
+function clearHighlight() {
+  for (const el of Object.values(nodeEls)) el.g.classList.remove('faded');
+  for (const el of Object.values(edgeEls)) el.g.classList.remove('faded');
+  if (catFilter) applyFilter(catFilter);
+}
+
+function applyFilter(cat) {
+  for (const el of Object.values(nodeEls)) el.g.classList.remove('faded');
+  for (const [, el] of Object.entries(edgeEls))
+    el.g.classList.toggle('faded', el.edge.cat !== cat);
+}
+
+function mkTooltip(e, node) {
+  const cat = CATS[node.cat];
+  const imports = EDGES.filter(ed => ed.from === node.id);
+  const usedBy  = EDGES.filter(ed => ed.to   === node.id);
+  let h = `<span class="tt-name">${node.label}</span>`;
+  h += `<span class="tt-badge" style="background:${cat.color}25;color:${cat.color}">${cat.label}</span>`;
+  h += `<div class="tt-desc">${node.desc}</div>`;
+  if (imports.length) {
+    const list = imports.map(ed => {
+      const c = CATS[ed.cat];
+      return `<span style="color:${c.color}">${nodeMap[ed.to].label}</span>`;
+    }).join(', ');
+    h += `<div class="tt-links">Imports → ${list}</div>`;
+  }
+  if (usedBy.length) {
+    const list = usedBy.map(ed => `<span style="color:#c9d1d9">${nodeMap[ed.from].label}</span>`).join(', ');
+    h += `<div class="tt-links">Used by ← ${list}</div>`;
+  }
+  tooltip.innerHTML = h;
+  moveTooltip(e);
+  tooltip.classList.add('show');
+}
+
+function moveTooltip(e) {
+  const tw = tooltip.offsetWidth  || 280;
+  const th = tooltip.offsetHeight || 160;
+  tooltip.style.left = Math.min(e.clientX + 14, window.innerWidth  - tw - 10) + 'px';
+  tooltip.style.top  = Math.min(e.clientY + 10, window.innerHeight - th - 10) + 'px';
+}
+
+for (const [id, { g, node }] of Object.entries(nodeEls)) {
+  g.addEventListener('mouseenter', (e) => {
+    if (pinned) return;
+    highlight(id);
+    mkTooltip(e, node);
+  });
+  g.addEventListener('mousemove', moveTooltip);
+  g.addEventListener('mouseleave', () => {
+    if (pinned) return;
+    clearHighlight();
+    tooltip.classList.remove('show');
+  });
+  g.addEventListener('click', (e) => {
+    e.stopPropagation();
+    if (pinned === id) {
+      pinned = null;
+      clearHighlight();
+      tooltip.classList.remove('show');
+    } else {
+      pinned = id;
+      highlight(id);
+      mkTooltip(e, node);
+    }
+  });
+}
+
+diagram.addEventListener('click', () => {
+  if (pinned) { pinned = null; clearHighlight(); tooltip.classList.remove('show'); }
+});
+
+// ── Filter buttons ───────────────────────────────────────────────────────────
+const controlsEl = document.querySelector('.controls');
+for (const [cat, info] of Object.entries(CATS)) {
+  const btn = document.createElement('button');
+  btn.className = 'filter-btn';
+  btn.style.setProperty('--cc', info.color);
+  btn.innerHTML = `<span class="filter-dot" style="background:${info.color}"></span>${info.label}`;
+  btn.title = info.desc;
+  btn.addEventListener('click', () => {
+    if (catFilter === cat) {
+      catFilter = null;
+      btn.classList.remove('active');
+      if (!pinned) clearHighlight();
+    } else {
+      catFilter = cat;
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      if (!pinned) applyFilter(cat);
+    }
+  });
+  controlsEl.append(btn);
+}
+</script>
+</body>
+</html>

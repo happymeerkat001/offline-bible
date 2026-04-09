@@ -1,0 +1,1121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Unified Architecture Model</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&family=Space+Mono:wght@400;700&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #fafaf7;
+  --paper: #fffffe;
+  --ink: #1a1a2e;
+  --ink-dim: #6b6b8a;
+  --durable: #2563eb;
+  --durable-bg: #eff6ff;
+  --control: #d97706;
+  --control-bg: #fffbeb;
+  --mutation: #16a34a;
+  --mutation-bg: #f0fdf4;
+  --deliver: #7c3aed;
+  --deliver-bg: #f5f3ff;
+  --sustain: #475569;
+  --sustain-bg: #f8fafc;
+  --border: rgba(0,0,0,0.08);
+}
+
+body {
+  background: var(--bg);
+  font-family: 'Space Mono', monospace;
+  min-height: 100vh;
+  padding: 2rem;
+  color: var(--ink);
+}
+
+/* hand-drawn feel */
+* { -webkit-font-smoothing: antialiased; }
+
+header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+h1 {
+  font-family: 'Caveat', cursive;
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: 0.02em;
+}
+
+.subtitle {
+  font-size: 0.62rem;
+  color: var(--ink-dim);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  margin-top: 0.3rem;
+}
+
+/* TAB SWITCHER */
+.tabs {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.tab {
+  font-family: 'Caveat', cursive;
+  font-size: 1rem;
+  padding: 0.4rem 1.2rem;
+  border: 2px solid var(--border);
+  border-radius: 20px;
+  background: var(--paper);
+  cursor: pointer;
+  transition: all 0.2s;
+  color: var(--ink-dim);
+}
+
+.tab.active {
+  color: var(--ink);
+  border-color: var(--ink);
+  background: var(--ink);
+  color: white;
+}
+
+/* VIEWS */
+.view { display: none; }
+.view.active { display: block; }
+
+/* ═══════════════════════════════════════
+   VIEW 1 — SPINE (architecture)
+═══════════════════════════════════════ */
+
+.spine-container {
+  position: relative;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* sustain ring */
+.sustain-ring {
+  border: 3px dashed rgba(71,85,105,0.3);
+  border-radius: 24px;
+  padding: 3rem 2rem 2rem;
+  position: relative;
+  background: rgba(71,85,105,0.02);
+}
+
+.sustain-label {
+  position: absolute;
+  bottom: -1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg);
+  padding: 0.2rem 1rem;
+  font-family: 'Caveat', cursive;
+  font-size: 1.1rem;
+  color: var(--sustain);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.sustain-sublabel {
+  position: absolute;
+  bottom: -2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.55rem;
+  color: var(--sustain);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+/* spine row */
+.spine-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  margin-bottom: 1rem;
+}
+
+.spine-arrow {
+  font-size: 1.4rem;
+  color: var(--ink-dim);
+  padding: 0 0.3rem;
+  flex-shrink: 0;
+}
+
+/* NODE CARD */
+.node-card {
+  width: 160px;
+  border-radius: 12px;
+  border: 2.5px solid;
+  background: var(--paper);
+  cursor: pointer;
+  transition: transform 0.15s, box-shadow 0.15s;
+  flex-shrink: 0;
+}
+
+.node-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+}
+
+.node-card.expanded {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+
+.node-header {
+  padding: 0.7rem 0.9rem 0.5rem;
+  border-bottom: 1.5px solid var(--border);
+}
+
+.node-name {
+  font-family: 'Caveat', cursive;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.node-question {
+  font-size: 0.55rem;
+  color: var(--ink-dim);
+  margin-top: 0.2rem;
+  line-height: 1.4;
+  letter-spacing: 0.02em;
+}
+
+.node-body {
+  padding: 0.6rem 0.9rem;
+}
+
+.node-chunks {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.chunk-item {
+  font-size: 0.58rem;
+  color: var(--ink-dim);
+  display: flex;
+  align-items: baseline;
+  gap: 0.3rem;
+  line-height: 1.4;
+}
+
+.chunk-dot {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  margin-top: 0.2rem;
+}
+
+/* code signal box */
+.code-signal {
+  margin-top: 0.5rem;
+  padding: 0.4rem 0.5rem;
+  border-radius: 6px;
+  font-size: 0.55rem;
+  line-height: 1.5;
+}
+
+.code-signal-label {
+  font-size: 0.5rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: 0.2rem;
+  font-weight: 700;
+}
+
+/* PRESENT node (external) */
+.present-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+  gap: 4rem;
+}
+
+.present-node {
+  border: 2px dashed #14b8a6;
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  background: #f0fdfa;
+}
+
+.present-name {
+  font-family: 'Caveat', cursive;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #0f766e;
+}
+
+.present-sub {
+  font-size: 0.5rem;
+  color: #0f766e;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.present-arrows {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+  margin-top: 0.4rem;
+}
+
+.present-arrow-label {
+  font-size: 0.5rem;
+  color: #0f766e;
+  text-align: center;
+  letter-spacing: 0.05em;
+}
+
+/* ═══════════════════════════════════════
+   VIEW 2 — FUNCTION READING
+═══════════════════════════════════════ */
+
+.reading-container {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.reading-title {
+  font-family: 'Caveat', cursive;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+/* step flow */
+.step-flow {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.step {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.step-num {
+  font-family: 'Caveat', cursive;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--ink-dim);
+  flex-shrink: 0;
+  width: 2rem;
+  text-align: center;
+  line-height: 1;
+  padding-top: 0.3rem;
+}
+
+.step-content {
+  flex: 1;
+  border: 2px solid var(--border);
+  border-radius: 10px;
+  padding: 0.8rem 1rem;
+  background: var(--paper);
+}
+
+.step-title {
+  font-family: 'Caveat', cursive;
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+}
+
+.step-body {
+  font-size: 0.62rem;
+  color: var(--ink-dim);
+  line-height: 1.7;
+}
+
+/* mem operations grid */
+.mem-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.mem-card {
+  border: 2.5px solid;
+  border-radius: 12px;
+  padding: 1rem;
+  background: var(--paper);
+}
+
+.mem-card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.8rem;
+}
+
+.mem-card-name {
+  font-family: 'Caveat', cursive;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.mem-card-keywords {
+  font-size: 0.55rem;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.8rem;
+  padding: 0.3rem 0.5rem;
+  border-radius: 4px;
+  font-family: 'Space Mono', monospace;
+}
+
+.mem-card-locations {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  margin-bottom: 0.8rem;
+}
+
+.mem-location {
+  font-size: 0.58rem;
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  line-height: 1.4;
+}
+
+.mem-location-name {
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.mem-location-detail {
+  color: var(--ink-dim);
+}
+
+.mem-maps-to {
+  font-size: 0.55rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 0.3rem 0.6rem;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+/* structural section */
+.structural-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.structural-card {
+  border: 2.5px solid;
+  border-radius: 12px;
+  padding: 1rem;
+  background: var(--paper);
+}
+
+.structural-title {
+  font-family: 'Caveat', cursive;
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+}
+
+.structural-body {
+  font-size: 0.6rem;
+  color: var(--ink-dim);
+  line-height: 1.7;
+}
+
+.code-example {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.58rem;
+  background: #f1f5f9;
+  padding: 0.5rem 0.7rem;
+  border-radius: 4px;
+  margin: 0.5rem 0;
+  color: var(--ink);
+  line-height: 1.6;
+}
+
+/* ═══════════════════════════════════════
+   VIEW 3 — COMBINED (both perspectives)
+═══════════════════════════════════════ */
+
+.combined-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.combined-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+  align-items: start;
+}
+
+.combined-node {
+  border: 2.5px solid;
+  border-radius: 14px;
+  overflow: hidden;
+  background: var(--paper);
+}
+
+.combined-header {
+  padding: 0.8rem 1.1rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.combined-name {
+  font-family: 'Caveat', cursive;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.combined-q {
+  font-size: 0.58rem;
+  color: var(--ink-dim);
+  text-align: right;
+  line-height: 1.4;
+  max-width: 180px;
+}
+
+.combined-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  border-top: 1.5px solid var(--border);
+}
+
+.combined-left {
+  padding: 0.8rem 1rem;
+  border-right: 1.5px solid var(--border);
+}
+
+.combined-right {
+  padding: 0.8rem 1rem;
+}
+
+.combined-section-label {
+  font-size: 0.5rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.combined-chunks {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.combined-chunk {
+  font-size: 0.6rem;
+  color: var(--ink);
+  display: flex;
+  gap: 0.4rem;
+  line-height: 1.4;
+}
+
+.combined-chunk-label {
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.combined-chunk-detail {
+  color: var(--ink-dim);
+}
+
+.signal-box {
+  margin-top: 0.5rem;
+  padding: 0.4rem 0.5rem;
+  border-radius: 6px;
+  font-size: 0.58rem;
+  line-height: 1.6;
+}
+
+.signal-keywords {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.6rem;
+  font-weight: 700;
+}
+
+.sustain-combined {
+  grid-column: 1 / -1;
+  border: 2.5px dashed var(--sustain);
+  border-radius: 14px;
+  overflow: hidden;
+  background: var(--paper);
+}
+
+/* node color schemes */
+.durable-scheme { border-color: var(--durable); }
+.durable-scheme .combined-header { background: var(--durable-bg); }
+.durable-scheme .combined-name { color: var(--durable); }
+.durable-scheme .signal-box { background: var(--durable-bg); }
+
+.control-scheme { border-color: var(--control); }
+.control-scheme .combined-header { background: var(--control-bg); }
+.control-scheme .combined-name { color: var(--control); }
+.control-scheme .signal-box { background: var(--control-bg); }
+
+.mutation-scheme { border-color: var(--mutation); }
+.mutation-scheme .combined-header { background: var(--mutation-bg); }
+.mutation-scheme .combined-name { color: var(--mutation); }
+.mutation-scheme .signal-box { background: var(--mutation-bg); }
+
+.deliver-scheme { border-color: var(--deliver); }
+.deliver-scheme .combined-header { background: var(--deliver-bg); }
+.deliver-scheme .combined-name { color: var(--deliver); }
+.deliver-scheme .signal-box { background: var(--deliver-bg); }
+
+.sustain-scheme { border-color: var(--sustain); }
+.sustain-scheme .combined-header { background: var(--sustain-bg); }
+.sustain-scheme .combined-name { color: var(--sustain); }
+.sustain-scheme .signal-box { background: var(--sustain-bg); }
+
+/* node cards for spine view */
+.nc-durable { border-color: var(--durable); }
+.nc-durable .node-name { color: var(--durable); }
+.nc-durable .node-header { background: var(--durable-bg); }
+.nc-durable .chunk-dot { background: var(--durable); }
+.nc-durable .code-signal { background: var(--durable-bg); color: var(--durable); }
+
+.nc-control { border-color: var(--control); }
+.nc-control .node-name { color: var(--control); }
+.nc-control .node-header { background: var(--control-bg); }
+.nc-control .chunk-dot { background: var(--control); }
+.nc-control .code-signal { background: var(--control-bg); color: var(--control); }
+
+.nc-mutation { border-color: var(--mutation); }
+.nc-mutation .node-name { color: var(--mutation); }
+.nc-mutation .node-header { background: var(--mutation-bg); }
+.nc-mutation .chunk-dot { background: var(--mutation); }
+.nc-mutation .code-signal { background: var(--mutation-bg); color: var(--mutation); }
+
+.nc-deliver { border-color: var(--deliver); }
+.nc-deliver .node-name { color: var(--deliver); }
+.nc-deliver .node-header { background: var(--deliver-bg); }
+.nc-deliver .chunk-dot { background: var(--deliver); }
+.nc-deliver .code-signal { background: var(--deliver-bg); color: var(--deliver); }
+
+@media (max-width: 700px) {
+  .mem-grid { grid-template-columns: 1fr; }
+  .structural-grid { grid-template-columns: 1fr; }
+  .combined-row { grid-template-columns: 1fr; }
+  .combined-body { grid-template-columns: 1fr; }
+  .combined-left { border-right: none; border-bottom: 1.5px solid var(--border); }
+  .spine-row { flex-wrap: wrap; }
+  body { padding: 1rem; }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Architecture × Function Reading</h1>
+  <div class="subtitle">three maps unified into one model</div>
+</header>
+
+<div class="tabs">
+  <div class="tab active" onclick="switchTab('spine')">Spine View</div>
+  <div class="tab" onclick="switchTab('reading')">Reading View</div>
+  <div class="tab" onclick="switchTab('combined')">Combined</div>
+</div>
+
+<!-- ═══════════════ VIEW 1: SPINE ═══════════════ -->
+<div class="view active" id="view-spine">
+  <div class="spine-container">
+    <div class="sustain-ring">
+
+      <div class="spine-row">
+
+        <!-- DURABLE -->
+        <div class="node-card nc-durable" onclick="toggleNode(this)">
+          <div class="node-header">
+            <div class="node-name">Durable</div>
+            <div class="node-question">What is truth?<br>How to store it?</div>
+          </div>
+          <div class="node-body">
+            <div class="node-chunks">
+              <div class="chunk-item"><div class="chunk-dot"></div>Shape — file, DB, API</div>
+              <div class="chunk-item"><div class="chunk-dot"></div>Source — where from?</div>
+              <div class="chunk-item"><div class="chunk-dot"></div>Granularity — size</div>
+              <div class="chunk-item"><div class="chunk-dot"></div>Schema — contract</div>
+            </div>
+            <div class="code-signal">
+              <div class="code-signal-label">spot in code</div>
+              keyword <strong>interface</strong> or <strong>type</strong> at file scope — before any function body
+            </div>
+          </div>
+        </div>
+
+        <div class="spine-arrow">→</div>
+
+        <!-- CONTROL -->
+        <div class="node-card nc-control" onclick="toggleNode(this)">
+          <div class="node-header">
+            <div class="node-name">Control</div>
+            <div class="node-question">Who touches truth<br>under what rules?</div>
+          </div>
+          <div class="node-body">
+            <div class="node-chunks">
+              <div class="chunk-item"><div class="chunk-dot"></div>Access — auth, keys</div>
+              <div class="chunk-item"><div class="chunk-dot"></div>Validation — gates</div>
+              <div class="chunk-item"><div class="chunk-dot"></div>Licensing — rights</div>
+              <div class="chunk-item"><div class="chunk-dot"></div>Versioning — staleness</div>
+            </div>
+            <div class="code-signal">
+              <div class="code-signal-label">spot in code</div>
+              <strong>GET words only</strong>: fetch, get, load, query<br>+ return or return null
+            </div>
+          </div>
+        </div>
+
+        <div class="spine-arrow">→</div>
+
+        <!-- MUTATION -->
+        <div class="node-card nc-mutation" onclick="toggleNode(this)">
+          <div class="node-header">
+            <div class="node-name">Mutation</div>
+            <div class="node-question">How does truth change?<br>Does it persist?</div>
+          </div>
+          <div class="node-body">
+            <div class="node-chunks">
+              <div class="chunk-item"><div class="chunk-dot"></div>Initiator — who/what</div>
+              <div class="chunk-item"><div class="chunk-dot"></div>Persistence — where</div>
+              <div class="chunk-item"><div class="chunk-dot"></div>Reversibility — undo?</div>
+              <div class="chunk-item"><div class="chunk-dot"></div>Side effects — what else</div>
+            </div>
+            <div class="code-signal">
+              <div class="code-signal-label">spot in code</div>
+              <strong>SET words</strong>: set, save, write,<br>update, push, post, put
+            </div>
+          </div>
+        </div>
+
+        <div class="spine-arrow">→</div>
+
+        <!-- DELIVER -->
+        <div class="node-card nc-deliver" onclick="toggleNode(this)">
+          <div class="node-header">
+            <div class="node-name">Deliver</div>
+            <div class="node-question">How does truth<br>reach the world?</div>
+          </div>
+          <div class="node-body">
+            <div class="node-chunks">
+              <div class="chunk-item"><div class="chunk-dot"></div>Channel — HTTP, WS</div>
+              <div class="chunk-item"><div class="chunk-dot"></div>Format — JSON, HTML</div>
+              <div class="chunk-item"><div class="chunk-dot"></div>Target — where deployed</div>
+              <div class="chunk-item"><div class="chunk-dot"></div>Path — URL structure</div>
+            </div>
+            <div class="code-signal">
+              <div class="code-signal-label">spot in code</div>
+              returns <strong>JSX / DOM</strong>:<br>createElement, innerHTML,<br>&lt;div&gt;, appendChild
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="sustain-label">Sustain</div>
+      <div class="sustain-sublabel">kill words: delete, evict, remove · wraps all nodes · fires when things degrade</div>
+
+    </div>
+
+    <!-- PRESENT -->
+    <div class="present-container">
+      <div>
+        <div class="present-arrow-label">↑ initiates at Control</div>
+      </div>
+      <div class="present-node">
+        <div class="present-name" style="color:#0f766e">Present / Frontend</div>
+        <div class="present-sub">external · touches two nodes</div>
+      </div>
+      <div>
+        <div class="present-arrow-label">↓ receives at Deliver</div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ═══════════════ VIEW 2: READING ═══════════════ -->
+<div class="view" id="view-reading">
+  <div class="reading-container">
+
+    <div class="reading-title">How to label any function</div>
+
+    <!-- STEPS -->
+    <div class="step-flow">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-content">
+          <div class="step-title">Look at the declaration line before entering the body</div>
+          <div class="step-body">
+            If you see <strong>interface</strong> or <strong>type</strong> at file scope → <span style="color:var(--durable);font-weight:700">Durable</span>. Stop here, don't read body.<br>
+            If the return type is JSX or you see DOM methods → <span style="color:var(--deliver);font-weight:700">Deliver</span>. Stop here.<br>
+            Otherwise continue to step 2.
+          </div>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-content">
+          <div class="step-title">Scan the body for MemReads, MemWrites, MemKills</div>
+          <div class="step-body">
+            Look for GET / SET / KILL keywords. Identify what memory location they touch (Params, Module, Browser, Remote...).
+          </div>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-content">
+          <div class="step-title">Apply the label rule</div>
+          <div class="step-body">
+            Only MemReads + return → <span style="color:var(--control);font-weight:700">Control</span><br>
+            catch + return null → <span style="color:var(--control);font-weight:700">Control</span> (gate not kill)<br>
+            MemWrites present → <span style="color:var(--mutation);font-weight:700">Mutation</span><br>
+            MemKills present → <span style="color:var(--sustain);font-weight:700">Sustain</span>
+          </div>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-content">
+          <div class="step-title">Ask the dependency question</div>
+          <div class="step-body">
+            <strong>X</strong> — what data or files must exist? (usually Durable)<br>
+            <strong>Y</strong> — what must have already run? (use Shift+F12 to find callers)<br>
+            <strong>Z</strong> — what environment? (check API names: localStorage=browser, process.env=Node, import.meta.env=Vite)
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- MEM OPERATIONS -->
+    <div class="reading-title" style="margin-top:1rem">Memory Operations</div>
+    <div class="mem-grid">
+
+      <div class="mem-card" style="border-color:var(--control)">
+        <div class="mem-card-header">
+          <div class="mem-card-name" style="color:var(--control)">MemReads</div>
+        </div>
+        <div class="mem-card-keywords" style="background:var(--control-bg);color:var(--control)">
+          GET: fetch · get · load · read · query · find
+        </div>
+        <div class="mem-card-locations">
+          <div class="mem-location">
+            <div class="mem-location-name">Params</div>
+            <div class="mem-location-detail">data passed in via () — from caller</div>
+          </div>
+          <div class="mem-location">
+            <div class="mem-location-name">Module</div>
+            <div class="mem-location-detail">const outside any function — top of file</div>
+          </div>
+          <div class="mem-location">
+            <div class="mem-location-name">Outer</div>
+            <div class="mem-location-detail">var from enclosing } — closure/global</div>
+          </div>
+        </div>
+        <div class="mem-maps-to" style="background:var(--control-bg);color:var(--control)">→ Control</div>
+      </div>
+
+      <div class="mem-card" style="border-color:var(--mutation)">
+        <div class="mem-card-header">
+          <div class="mem-card-name" style="color:var(--mutation)">MemWrites</div>
+        </div>
+        <div class="mem-card-keywords" style="background:var(--mutation-bg);color:var(--mutation)">
+          SET: set · save · write · update · push · post · put
+        </div>
+        <div class="mem-card-locations">
+          <div class="mem-location">
+            <div class="mem-location-name">Local</div>
+            <div class="mem-location-detail">db write, fs.writeFile</div>
+          </div>
+          <div class="mem-location">
+            <div class="mem-location-name">Browser</div>
+            <div class="mem-location-detail">localStorage.setItem, Cache Storage</div>
+          </div>
+          <div class="mem-location">
+            <div class="mem-location-name">Remote</div>
+            <div class="mem-location-detail">API POST/PUT, emit</div>
+          </div>
+        </div>
+        <div class="mem-maps-to" style="background:var(--mutation-bg);color:var(--mutation)">→ Mutation</div>
+      </div>
+
+      <div class="mem-card" style="border-color:var(--sustain)">
+        <div class="mem-card-header">
+          <div class="mem-card-name" style="color:var(--sustain)">MemKills</div>
+        </div>
+        <div class="mem-card-keywords" style="background:var(--sustain-bg);color:var(--sustain)">
+          KILL: delete · evict · remove · clear · drop
+        </div>
+        <div class="mem-card-locations">
+          <div class="mem-location">
+            <div class="mem-location-name">Local</div>
+            <div class="mem-location-detail">fs.unlink, fs delete</div>
+          </div>
+          <div class="mem-location">
+            <div class="mem-location-name">Browser</div>
+            <div class="mem-location-detail">caches.delete, localStorage.removeItem</div>
+          </div>
+          <div class="mem-location">
+            <div class="mem-location-name">Remote</div>
+            <div class="mem-location-detail">API DELETE, drop/remove</div>
+          </div>
+        </div>
+        <div class="mem-maps-to" style="background:var(--sustain-bg);color:var(--sustain)">→ Sustain</div>
+      </div>
+
+    </div>
+
+    <!-- STRUCTURAL -->
+    <div class="reading-title" style="margin-top:1rem">Structural Signals (no body needed)</div>
+    <div class="structural-grid">
+
+      <div class="structural-card" style="border-color:var(--durable)">
+        <div class="structural-title" style="color:var(--durable)">Durable — spotted at declaration</div>
+        <div class="structural-body">
+          You see this before reading any function body. These are shapes, not actions.
+          <div class="code-example">interface LastReadState {<br>  usfm: string;<br>  chapter: number;<br>}</div>
+          <div class="code-example">type WordToken = {<br>  w: string;<br>  morph?: string;<br>}</div>
+          keyword <strong>interface</strong> or <strong>type</strong> at file scope = Durable. Always.
+        </div>
+      </div>
+
+      <div class="structural-card" style="border-color:var(--deliver)">
+        <div class="structural-title" style="color:var(--deliver)">Deliver — spotted at output</div>
+        <div class="structural-body">
+          The function's output is visual structure, not data. It produces something the browser renders.
+          <div class="code-example">return &lt;div className="verse"&gt;<br>  {text}<br>&lt;/div&gt;</div>
+          <div class="code-example">const el = document.createElement('div');<br>el.innerHTML = verse.zh;<br>return el;</div>
+          JSX, createElement, innerHTML, appendChild = Deliver.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ENVIRONMENT CHEATSHEET -->
+    <div class="reading-title" style="margin-top:1rem">Environment Signals (for Z question)</div>
+    <div class="step-content" style="border:2px solid var(--border);border-radius:10px;padding:1rem;background:var(--paper)">
+      <div class="step-body" style="font-size:0.65rem;line-height:2">
+        <strong>fetch()</strong> → browser OR Node 18+ OR service worker<br>
+        <strong>localStorage</strong> → browser tab ONLY — not Node, not service worker<br>
+        <strong>caches.keys()</strong> → service worker ONLY<br>
+        <strong>import.meta.env</strong> → Vite build ONLY — not raw Node<br>
+        <strong>process.env</strong> → Node ONLY — not browser<br>
+        <strong>document / DOM</strong> → browser tab ONLY<br>
+        <br>
+        <em style="color:var(--ink-dim)">Hover over the API name in VSCode — the type tooltip tells you where it lives</em>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ═══════════════ VIEW 3: COMBINED ═══════════════ -->
+<div class="view" id="view-combined">
+  <div class="combined-grid">
+
+    <div class="reading-title" style="font-family:'Caveat',cursive;font-size:1.2rem;text-align:center;margin-bottom:0.5rem;color:var(--ink-dim)">
+      Each node: left = system question · right = how to spot in code
+    </div>
+
+    <div class="combined-row">
+
+      <!-- DURABLE -->
+      <div class="combined-node durable-scheme">
+        <div class="combined-header">
+          <div class="combined-name">Durable</div>
+          <div class="combined-q">What is truth?<br>How to store it?</div>
+        </div>
+        <div class="combined-body">
+          <div class="combined-left">
+            <div class="combined-section-label">System chunks</div>
+            <div class="combined-chunks">
+              <div class="combined-chunk"><span class="combined-chunk-label">Shape</span><span class="combined-chunk-detail">file, DB, API, memory</span></div>
+              <div class="combined-chunk"><span class="combined-chunk-label">Source</span><span class="combined-chunk-detail">where does truth come from?</span></div>
+              <div class="combined-chunk"><span class="combined-chunk-label">Granularity</span><span class="combined-chunk-detail">one file vs many small</span></div>
+              <div class="combined-chunk"><span class="combined-chunk-label">Schema</span><span class="combined-chunk-detail">contract defined before ETL runs</span></div>
+            </div>
+          </div>
+          <div class="combined-right">
+            <div class="combined-section-label">Code signal</div>
+            <div class="signal-box" style="background:var(--durable-bg)">
+              <div class="signal-keywords" style="color:var(--durable)">interface · type</div>
+              <div style="font-size:0.57rem;color:var(--ink-dim);margin-top:0.3rem">at file scope, before any function.<br>No body to read — it IS the shape.</div>
+            </div>
+            <div style="font-size:0.55rem;color:var(--ink-dim);margin-top:0.5rem;line-height:1.5">MemRead/Write/Kill don't apply.<br>Durable is structural, not operational.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- CONTROL -->
+      <div class="combined-node control-scheme">
+        <div class="combined-header">
+          <div class="combined-name">Control</div>
+          <div class="combined-q">Who touches truth<br>under what rules?</div>
+        </div>
+        <div class="combined-body">
+          <div class="combined-left">
+            <div class="combined-section-label">System chunks</div>
+            <div class="combined-chunks">
+              <div class="combined-chunk"><span class="combined-chunk-label">Access</span><span class="combined-chunk-detail">auth, API keys, permissions</span></div>
+              <div class="combined-chunk"><span class="combined-chunk-label">Validation</span><span class="combined-chunk-detail">schema checks, type guards</span></div>
+              <div class="combined-chunk"><span class="combined-chunk-label">Licensing</span><span class="combined-chunk-detail">rights to use the truth</span></div>
+              <div class="combined-chunk"><span class="combined-chunk-label">Versioning</span><span class="combined-chunk-detail">staleness rules</span></div>
+            </div>
+          </div>
+          <div class="combined-right">
+            <div class="combined-section-label">Code signal</div>
+            <div class="signal-box" style="background:var(--control-bg)">
+              <div class="signal-keywords" style="color:var(--control)">MemReads only + return</div>
+              <div style="font-size:0.57rem;color:var(--ink-dim);margin-top:0.3rem">fetch · get · load · query<br>catch + return null = also Control</div>
+            </div>
+            <div style="font-size:0.55rem;color:var(--ink-dim);margin-top:0.5rem;line-height:1.5">No SET or KILL words anywhere in body.<br>Reads, gates, passes through.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="combined-row">
+
+      <!-- MUTATION -->
+      <div class="combined-node mutation-scheme">
+        <div class="combined-header">
+          <div class="combined-name">Mutation</div>
+          <div class="combined-q">How does truth change?<br>Does it persist?</div>
+        </div>
+        <div class="combined-body">
+          <div class="combined-left">
+            <div class="combined-section-label">System chunks</div>
+            <div class="combined-chunks">
+              <div class="combined-chunk"><span class="combined-chunk-label">Initiator</span><span class="combined-chunk-detail">user, job, event</span></div>
+              <div class="combined-chunk"><span class="combined-chunk-label">Persistence</span><span class="combined-chunk-detail">URL, localStorage, DB</span></div>
+              <div class="combined-chunk"><span class="combined-chunk-label">Reversibility</span><span class="combined-chunk-detail">soft delete, undo, history</span></div>
+              <div class="combined-chunk"><span class="combined-chunk-label">Side effects</span><span class="combined-chunk-detail">what else changes?</span></div>
+            </div>
+          </div>
+          <div class="combined-right">
+            <div class="combined-section-label">Code signal</div>
+            <div class="signal-box" style="background:var(--mutation-bg)">
+              <div class="signal-keywords" style="color:var(--mutation)">MemWrites present</div>
+              <div style="font-size:0.57rem;color:var(--ink-dim);margin-top:0.3rem">set · save · write · update<br>push · post · put · patch</div>
+            </div>
+            <div style="font-size:0.55rem;color:var(--ink-dim);margin-top:0.5rem;line-height:1.5">Location tells you WHERE it persists:<br>Browser/Local/Remote.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- DELIVER -->
+      <div class="combined-node deliver-scheme">
+        <div class="combined-header">
+          <div class="combined-name">Deliver</div>
+          <div class="combined-q">How does truth<br>reach the world?</div>
+        </div>
+        <div class="combined-body">
+          <div class="combined-left">
+            <div class="combined-section-label">System chunks</div>
+            <div class="combined-chunks">
+              <div class="combined-chunk"><span class="combined-chunk-label">Channel</span><span class="combined-chunk-detail">HTTP, WebSocket, CLI</span></div>
+              <div class="combined-chunk"><span class="combined-chunk-label">Format</span><span class="combined-chunk-detail">JSON, HTML, PDF</span></div>
+              <div class="combined-chunk"><span class="combined-chunk-label">Target</span><span class="combined-chunk-detail">GitHub Pages, VPS, CDN</span></div>
+              <div class="combined-chunk"><span class="combined-chunk-label">Path</span><span class="combined-chunk-detail">URL structure</span></div>
+            </div>
+          </div>
+          <div class="combined-right">
+            <div class="combined-section-label">Code signal</div>
+            <div class="signal-box" style="background:var(--deliver-bg)">
+              <div class="signal-keywords" style="color:var(--deliver)">DOM / JSX output</div>
+              <div style="font-size:0.57rem;color:var(--ink-dim);margin-top:0.3rem">createElement · innerHTML<br>appendChild · return &lt;JSX&gt;</div>
+            </div>
+            <div style="font-size:0.55rem;color:var(--ink-dim);margin-top:0.5rem;line-height:1.5">Output is visual structure.<br>Not data — presentation.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- SUSTAIN full width -->
+    <div class="combined-node sustain-combined sustain-scheme">
+      <div class="combined-header">
+        <div class="combined-name">Sustain</div>
+        <div class="combined-q">What keeps the whole cycle honest over time?</div>
+      </div>
+      <div class="combined-body" style="grid-template-columns:1fr 1fr 1fr">
+        <div class="combined-left">
+          <div class="combined-section-label">System chunks</div>
+          <div class="combined-chunks">
+            <div class="combined-chunk"><span class="combined-chunk-label">Reproducibility</span><span class="combined-chunk-detail">.gitignore, lockfiles, ETL scripts</span></div>
+            <div class="combined-chunk"><span class="combined-chunk-label">Versioning</span><span class="combined-chunk-detail">cache eviction, schema migration</span></div>
+            <div class="combined-chunk"><span class="combined-chunk-label">Failure modes</span><span class="combined-chunk-detail">error boundaries, fallbacks, retry</span></div>
+            <div class="combined-chunk"><span class="combined-chunk-label">Performance</span><span class="combined-chunk-detail">virtualization, prefetch, font subset</span></div>
+          </div>
+        </div>
+        <div class="combined-right" style="border-left:1.5px solid var(--border);border-right:1.5px solid var(--border)">
+          <div class="combined-section-label">Code signal</div>
+          <div class="signal-box" style="background:var(--sustain-bg)">
+            <div class="signal-keywords" style="color:var(--sustain)">MemKills present</div>
+            <div style="font-size:0.57rem;color:var(--ink-dim);margin-top:0.3rem">delete · evict · remove · clear · drop</div>
+          </div>
+          <div style="font-size:0.55rem;color:var(--ink-dim);margin-top:0.5rem;line-height:1.5">Also: error boundaries, catch-all handlers,<br>version bump logic, cleanup on activate.</div>
+        </div>
+        <div style="padding:0.8rem 1rem">
+          <div class="combined-section-label">Key test</div>
+          <div style="font-size:0.6rem;color:var(--ink-dim);line-height:1.7">
+            Would this function be irrelevant on a fresh install?<br><br>
+            Yes → Sustain. It only matters after time has passed, things have accumulated, or something has degraded.<br><br>
+            Sustain is a ring around all nodes — not a step in the chain.
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+function switchTab(name) {
+  document.querySelectorAll('.tab').forEach((t,i) => {
+    t.classList.toggle('active', ['spine','reading','combined'][i] === name);
+  });
+  document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+  document.getElementById('view-' + name).classList.add('active');
+}
+
+function toggleNode(card) {
+  card.classList.toggle('expanded');
+}
+</script>
+
+</body>
+</html>
