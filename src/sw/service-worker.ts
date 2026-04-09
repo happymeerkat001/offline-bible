@@ -1,6 +1,6 @@
 /// <reference lib="webworker" />
 
-// purpose: service worker stores cached assets and API responses in browser for offline access and faster load times, uses workbox to precache assets and define caching strategies for API data, manages cache versions and cleanup of old caches
+// purpose: service worker stores cached key-value pairs of API responses for Bible data to enable offline access and faster load times, uses workbox libraries for precaching assets and defining caching strategies, manages cache versions and cleanup of old caches
 
 import { clientsClaim } from 'workbox-core'; // import run clientsClaim from workbox-core to take control of uncontrolled clients as soon as the service worker becomes active
 import { ExpirationPlugin } from 'workbox-expiration'; // import run ExpirationPlugin from workbox-expiration to automatically remove old entries from cache based on maxEntries limit
@@ -30,7 +30,7 @@ registerRoute(
 );
 
 self.addEventListener('activate', (event: ExtendableEvent) => { 
-  event.waitUntil(
+  event.waitUntil( 
     (async () => {
       const keys = await caches.keys();
       await Promise.all( 

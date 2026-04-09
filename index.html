@@ -1,3 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+    <meta charset="UTF-8">
+    <script>
+      (function() {
+        // This checks if the URL ends exactly with your folder name OR 
+        // if it contains 'offline-bible' but is missing the trailing slash
+        var path = window.location.pathname;
+        if (path.toLocaleLowerCase().endsWith('/offline-bible')) {
+          var newUrl = window.location.protocol + '//' + window.location.host + path + '/' + window.location.search + window.location.hash;
+          window.location.replace(newUrl);
+        }
+      })();
+    </script>
+    ```
 <!doctype html>
 <html lang="zh-Hans">
   <head>
