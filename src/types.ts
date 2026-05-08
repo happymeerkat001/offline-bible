@@ -32,5 +32,6 @@ export interface VerseData {
 export interface ChapterData {
   book: number;
   chapter: number;
+  commentary?: string;
   verses: VerseData[];
 }

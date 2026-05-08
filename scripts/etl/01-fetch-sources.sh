@@ -41,3 +41,5 @@ else
 fi
 
 npm exec tsx "$ROOT/scripts/etl/01b-fetch-net.ts"
+npm exec tsx "$ROOT/scripts/etl/01c-fetch-net-notes.ts"
+npm exec tsx "$ROOT/scripts/etl/01d-fetch-fbc.ts"

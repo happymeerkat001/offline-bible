@@ -7,6 +7,7 @@
   "properties": {
     "book": { "type": "integer", "minimum": 1, "maximum": 66 },
     "chapter": { "type": "integer", "minimum": 1 },
+    "commentary": { "type": "string" },
     "verses": {
       "type": "array",
       "items": {

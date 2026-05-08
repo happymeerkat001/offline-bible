@@ -5,13 +5,15 @@
 - English: `thiagobodruk/bible` (`en_net`) JSON.
 - Greek NT: Nestle 1904 via OpenGNT TSV (public domain).
 - Hebrew OT: Westminster Leningrad Codex via `openscriptures/morphhb` OSIS XML (public domain).
+- English verse notes: NET Bible notes fetched from `netbible.org` chapter resources.
+- English chapter commentary: FreeBibleCommentary HTML chapter studies from `freebiblecommentary.org`.
 
 ## 2) English translation: NET Bible
 - Source: thiagobodruk/bible en_net.json (public domain JSON)
 - License: NET Bible free for non-commercial use, redistributable
 - No API key required
 - Repo can be public
-- Full NET footnotes will be added as a fifth data track in a future ETL step via labs.bible.org/api
+- Full NET footnotes are fetched as an auxiliary data track during ETL
 
 ## 3) Data shape and cache invalidation
 - Canonical output is per-chapter JSON at `public/data/{book}/{chapter}.json`.

@@ -1,5 +1,5 @@
 import path from 'node:path'; // node:path for handling file paths across platforms
-import { mkdir } from 'node:fs/promises'; // node:fs/promises for asynchronous file system operations
+import { mkdir, readFile } from 'node:fs/promises'; // node:fs/promises for asynchronous file system operations
 import { BOOKS } from '../lib/books'; // knowledge of book IDs and chapter counts
 import { readJsonFile, writeJsonFile } from '../lib/io'; // knowledge of utility functions for reading and writing JSON files
 import type { CanonicalVerse, TokenizedVerse, WordToken } from '../lib/types'; // Knowledge of data structures for verses and tokens
@@ -16,6 +16,7 @@ interface ChapterVerse {
 interface ChapterDoc {
   book: number;
   chapter: number;
+  commentary?: string;
   verses: ChapterVerse[];
 }
 
@@ -41,6 +42,16 @@ function indexTokensByRef(items: TokenizedVerse[]): Map<string, WordToken[]> {
   const map = new Map<string, WordToken[]>();
   items.forEach((item) => map.set(`${item.bookId}:${item.chapter}:${item.verse}`, item.tokens));
   return map;
+}
+
+async function readOptionalTextFile(filePath: string): Promise<string | undefined> {
+  try {
+    const raw = await readFile(filePath, 'utf8');
+    const text = raw.trim();
+    return text.length > 0 ? text : undefined;
+  } catch {
+    return undefined;
+  }
 }
 
 async function main() {
@@ -78,7 +89,8 @@ async function main() {
         verses.push(base);
       }
 
-      const doc: ChapterDoc = { book: book.id, chapter, verses };
+      const commentary = await readOptionalTextFile(path.join(ROOT, 'scripts/raw/fbc', `${book.id}/${chapter}.txt`));
+      const doc: ChapterDoc = { book: book.id, chapter, verses, ...(commentary ? { commentary } : {}) };
       await writeJsonFile(path.join(dataRoot, `${book.id}/${chapter}.json`), doc);
     }
   }
