@@ -9,6 +9,7 @@ interface ChapterVerse {
   zh: string;
   en: string;
   notes?: string[];
+  commentary?: string;
   gr?: WordToken[];
   he?: WordToken[];
 }
@@ -42,6 +43,39 @@ function indexTokensByRef(items: TokenizedVerse[]): Map<string, WordToken[]> {
   const map = new Map<string, WordToken[]>();
   items.forEach((item) => map.set(`${item.bookId}:${item.chapter}:${item.verse}`, item.tokens));
   return map;
+}
+
+function splitCommentaryByVerse(raw: string, chapter: number): { preamble?: string; verses: Map<number, string> } {
+  const sectionHeader = new RegExp(`NASB \\(UPDATED\\) TEXT:[^\\n]*\\b${chapter}:`);
+  const headerMatch = sectionHeader.exec(raw);
+  const parseStart = headerMatch?.index ?? 0;
+  const scoped = raw.slice(parseStart);
+  const markerRegex = new RegExp(`^${chapter}:(\\d+)(?:[,-]\\d+)*(?:-\\d+)?(?:\\s|$)`, 'gm');
+  const matches = [...scoped.matchAll(markerRegex)];
+  const verses = new Map<number, string>();
+
+  if (matches.length === 0) {
+    return { preamble: raw.trim() || undefined, verses };
+  }
+
+  const firstMarkerIndex = parseStart + (matches[0].index ?? 0);
+  const preamble = raw.slice(0, firstMarkerIndex).trim() || undefined;
+
+  matches.forEach((match, index) => {
+    const verse = Number(match[1]);
+    const start = parseStart + (match.index ?? 0);
+    const end = index + 1 < matches.length ? parseStart + (matches[index + 1].index ?? 0) : raw.length;
+    const block = raw
+      .slice(start, end)
+      .split(/\n(?:WORD AND PHRASE STUDY|NASB \(UPDATED\) TEXT:)/, 1)[0]
+      .trim();
+    if (!block) return;
+
+    const existing = verses.get(verse);
+    verses.set(verse, existing ? `${existing}\n\n${block}` : block);
+  });
+
+  return { preamble, verses };
 }
 
 async function readOptionalTextFile(filePath: string): Promise<string | undefined> {
@@ -89,8 +123,17 @@ async function main() {
         verses.push(base);
       }
 
-      const commentary = await readOptionalTextFile(path.join(ROOT, 'scripts/raw/fbc', `${book.id}/${chapter}.txt`));
-      const doc: ChapterDoc = { book: book.id, chapter, verses, ...(commentary ? { commentary } : {}) };
+      const rawCommentary = await readOptionalTextFile(path.join(ROOT, 'scripts/raw/fbc', `${book.id}/${chapter}.txt`));
+      const { preamble, verses: commentaryByVerse } = rawCommentary
+        ? splitCommentaryByVerse(rawCommentary, chapter)
+        : { preamble: undefined, verses: new Map<number, string>() };
+
+      verses.forEach((verse) => {
+        const commentary = commentaryByVerse.get(verse.v);
+        if (commentary) verse.commentary = commentary;
+      });
+
+      const doc: ChapterDoc = { book: book.id, chapter, verses, ...(preamble ? { commentary: preamble } : {}) };
       await writeJsonFile(path.join(dataRoot, `${book.id}/${chapter}.json`), doc);
     }
   }

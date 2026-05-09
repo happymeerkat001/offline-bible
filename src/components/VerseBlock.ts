@@ -277,6 +277,21 @@ export function renderVerseBlock(verse: VerseData): HTMLElement {
 
   article.append(en);
 
+  if (verse.commentary) {
+    const details = document.createElement('details');
+    details.className = 'verse-commentary';
+
+    const summary = document.createElement('summary');
+    summary.textContent = 'Commentary';
+
+    const body = document.createElement('div');
+    body.className = 'commentary-body';
+    body.textContent = verse.commentary;
+
+    details.append(summary, body);
+    article.append(details);
+  }
+
   if (verse.he && verse.he.length > 0) {
     article.append(renderTokenLine(verse.he, 'he'));
   }

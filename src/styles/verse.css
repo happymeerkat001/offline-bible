@@ -34,3 +34,23 @@
   font-family: 'Gentium Plus Subset', serif;
   line-height: 1.8;
 }
+
+.verse-commentary {
+  margin: 0.6rem 0 0;
+  padding-left: 0.75rem;
+  border-left: 2px solid #d9d2c3;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.verse-commentary summary {
+  cursor: pointer;
+  color: inherit;
+  font-weight: 600;
+}
+
+.commentary-body {
+  margin-top: 0.45rem;
+  white-space: pre-line;
+  line-height: 1.55;
+}

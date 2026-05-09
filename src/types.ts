@@ -25,6 +25,7 @@ export interface VerseData {
   zh: string;
   en: string;
   notes?: string[];
+  commentary?: string;
   gr?: WordToken[];
   he?: WordToken[];
 }
