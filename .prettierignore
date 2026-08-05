@@ -1,0 +1,9 @@
+dist/
+node_modules/
+public/data/
+scripts/raw/
+scripts/parsed/
+coverage/
+package-lock.json
+*.html
+*.md

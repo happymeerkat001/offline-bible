@@ -7,13 +7,14 @@ import { ExpirationPlugin } from 'workbox-expiration'; // import run ExpirationP
 import { precacheAndRoute } from 'workbox-precaching'; // import run precacheAndRoute from workbox-precaching to precache assets and serve them with a cache-first strategy
 import { registerRoute } from 'workbox-routing'; // import run registerRoute from workbox-routing to define custom caching strategies for specific routes
 import { StaleWhileRevalidate } from 'workbox-strategies'; // import run StaleWhileRevalidate from workbox-strategies to serve cached response while fetching updated version in background for next time
+import { DATA_CACHE_PREFIX, staleDataCacheNames } from './data-cache';
 
-declare const self: ServiceWorkerGlobalScope & { // declare self as ServiceWorkerGlobalScope with __WB_MANIFEST property injected by workbox during build time for precaching assets
+declare const self: ServiceWorkerGlobalScope & {
+  // declare self as ServiceWorkerGlobalScope with __WB_MANIFEST property injected by workbox during build time for precaching assets
   __WB_MANIFEST: Array<{ url: string; revision: string | null }>;
 };
 
-const DATA_VERSION = '1.0.0';  // define version for data cache to manage updates and invalidation of old cached data
-const DATA_CACHE_PREFIX = 'bible-data-v'; // define prefix for data cache name to distinguish from other caches and allow for versioning with DATA_VERSION
+const DATA_VERSION = '1.0.0'; // define version for data cache to manage updates and invalidation of old cached data
 const DATA_CACHE = `${DATA_CACHE_PREFIX}${DATA_VERSION}`; // define full cache name for data caching by combining prefix and version, used in caching strategies and cleanup logic
 
 self.skipWaiting(); // control the service worker lifecycle by skipping the waiting phase and activating the new service worker immediately, allowing it to take control of clients and apply caching strategies without delay
@@ -21,22 +22,20 @@ clientsClaim(); // control uncontrolled clients as soon as service worker become
 
 precacheAndRoute(self.__WB_MANIFEST); // precache assets injected by workbox during build time and serve them with a cache-first strategy, ensuring app shell and static assets are available offline
 
-registerRoute( 
-  ({ url }) => url.pathname.startsWith('/data/'), // define custom caching strategy for API data routes by matching URL pathnames that start with /data/, allowing for efficient caching and offline access to Bible data 
+registerRoute(
+  ({ url }) => url.pathname.startsWith('/data/'), // define custom caching strategy for API data routes by matching URL pathnames that start with /data/, allowing for efficient caching and offline access to Bible data
   new StaleWhileRevalidate({
     cacheName: DATA_CACHE,
-    plugins: [new ExpirationPlugin({ maxEntries: 1400 })]
+    plugins: [new ExpirationPlugin({ maxEntries: 1400 })],
   })
 );
 
-self.addEventListener('activate', (event: ExtendableEvent) => { 
-  event.waitUntil( 
+self.addEventListener('activate', (event: ExtendableEvent) => {
+  event.waitUntil(
     (async () => {
       const keys = await caches.keys();
-      await Promise.all( 
-        keys
-          .filter((key) => key.startsWith(DATA_CACHE_PREFIX) && key !== DATA_CACHE)
-          .map((key) => caches.delete(key))
+      await Promise.all(
+        staleDataCacheNames(keys, DATA_CACHE).map((key) => caches.delete(key))
       );
     })()
   );

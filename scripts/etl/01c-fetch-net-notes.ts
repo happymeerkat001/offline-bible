@@ -13,7 +13,9 @@ function parseNotesHtml(html: string): Record<string, string> {
     const idMatch = /id="note_(\d+)"/.exec(part);
     if (!idMatch) continue;
 
-    const bodyMatch = /class="notetype">[^<]+<\/span>([\s\S]*?)<\/div>/.exec(part);
+    const bodyMatch = /class="notetype">[^<]+<\/span>([\s\S]*?)<\/div>/.exec(
+      part
+    );
     if (!bodyMatch) continue;
 
     const text = bodyMatch[1]
@@ -45,7 +47,8 @@ for (let i = 0; i < tasks.length; i += BATCH_SIZE) {
       const passage = encodeURIComponent(`${bookName} ${chapter}`);
       const url = `https://netbible.org/resource/netNotes/${passage}?bible1Translation=net_strongs2`;
       const res = await fetch(url);
-      if (!res.ok) throw new Error(`HTTP ${res.status} for ${bookName} ${chapter}`);
+      if (!res.ok)
+        throw new Error(`HTTP ${res.status} for ${bookName} ${chapter}`);
 
       const html = await res.text();
       const notes = parseNotesHtml(html);
@@ -55,7 +58,9 @@ for (let i = 0; i < tasks.length; i += BATCH_SIZE) {
     })
   );
 
-  process.stdout.write(`\r  ${Math.min(i + BATCH_SIZE, tasks.length)}/${tasks.length} chapters`);
+  process.stdout.write(
+    `\r  ${Math.min(i + BATCH_SIZE, tasks.length)}/${tasks.length} chapters`
+  );
 }
 
 process.stdout.write('\n');

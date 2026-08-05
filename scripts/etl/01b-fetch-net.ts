@@ -1,4 +1,4 @@
- // Purpose: output raw verse data from JSON response of labs.bible.org API for later merging and indexing, fetches all 1,189 chapters in batches of 8 to avoid overwhelming the API, skips download if output file already exists
+// Purpose: output raw verse data from JSON response of labs.bible.org API for later merging and indexing, fetches all 1,189 chapters in batches of 8 to avoid overwhelming the API, skips download if output file already exists
 
 import path from 'node:path'; // run node:path for handling file paths across platforms
 import { writeFile, access } from 'node:fs/promises'; // run node:fs/promises for asynchronous file system operations
@@ -16,7 +16,8 @@ try {
   // file doesn't exist, proceed
 }
 
-interface BibleOrgVerse { // knowledge of structure of verse data returned by labs.bible.org API
+interface BibleOrgVerse {
+  // knowledge of structure of verse data returned by labs.bible.org API
   bookname: string;
   chapter: string;
   verse: string;
@@ -31,7 +32,9 @@ for (const book of BOOKS) {
   }
 }
 
-console.log(`fetch: NET Bible (labs.bible.org API, ${tasks.length} chapters) -> ${path.relative(ROOT, outputFile)}`);
+console.log(
+  `fetch: NET Bible (labs.bible.org API, ${tasks.length} chapters) -> ${path.relative(ROOT, outputFile)}`
+);
 
 const BATCH_SIZE = 8;
 const allVerses: BibleOrgVerse[] = [];
@@ -43,7 +46,8 @@ for (let i = 0; i < tasks.length; i += BATCH_SIZE) {
       const passage = encodeURIComponent(`${bookName} ${chapter}`);
       const url = `https://labs.bible.org/api/?passage=${passage}&type=json&formatting=full`;
       const res = await fetch(url);
-      if (!res.ok) throw new Error(`HTTP ${res.status} for "${bookName} ${chapter}"`);
+      if (!res.ok)
+        throw new Error(`HTTP ${res.status} for "${bookName} ${chapter}"`);
       return res.json() as Promise<BibleOrgVerse[]>;
     })
   );
@@ -51,9 +55,11 @@ for (let i = 0; i < tasks.length; i += BATCH_SIZE) {
     allVerses.push(...verses);
   }
   const done = Math.min(i + BATCH_SIZE, tasks.length);
-  process.stdout.write(`\r  ${done}/${tasks.length} chapters fetched`); 
+  process.stdout.write(`\r  ${done}/${tasks.length} chapters fetched`);
 }
 
 process.stdout.write('\n'); // write newline after progress output
 await writeFile(outputFile, JSON.stringify(allVerses)); // output raw verse data from JSON response for later merging and indexing
-console.log(`wrote ${allVerses.length} verses -> ${path.relative(ROOT, outputFile)}`);
+console.log(
+  `wrote ${allVerses.length} verses -> ${path.relative(ROOT, outputFile)}`
+);

@@ -30,14 +30,43 @@ function expandGreekMorph(code: string): string {
     D: 'adverb',
     C: 'conjunction',
     R: 'preposition',
-    T: 'article'
+    T: 'article',
   };
-  const caseMap: Record<string, string> = { N: 'nominative', G: 'genitive', D: 'dative', A: 'accusative', V: 'vocative' };
+  const caseMap: Record<string, string> = {
+    N: 'nominative',
+    G: 'genitive',
+    D: 'dative',
+    A: 'accusative',
+    V: 'vocative',
+  };
   const numberMap: Record<string, string> = { S: 'singular', P: 'plural' };
-  const genderMap: Record<string, string> = { M: 'masculine', F: 'feminine', N: 'neuter' };
-  const tenseMap: Record<string, string> = { P: 'present', I: 'imperfect', F: 'future', A: 'aorist', R: 'perfect', L: 'pluperfect' };
-  const voiceMap: Record<string, string> = { A: 'active', M: 'middle', P: 'passive', E: 'middle/passive' };
-  const moodMap: Record<string, string> = { I: 'indicative', S: 'subjunctive', O: 'optative', M: 'imperative', N: 'infinitive', P: 'participle' };
+  const genderMap: Record<string, string> = {
+    M: 'masculine',
+    F: 'feminine',
+    N: 'neuter',
+  };
+  const tenseMap: Record<string, string> = {
+    P: 'present',
+    I: 'imperfect',
+    F: 'future',
+    A: 'aorist',
+    R: 'perfect',
+    L: 'pluperfect',
+  };
+  const voiceMap: Record<string, string> = {
+    A: 'active',
+    M: 'middle',
+    P: 'passive',
+    E: 'middle/passive',
+  };
+  const moodMap: Record<string, string> = {
+    I: 'indicative',
+    S: 'subjunctive',
+    O: 'optative',
+    M: 'imperative',
+    N: 'infinitive',
+    P: 'participle',
+  };
 
   const parts = code.split('-');
   const out: string[] = [];
@@ -70,7 +99,7 @@ function expandHebrewMorph(code: string): string {
     P: 'pual',
     h: 'hiphil',
     H: 'hophal',
-    t: 'hithpael'
+    t: 'hithpael',
   };
   const aspectMap: Record<string, string> = {
     p: 'perfect',
@@ -80,12 +109,28 @@ function expandHebrewMorph(code: string): string {
     r: 'active participle',
     s: 'participle passive',
     a: 'infinitive absolute',
-    c: 'infinitive construct'
+    c: 'infinitive construct',
   };
-  const personMap: Record<string, string> = { '1': '1st', '2': '2nd', '3': '3rd' };
-  const genderMap: Record<string, string> = { m: 'masculine', f: 'feminine', c: 'common' };
-  const numberMap: Record<string, string> = { s: 'singular', p: 'plural', d: 'dual' };
-  const stateMap: Record<string, string> = { a: 'absolute', c: 'construct', d: 'determined' };
+  const personMap: Record<string, string> = {
+    '1': '1st',
+    '2': '2nd',
+    '3': '3rd',
+  };
+  const genderMap: Record<string, string> = {
+    m: 'masculine',
+    f: 'feminine',
+    c: 'common',
+  };
+  const numberMap: Record<string, string> = {
+    s: 'singular',
+    p: 'plural',
+    d: 'dual',
+  };
+  const stateMap: Record<string, string> = {
+    a: 'absolute',
+    c: 'construct',
+    d: 'determined',
+  };
 
   function expandSegment(seg: string): string {
     const labels: string[] = [];
@@ -130,7 +175,10 @@ function expandHebrewMorph(code: string): string {
   return expanded.length ? expanded.join(' + ') : code;
 }
 
-function renderTokenLine(tokens: Array<{ w: string; morph?: string; gloss?: string }>, lang: 'gr' | 'he'): HTMLParagraphElement {
+function renderTokenLine(
+  tokens: Array<{ w: string; morph?: string; gloss?: string }>,
+  lang: 'gr' | 'he'
+): HTMLParagraphElement {
   const p = document.createElement('p');
   p.className = lang === 'gr' ? 'verse-gr' : 'verse-he';
   p.lang = lang === 'gr' ? 'grc' : 'he';

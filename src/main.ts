@@ -1,6 +1,10 @@
 import { registerSW } from 'virtual:pwa-register';
 import { fetchChapter, fetchIndex, FetchError } from './api/bible';
-import { renderChapter, renderError, renderLoading } from './components/ChapterView';
+import {
+  renderChapter,
+  renderError,
+  renderLoading,
+} from './components/ChapterView';
 import { mountNavBar } from './components/NavBar';
 import { startRouter, type RouteRef } from './router';
 import { loadLastRead, saveLastRead } from './state';
@@ -18,26 +22,24 @@ if (!main || !nav) {
 }
 
 (async () => {
-registerSW({
-  onNeedRefresh() {
-    const banner = document.createElement('button');
-    banner.type = 'button';
-    banner.textContent = 'Update available - Reload';
-    banner.className = 'update-toast';
-    banner.addEventListener('click', () => window.location.reload());
-    document.body.append(banner);
-  }
-});
+  registerSW({
+    onNeedRefresh() {
+      const banner = document.createElement('button');
+      banner.type = 'button';
+      banner.textContent = 'Update available - Reload';
+      banner.className = 'update-toast';
+      banner.addEventListener('click', () => window.location.reload());
+      document.body.append(banner);
+    },
+  });
 
+  const index = await fetchIndex();
+  const booksByUsfm = new Map(index.books.map((book) => [book.usfm, book]));
+  const fallback = loadLastRead() ?? { usfm: 'GEN', chapter: 1 };
 
-const index = await fetchIndex();
-const booksByUsfm = new Map(index.books.map((book) => [book.usfm, book]));
-const fallback = loadLastRead() ?? { usfm: 'GEN', chapter: 1 };
-
-
-startRouter(async (route) => {
-  await onRoute(route, index.books, booksByUsfm, main, nav);
-}, fallback);
+  startRouter(async (route) => {
+    await onRoute(route, index.books, booksByUsfm, main, nav);
+  }, fallback);
 })();
 
 async function onRoute(

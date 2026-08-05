@@ -9,10 +9,10 @@ export default defineConfig({
       srcDir: 'src/sw',
       filename: 'service-worker.ts',
       injectManifest: {
-        globPatterns: ['**/*.{js,css,html,woff2,png,svg,webmanifest}']
+        globPatterns: ['**/*.{js,css,html,woff2,png,svg,webmanifest}'],
       },
       manifest: false,
-      registerType: 'prompt'
-    })
-  ]
+      registerType: 'prompt',
+    }),
+  ],
 });

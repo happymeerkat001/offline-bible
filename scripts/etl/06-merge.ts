@@ -25,7 +25,9 @@ const ROOT = path.resolve(import.meta.dirname, '../..');
 
 function indexTextByRef(items: CanonicalVerse[]): Map<string, string> {
   const map = new Map<string, string>();
-  items.forEach((item) => map.set(`${item.bookId}:${item.chapter}:${item.verse}`, item.text));
+  items.forEach((item) =>
+    map.set(`${item.bookId}:${item.chapter}:${item.verse}`, item.text)
+  );
   return map;
 }
 
@@ -41,16 +43,26 @@ function indexNotesByRef(items: CanonicalVerse[]): Map<string, string[]> {
 
 function indexTokensByRef(items: TokenizedVerse[]): Map<string, WordToken[]> {
   const map = new Map<string, WordToken[]>();
-  items.forEach((item) => map.set(`${item.bookId}:${item.chapter}:${item.verse}`, item.tokens));
+  items.forEach((item) =>
+    map.set(`${item.bookId}:${item.chapter}:${item.verse}`, item.tokens)
+  );
   return map;
 }
 
-function splitCommentaryByVerse(raw: string, chapter: number): { preamble?: string; verses: Map<number, string> } {
-  const sectionHeader = new RegExp(`NASB \\(UPDATED\\) TEXT:[^\\n]*\\b${chapter}:`);
+function splitCommentaryByVerse(
+  raw: string,
+  chapter: number
+): { preamble?: string; verses: Map<number, string> } {
+  const sectionHeader = new RegExp(
+    `NASB \\(UPDATED\\) TEXT:[^\\n]*\\b${chapter}:`
+  );
   const headerMatch = sectionHeader.exec(raw);
   const parseStart = headerMatch?.index ?? 0;
   const scoped = raw.slice(parseStart);
-  const markerRegex = new RegExp(`^${chapter}:(\\d+)(?:[,-]\\d+)*(?:-\\d+)?(?:\\s|$)`, 'gm');
+  const markerRegex = new RegExp(
+    `^${chapter}:(\\d+)(?:[,-]\\d+)*(?:-\\d+)?(?:\\s|$)`,
+    'gm'
+  );
   const matches = [...scoped.matchAll(markerRegex)];
   const verses = new Map<number, string>();
 
@@ -64,7 +76,10 @@ function splitCommentaryByVerse(raw: string, chapter: number): { preamble?: stri
   matches.forEach((match, index) => {
     const verse = Number(match[1]);
     const start = parseStart + (match.index ?? 0);
-    const end = index + 1 < matches.length ? parseStart + (matches[index + 1].index ?? 0) : raw.length;
+    const end =
+      index + 1 < matches.length
+        ? parseStart + (matches[index + 1].index ?? 0)
+        : raw.length;
     const block = raw
       .slice(start, end)
       .split(/\n(?:WORD AND PHRASE STUDY|NASB \(UPDATED\) TEXT:)/, 1)[0]
@@ -78,7 +93,9 @@ function splitCommentaryByVerse(raw: string, chapter: number): { preamble?: stri
   return { preamble, verses };
 }
 
-async function readOptionalTextFile(filePath: string): Promise<string | undefined> {
+async function readOptionalTextFile(
+  filePath: string
+): Promise<string | undefined> {
   try {
     const raw = await readFile(filePath, 'utf8');
     const text = raw.trim();
@@ -89,12 +106,26 @@ async function readOptionalTextFile(filePath: string): Promise<string | undefine
 }
 
 async function main() {
-  const zh = indexTextByRef(await readJsonFile<CanonicalVerse[]>(path.join(ROOT, 'scripts/parsed/zh.json')));
-  const enRaw = await readJsonFile<CanonicalVerse[]>(path.join(ROOT, 'scripts/parsed/en.json'));
+  const zh = indexTextByRef(
+    await readJsonFile<CanonicalVerse[]>(
+      path.join(ROOT, 'scripts/parsed/zh.json')
+    )
+  );
+  const enRaw = await readJsonFile<CanonicalVerse[]>(
+    path.join(ROOT, 'scripts/parsed/en.json')
+  );
   const en = indexTextByRef(enRaw);
   const enNotes = indexNotesByRef(enRaw);
-  const gr = indexTokensByRef(await readJsonFile<TokenizedVerse[]>(path.join(ROOT, 'scripts/parsed/gr.json')));
-  const he = indexTokensByRef(await readJsonFile<TokenizedVerse[]>(path.join(ROOT, 'scripts/parsed/he.json')));
+  const gr = indexTokensByRef(
+    await readJsonFile<TokenizedVerse[]>(
+      path.join(ROOT, 'scripts/parsed/gr.json')
+    )
+  );
+  const he = indexTokensByRef(
+    await readJsonFile<TokenizedVerse[]>(
+      path.join(ROOT, 'scripts/parsed/he.json')
+    )
+  );
 
   const dataRoot = path.join(ROOT, 'public/data');
   await mkdir(dataRoot, { recursive: true });
@@ -116,14 +147,16 @@ async function main() {
           v: verse,
           zh: zh.get(key) ?? '',
           en: en.get(key) ?? '',
-          notes: enNotes.get(key) ?? []
+          notes: enNotes.get(key) ?? [],
         };
         if (isNt) base.gr = gr.get(key) ?? [];
         else base.he = he.get(key) ?? [];
         verses.push(base);
       }
 
-      const rawCommentary = await readOptionalTextFile(path.join(ROOT, 'scripts/raw/fbc', `${book.id}/${chapter}.txt`));
+      const rawCommentary = await readOptionalTextFile(
+        path.join(ROOT, 'scripts/raw/fbc', `${book.id}/${chapter}.txt`)
+      );
       const { preamble, verses: commentaryByVerse } = rawCommentary
         ? splitCommentaryByVerse(rawCommentary, chapter)
         : { preamble: undefined, verses: new Map<number, string>() };
@@ -133,8 +166,16 @@ async function main() {
         if (commentary) verse.commentary = commentary;
       });
 
-      const doc: ChapterDoc = { book: book.id, chapter, verses, ...(preamble ? { commentary: preamble } : {}) };
-      await writeJsonFile(path.join(dataRoot, `${book.id}/${chapter}.json`), doc);
+      const doc: ChapterDoc = {
+        book: book.id,
+        chapter,
+        verses,
+        ...(preamble ? { commentary: preamble } : {}),
+      };
+      await writeJsonFile(
+        path.join(dataRoot, `${book.id}/${chapter}.json`),
+        doc
+      );
     }
   }
 

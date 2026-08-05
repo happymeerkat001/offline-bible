@@ -34,7 +34,8 @@ export function mountNavBar(
   themeBtn.type = 'button';
   themeBtn.setAttribute('aria-label', 'Toggle dark mode');
   themeBtn.className = 'nav-button theme-toggle';
-  const isDark = () => document.documentElement.getAttribute('data-theme') === 'dark';
+  const isDark = () =>
+    document.documentElement.getAttribute('data-theme') === 'dark';
   themeBtn.textContent = isDark() ? '☀️' : '🌙';
 
   themeBtn.addEventListener('click', () => {
@@ -45,9 +46,14 @@ export function mountNavBar(
   });
 
   select.addEventListener('change', () => setRoute(select.value, 1));
-  prev.addEventListener('click', () => setRoute(current.usfm, Math.max(1, current.chapter - 1)));
+  prev.addEventListener('click', () =>
+    setRoute(current.usfm, Math.max(1, current.chapter - 1))
+  );
   next.addEventListener('click', () =>
-    setRoute(current.usfm, Math.min(currentBook?.chapters ?? 1, current.chapter + 1))
+    setRoute(
+      current.usfm,
+      Math.min(currentBook?.chapters ?? 1, current.chapter + 1)
+    )
   );
 
   const controls = document.createElement('div');
@@ -57,10 +63,17 @@ export function mountNavBar(
   const chapterStrip = document.createElement('div');
   chapterStrip.className = 'chapter-strip';
   chapterStrip.setAttribute('role', 'group');
-  chapterStrip.setAttribute('aria-label', `${currentBook?.name_en ?? current.usfm} chapters`);
+  chapterStrip.setAttribute(
+    'aria-label',
+    `${currentBook?.name_en ?? current.usfm} chapters`
+  );
 
   const totalChapters = currentBook?.chapters ?? 1;
-  for (let chapterNumber = 1; chapterNumber <= totalChapters; chapterNumber += 1) {
+  for (
+    let chapterNumber = 1;
+    chapterNumber <= totalChapters;
+    chapterNumber += 1
+  ) {
     const chapterBtn = document.createElement('button');
     chapterBtn.type = 'button';
     chapterBtn.className = 'chapter-button';
@@ -70,12 +83,16 @@ export function mountNavBar(
       chapterBtn.classList.add('is-active');
       chapterBtn.setAttribute('aria-current', 'page');
     }
-    chapterBtn.addEventListener('click', () => setRoute(current.usfm, chapterNumber));
+    chapterBtn.addEventListener('click', () =>
+      setRoute(current.usfm, chapterNumber)
+    );
     chapterStrip.append(chapterBtn);
   }
 
   node.append(controls, chapterStrip);
 
-  const activeChapter = chapterStrip.querySelector<HTMLElement>('.chapter-button.is-active');
+  const activeChapter = chapterStrip.querySelector<HTMLElement>(
+    '.chapter-button.is-active'
+  );
   activeChapter?.scrollIntoView({ inline: 'center', block: 'nearest' });
 }

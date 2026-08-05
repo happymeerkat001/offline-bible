@@ -7,9 +7,10 @@ import { writeJsonFile } from '../lib/io'; // knowledge of utility functions for
 const ROOT = path.resolve(import.meta.dirname, '../..');
 
 async function main() {
-  await writeJsonFile(path.join(ROOT, 'public/data/index.json'), { //output index file for later use by client, containing book IDs and chapter counts for all 66 books
+  await writeJsonFile(path.join(ROOT, 'public/data/index.json'), {
+    //output index file for later use by client, containing book IDs and chapter counts for all 66 books
     v: '1.0.0',
-    books: BOOKS
+    books: BOOKS,
   });
   console.log('index generated');
 }

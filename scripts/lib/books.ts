@@ -74,12 +74,15 @@ export const BOOKS: BookCatalogItem[] = [
   [63, '2JN', '约翰二书', '2 John', 'NT', 1],
   [64, '3JN', '约翰三书', '3 John', 'NT', 1],
   [65, 'JUD', '犹大书', 'Jude', 'NT', 1],
-  [66, 'REV', '启示录', 'Revelation', 'NT', 22]
-].map(([id, usfm, name_zh, name_en, testament, chapters]) => ({
-  id,
-  usfm,
-  name_zh,
-  name_en,
-  testament,
-  chapters
-} as BookCatalogItem));
+  [66, 'REV', '启示录', 'Revelation', 'NT', 22],
+].map(
+  ([id, usfm, name_zh, name_en, testament, chapters]) =>
+    ({
+      id,
+      usfm,
+      name_zh,
+      name_en,
+      testament,
+      chapters,
+    }) as BookCatalogItem
+);

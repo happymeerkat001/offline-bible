@@ -12,7 +12,14 @@
       "maxItems": 66,
       "items": {
         "type": "object",
-        "required": ["id", "usfm", "name_zh", "name_en", "testament", "chapters"],
+        "required": [
+          "id",
+          "usfm",
+          "name_zh",
+          "name_en",
+          "testament",
+          "chapters"
+        ],
         "properties": {
           "id": { "type": "integer", "minimum": 1, "maximum": 66 },
           "usfm": { "type": "string", "minLength": 3, "maxLength": 4 },
